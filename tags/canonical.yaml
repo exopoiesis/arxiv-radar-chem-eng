@@ -1,0 +1,373 @@
+# Canonical tags for Chemical Engineering arxiv-radar.
+
+process-systems-engineering:
+  group: domain
+  synonyms: [process systems engineering, pse, chemical process systems]
+
+chemical-engineering:
+  group: domain
+  synonyms: [chemical engineering, chemical process, chemical processes, computational chemical engineering]
+
+process-modeling:
+  group: modeling
+  synonyms: [process modeling, process modelling, data-driven modeling, data driven modeling, hybrid modeling, nonlinear process models]
+
+system-identification:
+  group: modeling
+  synonyms: [system identification, parameter estimation]
+
+surrogate-modeling:
+  group: modeling
+  synonyms: [surrogate modeling, surrogate modelling, surrogate model, surrogate models]
+
+reduced-order-modeling:
+  group: modeling
+  synonyms: [reduced-order modeling, reduced order modeling, reduced-order model, reduced order model, rom]
+
+process-control:
+  group: control
+  synonyms: [process control, control of chemical processes]
+
+mpc:
+  group: control
+  synonyms: [model predictive control, mpc]
+
+optimal-control:
+  group: control
+  synonyms: [optimal control, real-time optimization, realtime optimization, real time optimization]
+
+reinforcement-learning-control:
+  group: control
+  synonyms: [reinforcement learning for control, rl control, reinforcement-learning control]
+
+economic-mpc:
+  group: control
+  synonyms: [economic mpc, economic model predictive control]
+
+robust-control:
+  group: control
+  synonyms: [robust mpc, robust control, safe control, constraint tightening]
+
+process-design:
+  group: control
+  synonyms: [process design, process synthesis, process optimization, process optimisation]
+
+process-simulation:
+  group: control
+  synonyms: [process simulation, flowsheeting, flowsheet simulation]
+
+process-intensification:
+  group: control
+  synonyms: [process intensification]
+
+reaction-engineering:
+  group: reactions
+  synonyms: [chemical reaction engineering, reaction engineering]
+
+reaction-kinetics:
+  group: reactions
+  synonyms: [reaction kinetics, reaction rate prediction, kinetic model, kinetic modeling]
+
+microkinetic-modeling:
+  group: reactions
+  synonyms: [microkinetic modeling, microkinetic model, microkinetics]
+
+reaction-network-modeling:
+  group: reactions
+  synonyms: [reaction network modeling, reaction network model, mechanism learning]
+
+reactor-design:
+  group: reactions
+  synonyms: [reactor design, reactor optimization, reactor optimisation]
+
+microreactors:
+  group: reactions
+  synonyms: [microreactor, microreactors]
+
+flow-reactors:
+  group: reactions
+  synonyms: [flow reactor, flow reactors]
+
+packed-bed-reactors:
+  group: reactions
+  synonyms: [packed bed reactor, packed-bed reactor, packed bed reactors]
+
+fixed-bed-reactors:
+  group: reactions
+  synonyms: [fixed bed reactor, fixed-bed reactor, fixed bed reactors]
+
+catalysis:
+  group: reactions
+  synonyms: [catalysis, catalyst, catalytic reactions, catalytic]
+
+heterogeneous-catalysis:
+  group: reactions
+  synonyms: [heterogeneous catalysis, heterogeneous catalyst]
+
+electrocatalysis:
+  group: reactions
+  synonyms: [electrocatalysis, electrocatalyst, electrocatalytic]
+
+photocatalysis:
+  group: reactions
+  synonyms: [photocatalysis, photocatalyst, photocatalytic]
+
+catalyst-design:
+  group: reactions
+  synonyms: [catalyst design, catalyst discovery]
+
+active-sites:
+  group: reactions
+  synonyms: [active site, active sites]
+
+adsorption-energy:
+  group: reactions
+  synonyms: [adsorption energy, adsorption energies]
+
+co2-reduction:
+  group: reactions
+  synonyms: [co2 reduction, carbon dioxide reduction, electrochemical co2 reduction]
+
+hydrogen-evolution:
+  group: reactions
+  synonyms: [hydrogen evolution, hydrogen evolution reaction, her]
+
+oxygen-evolution:
+  group: reactions
+  synonyms: [oxygen evolution, oxygen evolution reaction, oer]
+
+separations:
+  group: separations
+  synonyms: [separation processes, separation process, separations]
+
+distillation:
+  group: separations
+  synonyms: [distillation column, distillation columns, distillation process, distillation processes, distillation unit, extractive distillation, azeotropic distillation, reactive distillation]
+
+adsorption:
+  group: separations
+  synonyms: [adsorption, adsorbent, adsorbents]
+
+adsorption-isotherms:
+  group: separations
+  synonyms: [adsorption isotherm, adsorption isotherms]
+
+pressure-swing-adsorption:
+  group: separations
+  synonyms: [pressure swing adsorption, psa]
+
+membrane-separation:
+  group: separations
+  synonyms: [membrane separation, membrane separations, membrane process, membrane processes, desalination]
+
+gas-separation:
+  group: separations
+  synonyms: [gas separation, gas separations, co2 separation]
+
+solvent-extraction:
+  group: separations
+  synonyms: [solvent extraction]
+
+chromatography:
+  group: separations
+  synonyms: [chromatography, chromatographic]
+
+crystallization:
+  group: separations
+  synonyms: [crystallization, crystallisation, crystal growth]
+
+wastewater-treatment:
+  group: separations
+  synonyms: [wastewater treatment, water treatment, water purification]
+
+metal-organic-frameworks:
+  group: separations
+  synonyms: [metal-organic framework, metal organic framework, metal-organic frameworks, metal organic frameworks, mof, mofs]
+
+zeolites:
+  group: separations
+  synonyms: [zeolite, zeolites]
+
+ionic-liquids:
+  group: separations
+  synonyms: [ionic liquid, ionic liquids]
+
+mass-transfer:
+  group: transport
+  synonyms: [mass transfer]
+
+heat-transfer:
+  group: transport
+  synonyms: [heat transfer, thermal transport]
+
+transport-phenomena:
+  group: transport
+  synonyms: [transport phenomena]
+
+cfd:
+  group: fluids
+  synonyms: [computational fluid dynamics, cfd, data-driven cfd]
+
+multiphase-flow:
+  group: fluids
+  synonyms: [multiphase flow, multiphase flows, two-phase flow, two phase flow, fluidized bed]
+
+bubble-column:
+  group: fluids
+  synonyms: [bubble column, bubble columns]
+
+packed-bed:
+  group: fluids
+  synonyms: [packed bed, packed-bed]
+
+fixed-bed:
+  group: fluids
+  synonyms: [fixed bed, fixed-bed]
+
+porous-media-flow:
+  group: fluids
+  synonyms: [porous media flow, flow in porous media]
+
+turbulence-modeling:
+  group: fluids
+  synonyms: [turbulence modeling, turbulence modelling, rans, les]
+
+digital-twin:
+  group: monitoring
+  synonyms: [digital twin, digital twins]
+
+process-monitoring:
+  group: monitoring
+  synonyms: [process monitoring, condition monitoring]
+
+fault-detection:
+  group: monitoring
+  synonyms: [fault detection, fault diagnosis, fault classification]
+
+anomaly-detection:
+  group: monitoring
+  synonyms: [anomaly detection]
+
+soft-sensors:
+  group: monitoring
+  synonyms: [soft sensor, soft sensors]
+
+uncertainty-quantification:
+  group: methods
+  synonyms: [uncertainty quantification, uq]
+
+bayesian-inference:
+  group: methods
+  synonyms: [bayesian inference, bayesian optimization, bayesian optimisation]
+
+gaussian-process:
+  group: methods
+  synonyms: [gaussian process, gaussian processes, gaussian process regression]
+
+active-learning:
+  group: methods
+  synonyms: [active learning]
+
+experimental-design:
+  group: methods
+  synonyms: [experimental design, design of experiments]
+
+physics-informed-ml:
+  group: methods
+  synonyms: [physics-informed machine learning, physics informed machine learning, physics-informed neural networks, physics informed neural networks, pinn, pinns]
+
+scientific-machine-learning:
+  group: methods
+  synonyms: [scientific machine learning, sciml]
+
+generative-models:
+  group: architectures
+  synonyms: [generative models, generative model, deep generative models]
+
+graph-neural-networks:
+  group: architectures
+  synonyms: [graph neural networks, graph neural network, graph neural, gnn, gnns]
+
+large-language-models:
+  group: architectures
+  synonyms: [large language model, large language models, llm, llms, foundation models]
+
+knowledge-distillation:
+  group: architectures
+  synonyms: [knowledge distillation, teacher model, student model]
+
+transfer-learning:
+  group: architectures
+  synonyms: [transfer learning]
+
+energy-systems:
+  group: energy
+  synonyms: [energy systems, energy system]
+
+electrochemical-systems:
+  group: energy
+  synonyms: [electrochemical systems, electrochemical system, electrochemical]
+
+battery-modeling:
+  group: energy
+  synonyms: [battery modeling, battery modelling, battery model, lithium-ion battery, li-ion battery]
+
+energy-storage:
+  group: energy
+  synonyms: [energy storage, energy storage systems]
+
+fuel-cells:
+  group: energy
+  synonyms: [fuel cell, fuel cells, pem fuel cell, solid oxide fuel cell]
+
+electrolysis:
+  group: energy
+  synonyms: [electrolysis, electrolyzer, electrolyzers, electrolyser, electrolysers]
+
+redox-flow-batteries:
+  group: energy
+  synonyms: [redox flow battery, redox flow batteries, flow battery, flow batteries]
+
+hydrogen-production:
+  group: energy
+  synonyms: [hydrogen production, green hydrogen]
+
+co2-electroreduction:
+  group: energy
+  synonyms: [co2 electroreduction, co2 electro-reduction, carbon dioxide electroreduction]
+
+ammonia-synthesis:
+  group: energy
+  synonyms: [ammonia synthesis]
+
+carbon-capture:
+  group: energy
+  synonyms: [carbon capture, co2 capture, direct air capture]
+
+techno-economic-analysis:
+  group: sustainability
+  synonyms: [techno-economic analysis, technoeconomic analysis, tea]
+
+life-cycle-assessment:
+  group: sustainability
+  synonyms: [life cycle assessment, life-cycle assessment, lca]
+
+materials-discovery:
+  group: materials
+  synonyms: [materials discovery, structure-property relationships, structure property relationship]
+
+molecular-dynamics:
+  group: materials
+  synonyms: [molecular dynamics, molecular dynamics simulations, md simulations]
+
+molecular-simulation:
+  group: materials
+  synonyms: [molecular simulation, molecular simulations]
+
+porous-materials:
+  group: materials
+  synonyms: [porous material, porous materials]
+
+dft:
+  group: materials
+  synonyms: [density functional theory, dft, dft calculations]

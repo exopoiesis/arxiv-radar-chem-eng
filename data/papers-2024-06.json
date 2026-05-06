@@ -1,0 +1,554 @@
+{
+ "2405.02078": {
+  "abstract": "Direct access to transition state energies at low computational cost unlocks the possibility of accelerating catalyst discovery. We show that the top performing graph neural network potential trained on the OC20 dataset, a related but different task, is able to find transition states energetically similar (within 0.1 eV) to density functional theory (DFT) 91% of the time with a 28x speedup. This speaks to the generalizability of the models, having never been explicitly trained on reactions, the machine learned potential approximates the potential energy surface well enough to be performant for this auxiliary task. We introduce the Open Catalyst 2020 Nudged Elastic Band (OC20NEB) dataset, which is made of 932 DFT nudged elastic band calculations, to benchmark machine learned model performance on transition state energies. To demonstrate the efficacy of this approach, we replicated a well-known, large reaction network with 61 intermediates and 174 dissociation reactions at DFT resolution (40 meV). In this case of dense NEB enumeration, we realize even more computational cost savings and used just 12 GPU days of compute, where DFT would have taken 52 GPU years, a 1500x speedup. Similar searches for complete reaction networks could become routine using the approach presented here. Finally, we replicated an ammonia synthesis activity volcano and systematically found lower energy configurations of the transition states and intermediates on six stepped unary surfaces. This scalable approach offers a more complete treatment of configurational space to improve and accelerate catalyst discovery.",
+  "authors": [
+   "Brook Wander",
+   "Muhammed Shuaibi",
+   "John R. Kitchin",
+   "Zachary W. Ulissi",
+   "C. Lawrence Zitnick"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "50 pages, 15 figures, submitted to Nature Catalysis",
+  "first_author": "Brook Wander",
+  "pdf_url": "http://arxiv.org/pdf/2405.02078",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-03",
+  "tags": [
+   "ammonia-synthesis",
+   "catalysis",
+   "catalyst-design",
+   "dft",
+   "graph-neural-networks"
+  ],
+  "title": "CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-06-11"
+ },
+ "2406.00974": {
+  "abstract": "To incentivize flexible resources such as Battery Energy Storage Systems (BESSs) to offer Frequency Control Ancillary Services (FCAS), Australia's National Electricity Market (NEM) has implemented changes in recent years towards shorter-term bidding rules and faster service requirements. However, firstly, existing bidding optimization methods often overlook or oversimplify the key aspects of FCAS market procedures, resulting in an inaccurate depiction of the market bidding process. Thus, the BESS bidding problem is modeled based on the actual bidding records and the latest market specifications and then formulated as a deep reinforcement learning (DRL) problem. Secondly, the erratic decisions of the DRL agent caused by imperfectly predicted market information increases the risk of profit loss. Hence, a Conditional Value at Risk (CVaR)-based DRL algorithm is developed to enhance the risk resilience of bidding strategies. Thirdly, well-trained DRL models still face performance decline in uncommon scenarios during online operations. Therefore, a Large Language Models (LLMs)-assisted artificial intelligence (AI)-agent interactive decision-making framework is proposed to improve the strategy timeliness, reliability and interpretability in uncertain new scenarios, where conditional hybrid decision and self-reflection mechanisms are designed to address LLMs' hallucination challenge. The experiment results demonstrate that our proposed framework has higher bidding profitability compared to the baseline methods by effectively mitigating the profit loss caused by various uncertainties.",
+  "authors": [
+   "Borui Zhang",
+   "Chaojie Li",
+   "Guo Chen",
+   "Zhaoyang Dong"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Borui Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2406.00974",
+  "primary_category": "eess.SY",
+  "published": "2024-06-03",
+  "tags": [
+   "energy-storage",
+   "large-language-models"
+  ],
+  "title": "Large Language Model Assisted Optimal Bidding of BESS in FCAS Market: An AI-agent based Approach",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-06-03"
+ },
+ "2406.01541": {
+  "abstract": "We develop adaptive discretization algorithms for locally optimal experimental design of nonlinear prediction models. With these algorithms, we refine and improve a pertinent state-of-the-art algorithm in various respects. We establish novel termination, convergence, and convergence rate results for the proposed algorithms. In particular, we prove a sublinear convergence rate result under very general assumptions on the design criterion and, most notably, a linear convergence result under the additional assumption that the design criterion is strongly convex and the design space is finite. Additionally, we prove the finite termination at approximately optimal designs, including upper bounds on the number of iterations until termination. And finally, we illustrate the practical use of the proposed algorithms by means of two application examples from chemical engineering: one with a stationary model and one with a dynamic model.",
+  "authors": [
+   "Jochen Schmid",
+   "Philipp Seufert",
+   "Michael Bortz"
+  ],
+  "categories": [
+   "math.OC",
+   "math.ST"
+  ],
+  "comment": "42 pages",
+  "first_author": "Jochen Schmid",
+  "pdf_url": "http://arxiv.org/pdf/2406.01541",
+  "primary_category": "math.OC",
+  "published": "2024-06-03",
+  "tags": [
+   "chemical-engineering",
+   "experimental-design"
+  ],
+  "title": "Adaptive discretization algorithms for locally optimal experimental design",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-06-03"
+ },
+ "2406.01728": {
+  "abstract": "Microfluidic devices are gaining attention for their small size and ability to handle tiny fluid volumes. Mixing fluids efficiently at this scale, known as micromixing, is crucial. This article builds upon previous research by introducing a novel optimization approach in microfluidics, combining Computational Fluid Dynamics (CFD) with Machine Learning (ML) techniques. The research focuses on improving global optimization while reducing computational expenses. It draws inspiration from a Y-type micromixer, initially featuring cylindrical grooves on the main channel's surface and internal obstructions. Simulations, conducted using OpenFOAM software, evaluate the impact of circular obstructions on mixing percentage and pressure drop, considering variations in obstruction diameter and offset. A Gaussian Process (GP) was utilized to model the data, providing model uncertainty. Thus, this study optimizes geometries by using genetic algorithm (GA) and least-square optimization based on the reduced order model provided by GP. Results align with previous research, showing that medium-sized obstructions (137 mm diameter, 10 mm offset) near the channel wall are optimal. This approach not only provides efficient microfluidic optimization with uncertainty quantification but also highlights the effectiveness of combining CFD and ML techniques in achieving desired outcomes.",
+  "authors": [
+   "Daniela de Oliveira Maionchi",
+   "Neil Diogo Silva Coimbra",
+   "Junior Gonçalves da Silva",
+   "Fabio Pereira dos Santos"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "13 pages, 21 figures",
+  "first_author": "Daniela de Oliveira Maionchi",
+  "pdf_url": "http://arxiv.org/pdf/2406.01728",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-06-03",
+  "tags": [
+   "cfd",
+   "gaussian-process",
+   "reduced-order-modeling",
+   "uncertainty-quantification"
+  ],
+  "title": "Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-06-03"
+ },
+ "2406.03173": {
+  "abstract": "This thesis aims to investigate the feasibility of knowledge transfer between neural networks for medical image segmentation tasks, specifically focusing on the transfer from a larger multi-task \"Teacher\" network to a smaller \"Student\" network. In the context of medical imaging, where the data volumes are often limited, leveraging knowledge from a larger pre-trained network could be useful. The primary objective is to enhance the performance of a smaller student model by incorporating knowledge representations acquired by a teacher model that adopts a multi-task pre-trained architecture trained on CT images, to a more resource-efficient student network, which can essentially be a smaller version of the same, trained on a mere 50% of the data than that of the teacher model.   To facilitate knowledge transfer between the two models, we devised an architecture incorporating multi-scale feature distillation and supervised contrastive learning. Our study aims to improve the student model's performance by integrating knowledge representations from the teacher model. We investigate whether this approach is particularly effective in scenarios with limited computational resources and limited training data availability. To assess the impact of multi-scale feature distillation, we conducted extensive experiments. We also conducted a detailed ablation study to determine whether it is essential to distil knowledge at various scales, including low-level features from encoder layers, for effective knowledge transfer. In addition, we examine different losses in the knowledge distillation process to gain insights into their effects on overall performance.",
+  "authors": [
+   "Risab Biswas"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV"
+  ],
+  "comment": "Master's thesis",
+  "first_author": "Risab Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2406.03173",
+  "primary_category": "eess.IV",
+  "published": "2024-06-05",
+  "tags": [
+   "distillation",
+   "knowledge-distillation"
+  ],
+  "title": "Multi-Task Multi-Scale Contrastive Knowledge Distillation for Efficient Medical Image Segmentation",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-06-05"
+ },
+ "2406.03849": {
+  "abstract": "The prediction of formation resistivity plays a crucial role in the evaluation of oil and gas reservoirs, identification and assessment of geothermal energy resources, groundwater detection and monitoring, and carbon capture and storage. However, traditional well logging techniques fail to measure accurate resistivity in cased boreholes, and the transient electromagnetic method for cased borehole resistivity logging encounters challenges of high-frequency disaster (the problem of inadequate learning by neural networks in high-frequency features) and noise interference, badly affecting accuracy. To address these challenges, frequency-aware framework and temporal anti-noise block are proposed to build frequency aware LSTM (FAL). The frequency-aware framework implements a dual-stream structure through wavelet transformation, allowing the neural network to simultaneously handle high-frequency and low-frequency flows of time-series data, thus avoiding high-frequency disaster. The temporal anti-noise block integrates multiple attention mechanisms and soft-threshold attention mechanisms, enabling the model to better distinguish noise from redundant features. Ablation experiments demonstrate that the frequency-aware framework and temporal anti-noise block contribute significantly to performance improvement. FAL achieves a 24.3% improvement in R2 over LSTM, reaching the highest value of 0.91 among all models. In robustness experiments, the impact of noise on FAL is approximately 1/8 of the baseline, confirming the noise resistance of FAL. The proposed FAL effectively reduces noise interference in predicting formation resistivity from cased transient electromagnetic well logging curves, better learns high-frequency features, and thereby enhances the prediction accuracy and noise resistance of the neural network model.",
+  "authors": [
+   "Yongan Zhang",
+   "Junfeng Zhao",
+   "Jian Li",
+   "Xuanran Wang",
+   "Youzhuang Sun",
+   "Yuntian Chen",
+   "Dongxiao Zhang"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.AP",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Yongan Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2406.03849",
+  "primary_category": "cs.LG",
+  "published": "2024-06-06",
+  "tags": [
+   "carbon-capture"
+  ],
+  "title": "A Noise-robust Multi-head Attention Mechanism for Formation Resistivity Prediction: Frequency Aware LSTM",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-06-06"
+ },
+ "2406.07461": {
+  "abstract": "Speech separation, the task of isolating multiple speech sources from a mixed audio signal, remains challenging in noisy environments. In this paper, we propose a generative correction method to enhance the output of a discriminative separator. By leveraging a generative corrector based on a diffusion model, we refine the separation process for single-channel mixture speech by removing noises and perceptually unnatural distortions. Furthermore, we optimize the generative model using a predictive loss to streamline the diffusion model's reverse process into a single step and rectify any associated errors by the reverse process. Our method achieves state-of-the-art performance on the in-domain Libri2Mix noisy dataset, and out-of-domain WSJ with a variety of noises, improving SI-SNR by 22-35% relative to SepFormer, demonstrating robustness and strong generalization capabilities.",
+  "authors": [
+   "Helin Wang",
+   "Jesus Villalba",
+   "Laureano Moro-Velazquez",
+   "Jiarui Hai",
+   "Thomas Thebaud",
+   "Najim Dehak"
+  ],
+  "categories": [
+   "eess.AS"
+  ],
+  "comment": "Accepted at INTERSPEECH 2024",
+  "first_author": "Helin Wang",
+  "pdf_url": "http://arxiv.org/pdf/2406.07461",
+  "primary_category": "eess.AS",
+  "published": "2024-06-11",
+  "tags": [
+   "generative-models",
+   "separations"
+  ],
+  "title": "Noise-robust Speech Separation with Fast Generative Correction",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-06-11"
+ },
+ "2406.07876": {
+  "abstract": "Data-free knowledge distillation is able to utilize the knowledge learned by a large teacher network to augment the training of a smaller student network without accessing the original training data, avoiding privacy, security, and proprietary risks in real applications. In this line of research, existing methods typically follow an inversion-and-distillation paradigm in which a generative adversarial network on-the-fly trained with the guidance of the pre-trained teacher network is used to synthesize a large-scale sample set for knowledge distillation. In this paper, we reexamine this common data-free knowledge distillation paradigm, showing that there is considerable room to improve the overall training efficiency through a lens of ``small-scale inverted data for knowledge distillation\". In light of three empirical observations indicating the importance of how to balance class distributions in terms of synthetic sample diversity and difficulty during both data inversion and distillation processes, we propose Small Scale Data-free Knowledge Distillation SSD-KD. In formulation, SSD-KD introduces a modulating function to balance synthetic samples and a priority sampling function to select proper samples, facilitated by a dynamic replay buffer and a reinforcement learning strategy. As a result, SSD-KD can perform distillation training conditioned on an extremely small scale of synthetic samples (e.g., 10X less than the original training data scale), making the overall training efficiency one or two orders of magnitude faster than many mainstream methods while retaining superior or competitive model performance, as demonstrated on popular image classification and semantic segmentation benchmarks. The code is available at https://github.com/OSVAI/SSD-KD.",
+  "authors": [
+   "He Liu",
+   "Yikai Wang",
+   "Huaping Liu",
+   "Fuchun Sun",
+   "Anbang Yao"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "This work is accepted to CVPR 2024. The project page: https://github.com/OSVAI/SSD-KD",
+  "first_author": "He Liu",
+  "pdf_url": "http://arxiv.org/pdf/2406.07876",
+  "primary_category": "cs.CV",
+  "published": "2024-06-12",
+  "tags": [
+   "distillation",
+   "knowledge-distillation"
+  ],
+  "title": "Small Scale Data-Free Knowledge Distillation",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-06-12"
+ },
+ "2406.08580": {
+  "abstract": "Energy- and resource-efficient electrocatalytic water splitting is of paramount importance to enable sustainable hydrogen production. The best bulk catalyst for the hydrogen evolution reaction (HER), i.e., platinum, is one of the scarcest elements on Earth. The use of raw material for HER can be dramatically reduced by utilizing nanoclusters. In addition, nanoalloying can further improve the performance of these nanoclusters. In this paper, we present results for HER on nanometer-sized ligand-free AuPt nanoclusters grafted on carbon nanotubes. These results demonstrate excellent monodispersity and a significant reduction of the overpotential for the electrocatalytic HER. We utilize atomistic machine learning techniques to elucidate the atomic-scale origin of the synergistic effect between Pt and Au. We show that the presence of surface Au atoms, known to be poor HER catalysts, in a Pt(core)/AuPt(shell) nanocluster structure, drives an anomalous enhancement of the inherently high catalytic activity of Pt atoms.",
+  "authors": [
+   "Jiahui Kang",
+   "Jan Kloppenburg",
+   "Jiali Sheng",
+   "Zhenyu Xu",
+   "Kristoffer Meinander",
+   "Hua Jiang",
+   "Zhong-Peng Lv",
+   "Esko I. Kauppinen",
+   "Qiang Zhang",
+   "Xi Chen",
+   "Olli Ikkala",
+   "Miguel A. Caro",
+   "Bo Peng"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiahui Kang",
+  "pdf_url": "http://arxiv.org/pdf/2406.08580",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-12",
+  "tags": [
+   "catalysis",
+   "electrocatalysis",
+   "hydrogen-evolution",
+   "hydrogen-production"
+  ],
+  "title": "Anomalous Enhancement of the Electrocatalytic Hydrogen Evolution Reaction in AuPt Nanoclusters",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2024-06-12"
+ },
+ "2406.08626": {
+  "abstract": "Lithium-ion (Li-ion) batteries are ubiquitous in modern energy storage systems, highlighting the critical need to comprehend and optimize their performance. Yet, battery models often exhibit poor parameter identifiability which hinders the development of effective battery management strategies and impacts their overall performance, longevity, and safety. This manuscript explores the integration of Fisher Information (FI) theory with Model Predictive Control (MPC) for battery charging. The study addresses the inherent hurdles in accurately estimating battery model parameters due to nonlinear dynamics and uncertainty. Our proposed method aims to ensure safe battery charging and enhance real-time parameter estimation capabilities by leveraging adaptive control strategies guided by FI metrics. Simulation results underscore the effectiveness of our approach in mitigating parameter identifiability issues, offering promising solutions for improving the control of batteries during safe charging process.",
+  "authors": [
+   "Jorge Espin",
+   "Yuichi Kajiura",
+   "Dong Zhang"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "6 pages, 2 figures, submitted to Modeling, Estimation, and Control Conference (MECC 2024)",
+  "first_author": "Jorge Espin",
+  "pdf_url": "http://arxiv.org/pdf/2406.08626",
+  "primary_category": "eess.SY",
+  "published": "2024-06-12",
+  "tags": [
+   "battery-modeling",
+   "energy-storage",
+   "mpc",
+   "system-identification"
+  ],
+  "title": "Safety-Driven Battery Charging: A Fisher Information-guided Adaptive MPC with Real-time Parameter Identification",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-06-12"
+ },
+ "2406.13389": {
+  "abstract": "Recent machine learning models to accurately obtain gas adsorption isotherms focus on polymers or metal-organic frameworks (MOFs) separately. The difficulty in creating a unified model that can predict the adsorption trends in both types of adsorbents is challenging, owing to the diversity in their chemical structures. Moreover, models trained only on single gas adsorption data are incapable of predicting adsorption isotherms for binary gas mixtures. In this work, we address these problems using feature vectors comprising only the physical properties of the gas mixtures and adsorbents. Our model is trained on adsorption isotherms of both single and binary mixed gases inside carbon molecular sieving membrane (CMSM), together with data available from CoRE MOF database. The trained models are capable of accurately predicting the adsorption trends in both classes of materials, for both pure and binary components. ML architecture designed for one class of material, is not suitable for predicting the other class, even after proper training, signifying that the model must be trained jointly for proper predictions and transferability. The model is used to predict with good accuracy the CO2 uptake inside CALF-20 framework. This work opens up a new avenue for predicting complex adsorption processes for gas mixtures in a wide range of materials.",
+  "authors": [
+   "Subhadeep Dasgupta",
+   "Amal R S",
+   "Prabal K. Maiti"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "Accepted in Separation and Purification Technology, on June 16, 2024. Data available at https://zenodo.org/records/11567899",
+  "first_author": "Subhadeep Dasgupta",
+  "pdf_url": "http://arxiv.org/pdf/2406.13389",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-19",
+  "tags": [
+   "adsorption",
+   "adsorption-isotherms",
+   "metal-organic-frameworks"
+  ],
+  "title": "Unifying Mixed Gas Adsorption in Molecular Sieve Membranes and MOFs using Machine Learning",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-06-19"
+ },
+ "2406.15602": {
+  "abstract": "High electric fields can significantly alter catalytic environments and the resultant chemical processes. Such fields arise naturally in biological systems but can also be artificially induced through localized excitations at nanoscale. Recently, strong field excitation of dielectric nanoparticles has emerged as an avenue for studying catalysis in highly ionized environments producing extreme electric fields. While the dynamics of surface ion emission driven by ultrafast laser ionization has been heavily explored, understanding the molecular dynamics leading to fragmentation has remained elusive. To address this, we employed a multiscale approach utilizing non-adiabatic quantum molecular dynamics (NAQMD) simulations on hydrogenated silica surfaces in both bare and wetted environments under field conditions mimicking those of an ionized nanoparticle. Our findings indicate that hole localization drives fragmentation dynamics, leading to surface silanol dissociation within 50 fs and charge transfer-induced water splitting in wetted environments within 150 fs. Further insight into such ultrafast mechanisms is critical for advancement of catalysis on the surface of charged nanosystems.",
+  "authors": [
+   "Thomas M. Linker",
+   "Ritika Dagar",
+   "Alexandra Feinberg",
+   "Samuel Sahel-Schackis",
+   "Ken-ichi Nomura",
+   "Aiichiro Nakano",
+   "Fuyuki Shimojo",
+   "Priya Vashishta",
+   "Uwe Bergmann",
+   "Matthias F. Kling",
+   "Adam M. Summers"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Thomas M. Linker",
+  "pdf_url": "http://arxiv.org/pdf/2406.15602",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-21",
+  "tags": [
+   "catalysis",
+   "chemical-engineering",
+   "molecular-dynamics"
+  ],
+  "title": "Catalysis in Extreme Field Environments: The Case of Strongly Ionized $SiO_{2}$ Nanoparticle Surfaces",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2024-06-25"
+ },
+ "2406.15650": {
+  "abstract": "One compelling vision of the future of materials discovery and design involves the use of machine learning (ML) models to predict materials properties and then rapidly find materials tailored for specific applications. However, realizing this vision requires both providing detailed uncertainty quantification (model prediction errors and domain of applicability) and making models readily usable. At present, it is common practice in the community to assess ML model performance only in terms of prediction accuracy (e.g., mean absolute error), while neglecting detailed uncertainty quantification and robust model accessibility and usability. Here, we demonstrate a practical method for realizing both uncertainty and accessibility features with a large set of models. We develop random forest ML models for 33 materials properties spanning an array of data sources (computational and experimental) and property types (electrical, mechanical, thermodynamic, etc.). All models have calibrated ensemble error bars to quantify prediction uncertainty and domain of applicability guidance enabled by kernel-density-estimate-based feature distance measures. All data and models are publicly hosted on the Garden-AI infrastructure, which provides an easy-to-use, persistent interface for model dissemination that permits models to be invoked with only a few lines of Python code. We demonstrate the power of this approach by using our models to conduct a fully ML-based materials discovery exercise to search for new stable, highly active perovskite oxide catalyst materials.",
+  "authors": [
+   "Ryan Jacobs",
+   "Lane E. Schultz",
+   "Aristana Scourtas",
+   "KJ Schmidt",
+   "Owen Price-Skelly",
+   "Will Engler",
+   "Ian Foster",
+   "Ben Blaiszik",
+   "Paul M. Voyles",
+   "Dane Morgan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ryan Jacobs",
+  "pdf_url": "http://arxiv.org/pdf/2406.15650",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-06-21",
+  "tags": [
+   "catalysis",
+   "materials-discovery",
+   "uncertainty-quantification"
+  ],
+  "title": "Machine Learning Materials Properties with Accurate Predictions, Uncertainty Estimates, Domain Guidance, and Persistent Online Accessibility",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-06-21"
+ },
+ "2406.15674": {
+  "abstract": "In this work, we assess the internal dynamics of particles in liquid-solid fluidized beds using an unresolved CFD-DEM model. We use the Nearest Neighbors Method (NNM) and the mixing index based on the principal component analysis proposed by Doucet et al. [1] to quantify the bed mixing for several flow regimes and particle properties. Discussions on the advantages and drawbacks of each method are provided. Using results for several inlet flow rates, we show that the dimensionless mixing time reaches a plateau and does not increase significantly with the inlet velocity. The principal component analysis shows that the studied fluidized bed has no preferential mixing component. Additionally, we show that, except for the sliding friction coefficient, the collision properties have almost negligible influence on the mixing behavior.",
+  "authors": [
+   "Victor Oliveira Ferreira",
+   "Bruno Blais",
+   "Gabriela Cantarelli Lopes"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Victor Oliveira Ferreira",
+  "pdf_url": "http://arxiv.org/pdf/2406.15674",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-06-21",
+  "tags": [
+   "cfd",
+   "multiphase-flow"
+  ],
+  "title": "CFD-DEM study of mixing in a monodispersed solid-liquid fluidized bed",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-06-21"
+ },
+ "2406.15931": {
+  "abstract": "Reducing operation and maintenance costs is a key objective for advanced reactors in general and microreactors in particular. To achieve this reduction, developing robust autonomous control algorithms is essential to ensure safe and autonomous reactor operation. Recently, artificial intelligence and machine learning algorithms, specifically reinforcement learning (RL) algorithms, have seen rapid increased application to control problems, such as plasma control in fusion tokamaks and building energy management. In this work, we introduce the use of RL for intelligent control in nuclear microreactors. The RL agent is trained using proximal policy optimization (PPO) and advantage actor-critic (A2C), cutting-edge deep RL techniques, based on a high-fidelity simulation of a microreactor design inspired by the Westinghouse eVinci\\textsuperscript{TM} design. We utilized a Serpent model to generate data on drum positions, core criticality, and core power distribution for training a feedforward neural network surrogate model. This surrogate model was then used to guide a PPO and A2C control policies in determining the optimal drum position across various reactor burnup states, ensuring critical core conditions and symmetrical power distribution across all six core portions. The results demonstrate the excellent performance of PPO in identifying optimal drum positions, achieving a hextant power tilt ratio of approximately 1.002 (within the limit of $<$ 1.02) and maintaining criticality within a 10 pcm range. A2C did not provide as competitive of a performance as PPO in terms of performance metrics for all burnup steps considered in the cycle. Additionally, the results highlight the capability of well-trained RL control policies to quickly identify control actions, suggesting a promising approach for enabling real-time autonomous control through digital twins.",
+  "authors": [
+   "Majdi I. Radaideh",
+   "Leo Tunkle",
+   "Dean Price",
+   "Kamal Abdulraheem",
+   "Linyu Lin",
+   "Moutaz Elias"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.CE",
+   "cs.LG",
+   "stat.AP"
+  ],
+  "comment": "15 pages, 3 figures, and 2 tables",
+  "first_author": "Majdi I. Radaideh",
+  "pdf_url": "http://arxiv.org/pdf/2406.15931",
+  "primary_category": "eess.SY",
+  "published": "2024-06-22",
+  "tags": [
+   "digital-twin",
+   "microreactors",
+   "reinforcement-learning-control",
+   "surrogate-modeling"
+  ],
+  "title": "Multistep Criticality Search and Power Shaping in Microreactors with Reinforcement Learning",
+  "topics": [
+   "Digital Twins & Process Monitoring",
+   "Process Modeling & System Identification",
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2024-06-22"
+ },
+ "2406.16939": {
+  "abstract": "Soil microbial fuel cells (SMFCs) are an emerging technology which offer clean and renewable energy in environments where more traditional power sources, such as chemical batteries or solar, are not suitable. With further development, SMFCs show great promise for use in robust and affordable outdoor sensor networks, particularly for farmers. One of the greatest challenges in the development of this technology is understanding and predicting the fluctuations of SMFC energy generation, as the electro-generative process is not yet fully understood. Very little work currently exists attempting to model and predict the relationship between soil conditions and SMFC energy generation, and we are the first to use machine learning to do so. In this paper, we train Long Short Term Memory (LSTM) models to predict the future energy generation of SMFCs across timescales ranging from 3 minutes to 1 hour, with results ranging from 2.33% to 5.71% MAPE for median voltage prediction. For each timescale, we use quantile regression to obtain point estimates and to establish bounds on the uncertainty of these estimates. When comparing the median predicted vs. actual values for the total energy generated during the testing period, the magnitude of prediction errors ranged from 2.29% to 16.05%. To demonstrate the real-world utility of this research, we also simulate how the models could be used in an automated environment where SMFC-powered devices shut down and activate intermittently to preserve charge, with promising initial results. Our deep learning-based prediction and simulation framework would allow a fully automated SMFC-powered device to achieve a median 100+% increase in successful operations, compared to a naive model that schedules operations based on the average voltage generated in the past.",
+  "authors": [
+   "Adam Hess-Dunlop",
+   "Harshitha Kakani",
+   "Colleen Josephson"
+  ],
+  "categories": [
+   "eess.SP",
+   "cs.ET"
+  ],
+  "comment": null,
+  "first_author": "Adam Hess-Dunlop",
+  "pdf_url": "http://arxiv.org/pdf/2406.16939",
+  "primary_category": "eess.SP",
+  "published": "2024-06-17",
+  "tags": [
+   "fuel-cells"
+  ],
+  "title": "Towards Deep Learning for Predicting Microbial Fuel Cell Energy Output",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-06-17"
+ },
+ "2406.19792": {
+  "abstract": "Development of efficient and high-performing electrolytes is crucial for advancing energy storage technologies, particularly in batteries. Predicting the performance of battery electrolytes rely on complex interactions between the individual constituents. Consequently, a strategy that adeptly captures these relationships and forms a robust representation of the formulation is essential for integrating with machine learning models to predict properties accurately. In this paper, we introduce a novel approach leveraging a transformer-based molecular representation model to effectively and efficiently capture the representation of electrolyte formulations. The performance of the proposed approach is evaluated on two battery property prediction tasks and the results show superior performance compared to the state-of-the-art methods.",
+  "authors": [
+   "Indra Priyadarsini",
+   "Vidushi Sharma",
+   "Seiji Takeda",
+   "Akihiro Kishimoto",
+   "Lisa Hamada",
+   "Hajime Shinohara"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.ET"
+  ],
+  "comment": "Accepted in ML4LMS Workshop at ICML 2024",
+  "first_author": "Indra Priyadarsini",
+  "pdf_url": "http://arxiv.org/pdf/2406.19792",
+  "primary_category": "cs.LG",
+  "published": "2024-06-28",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Improving Performance Prediction of Electrolyte Formulations with Transformer-based Molecular Representation Model",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-06-28"
+ },
+ "2407.00602": {
+  "abstract": "Raman thermometry is advantageous for measuring the thermal transport of low-dimensional materials due to its non-contact nature. Transient Raman methods have improved the accuracy of steady-state Raman thermometry by removing the need for accurate temperature calibration and laser absorption evaluation. However, current methods often resort to finite element analysis (FEA) to decipher the measured signals. This step is time-consuming and impedes its ubiquitous adaptation. In this work, we replace the FEA by fitting the transient-state Raman signal to a three-dimensional (3D) analytical heat transfer model for measuring the thermal conductivity of two bulk layered materials [i.e., molybdenum disulfide (MoS2) and bismuth selenide (Bi2Se3) crystals] and the interfacial thermal conductance (h) of CVD-grown MoS2 and molybdenum di-selenide (MoSe2) on quartz (SiO2). Our measured results agree reasonably well with literature and theoretical calculations. We also performed a quantitative sensitivity analysis to give insights on how to improve the measurement sensitivity. Our work provides an efficient way to process the data of transient-based Raman thermometry for high throughput measurements.",
+  "authors": [
+   "Taocheng Yu",
+   "Yilu Fu",
+   "Chenguang Fu",
+   "Tiejun Zhu",
+   "Wee-Liat Ong"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Taocheng Yu",
+  "pdf_url": "http://arxiv.org/pdf/2407.00602",
+  "primary_category": "physics.app-ph",
+  "published": "2024-06-30",
+  "tags": [
+   "heat-transfer"
+  ],
+  "title": "Frequency-resolved Raman Thermometry Analysis via a Multi-layer Heat Transfer Model for Bulk and Low-dimensional Materials",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-06-30"
+ },
+ "2407.10988": {
+  "abstract": "The neutron diffusion equation plays a pivotal role in the analysis of nuclear reactors. Nevertheless, employing the Physics-Informed Neural Network (PINN) method for its solution entails certain limitations. Traditional PINN approaches often utilize fully connected network (FCN) architecture, which is susceptible to overfitting, training instability, and gradient vanishing issues as the network depth increases. These challenges result in accuracy bottlenecks in the solution. In response to these issues, the Residual-based Resample Physics-Informed Neural Network(R2-PINN) is proposed, which proposes an improved PINN architecture that replaces the FCN with a Convolutional Neural Network with a shortcut(S-CNN), incorporating skip connections to facilitate gradient propagation between network layers. Additionally, the incorporation of the Residual Adaptive Resampling (RAR) mechanism dynamically increases sampling points, enhancing the spatial representation capabilities and overall predictive accuracy of the model. The experimental results illustrate that our approach significantly improves the model's convergence capability, achieving high-precision predictions of physical fields. In comparison to traditional FCN-based PINN methods, R2-PINN effectively overcomes the limitations inherent in current methods, providing more accurate and robust solutions for neutron diffusion equations.",
+  "authors": [
+   "Heng Zhang",
+   "Yun-Ling He",
+   "Dong Liu",
+   "Qin Hang",
+   "He-Min Yao",
+   "Di Xiang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Heng Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2407.10988",
+  "primary_category": "cs.LG",
+  "published": "2024-06-23",
+  "tags": [
+   "physics-informed-ml"
+  ],
+  "title": "Residual resampling-based physics-informed neural network for neutron diffusion equations",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-06-23"
+ }
+}

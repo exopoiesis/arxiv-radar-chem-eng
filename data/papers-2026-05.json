@@ -1,0 +1,292 @@
+{
+ "2503.13558": {
+  "abstract": "Battery degradation significantly impacts the reliability and efficiency of energy storage systems, particularly in electric vehicles and industrial applications. Predicting the remaining useful life (RUL) of lithium-ion batteries is crucial for optimizing maintenance schedules, reducing costs, and improving safety. Traditional RUL prediction methods often struggle with nonlinear degradation patterns and uncertainty quantification. To address these challenges, we propose a hybrid survival analysis framework integrating survival data reconstruction, survival model learning, and survival probability estimation. Our approach transforms battery voltage time series into time-to-failure data using path signatures. The multiple Cox-based survival models and machine-learning-based methods, such as DeepHit and MTLR, are learned to predict battery failure-free probabilities over time. Experiments conducted on the Toyota battery and NASA battery datasets demonstrate the effectiveness of our approach, achieving high time-dependent AUC and concordance index (C-Index) while maintaining a low integrated Brier score. The data and source codes are available to the public at https://github.com/okic-ai/rul",
+  "authors": [
+   "Jingyuan Xue",
+   "Xiaozhen Zhao",
+   "Dongjing Jiang",
+   "Qingchong Jiao",
+   "Redouane EL Bouchtaoui",
+   "Jianfei Zhang"
+  ],
+  "categories": [
+   "eess.SP",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jingyuan Xue",
+  "pdf_url": "http://arxiv.org/pdf/2503.13558",
+  "primary_category": "eess.SP",
+  "published": "2025-03-17",
+  "tags": [
+   "energy-storage",
+   "uncertainty-quantification"
+  ],
+  "title": "Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2507.21803": {
+  "abstract": "Carbon Capture and Storage (CCS) stands as a pivotal technology for fostering a sustainable future. The process, which involves injecting supercritical CO$_2$ into underground formations, a method already widely used for Enhanced Oil Recovery, serves a dual purpose: it not only curbs CO$_2$ emissions and addresses climate change but also extends the operational lifespan and sustainability of oil fields and platforms, easing the shift toward greener practices. This paper delivers a thorough comparative evaluation of strategies for optimizing decision variables in CCS project development, employing a derivative-free technique known as Bayesian Optimization. In addition to Gaussian Processes, which usually serve as the gold standard in BO, various novel stochastic models were examined and compared within a BO framework. This research investigates the effectiveness of utilizing more exotic stochastic models than GPs for BO in environments where GPs have been shown to underperform, such as in cases with a large number of decision variables or multiple objective functions that are not similarly scaled. By incorporating Net Present Value (NPV) as a key objective function, the proposed framework demonstrates its potential to improve economic viability while ensuring the sustainable deployment of CCS technologies. Ultimately, this study represents the first application in the reservoir engineering industry of the growing body of BO research, specifically in the search for more appropriate stochastic models, highlighting its potential as a preferred method for enhancing sustainability in the energy sector.",
+  "authors": [
+   "Sofianos Panagiotis Fotias",
+   "Vassilis Gaganis"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Sofianos Panagiotis Fotias",
+  "pdf_url": "http://arxiv.org/pdf/2507.21803",
+  "primary_category": "cs.LG",
+  "published": "2025-07-29",
+  "tags": [
+   "bayesian-inference",
+   "carbon-capture",
+   "gaussian-process"
+  ],
+  "title": "Bayesian Neural Network Surrogates for Bayesian Optimization of Carbon Capture and Storage Operations",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2603.17366": {
+  "abstract": "The optimized stellarator is an attractive concept for which the averaged particle radial drift is zero, and the single particle loss can be significantly reduced. But for the reactor design, global physics such as turbulent transport also need to be optimized besides the confined single particle orbit, or properties estimated using local estimations and heuristic formulations. The first-principle global transport code is too computationally expensive to integrate into the optimization process. The fast surrogate global transport model based on machine learning is a good alternative choice, but the amount of data required to train the surrogate model is numerous due to the high degree-of-freedom of the stellarator design. The work shows that the stellarator design with quasi-helically(QH) symmetric geometry is approximately distributed in a low dimensional latent space, which can be explicitly found by deep learning. This discovery makes it possible to generate global gyrokinetic simulation data for training surrogate models to directly optimize the stellarator geometry for turbulent transport, energetic particle instability, and MHD modes. Using the low dimensional latent space and data analysis methods, the relation between linear zonal residues and axis-excursion is found, providing a simple guide to optimize low turbulent transport QH stellarators.",
+  "authors": [
+   "Xishuo Wei",
+   "Handi Huang",
+   "Haotian Chen",
+   "Hongxuan Zhu",
+   "Zhe Bai",
+   "Samuel Williams",
+   "Zhihong Lin"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Xishuo Wei",
+  "pdf_url": "http://arxiv.org/pdf/2603.17366",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-03-18",
+  "tags": [
+   "reactor-design",
+   "surrogate-modeling"
+  ],
+  "title": "Low-dimensional geometry learning for turbulence prediction in optimized stellarators",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.00544": {
+  "abstract": "Fabrication process-induced performance variability remains a formidable barrier in the high-volume manufacturing of semiconductor chips. With skyrocketing Artificial Intelligence (AI) workload, demand for non-volatile and computational memories is growing exponentially. As embedded non-volatile memory, ferroelectric Hf0.5Zr0.5O2 emerged as a strong candidate due to their CMOS back-end-of-line (BEOL) compatibility, scalability and high performance. However, their sensitive crystallization kinetics leads to significant device-to-device (D2D) non-uniformity leading to unpredictability of performance over wafer scale. In this work, we demonstrate unsupervised machine learning can analyze intra-die D2D variations and predict performance of \"unseen\" dies efficiently. We present a framework utilizing Principal Component Analysis (PCA) and K-Means clustering to analyze D2D performance variations in HZO capacitors and building on data from multiple dies, we move beyond traditional descriptive statistics to a predictive \"Virtual Metrology\" approach that separates performance categories, defined by key parameters like remanent polarization (Pr) and coercive voltage (Vc). The analysis further extends to comparing uniformity across different dies across the wafer showing the proposed methodology can accurately predict device performance on untested dies with a low Mean Absolute Percentage Error (MAPE) in the range of 5-10%, suggesting a robust path for accelerated yield improvement and reduced metrology overhead.",
+  "authors": [
+   "Anika Anu",
+   "Sayani Majumdar"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Anika Anu",
+  "pdf_url": "http://arxiv.org/pdf/2605.00544",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-01",
+  "tags": [
+   "crystallization"
+  ],
+  "title": "An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Performance Prediction of Ferroelectric Hf0.5Zr0.5O2 Thin Film Capacitors",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.00609": {
+  "abstract": "The rational design of bifunctional electrocatalysts for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) is essential for achieving efficient and cost-effective overall water splitting. Atomically dispersed transition-metal catalysts, including single-atom catalysts and dual-atom catalysts (DACs), have emerged as a prominent class of heterogeneous catalysts, in which coordination engineering plays a decisive role in tuning catalytic performance. Herein, we explore coordination-engineered bifunctional overall water splitting electrocatalysts using graphene-supported DACs (TM1TM2-C6-xNx) as model systems. By tuning C/N coordination and dual-metal combinations (Fe, Co, Ni, and Cu), a library of 228 structures was constructed. A three-step screening strategy, combining constant-charge and constant-potential density functional theory with kinetic analysis of proton-coupled electron transfer (PCET), identifies 24 highly active candidates (TM1TM2 = CoNi, CoCu and Co2) with mixed C/N coordination for OER. These catalysts exhibit overpotentials comparable to that of IrO2 and low PCET barriers (lower than 0.40 eV), among which 22 also show high HER activity. Machine learning reveals clear coordination-dependent structure-performance relationships. Such bifunctionality arises from coordination engineering that enables the simultaneous optimization of OER intermediate adsorption and the hydrogen binding strength for HER. This work establishes coordination engineering as an effective strategy for designing high-performance bifunctional dual-atom electrocatalysts for overall water splitting.",
+  "authors": [
+   "Jiahang Li",
+   "Suhang Li",
+   "Chong Yan",
+   "Jiajun Yu",
+   "Qinzhuang Liu",
+   "Ruo-Ya Wang",
+   "Dongwei Ma"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiahang Li",
+  "pdf_url": "http://arxiv.org/pdf/2605.00609",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-01",
+  "tags": [
+   "adsorption",
+   "catalysis",
+   "dft",
+   "hydrogen-evolution",
+   "oxygen-evolution"
+  ],
+  "title": "Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.00653": {
+  "abstract": "The transport and dispersion of multiple species of charged ions are central to many biological and physical processes, including electrokinetic ion separation. However, most theoretical studies of dispersion in channels have focused on neutral solutes, leaving the transport of multiple charged species comparatively unexplored. Differences in ionic diffusivities in a multispecies electrolyte solution generate an self-induced electric fields that drive electromigration. To capture these effects at the macroscopic scale, we combine the lubrication approximation with homogenization theory, under electroneutrality and zero-current constraints, to derive an effective transport equation governing the cross-sectionally averaged concentrations. We apply our model framework to a range of channel geometries and compute the resulting effective dispersion coefficients. Finally, we investigate how channel geometry can be tuned to enhance ionic separation. We observe a geometry-induced electro-diffusive coupling that inhibits solute dispersion in certain channels, leading to a non-monotonic Number of Theoretical Plates (NTP) and making such channels ideal for separation processes.",
+  "authors": [
+   "Thakurdas Mahata",
+   "Anirban Chatterjee",
+   "Ameeya Kumar Nayak"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Thakurdas Mahata",
+  "pdf_url": "http://arxiv.org/pdf/2605.00653",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-01",
+  "tags": [
+   "separations"
+  ],
+  "title": "Dispersion of multiple charged species in an axially symmetric slowly varying channel",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.01362": {
+  "abstract": "Grid-integrated building districts must provide energy flexibility while preserving occupant comfort and equitable distribution of control burden. We study how coordination architecture influences the ability of building clusters to track aggregated load profiles, comparing four paradigms: centralized model predictive control (MPC), decentralized independent reinforcement learning (SAC), centralized-training-decentralized-execution multi-agent RL (MAPPO), and a hybrid MPC--SAC controller that separates district-level battery optimization from building-level HVAC regulation. A rule-based controller serves as a baseline. We evaluate a 25-building residential district across three metrics: aggregate load tracking, thermal comfort, and spatial variability of control actions. We find that architecture choice determines the trade-off structure. Centralized MPC achieves low tracking bias (8.8% NMBE) but concentrates actuation on a subset of buildings, causing elevated comfort violations (24.8% exceedance) and spatial imbalance. Decentralized RL distributes control effort more evenly but fails to sustain accurate tracking. The hybrid architecture achieves the best balance: accurate tracking (4.8% NMBE), moderate comfort impact (16.8% exceedance), and the lowest spatial variability. These findings demonstrate that architecture choice determines the trade-off structure between tracking and comfort.",
+  "authors": [
+   "Ava Mohammadi",
+   "Rick Kramer",
+   "Zoltan Nagy"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Ava Mohammadi",
+  "pdf_url": "http://arxiv.org/pdf/2605.01362",
+  "primary_category": "eess.SY",
+  "published": "2026-05-02",
+  "tags": [
+   "mpc"
+  ],
+  "title": "Coordination Architecture Shapes Continuous Demand Response Outcomes in Building Districts",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01377": {
+  "abstract": "We present an optimal control problem to guide the selection of morphology classes arising in organic solar cells. The study focuses on phase separation processes in polymer solvent mixtures, with particular attention to solvent evaporation as a mechanism to arrest morphology formation. We establish the existence of optimal controls and analyze the Frechet derivative of the control to state mapping. Finally, we derive the first order necessary optimality condition via the corresponding adjoint system.",
+  "authors": [
+   "Arghya Kundu",
+   "Adrian Muntean"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Arghya Kundu",
+  "pdf_url": "http://arxiv.org/pdf/2605.01377",
+  "primary_category": "math.OC",
+  "published": "2026-05-02",
+  "tags": [
+   "optimal-control",
+   "separations"
+  ],
+  "title": "Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation",
+  "topics": [
+   "Process Control & Optimization",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.02409": {
+  "abstract": "Bayesian Optimization is an iterative method, tailored to optimizing expensive black box objective functions. Surrogate models like Gaussian Processes, which are the gold standard in Bayesian Optimization, can be inefficient for inputs with permutation symmetries, as the most common kernels employed are better suited for vector inputs rather than unordered sets of items. Motivated by this issue, we turn to permutation invariant Bayesian Optimization for well placement in Carbon Capture and Storage projects. The high fidelity black box simulator is instructed to operate wells under group control, giving rise to permutation symmetries within injector and producer groups that cannot be exploited with standard GP kernels. In this work, our main contribution is a novel Gaussian Process kernel (GP-Perm) that encodes permutation invariance by comparing sets through a stable divergence between their induced empirical representations, and can be combined with standard kernels for additional vector-valued inputs. As a learned invariant baseline, we also consider a Deep Kernel Learning model (DKL-DS) using the Deep Sets architecture to learn a permutation-invariant embedding. We evaluate the proposed methodology across 8 use cases, comprising seven synthetic benchmarks and one realistic CCS case study (Johansen formation)",
+  "authors": [
+   "Sofianos Panagiotis Fotias",
+   "Vassilis Gaganis"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Sofianos Panagiotis Fotias",
+  "pdf_url": "http://arxiv.org/pdf/2605.02409",
+  "primary_category": "cs.LG",
+  "published": "2026-05-04",
+  "tags": [
+   "bayesian-inference",
+   "carbon-capture",
+   "gaussian-process",
+   "surrogate-modeling"
+  ],
+  "title": "Inducing Permutation Invariant Priors in Bayesian Optimization for Carbon Capture and Storage Applications",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.03186": {
+  "abstract": "Feedstock deformation during 3D printing of continuous fiber composites is a critical challenge in path planning and a main driver in the generation of manufacturing defects. The proposed work addressed the feedstock deformation during the deposition through several experimental and numerical pathways. The experimental setups and numerical simulations are used to identify the main driving phenomena in the deformation of feedstock through residual stress relief and drying, crystallization, and thermal stresses. A hybrid physics-based and data-driven modeling effort is performed, using Kelvin-Voigt viscoelastic modeling of the composite prepregs and a stabilized neural ODE for the modeling of drying and crystallization. The identified hybrid models from DMA and DSC experiments are used in robotic 3D printing to validate the deposition of a composite prepreg in real printing settings. The results show the ability of the model to reproduce the prepreg behavior far above the temperature used in the training, showcasing its robustness and generalization capability.",
+  "authors": [
+   "Chady Ghnatios",
+   "Kazem Fayazbakhsh"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Chady Ghnatios",
+  "pdf_url": "http://arxiv.org/pdf/2605.03186",
+  "primary_category": "cs.CE",
+  "published": "2026-05-04",
+  "tags": [
+   "crystallization",
+   "process-modeling"
+  ],
+  "title": "Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.03489": {
+  "abstract": "The operation of the pyro process in cement production significantly affects the energy efficiency and sustainability of the cement plant, especially for reductions in carbon dioxide emissions. Hence, pyro process control is essential to obtain efficient and sustainable operation of cement plants. In this paper, we demonstrate how simulations and models can be utilized to evaluate and design control strategies for the pyro section in cement plants. We apply a novel differential algebraic equation (DAE) model for dynamic simulation of the pyro-section in cement plants to design decentralized PI controllers for the pyro-section. We utilize the pyro-process model to evaluate the control structure design. Through linearization of the pyro-process model, we apply the Relative Gain Array (RGA) method to choose and evaluate the pairings of the manipulated variables (MVs) and the controlled variables (CVs). Using simulations of the pyro-section, we generate step responses to estimate transfer models and apply Internal Model Control (IMC) for the tuning of the individual decentralized single-input single-output (SISO) PI controllers. Closed-loop simulations of the PI controllers demonstrate that PI controllers with IMC parameters provide smoother and faster responses compared with manually tuned PI parameters.",
+  "authors": [
+   "Jan Lorenz Svensen",
+   "Steen Hørsholt",
+   "Guruprasath Muralidharan",
+   "John Bagterp Jørgensen"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "6 pages, 6 figures, 3 tables, submitted to the 67th International Conference of Scandinavian Simulation Society (SIMS 2026)",
+  "first_author": "Jan Lorenz Svensen",
+  "pdf_url": "http://arxiv.org/pdf/2605.03489",
+  "primary_category": "eess.SY",
+  "published": "2026-05-05",
+  "tags": [
+   "process-control"
+  ],
+  "title": "A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-05-05"
+ }
+}

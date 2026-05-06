@@ -1,0 +1,8 @@
+arxiv-radar-chem-eng
+
+This repository is a Chemical Engineering adaptation of the arxiv-radar
+pipeline for collecting AI/ML-relevant arXiv papers.
+
+It was bootstrapped from exopoiesis/arxiv-radar-chemistry and uses keyword
+coverage derived from daily-arxiv-ai4cheme. Generated paper metadata and
+abstract fragments are sourced from arXiv.

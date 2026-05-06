@@ -1,0 +1,933 @@
+{
+ "2406.16741": {
+  "abstract": "Neutron-Transformer Reflectometry and Advanced Computation Engine (N-TRACE ), a neural network model using transformer architecture, is introduced for neutron reflectometry data analysis. It offers fast, accurate initial parameter estimations and efficient refinements, improving efficiency and precision for real-time data analysis of lithium-mediated nitrogen reduction for electrochemical ammonia synthesis, with relevance to other chemical transformations and batteries. Despite limitations in generalizing across systems, it shows promises for the use of transformers as the basis for models that could replace trial-and-error approaches to modeling reflectometry data.",
+  "authors": [
+   "Chen Zhang",
+   "Valerie A. Niemann",
+   "Peter Benedek",
+   "Thomas F. Jaramillo",
+   "Mathieu Doucet"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.AI"
+  ],
+  "comment": "11 pages, 7 figures",
+  "first_author": "Chen Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2406.16741",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-06-24",
+  "tags": [
+   "ammonia-synthesis",
+   "electrochemical-systems"
+  ],
+  "title": "Extracting thin film structures of energy materials using transformers",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-30"
+ },
+ "2406.19015": {
+  "abstract": "Health monitoring, fault analysis, and detection are critical for the safe and sustainable operation of battery systems. We apply Gaussian process resistance models on lithium iron phosphate battery field data to effectively separate the time-dependent and operating point-dependent resistance. The data set contains 29 battery systems returned to the manufacturer for warranty, each with eight cells in series, totaling 232 cells and 131 million data rows. We develop probabilistic fault detection rules using recursive spatiotemporal Gaussian processes. These processes allow the quick processing of over a million data points, enabling advanced online monitoring and furthering the understanding of battery pack failure in the field. The analysis underlines that often, only a single cell shows abnormal behavior or a knee point, consistent with weakest-link failure for cells connected in series, amplified by local resistive heating. The results further the understanding of how batteries degrade and fail in the field and demonstrate the potential of efficient online monitoring based on data. We open-source the code and publish the large data set upon completion of the review of this article.",
+  "authors": [
+   "Joachim Schaeffer",
+   "Eric Lenz",
+   "Duncan Gulla",
+   "Martin Z. Bazant",
+   "Richard D. Braatz",
+   "Rolf Findeisen"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "eess.SY",
+   "stat.AP"
+  ],
+  "comment": "This version is outdated. The final version is published as open access journal article: https://doi.org/10.1016/j.xcrp.2024.102258",
+  "first_author": "Joachim Schaeffer",
+  "pdf_url": "http://arxiv.org/pdf/2406.19015",
+  "primary_category": "cs.LG",
+  "published": "2024-06-27",
+  "tags": [
+   "fault-detection",
+   "gaussian-process"
+  ],
+  "title": "Gaussian process-based online health monitoring and fault analysis of lithium-ion battery systems from field data",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-10-30"
+ },
+ "2407.11099": {
+  "abstract": "Free-form shape optimization techniques are investigated to improve the separation efficiency of structured packings in laboratory-scale distillation columns. A simplified simulation model based on computational fluid dynamics (CFD) for the mass transfer in the distillation column is used and a corresponding shape optimization problem is formulated. The goal of the optimization is to increase the mass transfer in the column by changing the packing's shape, which has been previously used as criterion for increasing the separation efficiency of the column. The computational shape optimization yields promising results, with an increased mass transfer of nearly 20 %. For validation, the resulting optimized shape is additively manufactured using 3D-printing and investigated experimentally. The experimental results are in good agreement with the performance improvement predicted by the computational model, yielding an increase in separation efficiency of around 20 %.",
+  "authors": [
+   "Sebastian Blauth",
+   "Dennis Stucke",
+   "Mohamed Adel Ashour",
+   "Johannes Schnebele",
+   "Thomas Grützner",
+   "Christian Leithäuser"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Sebastian Blauth",
+  "pdf_url": "http://arxiv.org/pdf/2407.11099",
+  "primary_category": "math.OC",
+  "published": "2024-07-15",
+  "tags": [
+   "cfd",
+   "distillation",
+   "mass-transfer"
+  ],
+  "title": "CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-10-10"
+ },
+ "2408.00142": {
+  "abstract": "Nanometric solid solution alloys are utilized in a broad range of fields, including catalysis, energy storage, medical application, and sensor technology. Unfortunately, the synthesis of these alloys becomes increasingly challenging as the disparity between the metal elements grows, due to differences in atomic sizes, melting points, and chemical affinities. This study utilized a data-driven approach incorporating sample balancing enhancement techniques and multilayer perceptron (MLP) algorithms to improve the model's ability to handle imbalanced data, significantly boosting the efficiency of experimental parameter optimization. Building on this enhanced data processing framework, we developed an entropy-engineered synthesis approach specifically designed to produce stable, nanometric copper and cobalt (CuCo) solid solution alloys. Under conditions of -0.425 V (vs. RHE), the CuCo alloy exhibited nearly 100% Faraday efficiency (FE) and a high ammonia production rate of 232.17 mg h-1 mg-1. Stability tests in a simulated industrial environment showed that the catalyst maintained over 80% FE and an ammonia production rate exceeding 170 mg h-1 mg-1 over a testing period of 120 hours, outperforming most reported catalysts. To delve deeper into the synergistic interaction mechanisms between Cu and Co, in situ Raman spectroscopy was utilized for realtime monitoring, and density functional theory (DFT) calculations further substantiated our findings. These results not only highlight the exceptional catalytic performance of the CuCo alloy but also reflect the effective electronic and energy interactions between the two metals.",
+  "authors": [
+   "Yao Hu",
+   "Haihui Lan",
+   "Bo Hu",
+   "Jiaxuan Gong",
+   "Donghui Wang",
+   "Wen-Da Zhang",
+   "Mo Yan",
+   "Huicong Xia",
+   "Mingde Yao",
+   "Mingliang Du"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "We found some mistakes and revisions are needed. It will take a long time",
+  "first_author": "Yao Hu",
+  "pdf_url": "http://arxiv.org/pdf/2408.00142",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-07-31",
+  "tags": [
+   "catalysis",
+   "dft",
+   "energy-storage"
+  ],
+  "title": "Machine Learning Boosted Entropy-Engineered Synthesis of CuCo Nanometric Solid Solution Alloys for Near-100% Nitrate-to-Ammonia Selectivity",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-17"
+ },
+ "2410.00558": {
+  "abstract": "The impressive performance of proprietary LLMs like GPT4 in code generation has led to a trend to replicate these capabilities in open-source models through knowledge distillation (e.g. Code Evol-Instruct). However, these efforts often neglect the crucial aspect of response quality, relying heavily on teacher models for direct response distillation. This paradigm, especially for complex instructions, can degrade the quality of synthesized data, compromising the knowledge distillation process. To this end, our study introduces the Adaptive Modular Response Evolution (AMR-Evol) framework, which employs a two-stage process to refine response distillation. The first stage, modular decomposition, breaks down the direct response into more manageable sub-modules. The second stage, adaptive response evolution, automatically evolves the response with the related function modules. Our experiments with three popular code benchmarks (HumanEval, MBPP, and EvalPlus) attest to the superiority of the AMR-Evol framework over baseline response distillation methods. By comparing with the open-source Code LLMs trained on a similar scale of data, we observed performance enhancements: more than +3.0 points on HumanEval-Plus and +1.0 points on MBPP-Plus, which underscores the effectiveness of our framework. Our codes are available at https://github.com/ChiYeungLaw/AMR-Evol.",
+  "authors": [
+   "Ziyang Luo",
+   "Xin Li",
+   "Hongzhan Lin",
+   "Jing Ma",
+   "Lidong Bing"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.SE"
+  ],
+  "comment": "EMNLP 2024",
+  "first_author": "Ziyang Luo",
+  "pdf_url": "http://arxiv.org/pdf/2410.00558",
+  "primary_category": "cs.CL",
+  "published": "2024-10-01",
+  "tags": [
+   "distillation",
+   "knowledge-distillation",
+   "large-language-models"
+  ],
+  "title": "AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-10-01"
+ },
+ "2410.01213": {
+  "abstract": "Accurate and efficient characterization of nanoparticles (NPs), particularly regarding particle size distribution, is essential for advancing our understanding of their structure-property relationships and facilitating their design for various applications. In this study, we introduce a novel two-stage artificial intelligence (AI)-driven workflow for NP analysis that leverages prompt engineering techniques from state-of-the-art single-stage object detection and large-scale vision transformer (ViT) architectures. This methodology was applied to transmission electron microscopy (TEM) and scanning TEM (STEM) images of heterogeneous catalysts, enabling high-resolution, high-throughput analysis of particle size distributions for supported metal catalysts. The model's performance in detecting and segmenting NPs was validated across diverse heterogeneous catalyst systems, including various metals (Cu, Ru, Pt, and PtCo), supports (silica ($\\text{SiO}_2$), $γ$-alumina ($γ$-$\\text{Al}_2\\text{O}_3$), and carbon black), and particle diameter size distributions with means and standard deviations of 2.9 $\\pm$ 1.1 nm, 1.6 $\\pm$ 0.2 nm, 9.7 $\\pm$ 4.6 nm, and 4 $\\pm$ 1.0 nm. Additionally, the proposed machine learning (ML) approach successfully detects and segments overlapping NPs anchored on non-uniform catalytic support materials, providing critical insights into their spatial arrangements and interactions. Our AI-assisted NP analysis workflow demonstrates robust generalization across diverse datasets and can be readily applied to similar NP segmentation tasks without requiring costly model retraining.",
+  "authors": [
+   "Arda Genc",
+   "Justin Marlowe",
+   "Anika Jalil",
+   "Libor Kovarik",
+   "Phillip Christopher"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Arda Genc",
+  "pdf_url": "http://arxiv.org/pdf/2410.01213",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-10-02",
+  "tags": [
+   "catalysis",
+   "heterogeneous-catalysis",
+   "materials-discovery"
+  ],
+  "title": "A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2024-10-02"
+ },
+ "2410.01522": {
+  "abstract": "Neutron noise analysis is a predominant technique for fissile matter identification with passive methods. Quantifying the uncertainties associated with the estimated nuclear parameters is crucial for decision-making. A conservative uncertainty quantification procedure is possible by solving a Bayesian inverse problem with the help of statistical surrogate models but generally leads to large uncertainties due to the surrogate models' errors. In this work, we develop two methods for robust uncertainty quantification in neutron and gamma noise analysis based on the resolution of Bayesian inverse problems. We show that the uncertainties can be reduced by including information on gamma correlations. The investigation of a joint analysis of the neutron and gamma observations is also conducted with the help of active learning strategies to fine-tune surrogate models. We test our methods on a model of the SILENE reactor core, using simulated and real-world measurements.",
+  "authors": [
+   "Paul Lartaud",
+   "Philippe Humbert",
+   "Josselin Garnier"
+  ],
+  "categories": [
+   "stat.AP",
+   "stat.ME"
+  ],
+  "comment": null,
+  "first_author": "Paul Lartaud",
+  "pdf_url": "http://arxiv.org/pdf/2410.01522",
+  "primary_category": "stat.AP",
+  "published": "2024-10-02",
+  "tags": [
+   "active-learning",
+   "surrogate-modeling",
+   "uncertainty-quantification"
+  ],
+  "title": "Uncertainty quantification in neutron and gamma time correlation measurements",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-10-02"
+ },
+ "2410.02093": {
+  "abstract": "We present a model reduction approach for the real-time solution of time-dependent nonlinear partial differential equations (PDEs) with parametric dependencies. The approach integrates several ingredients to develop efficient and accurate reduced-order models. Proper orthogonal decomposition is used to construct a reduced-basis (RB) space which provides a rapidly convergent approximation of the parametric solution manifold. The Galerkin projection is employed to reduce the dimensionality of the problem by projecting the weak formulation of the governing PDEs onto the RB space. A major challenge in model reduction for nonlinear PDEs is the efficient treatment of nonlinear terms, which we address by unifying the implementation of several hyperreduction methods. We introduce a first-order empirical interpolation method to approximate the nonlinear terms and recover the computational efficiency. We demonstrate the effectiveness of our methodology through its application to the Allen-Cahn equation, which models phase separation processes, and the Buckley-Leverett equation, which describes two-phase fluid flow in porous media. Numerical results highlight the accuracy, efficiency, and stability of the proposed approach.",
+  "authors": [
+   "Ngoc Cuong Nguyen"
+  ],
+  "categories": [
+   "math.NA",
+   "math.AP"
+  ],
+  "comment": "35 pages, 5 figures, 4 tables",
+  "first_author": "Ngoc Cuong Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2410.02093",
+  "primary_category": "math.NA",
+  "published": "2024-10-02",
+  "tags": [
+   "porous-media-flow",
+   "separations"
+  ],
+  "title": "First-order empirical interpolation method for real-time solution of parametric time-dependent nonlinear PDEs",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-10-02"
+ },
+ "2410.02687": {
+  "abstract": "Time delays are ubiquitous in industry, and they must be accounted for when designing control strategies. However, numerical optimal control (NOC) of delay differential equations (DDEs) is challenging because it requires specialized discretization methods and the time delays may depend on the manipulated inputs or state variables. Therefore, in this work, we propose to linearize the delayed states around the current time. This results in a set of implicit differential equations, and we compare the steady states and the corresponding stability criteria of the DDEs and the approximate system. Furthermore, we propose a simultaneous approach for NOC of DDEs based on the linearization, and we discretize the approximate system using Euler's implicit method. Finally, we present a numerical example involving a molten salt nuclear fission reactor.",
+  "authors": [
+   "Tobias K. S. Ritschel",
+   "Søren Stange"
+  ],
+  "categories": [
+   "math.OC",
+   "cs.CE",
+   "eess.SY"
+  ],
+  "comment": "6 pages, 4 figures, submitted to a conference",
+  "first_author": "Tobias K. S. Ritschel",
+  "pdf_url": "http://arxiv.org/pdf/2410.02687",
+  "primary_category": "math.OC",
+  "published": "2024-10-03",
+  "tags": [
+   "optimal-control"
+  ],
+  "title": "Numerical optimal control for delay differential equations: A simultaneous approach based on linearization of the delayed state",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-10-19"
+ },
+ "2410.03484": {
+  "abstract": "Inspired by the recent success of machine-learned interatomic potentials for crystal structure prediction of the inorganic crystals, we present a methodology that exploits Moment Tensor Potentials and active learning (based on maxvol algorithm) to accelerate structure prediction of molecular crystals. Benzene and glycine are used as test systems. Interestingly, among obtained low energy structures of benzene we have found a peculiar polymeric benzene structure.",
+  "authors": [
+   "Nikita Rybin",
+   "Ivan S. Novikov",
+   "Alexander Shapeev"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Nikita Rybin",
+  "pdf_url": "http://arxiv.org/pdf/2410.03484",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-10-04",
+  "tags": [
+   "active-learning"
+  ],
+  "title": "Accelerating Structure Prediction of Molecular Crystals using Actively Trained Moment Tensor Potential",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-10-04"
+ },
+ "2410.04140": {
+  "abstract": "Knowledge distillation aims to transfer knowledge from a large teacher model to a compact student counterpart, often coming with a significant performance gap between them. We find that a too-large performance gap can hamper the training process, which is also verified in recent studies. To address this, we propose a Gap Preserving Distillation (GPD) method that trains an additional dynamic teacher model from scratch along with training the student to bridge this gap. In this way, it becomes possible to maintain a reasonable performance gap between teacher and student during the whole distillation process. To further strengthen distillation from the dynamic teacher to the student, we develop a hard strategy by enforcing them to share parameters and encouraging parameter inheritance. Besides hard strategy, we also build the soft bidirectional mappings between them which are built on an Inverse Reparameterization (IR) method and a Channel-Branch Reparameterization (CBR) strategy. We highlight that our IR is able to initialize a larger dynamic teacher with an arbitrary expansion ratio, while preserving exactly the same accuracy as the given student model. In this way, it guarantees that the dynamic teacher and student start from the same point and avoid a too large gap in early stage of training. As for our CBR, with parameter-sharing, it directly extracts an effective student model from the well-learned dynamic teacher without any post-training, making our method highly flexible for model deployment. In the experiments, GPD significantly outperforms existing distillation methods on top of both CNNs and transformers architectures, achieving up to 1.58% accuracy improvement. Interestingly, GPD also generalizes well to the scenarios without a pre-trained teacher, including training from scratch and fine-tuning, yielding a large improvement of 1.80% and 0.89% on ResNet18, respectively.",
+  "authors": [
+   "Yong Guo",
+   "Shulian Zhang",
+   "Haolin Pan",
+   "Jing Liu",
+   "Yulun Zhang",
+   "Jian Chen"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "10 pages for the main paper",
+  "first_author": "Yong Guo",
+  "pdf_url": "http://arxiv.org/pdf/2410.04140",
+  "primary_category": "cs.CV",
+  "published": "2024-10-05",
+  "tags": [
+   "distillation",
+   "knowledge-distillation"
+  ],
+  "title": "Gap Preserving Distillation by Building Bidirectional Mappings with A Dynamic Teacher",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-10-05"
+ },
+ "2410.05307": {
+  "abstract": "Machine learning has emerged as a potent computational tool for expediting research and development in solid oxide fuel cell electrodes. The effective application of machine learning for performance prediction requires transforming electrode microstructure into a format compatible with artificial neural networks. Input data may range from a comprehensive digital material representation of the electrode to a selected set of microstructural parameters. The chosen representation significantly influences the performance and results of the network. Here, we show a novel approach utilizing persistence representation derived from computational topology. Using 500 microstructures and current-voltage characteristics obtained with 3D first-principles simulations, we have prepared an artificial neural network model that can replicate current-voltage characteristics of unseen microstructures based on their persistent image representation. The artificial neural network can accurately predict the polarization curve of solid oxide fuel cell electrodes. The presented method incorporates complex microstructural information from the digital material representation while requiring substantially less computational resources (preprocessing and prediction time approximately 1 min) compared to our high-fidelity simulations (simulation time approximately 1 hour) to obtain a single current-potential characteristic for one microstructure.",
+  "authors": [
+   "Maksym Szemer",
+   "Szymon Buchaniec",
+   "Tomasz Prokop",
+   "Grzegorz Brus"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "20 pages, 12 figures, submitted to Energy and AI",
+  "first_author": "Maksym Szemer",
+  "pdf_url": "http://arxiv.org/pdf/2410.05307",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-10-04",
+  "tags": [
+   "fuel-cells"
+  ],
+  "title": "Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-04"
+ },
+ "2410.06060": {
+  "abstract": "Predicting the thermodynamic properties of mixtures is crucial for process design and optimization in chemical engineering. Machine learning (ML) methods are gaining increasing attention in this field, but experimental data for training are often scarce, which hampers their application. In this work, we introduce a novel generic approach for improving data-driven models: inspired by the ancient rule \"similia similibus solvuntur\", we lump components that behave similarly into chemical classes and model them jointly in the first step of a hierarchical approach. While the information on class affiliations can stem in principle from any source, we demonstrate how classes can reproducibly be defined based on mixture data alone by agglomerative clustering. The information from this clustering step is then used as an informed prior for fitting the individual data. We demonstrate the benefits of this approach by applying it in connection with a matrix completion method (MCM) for predicting isothermal activity coefficients at infinite dilution in binary mixtures. Using clustering leads to significantly improved predictions compared to an MCM without clustering. Furthermore, the chemical classes learned from the clustering give exciting insights into what matters on the molecular level for modeling given mixture properties.",
+  "authors": [
+   "Dominik Gond",
+   "Jan-Tobias Sohns",
+   "Heike Leitte",
+   "Hans Hasse",
+   "Fabian Jirasek"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Dominik Gond",
+  "pdf_url": "http://arxiv.org/pdf/2410.06060",
+  "primary_category": "cs.LG",
+  "published": "2024-10-08",
+  "tags": [
+   "chemical-engineering",
+   "process-design"
+  ],
+  "title": "Hierarchical Matrix Completion for the Prediction of Properties of Binary Mixtures",
+  "topics": [
+   "Process Control & Optimization",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-10-08"
+ },
+ "2410.06422": {
+  "abstract": "Lithium-ion batteries are a key energy storage technology driving revolutions in mobile electronics, electric vehicles and renewable energy storage. Capacity retention is a vital performance measure that is frequently utilized to assess whether these batteries have approached their end-of-life. Machine learning (ML) offers a powerful tool for predicting capacity degradation based on past data, and, potentially, prior physical knowledge, but the degree to which an ML prediction can be trusted is of significant practical importance in situations where consequential decisions must be made based on battery state of health. This study explores the efficacy of fully Bayesian machine learning in forecasting battery health with the quantification of uncertainty in its predictions. Specifically, we implemented three probabilistic ML approaches and evaluated the accuracy of their predictions and uncertainty estimates: a standard Gaussian process (GP), a structured Gaussian process (sGP), and a fully Bayesian neural network (BNN). In typical applications of GP and sGP, their hyperparameters are learned from a single sample while, in contrast, BNNs are typically pre-trained on an existing dataset to learn the weight distributions before being used for inference. This difference in methodology gives the BNN an advantage in learning global trends in a dataset and makes BNNs a good choice when training data is available. However, we show that pre-training can also be leveraged for GP and sGP approaches to learn the prior distributions of the hyperparameters and that in the case of the pre-trained sGP, similar accuracy and improved uncertainty estimation compared to the BNN can be achieved. This approach offers a framework for a broad range of probabilistic machine learning scenarios where past data is available and can be used to learn priors for (hyper)parameters of probabilistic ML models.",
+  "authors": [
+   "Michael J. Kenney",
+   "Katerina G. Malollari",
+   "Sergei V. Kalinin",
+   "Maxim Ziatdinov"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Michael J. Kenney",
+  "pdf_url": "http://arxiv.org/pdf/2410.06422",
+  "primary_category": "cs.LG",
+  "published": "2024-10-08",
+  "tags": [
+   "energy-storage",
+   "gaussian-process"
+  ],
+  "title": "Predicting Battery Capacity Fade Using Probabilistic Machine Learning Models With and Without Pre-Trained Priors",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-08"
+ },
+ "2410.06433": {
+  "abstract": "The key challenge in advancing multivalent-ion batteries lies in finding suitable intercalation hosts. Open-tunnel oxides, featuring one-dimensional channels or nanopores, show promise for enabling effective ion transport. However, the vast range of compositional possibilities renders traditional experimental and quantum-based methods impractical for large-scale studies. This work presents a generative AI framework that uses the Crystal Diffusion Variational Autoencoder (CDVAE) and a fine-tuned Large Language Model (LLM) to expedite the discovery of stable open-tunneled oxide materials for multivalent-ion batteries.   By combining machine learning with data mining techniques, five promising transition metal oxide (TMO) structures are generated. These structures, known for forming open-tunnel oxide frameworks, are structurally validated through Density Functional Theory (DFT). The results show that the generated structures have lower formation energies compared to similar compositions in the Materials Project (MP) database, indicating improved thermodynamic stability.   Additionally, the graph-based M3GNet model is employed to relax further generated structures, providing a more computationally efficient alternative to DFT. Machine learning-based predictions of formation energy, band gap, and energy above the hull refine the selection process, leading to the identification of materials with significant potential for real-world battery applications. This research demonstrates the power of generative AI in rapidly exploring the vast chemical space of TMOs, offering a new approach to discovering stable open-tunnel oxides for multivalent-ion batteries. The results highlight the potential of this approach to contribute to more sustainable energy storage technologies, addressing the growing concerns surrounding the scarcity of lithium.",
+  "authors": [
+   "Joy Datta",
+   "Dibakar Datta",
+   "Amruth Nadimpally",
+   "Nikhil Koratkar"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 10 figures",
+  "first_author": "Joy Datta",
+  "pdf_url": "http://arxiv.org/pdf/2410.06433",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-10-09",
+  "tags": [
+   "dft",
+   "energy-storage",
+   "large-language-models"
+  ],
+  "title": "Generative AI for Discovering Porous Oxide Materials for Next-Generation Energy Storage",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-09"
+ },
+ "2410.06469": {
+  "abstract": "Unpredictability of battery lifetime has been a key stumbling block to technology advancement of safety-critical systems such as electric vehicles and stationary energy storage systems. In this work, we present a novel hybrid fusion strategy that combines physics-based and data-driven approaches to accurately predict battery capacity. This strategy achieves an average estimation error of only 0.63% over the entire battery lifespan, utilizing merely 45 real-world data segments along with over 1.7 million simulated data segments derived from random partial charging cycles. By leveraging a thoroughly validated physics-based battery model, we extract typical aging patterns from laboratory aging data and extend them into a more comprehensive parameter space, encompassing diverse battery aging states in potential real-world applications while accounting for practical cell-to-cell variations. By bridging the gap between controlled laboratory experiments and real-world usage scenarios, this method highlights the significant potential of transferring underlying knowledge from high-fidelity physics-based models to data-driven models for predicting the behavior of complex dynamical systems.",
+  "authors": [
+   "Yisheng Liu",
+   "Boru Zhou",
+   "Tengwei Pang",
+   "Guodong Fan",
+   "Xi Zhang"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Yisheng Liu",
+  "pdf_url": "http://arxiv.org/pdf/2410.06469",
+  "primary_category": "cs.CE",
+  "published": "2024-10-09",
+  "tags": [
+   "battery-modeling",
+   "energy-storage"
+  ],
+  "title": "Hybrid Fusion for Battery Degradation Diagnostics Using Minimal Real-World Data: Bridging Laboratory and Practical Applications",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-09"
+ },
+ "2410.08154": {
+  "abstract": "Hydrogen production is a vital process in the quest for decarbonization and a sustainable future. This conversation explores the various technologies used in hydrogen production, such as steam methane reforming, electrolysis, and biomass gasification. These methods have different applications and efficiencies, but all contribute to the production of hydrogen gas. The future of hydrogen production looks promising, as it offers a clean and versatile energy source that can be used in various sectors, including transportation, industry, and power generation. The increasing demand for hydrogen in these sectors, coupled with the global push for decarbonization, highlights the importance of advancing hydrogen production technologies and infrastructure. This paper focuses broadly on different methods of hydrogen production like steam methane reforming, electrolysis, and biomass gasification. Steam methane reforming is currently the most common method, accounting for about 95% of global hydrogen production. Electrolysis is another method that uses electricity to split water into hydrogen and oxygen. Biomass gasification involves converting organic materials into hydrogen gas through a thermochemical process. The renewable energy sources considered are water and biomass and the methods considered are Electrolysis (grid), thermolysis, thermochemical water splitting, photoelectrochemical water splitting, and gasification. Electrolysis of water to produce hydrogen accounts for about 5% of the total hydrogen production. Statistically, global hydrogen production reached about USD 155.35 billion in 2022, with the majority of it being used in the petroleum refining and ammonia production industries. As for applications, hydrogen can be used as a fuel for fuel cell vehicles, as a feedstock for chemical processes, and as a storage medium for renewable energy.",
+  "authors": [
+   "Mohammad Abubakr",
+   "Suhaib Shahid",
+   "Iram Arman"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": "8 pages, 8 figures, International Conference on Advances in Chemical and Applied Sciences for Sustainable Development (ACASSD-2024)",
+  "first_author": "Mohammad Abubakr",
+  "pdf_url": "http://arxiv.org/pdf/2410.08154",
+  "primary_category": "physics.app-ph",
+  "published": "2024-10-10",
+  "tags": [
+   "chemical-engineering",
+   "electrolysis",
+   "fuel-cells",
+   "hydrogen-production"
+  ],
+  "title": "A Review on Hydrogen Production Technologies and Its Future Demand",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-10"
+ },
+ "2410.09166": {
+  "abstract": "Battery energy storage systems (BESS) play an increasingly vital role in integrating renewable generation into power grids due to their ability to dynamically balance supply. Grid-tied batteries typically employ power converters, where part-load efficiencies vary non-linearly. While this non-linearity can be modeled with high accuracy, it poses challenges for optimization, particularly in ensuring computational tractability. In this paper, we consider a non-linear BESS formulation based on the Energy Reservoir Model (ERM). A data-driven approach is introduced with the input-convex neural network (ICNN) to approximate the nonlinear efficiency with a convex function. The epigraph of the convex function is used to engender a convex program for battery ERM optimization. This relaxed ICNN method is applied to two battery optimization use-cases: PV smoothing and revenue maximization, and it is compared with three other ERM formulations (nonlinear, linear, and mixed-integer). Specifically, ICNN-based methods appear to be promising for future battery optimization with desirable feasibility and optimality outcomes across both use-cases.",
+  "authors": [
+   "Arash Omidi",
+   "Tanmay Mishra",
+   "Mads R. Almassalkhi"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Arash Omidi",
+  "pdf_url": "http://arxiv.org/pdf/2410.09166",
+  "primary_category": "eess.SY",
+  "published": "2024-10-11",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Towards Input-Convex Neural Network Modeling for Battery Optimization in Power Systems",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-11"
+ },
+ "2410.09212": {
+  "abstract": "The increasingly large number of complex organic molecules detected in the interstellar medium necessitates robust kinetic models that can be relied upon for investigating the involved chemical processes. Such models require rate constants for each of the thousands of reactions; the values of these are often estimated or extrapolated, leading to large uncertainties that are rarely quantified. We have performed a global Monte Carlo and a more local one-at-a-time sensitivity analysis on the gas-phase rate coefficients in a 3-phase dark cloud model. Time-dependent sensitivities have been calculated using four metrics to determine key reactions for the overall network as well as for the cyanonaphthalene molecule in particular, an important interstellar species that is severely under-produced by current models. All four metrics find that reactions involving small, reactive species that initiate hydrocarbon growth have large effects on the overall network. Cyanonaphthalene is most sensitive to a number of these reactions as well as ring-formation of the phenyl cation (C6H5+) and aromatic growth from benzene to naphthalene. Future efforts should prioritize constraining rate coefficients of key reactions and expanding the network surrounding these processes. These results highlight the strength of sensitivity analysis techniques to identify critical processes in complex chemical networks, such as those often used in astrochemical modeling.",
+  "authors": [
+   "Alex N. Byrne",
+   "Ci Xue",
+   "Troy Van Voorhis",
+   "Brett A. McGuire"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "21 pages and 13 figures, accepted for publication in Physical Chemistry Chemical Physics",
+  "first_author": "Alex N. Byrne",
+  "pdf_url": "http://arxiv.org/pdf/2410.09212",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-10-11",
+  "tags": [
+   "chemical-engineering"
+  ],
+  "title": "Sensitivity Analysis of Aromatic Chemistry to Gas-Phase Kinetics in a Dark Molecular Cloud Model",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-10-11"
+ },
+ "2410.12398": {
+  "abstract": "Control of nonlinear distributed parameter systems (DPS) under uncertainty is a meaningful task for many industrial processes. However, both intrinsic uncertainty and high dimensionality of DPS require intensive computations, while non-convexity of nonlinear systems can inhibit the computation of global optima during the control procedure. In this work, polynomial chaos expansion (PCE) was used to account for the uncertainties in quantities of interest through a systematic data collection from the high-fidelity simulator. Then the proper orthogonal decomposition (POD) method was adopted to project the high-dimensional nonlinear dynamics of the computed statistical moments/bounds onto a low-dimensional subspace, where recurrent neural networks (RNNs) were subsequently built to capture the reduced dynamics. Finally, the reduced RNNs based model predictive control (MPC) would generate a set of sequential optimisation problems, of which near global optima could be computed through the mixed integer linear programming (MILP) reformulation techniques and advanced MILP solver. The effectiveness of the proposed framework is demonstrated through two case studies: a chemical tubular reactor and a cell-immobilisation packed-bed bioreactor for the bioproduction of succinic acid.",
+  "authors": [
+   "Min Tao",
+   "Ioannis Zacharopoulos",
+   "Constantinos Theodoropoulos"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Min Tao",
+  "pdf_url": "http://arxiv.org/pdf/2410.12398",
+  "primary_category": "math.OC",
+  "published": "2024-10-16",
+  "tags": [
+   "mpc",
+   "packed-bed"
+  ],
+  "title": "Robust model predictive control for large-scale distributed parameter systems under uncertainty",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-10-16"
+ },
+ "2410.12925": {
+  "abstract": "This work presents a novel framework for physically consistent model error characterization and operator learning for reduced-order models of non-equilibrium chemical kinetics. By leveraging the Bayesian framework, we identify and infer sources of model and parametric uncertainty within the Coarse-Graining Methodology across a range of initial conditions. The model error is embedded into the chemical kinetics model to ensure that its propagation to quantities of interest remains physically consistent. For operator learning, we develop a methodology that separates time dynamics from other input parameters. Karhunen-Loeve Expansion (KLE) is employed to capture time dynamics, yielding temporal modes, while Polynomial Chaos Expansion (PCE) is subsequently used to map model error and input parameters to KLE coefficients. The proposed model offers three significant advantages: i) Separating time dynamics from other inputs ensures stability of chemistry surrogate when coupled with fluid solvers; ii) The framework fully accounts for model and parametric uncertainty, enabling robust probabilistic predictions; iii) The surrogate model is highly interpretable, with visualizable time modes and a PCE component that facilitates analytical calculation of sensitivity indices. We apply this framework to O2-O chemistry system under hypersonic flight conditions, validating it in both a 0D adiabatic reactor and coupled simulations with a fluid solver in a 1D shock case. Results demonstrate that the surrogate is stable during time integration, delivers physically consistent probabilistic predictions accounting for model and parametric uncertainty, and achieves maximum relative error below 10%. This work represents a significant step forward in enabling probabilistic predictions of non-equilibrium chemistry with coupled fluid solvers, offering a physically accurate approach for hypersonic flow predictions.",
+  "authors": [
+   "Mridula Kuppa",
+   "Roger Ghanem",
+   "Marco Panesi"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Mridula Kuppa",
+  "pdf_url": "http://arxiv.org/pdf/2410.12925",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-10-16",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "Stochastic Operator Learning for Chemistry in Non-Equilibrium Flows",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2024-10-16"
+ },
+ "2410.13228": {
+  "abstract": "Physics-Informed Neural Networks (PINNs) have emerged as a key tool in Scientific Machine Learning since their introduction in 2017, enabling the efficient solution of ordinary and partial differential equations using sparse measurements. Over the past few years, significant advancements have been made in the training and optimization of PINNs, covering aspects such as network architectures, adaptive refinement, domain decomposition, and the use of adaptive weights and activation functions. A notable recent development is the Physics-Informed Kolmogorov-Arnold Networks (PIKANS), which leverage a representation model originally proposed by Kolmogorov in 1957, offering a promising alternative to traditional PINNs. In this review, we provide a comprehensive overview of the latest advancements in PINNs, focusing on improvements in network design, feature expansion, optimization techniques, uncertainty quantification, and theoretical insights. We also survey key applications across a range of fields, including biomedicine, fluid and solid mechanics, geophysics, dynamical systems, heat transfer, chemical engineering, and beyond. Finally, we review computational frameworks and software tools developed by both academia and industry to support PINN research and applications.",
+  "authors": [
+   "Juan Diego Toscano",
+   "Vivek Oommen",
+   "Alan John Varghese",
+   "Zongren Zou",
+   "Nazanin Ahmadi Daryakenari",
+   "Chenxi Wu",
+   "George Em Karniadakis"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "physics.comp-ph"
+  ],
+  "comment": "physics-informed neural networks, Kolmogorov-Arnold networks, optimization algorithms, separable PINNs, self-adaptive weights, uncertainty quantification",
+  "first_author": "Juan Diego Toscano",
+  "pdf_url": "http://arxiv.org/pdf/2410.13228",
+  "primary_category": "cs.LG",
+  "published": "2024-10-17",
+  "tags": [
+   "chemical-engineering",
+   "heat-transfer",
+   "physics-informed-ml",
+   "scientific-machine-learning",
+   "uncertainty-quantification"
+  ],
+  "title": "From PINNs to PIKANs: Recent Advances in Physics-Informed Machine Learning",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-10-22"
+ },
+ "2410.14347": {
+  "abstract": "Carbon emissions are rising at an alarming rate, posing a significant threat to global efforts to mitigate climate change. Electric vehicles have emerged as a promising solution, but their reliance on lithium-ion batteries introduces the critical challenge of battery degradation. Accurate prediction and forecasting of battery degradation over both short and long time spans are essential for optimizing performance, extending battery life, and ensuring effective long-term energy management. This directly influences the reliability, safety, and sustainability of EVs, supporting their widespread adoption and aligning with key UN SDGs. In this paper, we present a novel approach to the prediction and long-term forecasting of battery degradation using Scientific Machine Learning framework which integrates domain knowledge with neural networks, offering more interpretable and scientifically grounded solutions for both predicting short-term battery health and forecasting degradation over extended periods. This hybrid approach captures both known and unknown degradation dynamics, improving predictive accuracy while reducing data requirements. We incorporate ground-truth data to inform our models, ensuring that both the predictions and forecasts reflect practical conditions. The model achieved MSE of 9.90 with the UDE and 11.55 with the NeuralODE, in experimental data, a loss of 1.6986 with the UDE, and a MSE of 2.49 in the NeuralODE, demonstrating the enhanced precision of our approach. This integration of data-driven insights with SciML's strengths in interpretability and scalability allows for robust battery management. By enhancing battery longevity and minimizing waste, our approach contributes to the sustainability of energy systems and accelerates the global transition toward cleaner, more responsible energy solutions, aligning with the UN's SDG agenda.",
+  "authors": [
+   "Sharv Murgai",
+   "Hrishikesh Bhagwat",
+   "Raj Abhijit Dandekar",
+   "Rajat Dandekar",
+   "Sreedath Panat"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Sharv Murgai",
+  "pdf_url": "http://arxiv.org/pdf/2410.14347",
+  "primary_category": "cs.LG",
+  "published": "2024-10-18",
+  "tags": [
+   "energy-systems",
+   "scientific-machine-learning"
+  ],
+  "title": "A Scientific Machine Learning Approach for Predicting and Forecasting Battery Degradation in Electric Vehicles",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-18"
+ },
+ "2410.15083": {
+  "abstract": "Time delays are ubiquitous in industrial processes, and they must be accounted for when designing control algorithms because they have a significant effect on the process dynamics. Therefore, in this work, we propose a simultaneous approach for numerical optimal control of delay differential equations with distributed time delays. Specifically, we linearize the delayed variables around the current time, and we discretize the resulting implicit differential equations using Euler's implicit method. Furthermore, we transcribe the infinite-dimensional optimal control problem into a finite-dimensional nonlinear program, which we solve using Matlab's fmincon. Finally, we demonstrate the efficacy of the approach using a numerical example involving a molten salt nuclear fission reactor.",
+  "authors": [
+   "Tobias K. S. Ritschel"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": "6 pages, 3 figures, 1 table",
+  "first_author": "Tobias K. S. Ritschel",
+  "pdf_url": "http://arxiv.org/pdf/2410.15083",
+  "primary_category": "math.OC",
+  "published": "2024-10-19",
+  "tags": [
+   "optimal-control"
+  ],
+  "title": "Numerical optimal control for distributed delay differential equations: A simultaneous approach based on linearization of the delayed variables",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-10-19"
+ },
+ "2410.15151": {
+  "abstract": "This research proposes a framework for modeling and comparing two electricity scenarios for Nigeria by 2050, focusing on the inclusion and exclusion of electricity storage technologies. A Central Composite Design (CCD) was used to generate a design matrix for data collection, with EnergyPLAN software used to create energy system simulations on the CCD data for four outputs: total annual cost, CO2 emissions, critical excess electricity production (CEEP), and electricity import. Three machine learning algorithms, support vector regression (SVR), extreme gradient boosting (XGBoost), and multi-layer perceptron (MLP), were tuned using Bayesian optimization to develop models mapping the inputs to outputs. A genetic algorithm was employed for multi-objective optimization to determine the optimal input capacities that minimize the outputs. Results indicated that incorporating electricity storage technologies (EST) leads to a 37% increase in renewable electricity sources (RES) share, resulting in a 19.14% reduction in CO2 emissions. EST such as battery energy storage systems (BESS), pumped hydro storage (PHS), and vehicle-to-grid (V2G) storage allow for the storage of the critical excess electricity that comes with increasing RES share. Integrating EST in Nigeria's 2050 energy landscape is crucial for incorporating more renewable electricity sources into the energy system, thereby reducing CO2 emissions and managing excess electricity production. This study outlines a plan for optimal electricity production to meet Nigeria's 2050 demand, highlighting the need for a balanced approach that combines fossil fuels, renewable energy, nuclear power, and advanced storage solutions to achieve a sustainable and efficient electricity system.",
+  "authors": [
+   "Stanley Eshiemogie",
+   "Peace Aielumoh",
+   "Tobechukwu Okamkpa",
+   "Miracle Jude",
+   "Lois Efe",
+   "Andrew Amenaghawon"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "41 Pages",
+  "first_author": "Stanley Eshiemogie",
+  "pdf_url": "http://arxiv.org/pdf/2410.15151",
+  "primary_category": "eess.SY",
+  "published": "2024-10-19",
+  "tags": [
+   "bayesian-inference",
+   "energy-storage",
+   "energy-systems"
+  ],
+  "title": "A Comparative Analysis of Nigeria's Power Sector with and without Grid-Scale Storage: Future Implications for Emission and Renewable Energy Integration",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-10-19"
+ },
+ "2410.16972": {
+  "abstract": "Bayesian optimisation (BO) is a powerful framework for global optimisation of costly functions, using predictions from Gaussian process models (GPs). In this work, we apply BO to functions that exhibit invariance to a known group of transformations. We show that vanilla and constrained BO algorithms are inefficient when optimising such invariant objectives, and provide a method for incorporating group invariances into the kernel of the GP to produce invariance-aware algorithms that achieve significant improvements in sample efficiency. We derive a bound on the maximum information gain of these invariant kernels, and provide novel upper and lower bounds on the number of observations required for invariance-aware BO algorithms to achieve $ε$-optimality. We demonstrate our method's improved performance on a range of synthetic invariant and quasi-invariant functions. We also apply our method in the case where only some of the invariance is incorporated into the kernel, and find that these kernels achieve similar gains in sample efficiency at significantly reduced computational cost. Finally, we use invariant BO to design a current drive system for a nuclear fusion reactor, finding a high-performance solution where non-invariant methods failed.",
+  "authors": [
+   "Theodore Brown",
+   "Alexandru Cioba",
+   "Ilija Bogunovic"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted as a poster at NeurIPS 2024",
+  "first_author": "Theodore Brown",
+  "pdf_url": "http://arxiv.org/pdf/2410.16972",
+  "primary_category": "cs.LG",
+  "published": "2024-10-22",
+  "tags": [
+   "bayesian-inference",
+   "gaussian-process"
+  ],
+  "title": "Sample-efficient Bayesian Optimisation Using Known Invariances",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-10-22"
+ },
+ "2410.17588": {
+  "abstract": "Superconductors, an essential class of functional materials, hold a vital position in both fundamental science and practical applications. However, most superconductors, including MgB$_2$, Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$, and FeSe, are highly sensitive to environmental attacks (such as water and moist air), hindering their wide applications. More importantly, the surface physical and chemical processes of most superconductors in various environments remain poorly understood. Here, we comprehensively investigate the high resistance of superconducting titanium nitride (TiN) epitaxial films against acid and alkali attacks. Unexpectedly, despite immersion in acid and alkaline solutions for over 7 days, the crystal structure and superconducting properties of TiN films remain stable, as demonstrated by high-resolution X-ray diffraction, electrical transport, atomic force microscopy, and scanning electron microscope. Furthermore, combining scanning transmission electron microscopy analysis with density functional theory calculations revealed the corrosion mechanisms: acid corrosions lead to the creation of numerous defects due to the substitution of Cl ions for N anions, whereas alkaline environments significantly reduce the film thickness through the stabilization of OH$^\\ast$ adsorbates. Our results uncover the unexpected stability and durability of superconducting materials against environmental attacks, highlighting their potential for enhanced reliability and longevity in diverse applications.",
+  "authors": [
+   "Zhangyuan Guo",
+   "Min Ge",
+   "You-Qi Zhou",
+   "Jiachang Bi",
+   "Qinghua Zhang",
+   "Jiahui Zhang",
+   "Jin-Tao Ye",
+   "Rongjing Zhai",
+   "Fangfang Ge",
+   "Yuan Huang",
+   "Ruyi Zhang",
+   "Xiong Yao",
+   "Liang-Feng Huang",
+   "Yanwei Cao"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 8 figures",
+  "first_author": "Zhangyuan Guo",
+  "pdf_url": "http://arxiv.org/pdf/2410.17588",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2024-10-23",
+  "tags": [
+   "chemical-engineering",
+   "dft"
+  ],
+  "title": "High resistance of superconducting TiN thin films against environmental attacks",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-10-23"
+ },
+ "2410.18421": {
+  "abstract": "Understanding the dehydrogenation of transition metal oxide surfaces under electrochemical potential is critical to the control of important chemical processes such as the oxygen evolution reaction (OER). Using first principles computations, we model the thermodynamic dehydrogenation process on RuO$_2$(110) and compare the results to experimental cyclic voltammetry (CV) on single crystal. We use a cluster expansion model trained on *ab initio* energy data coupled with Monte Carlo (MC) sampling to derive the macroscopic electrochemical observables, i.e., experimental CV, from the energetics of different hydrogen coverage microstates on well-defined RuO$_2$(110). Our model reproduces the unique \"two-peaks\" cyclic voltammogram observed experimentally with current density peak positions and shapes in good qualitative agreement. We show that RuO$_2$(110) starts as a water-covered surface with hydrogen on bridge (BRG) and coordination-unsaturated sites (CUS) at low potential (less than 0.4 V vs. reversible hydrogen electrode, RHE). As the potential increases, the hydrogens on BRG desorb, becoming the main contributor to the first CV peak with smaller contributions from CUS. When all BRG hydrogens are desorbed (before 1.2 V vs. RHE), the remaining CUS hydrogens desorb abruptly in a very small potential window leading to the sharp second peak observed during CV. Our work shows that above 1.23 V, the OER proceeds on a fully dehydrogenated RuO$_2$(110) surface.",
+  "authors": [
+   "Lei Zhang",
+   "Jan Kloppenburg",
+   "Chia-Yi Lin",
+   "Luka Mitrovic",
+   "Simon Gelin",
+   "Ismaila Dabo",
+   "Darrell G. Schlom",
+   "Jin Suntivich",
+   "Geoffroy Hautier"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "20 pages, 6 figures in Main Text, 3 figures in Supplementary Info,",
+  "first_author": "Lei Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2410.18421",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-10-24",
+  "tags": [
+   "chemical-engineering",
+   "electrochemical-systems",
+   "oxygen-evolution"
+  ],
+  "title": "Atomistic understanding of hydrogen coverage on RuO2(110) surface under electrochemical conditions from ab initio statistical thermodynamics",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-10-24"
+ },
+ "2410.19661": {
+  "abstract": "We present the implementation of a novel economic model predictive control (E-MPC) strategy for froth flotation, the largest tonnage mineral separation process. A previously calibrated and validated dynamic model incorporating froth physics was used, which overcomes the limitations of previous simplified models reported in the literature. The E-MPC's optimal control problem was solved using full discretization with orthogonal collocation over finite elements, employing automatic differentiation via CasADi. This approach was applied in a 30-litre laboratory-scale flotation cell, significantly improving mineral recovery from 9% to 29% under feed flowrate disturbances while maintaining a minimum concentrate grade of 20%.",
+  "authors": [
+   "Paulina Quintanilla",
+   "Daniel Navia",
+   "Stephen Neethling",
+   "Pablo Brito-Parada"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Paulina Quintanilla",
+  "pdf_url": "http://arxiv.org/pdf/2410.19661",
+  "primary_category": "eess.SY",
+  "published": "2024-10-25",
+  "tags": [
+   "economic-mpc",
+   "mpc",
+   "optimal-control",
+   "separations"
+  ],
+  "title": "Experimental implementation of an economic model predictive control for froth flotation",
+  "topics": [
+   "Process Control & Optimization",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-10-25"
+ },
+ "2410.20801": {
+  "abstract": "We propose a workflow based on physics-informed neural networks (PINNs) to model multiphase fluid flow in fractured porous media. After validating the workflow in forward and inverse modeling of a synthetic problem of flow in fractured porous media, we applied it to a real experimental dataset in which brine is injected at a constant pressure drop into a CO2 saturated naturally fractured shale core plug. The exact spatial positions of natural fractures and the dynamic in-situ distribution of fluids were imaged using a CT-scan setup. To model the targeted system, we followed a domain decomposition approach for matrix and fractures and a multi-network architecture for the separate calculation of water saturation and pressure. The flow equations in the matrix, fractures and interplay between them were solved during training. Prior to fully-coupled simulations, we proposed pre-training the model. This aided in a more efficient and successful training of the coupled system. Both for the synthetic and experimental inverse problems, we determined flow parameters within the matrix and the fractures. Multiple random initializations of network and system parameters were performed to assess the uncertainty and uniqueness of the results. The results confirmed the precision of the inverse calculated parameters in retrieving the main flow characteristics of the system. The consideration of multiscale matrix-fracture impacts is commonly overlooked in existing workflows. Accounting for them led to several orders of magnitude variations in the calculated flow properties compared to not accounting for them. To the best of our knowledge, the proposed PINNs-based workflow is the first to offer a reliable and computationally efficient solution for inverse modeling of multiphase flow in fractured porous media, achieved through history-matching noisy and multi-fidelity experimental measurements.",
+  "authors": [
+   "Jassem Abbasi",
+   "Ben Moseley",
+   "Takeshi Kurotori",
+   "Ameya D. Jagtap",
+   "Anthony R. Kovscek",
+   "Aksel Hiorth",
+   "Pål Østebø Andersen"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "47 pages of paper, including 19 figures",
+  "first_author": "Jassem Abbasi",
+  "pdf_url": "http://arxiv.org/pdf/2410.20801",
+  "primary_category": "cs.CE",
+  "published": "2024-10-28",
+  "tags": [
+   "multiphase-flow",
+   "physics-informed-ml"
+  ],
+  "title": "History-Matching of Imbibition Flow in Multiscale Fractured Porous Media Using Physics-Informed Neural Networks (PINNs)",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-10-30"
+ },
+ "2410.21624": {
+  "abstract": "Cells operate in part by compartmentalizing chemical reactions. For example, recent work has shown that chromatin, the material that contains the cell's genome, can auto-regulate its structure by utilizing reaction products (proteins, RNA) to compartmentalize biomolecules via liquid-liquid phase separation (LLPS). Here, we develop a model biomolecular system that permits quantitative investigation of such dynamics, particularly by coupling a phase-separating system of DNA nanostars to an in vitro transcription reaction. The DNA nanostars' sequence is designed such that they self-assemble into liquid droplets only in the presence of a transcribed single-stranded RNA linker. We find that nanostar droplets form with a substantial delay and non-linear response to the kinetics of RNA synthesis. In addition, we utilize the compartments generated by the phase-separation process to engineer an activator/repressor network, where the transcription reaction activates the formation of droplets, and then droplets suppress the transcription reaction by segregating transcription components inside them. Our work on transcription-driven liquid-liquid phase separation constitutes a robust and programmable platform to explore non-equilibrium reaction-phase transition dynamics and could also provide a foundation to understand the dynamics of transcriptional condensate assembly in cells.",
+  "authors": [
+   "Sam Wilken",
+   "Gabrielle R. Abraham",
+   "Omar A. Saleh"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Sam Wilken",
+  "pdf_url": "http://arxiv.org/pdf/2410.21624",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-10-29",
+  "tags": [
+   "separations"
+  ],
+  "title": "Condensation and activator/repressor control of a transcription-regulated biomolecular liquid",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-10-29"
+ },
+ "2410.23405": {
+  "abstract": "Material discovery is a critical area of research with the potential to revolutionize various fields, including carbon capture, renewable energy, and electronics. However, the immense scale of the chemical space makes it challenging to explore all possible materials experimentally. In this paper, we introduce FlowLLM, a novel generative model that combines large language models (LLMs) and Riemannian flow matching (RFM) to design novel crystalline materials. FlowLLM first fine-tunes an LLM to learn an effective base distribution of meta-stable crystals in a text representation. After converting to a graph representation, the RFM model takes samples from the LLM and iteratively refines the coordinates and lattice parameters. Our approach significantly outperforms state-of-the-art methods, increasing the generation rate of stable materials by over three times and increasing the rate for stable, unique, and novel crystals by $\\sim50\\%$ - a huge improvement on a difficult problem. Additionally, the crystals generated by FlowLLM are much closer to their relaxed state when compared with another leading model, significantly reducing post-hoc computational cost.",
+  "authors": [
+   "Anuroop Sriram",
+   "Benjamin Kurt Miller",
+   "Ricky T. Q. Chen",
+   "Brandon M. Wood"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Anuroop Sriram",
+  "pdf_url": "http://arxiv.org/pdf/2410.23405",
+  "primary_category": "cs.LG",
+  "published": "2024-10-30",
+  "tags": [
+   "carbon-capture",
+   "generative-models",
+   "large-language-models"
+  ],
+  "title": "FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-10-30"
+ },
+ "2411.03329": {
+  "abstract": "The High Temperature Reactor Code Package provides sophisticated modeling and simulation capabilities for high temperature gas cooled reactors like the HTR-200 Modul. However, HCP currently lacks integrated methods for uncertainty quantification and sensitivity analysis. This work aims to couple HCP with the DAKOTA toolkit to enable UQ workflows for quantifying how different uncertainties impact HTGR system performance. DAKOTA offers state of the art sampling and analysis methods that will be linked to the HCP time-dependent multiphysics environment. Key input parameters related to manufacturing variability, boundary and initial conditions, and material properties will be defined as uncertain in this study. Both steady state and time-dependent multiphysics simulations will be analyzed to understand the relative importance of uncertainties across different physics phenomena. Output metrics of interest can include anything measured by the HCP code. Results show the HTR-200 Modul design's robustness to input uncertainties related to inlet gas temperature, U-235 enrichment, graphite density, inlet mass flow rate, and reactor power. A pressurized loss of forced cooling transient was simulated against uncertainty in the inlet gas temperature. Results show the maximum fuel temperature is within design limits with a relatively big safety margin even when considering uncertainty in the boundary conditions of the reactor. Future work will expand the analysis to more HCP physics modules and nuclear data uncertainties. By leveraging UQ and sensitivity analysis with the linked HCP/DAKOTA environment, this work will provide valuable new insights into the expected performance variability of HTR systems during normal and off-normal conditions. The framework developed here will aid uncertainty management activities by gas-cooled reactor developers, researchers, and regulators.",
+  "authors": [
+   "W. Osman",
+   "A. Sadek",
+   "M. R. Altahhan",
+   "C. Liu",
+   "M. Avramova",
+   "K. Ivanov"
+  ],
+  "categories": [
+   "physics.ins-det"
+  ],
+  "comment": null,
+  "first_author": "W. Osman",
+  "pdf_url": "http://arxiv.org/pdf/2411.03329",
+  "primary_category": "physics.ins-det",
+  "published": "2024-10-22",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "An Integrated Framework for Uncertainty Quantification in High Temperature Gas Cooled Reactors using the HCP Time-dependent Multiphysics code and Dakota toolkit",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-10-22"
+ }
+}

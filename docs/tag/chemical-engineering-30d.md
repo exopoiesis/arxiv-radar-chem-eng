@@ -1,0 +1,54 @@
+---
+layout: page
+title: "chemical-engineering (30d)"
+current_tag: chemical-engineering
+current_window: 30d
+---
+
+<header class="tag-header">
+  <h1>chemical-engineering — 30d</h1>
+  <span class="paper-count">6 papers</span>
+  <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <strong>30d</strong> <a href="chemical-engineering-90d.html">90d</a> <a href="chemical-engineering-360d.html">360d</a> <a href="chemical-engineering-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26073.html">Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization</a></div><div class="paper-tags"><a href="process-design-30d.html">process-design</a> · <a href="process-modeling-30d.html">process-modeling</a></div></td>
+<td>Teetat Pipattaratonchai et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26073">2604.26073</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="large-language-models-30d.html">large-language-models</a> · <a href="process-design-30d.html">process-design</a></div></td>
+<td>Karim K. Ben Hicham et al.</td>
+<td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18511.html">An adaptive discretization algorithm for locally optimal experimental design with constraints</a></div><div class="paper-tags"><a href="experimental-design-30d.html">experimental-design</a></div></td>
+<td>Jochen Schmid et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18511">2604.18511</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09166.html">Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="process-monitoring-30d.html">process-monitoring</a> · <a href="process-simulation-30d.html">process-simulation</a></div></td>
+<td>Jennifer Werner et al.</td>
+<td><a href="http://arxiv.org/abs/2604.09166">2604.09166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18075.html">Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Justus Arweiler et al.</td>
+<td><a href="http://arxiv.org/abs/2510.18075">2510.18075</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09293.html">Tuning Plasmonic Metasurfaces via Phase Change Material Substrates for Modulating Reactivity in Light-Driven Reactions</a></div><div class="paper-tags"><a href="photocatalysis-30d.html">photocatalysis</a></div></td>
+<td>Ning Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.09293">2604.09293</a></td>
+</tr>
+</tbody></table>

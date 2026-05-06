@@ -1,0 +1,598 @@
+{
+ "2405.02461": {
+  "abstract": "Machine learning (ML) offers promising new approaches to tackle complex problems and has been increasingly adopted in chemical and materials sciences. Broadly speaking, ML models employ generic mathematical functions and attempt to learn essential physics and chemistry from a large amount of data. Consequently, because of the limited physical or chemical principles in the functional form, the reliability of the predictions is oftentimes not guaranteed, particularly for data far out of distribution. It is critical to quantify the uncertainty in model predictions and understand how the uncertainty propagates to downstream chemical and materials applications. Herein, we review existing uncertainty quantification (UQ) and uncertainty propagation (UP) methods for atomistic ML under a united framework of probabilistic modeling. We first categorize the UQ methods, with the aim to elucidate the similarities and differences between them. We also discuss performance metrics to evaluate the accuracy, precision, calibration, and efficiency of the UQ methods and techniques for model recalibration. With these metrics, we survey existing benchmark studies of the UQ methods using molecular and materials datasets. Furthermore, we discuss UP methods to propagate the uncertainty obtained from ML models in widely used materials and chemical simulation techniques, such as molecular dynamics and microkinetic modeling. We also provide remarks on the challenges and future opportunities of UQ and UP in atomistic ML.",
+  "authors": [
+   "Jin Dai",
+   "Santosh Adhikari",
+   "Mingjian Wen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jin Dai",
+  "pdf_url": "http://arxiv.org/pdf/2405.02461",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-03",
+  "tags": [
+   "microkinetic-modeling",
+   "molecular-dynamics",
+   "uncertainty-quantification"
+  ],
+  "title": "Uncertainty Quantification and Propagation in Atomistic Machine Learning",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2024-08-20"
+ },
+ "2405.20219": {
+  "abstract": "Essential to various practical applications of lithium-ion batteries is the availability of accurate equivalent circuit models. This paper presents a new coupled electro-thermal model for batteries and studies how to extract it from data. We consider the problem of maximum likelihood parameter estimation, which, however, is nontrivial to solve as the model is nonlinear in both its dynamics and measurement. We propose to leverage the Bayesian optimization approach, owing to its machine learning-driven capability in handling complex optimization problems and searching for global optima. To enhance the parameter search efficiency, we dynamically narrow and refine the search space in Bayesian optimization. The proposed system identification approach can efficiently determine the parameters of the coupled electro-thermal model. It is amenable to practical implementation, with few requirements on the experiment, data types, and optimization setups, and well applicable to many other battery models.",
+  "authors": [
+   "Hao Tu",
+   "Xinfan Lin",
+   "Yebin Wang",
+   "Huazhen Fang"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "2024 American Control Conference(ACC)",
+  "first_author": "Hao Tu",
+  "pdf_url": "http://arxiv.org/pdf/2405.20219",
+  "primary_category": "eess.SY",
+  "published": "2024-05-30",
+  "tags": [
+   "bayesian-inference",
+   "system-identification"
+  ],
+  "title": "System Identification for Lithium-Ion Batteries with Nonlinear Coupled Electro-Thermal Dynamics via Bayesian Optimization",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-08-20"
+ },
+ "2407.10844": {
+  "abstract": "Graph neural networks (GNNs) have been shown to be astonishingly capable models for molecular property prediction, particularly as surrogates for expensive density functional theory calculations of relaxed energy for novel material discovery. However, one limitation of GNNs in this context is the lack of useful uncertainty prediction methods, as this is critical to the material discovery pipeline. In this work, we show that uncertainty quantification for relaxed energy calculations is more complex than uncertainty quantification for other kinds of molecular property prediction, due to the effect that structure optimizations have on the error distribution. We propose that distribution-free techniques are more useful tools for assessing calibration, recalibrating, and developing uncertainty prediction methods for GNNs performing relaxed energy calculations. We also develop a relaxed energy task for evaluating uncertainty methods for equivariant GNNs, based on distribution-free recalibration and using the Open Catalyst Project dataset. We benchmark a set of popular uncertainty prediction methods on this task, and show that latent distance methods, with our novel improvements, are the most well-calibrated and economical approach for relaxed energy calculations. Finally, we demonstrate that our latent space distance method produces results which align with our expectations on a clustering example, and on specific equation of state and adsorbate coverage examples from outside the training dataset.",
+  "authors": [
+   "Joseph Musielewicz",
+   "Janice Lan",
+   "Matt Uyttendaele",
+   "John R. Kitchin"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Joseph Musielewicz",
+  "pdf_url": "http://arxiv.org/pdf/2407.10844",
+  "primary_category": "cs.LG",
+  "published": "2024-07-15",
+  "tags": [
+   "catalysis",
+   "dft",
+   "graph-neural-networks",
+   "uncertainty-quantification"
+  ],
+  "title": "Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-08-26"
+ },
+ "2407.20802": {
+  "abstract": "Electric Vehicles (EVs) are emerging as battery energy storage systems (BESSs) of increasing importance for different power grid services. However, the unique characteristics of EVs makes them more difficult to operate than dedicated BESSs. In this work, we apply a data-driven learning approach to leverage EVs as a BESS to provide capacity-related services to the grid. The approach uses machine learning to predict how to charge and discharge EVs while satisfying their operational constraints. As a paradigm application, we use flexible energy commercialization in the wholesale markets, but the approach can be applied to a broader range of capacity-related grid services. We evaluate the proposed approach numerically and show that when the number of EVs is large, we can obtain comparable objective values to CPLEX and approximate dynamic programming, but with shorter run times. These reduced run times are important because they allow us to (re)optimize frequently to adapt to the time-varying system conditions.",
+  "authors": [
+   "Gabriele Agliardi",
+   "Giorgio Cortiana",
+   "Anton Dekusar",
+   "Kumar Ghosh",
+   "Naeimeh Mohseni",
+   "Corey O'Meara",
+   "Víctor Valls",
+   "Kavitha Yogaraj",
+   "Sergiy Zhuk"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Gabriele Agliardi",
+  "pdf_url": "http://arxiv.org/pdf/2407.20802",
+  "primary_category": "math.OC",
+  "published": "2024-07-30",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "A Machine Learning Approach to Boost the Vehicle-2-Grid Scheduling",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-08-29"
+ },
+ "2408.01383": {
+  "abstract": "The accurate reconstruction of immiscible fluid-fluid interfaces from the volume fraction field is a critical component of geometric Volume of Fluid (VOF) methods. A common strategy is the Piecewise Linear Interface Calculation (PLIC), which fits a plane in each mixed-phase computational cell. However, recent work goes beyond PLIC by using two planes or even a paraboloid. To select such planes or paraboloids, complex optimization algorithms as well as carefully crafted heuristics are necessary. Yet, the potential exists for a well-trained machine learning model to efficiently provide broadly applicable solutions to the interface reconstruction problem at lower costs. In this work, the viability of a machine learning approach is demonstrated in the context of a single plane reconstruction. A feed-forward deep neural network is used to predict the normal vector of a PLIC plane given volume fraction and phasic barycenter data in a $3\\times3\\times3$ stencil. The PLIC plane is then translated in its cell to ensure exact volume conservation. Our proposed neural network PLIC reconstruction (PLIC-Net) is equivariant to reflections about the Cartesian planes. Training data is analytically generated with $\\mathcal{O}(10^6)$ randomized paraboloid surfaces, which allows for sampling a wide range of interface shapes. PLIC-Net is tested in multiphase flow simulations where it is compared to standard (E)LVIRA reconstruction algorithms, and the impact of training data statistics on PLIC-Net's performance is also explored. It is found that PLIC-Net greatly limits the formation of spurious planes and generates cleaner numerical break-up of the interface. Additionally, the computational cost of PLIC-Net is lower than that of (E)LVIRA. These results establish that machine learning is a viable approach to VOF interface reconstruction and is superior to current reconstruction algorithms for some cases.",
+  "authors": [
+   "Andrew Cahaly",
+   "Fabien Evrard",
+   "Olivier Desjardins"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Andrew Cahaly",
+  "pdf_url": "http://arxiv.org/pdf/2408.01383",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-08-02",
+  "tags": [
+   "multiphase-flow"
+  ],
+  "title": "PLIC-Net: A Machine Learning Approach for 3D Interface Reconstruction in Volume of Fluid Methods",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-08-02"
+ },
+ "2408.02315": {
+  "abstract": "Koopman-based modeling and model predictive control have been a promising alternative for optimal control of nonlinear processes. Good Koopman modeling performance significantly depends on an appropriate nonlinear mapping from the original state-space to a lifted state space. In this work, we propose an input-augmented Koopman modeling and model predictive control approach. Both the states and the known inputs are lifted using two deep neural networks (DNNs), and a Koopman model with nonlinearity in inputs is trained within the higher-dimensional state-space. A Koopman-based model predictive control problem is formulated. To bypass non-convex optimization induced by the nonlinearity in the Koopman model, we further present an iterative implementation algorithm, which approximates the optimal control input via solving a convex optimization problem iteratively. The proposed method is applied to a chemical process and a biological water treatment process via simulations. The efficacy and advantages of the proposed modeling and control approach are demonstrated.",
+  "authors": [
+   "Zhaoyang Li",
+   "Minghao Han",
+   "Dat-Nguyen Vo",
+   "Xunyuan Yin"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Zhaoyang Li",
+  "pdf_url": "http://arxiv.org/pdf/2408.02315",
+  "primary_category": "eess.SY",
+  "published": "2024-08-05",
+  "tags": [
+   "chemical-engineering",
+   "mpc",
+   "optimal-control",
+   "wastewater-treatment"
+  ],
+  "title": "Machine learning-based input-augmented Koopman modeling and predictive control of nonlinear processes",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-08-05"
+ },
+ "2408.02551": {
+  "abstract": "The optimization of yields in multi-reactor systems, which are advanced tools in heterogeneous catalysis research, presents a significant challenge due to hierarchical technical constraints. To this respect, this work introduces a novel approach called process-constrained batch Bayesian optimization via Thompson sampling (pc-BO-TS) and its generalized hierarchical extension (hpc-BO-TS). This method, tailored for the efficiency demands in multi-reactor systems, integrates experimental constraints and balances between exploration and exploitation in a sequential batch optimization strategy. It offers an improvement over other Bayesian optimization methods. The performance of pc-BO-TS and hpc-BO-TS is validated in synthetic cases as well as in a realistic scenario based on data obtained from high-throughput experiments done on a multi-reactor system available in the REALCAT platform. The proposed methods often outperform other sequential Bayesian optimizations and existing process-constrained batch Bayesian optimization methods. This work proposes a novel approach to optimize the yield of a reaction in a multi-reactor system, marking a significant step forward in digital catalysis and generally in optimization methods for chemical engineering.",
+  "authors": [
+   "Markus Grimm",
+   "Sébastien Paul",
+   "Pierre Chainais"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Markus Grimm",
+  "pdf_url": "http://arxiv.org/pdf/2408.02551",
+  "primary_category": "cs.LG",
+  "published": "2024-08-05",
+  "tags": [
+   "bayesian-inference",
+   "catalysis",
+   "chemical-engineering",
+   "heterogeneous-catalysis"
+  ],
+  "title": "Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-08-05"
+ },
+ "2408.04073": {
+  "abstract": "Global optimization of crystal compositions is a significant yet computationally intensive method to identify stable structures within chemical space. The specific physical properties linked to a three-dimensional atomic arrangement make this an essential task in the development of new materials. We present a method that efficiently uses active learning of neural network force fields for structure relaxation, minimizing the required number of steps in the process. This is achieved by neural network force fields equipped with uncertainty estimation, which iteratively guide a pool of randomly generated candidates towards their respective local minima. Using this approach, we are able to effectively identify the most promising candidates for further evaluation using density functional theory (DFT). Our method not only reliably reduces computational costs by up to two orders of magnitude across the benchmark systems Si16 , Na8Cl8 , Ga8As8 and Al4O6 , but also excels in finding the most stable minimum for the unseen, more complex systems Si46 and Al16O24 . Moreover, we demonstrate at the example of Si16 that our method can find multiple relevant local minima while only adding minor computational effort.",
+  "authors": [
+   "Stefaan S. P. Hessmann",
+   "Kristof T. Schütt",
+   "Niklas W. A. Gebauer",
+   "Michael Gastegger",
+   "Tamio Oguchi",
+   "Tomoki Yamashita"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Stefaan S. P. Hessmann",
+  "pdf_url": "http://arxiv.org/pdf/2408.04073",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-08-07",
+  "tags": [
+   "active-learning",
+   "dft"
+  ],
+  "title": "Accelerating crystal structure search through active learning with neural networks for rapid relaxations",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-08-07"
+ },
+ "2408.05551": {
+  "abstract": "CO2 hydrogenation to hydrocarbon refers to an indirect pathway of CO2 utilization. Among them, the conversion of CO2 with green H2 to sustainable aviation fuel (SAF) with high energy density has gained much attention. It offers a promising way to reduce greenhouse gas emissions, address the fossil fuel crises, and transform a climate killer into valuable products. However, this low-carbon technology is intrinsically complicated. It involves the development of a catalyst, the design of a reaction system, and its operation and product refining. Hence, it is important to understand the chemical process of CO2 hydrogenation in the reactor. In this study, numerical simulations of a fixed bed catalytic reactor for CO2-to-SAF conversion are conducted by coupling CFD with heterogeneous catalytic reactions at the catalytic surface. The heat and mass transfer between the catalyst surface and surrounding fluid flow are resolved in the simulation. A detailed understanding of the reacting flow and catalytic processes is obtained from this study. The impact of operating parameters, i.e., temperature, pressure, mass flow rate, and the ratio between CO2 and H2, is also explored, which provides important insights into the catalytic reactor design and operation.",
+  "authors": [
+   "Shan Ruiqin",
+   "MA Shengwei",
+   "Nguyen Van Bo",
+   "Kang Chang Wei",
+   "Lim Teck-Bin Arthur"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.app-ph"
+  ],
+  "comment": "Conference paper",
+  "first_author": "Shan Ruiqin",
+  "pdf_url": "http://arxiv.org/pdf/2408.05551",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-08-10",
+  "tags": [
+   "catalysis",
+   "cfd",
+   "chemical-engineering",
+   "fixed-bed",
+   "mass-transfer",
+   "reactor-design"
+  ],
+  "title": "Numerical Study of CO2 Conversion to SAF in a Fixed Bed Catalytic Reactor",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
+   "Reaction Engineering & Kinetics",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-08-10"
+ },
+ "2408.06580": {
+  "abstract": "Explicit machine learning-based model predictive control (explicit ML-MPC) has been developed to reduce the real-time computational demands of traditional ML-MPC. However, the evaluation of candidate control actions in explicit ML-MPC can be time-consuming due to the non-convex nature of machine learning models. To address this issue, we leverage Input Convex Neural Networks (ICNN) to develop explicit ICNN-MPC, which is formulated as a convex optimization problem. Specifically, ICNN is employed to capture nonlinear system dynamics and incorporated into MPC, with sufficient conditions provided to ensure the convexity of ICNN-based MPC. We then formulate mixed-integer quadratic programming (MIQP) problems based on the candidate control actions derived from the solutions of multi-parametric quadratic programming (mpQP) problems within the explicit ML-MPC framework. Optimal control actions are obtained by solving real-time convex MIQP problems. The effectiveness of the proposed method is demonstrated through two case studies, including a chemical reactor example, and a chemical process network simulated by Aspen Plus Dynamics, where explicit ML-MPC written in Python is integrated with Aspen dynamic simulation through a programmable interface.",
+  "authors": [
+   "Wenlong Wang",
+   "Haohao Zhang",
+   "Yujia Wang",
+   "Yuhe Tian",
+   "Zhe Wu"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Wenlong Wang",
+  "pdf_url": "http://arxiv.org/pdf/2408.06580",
+  "primary_category": "math.OC",
+  "published": "2024-08-13",
+  "tags": [
+   "chemical-engineering",
+   "mpc",
+   "optimal-control"
+  ],
+  "title": "Fast Explicit Machine Learning-Based Model Predictive Control of Nonlinear Processes Using Input Convex Neural Networks",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-08-13"
+ },
+ "2408.07097": {
+  "abstract": "Predictive process monitoring aims to support the execution of a process during runtime with various predictions about the further evolution of a process instance. In the last years a plethora of deep learning architectures have been established as state-of-the-art for different prediction targets, among others the transformer architecture. The transformer architecture is equipped with a powerful attention mechanism, assigning attention scores to each input part that allows to prioritize most relevant information leading to more accurate and contextual output. However, deep learning models largely represent a black box, i.e., their reasoning or decision-making process cannot be understood in detail. This paper examines whether the attention scores of a transformer based next-activity prediction model can serve as an explanation for its decision-making. We find that attention scores in next-activity prediction models can serve as explainers and exploit this fact in two proposed graph-based explanation approaches. The gained insights could inspire future work on the improvement of predictive business process models as well as enabling a neural network based mining of process models from event logs.",
+  "authors": [
+   "Martin Käppel",
+   "Lars Ackermann",
+   "Stefan Jablonski",
+   "Simon Härtl"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Martin Käppel",
+  "pdf_url": "http://arxiv.org/pdf/2408.07097",
+  "primary_category": "cs.LG",
+  "published": "2024-08-12",
+  "tags": [
+   "process-monitoring"
+  ],
+  "title": "Attention Please: What Transformer Models Really Learn for Process Prediction",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-08-12"
+ },
+ "2408.07608": {
+  "abstract": "Inverse design of solid-state materials with desired properties represents a formidable challenge in materials science. Although recent generative models have demonstrated potential, their adoption has been hindered by limitations such as inefficiency, architectural constraints and restricted open-source availability. The representation of crystal structures using the SLICES (Simplified Line-Input Crystal-Encoding System) notation as a string of characters enables the use of state-of-the-art natural language processing models, such as Transformers, for crystal design. Drawing inspiration from the success of GPT models in generating coherent text, we trained a generative Transformer on the next-token prediction task to generate solid-state materials with targeted properties. We demonstrate MatterGPT's capability to generate de novo crystal structures with targeted single properties, including both lattice-insensitive (formation energy) and lattice-sensitive (band gap) properties. Furthermore, we extend MatterGPT to simultaneously target multiple properties, addressing the complex challenge of multi-objective inverse design of crystals. Our approach showcases high validity, uniqueness, and novelty in generated structures, as well as the ability to generate materials with properties beyond the training data distribution. This work represents a significant step forward in computational materials discovery, offering a powerful and open tool for designing materials with tailored properties for various applications in energy, electronics, and beyond.",
+  "authors": [
+   "Yan Chen",
+   "Xueru Wang",
+   "Xiaobin Deng",
+   "Yilun Liu",
+   "Xi Chen",
+   "Yunwei Zhang",
+   "Lei Wang",
+   "Hang Xiao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "20 pages, 6 figures",
+  "first_author": "Yan Chen",
+  "pdf_url": "http://arxiv.org/pdf/2408.07608",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-08-14",
+  "tags": [
+   "generative-models",
+   "materials-discovery"
+  ],
+  "title": "MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-08-14"
+ },
+ "2408.09713": {
+  "abstract": "Carbon footprint accounting is crucial for quantifying greenhouse gas emissions and achieving carbon neutrality.The dynamic nature of processes, accounting rules, carbon-related policies, and energy supply structures necessitates real-time updates of CFA. Traditional life cycle assessment methods rely heavily on human expertise, making near-real-time updates challenging. This paper introduces a novel approach integrating large language models (LLMs) with retrieval-augmented generation technology to enhance the real-time, professional, and economical aspects of carbon footprint information retrieval and analysis. By leveraging LLMs' logical and language understanding abilities and RAG's efficient retrieval capabilities, the proposed method LLMs-RAG-CFA can retrieve more relevant professional information to assist LLMs, enhancing the model's generative abilities. This method offers broad professional coverage, efficient real-time carbon footprint information acquisition and accounting, and cost-effective automation without frequent LLMs' parameter updates. Experimental results across five industries(primary aluminum, lithium battery, photovoltaic, new energy vehicles, and transformers)demonstrate that the LLMs-RAG-CFA method outperforms traditional methods and other LLMs, achieving higher information retrieval rates and significantly lower information deviations and carbon footprint accounting deviations. The economically viable design utilizes RAG technology to balance real-time updates with cost-effectiveness, providing an efficient, reliable, and cost-saving solution for real-time carbon emission management, thereby enhancing environmental sustainability practices.",
+  "authors": [
+   "Haijin Wang",
+   "Mianrong Zhang",
+   "Zheng Chen",
+   "Nan Shang",
+   "Shangheng Yao",
+   "Fushuan Wen",
+   "Junhua Zhao"
+  ],
+  "categories": [
+   "cs.IR"
+  ],
+  "comment": null,
+  "first_author": "Haijin Wang",
+  "pdf_url": "http://arxiv.org/pdf/2408.09713",
+  "primary_category": "cs.IR",
+  "published": "2024-08-19",
+  "tags": [
+   "large-language-models",
+   "life-cycle-assessment"
+  ],
+  "title": "Carbon Footprint Accounting Driven by Large Language Models and Retrieval-augmented Generation",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-08-20"
+ },
+ "2408.09989": {
+  "abstract": "This paper introduces an enhanced framework for managing Battery Energy Storage Systems (BESS) in residential communities. The non-convex BESS control problem is first addressed using a gradient-based optimizer, providing a benchmark solution. Subsequently, the problem is tackled using multiple Deep Reinforcement Learning (DRL) agents, with a specific emphasis on the off-policy Soft Actor-Critic (SAC) algorithm. This version of SAC incorporates reward refinement based on this non-convex problem, applying logarithmic scaling to enhance convergence rates. Additionally, a safety mechanism selects only feasible actions from the action space, aimed at improving the learning curve, accelerating convergence, and reducing computation times. Moreover, the state representation of this DRL approach now includes uncertainties quantified in the entropy term, enhancing the model's adaptability across various entropy types. This developed system adheres to strict limits on the battery's State of Charge (SOC), thus preventing breaches of SOC boundaries and extending the battery lifespan. The robustness of the model is validated across several Australian states' districts, each characterized by unique uncertainty distributions. By implementing the refined SAC, the SOC consistently surpasses 50 percent by the end of each day, enabling the BESS control to start smoothly for the next day with some reserve. Finally, this proposed DRL method achieves a mean reduction in optimization time by 50 percent and an average cost saving of 40 percent compared to the gradient-based optimization benchmark.",
+  "authors": [
+   "Alaa Selim",
+   "Huadong Mo",
+   "Hemanshu Pota",
+   "Daoyi Dong"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Alaa Selim",
+  "pdf_url": "http://arxiv.org/pdf/2408.09989",
+  "primary_category": "eess.SY",
+  "published": "2024-08-19",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Adaptive BESS and Grid Setpoints Optimization: A Model-Free Framework for Efficient Battery Management under Dynamic Tariff Pricing",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-08-19"
+ },
+ "2408.11238": {
+  "abstract": "High-entropy alloys (HEAs) exhibit exceptional catalytic performance due to their complex surface structures. However, the vast number of active binding sites in HEAs, as opposed to conventional alloys, presents a significant computational challenge in catalytic applications. To tackle this challenge, robust methods must be developed to efficiently explore the configurational space of HEA catalysts. Here, we introduce a novel approach that combines alchemical perturbation density functional theory (APDFT) with a graph-based correction scheme to explore the binding energy landscape HEAs. Our results demonstrate that APDFT can accurately predict binding energies for isoelectronic permutations in HEAs at minimal computational cost, significantly accelerating configurational space sampling. However, APDFT errors increase substantially when permutations occur near binding sites. To address this issue, we developed a graph-based Gaussian process regression model to correct discrepancies between APDFT and conventional density functional theory values. Our approach enables the prediction of binding energies for hundreds of thousands of configurations with a mean average error of 30 meV, requiring a handful of ab initio simulations.",
+  "authors": [
+   "Mohamed Hendy",
+   "Okan K. Orhan",
+   "Homin Shin",
+   "Ali Malek",
+   "Mauricio Ponga"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mohamed Hendy",
+  "pdf_url": "http://arxiv.org/pdf/2408.11238",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-08-20",
+  "tags": [
+   "catalysis",
+   "dft",
+   "gaussian-process"
+  ],
+  "title": "GAP-DFT: A graph-based alchemical perturbation density functional theory for catalytic high-entropy alloys",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-08-20"
+ },
+ "2408.11373": {
+  "abstract": "Topological semimetals with protected surface states mark a new paradigm of research beyond the early landmarks of band-structure engineering, allowing fabrication of efficient catalyst to harness the rich metallic surface states to activate specific chemical processes. Herein, we demonstrate a facile solid-phase method for in-situ doping of Ir at the Os sites in the Os3Sn7, an alloy with topological states, which significantly improves the photocatalytic performance for the reduction of CO2 to CO and CH4. Experimental evidence combined with theoretical calculations reveal that the nontrivial topological surface states greatly accelerate charge-separation/electron-enrichment and adsorption/activation of CO2 molecules, rendering highly efficient reaction channels to stimulate the formation of *COOH and *CO, as well CHO*. This work shows the promise of achieving high photocatalytic performances with synthesizing topological catalysts and provides hints on the design of novel topological catalysts with superior photoactivity towards the CO2 reduction reaction.",
+  "authors": [
+   "Kangwang Wang",
+   "Longfu Li",
+   "Peifeng Yu",
+   "Nannan Tang",
+   "Lingyong Zeng",
+   "Kuan Li",
+   "Chao Zhang",
+   "Rui Chen",
+   "Zaichen Xiang",
+   "Huichao Wang",
+   "Yongqing Cai",
+   "Kai Yan",
+   "Huixia Luo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": "33 Pages, 6 Figures, 1 Table",
+  "first_author": "Kangwang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2408.11373",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-08-21",
+  "tags": [
+   "adsorption",
+   "catalysis",
+   "chemical-engineering",
+   "co2-reduction",
+   "photocatalysis"
+  ],
+  "title": "Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-08-21"
+ },
+ "2408.12939": {
+  "abstract": "Machine learning potentials (MLPs) offer efficient and accurate material simulations, but constructing the reference ab initio database remains a significant challenge, particularly for catalyst-adsorbate systems. Training an MLP with a small dataset can lead to overfitting, thus limiting its practical applications. This study explores the feasibility of developing computationally cost-effective and accurate MLPs for catalyst-adsorbate systems with a limited number of ab initio references by leveraging a transfer learning strategy from subsets of a comprehensive public database. Using the Open Catalyst Project 2020 (OC20) -- a dataset closely related to our system of interest -- we pre-trained MLP models on OC20 subsets using the ænet-PyTorch framework. We compared several strategies for database subset selection. Our findings indicate that MLPs constructed via transfer learning exhibit better generalizability than those constructed from scratch, as demonstrated by the consistency in the dynamics simulations. Remarkably, transfer learning enhances the stability and accuracy of MLPs for the CuAu/H2O system with approximately 600 reference data points. This approach achieved excellent extrapolation performance in molecular dynamics (MD) simulations for the larger CuAu/6H2O system, sustaining up to 250 ps, whereas MLPs without transfer learning lasted less than 50 ps. We also examine the potential limitations of this strategy. This work proposes an alternative, cost-effective approach for constructing MLPs for the challenging simulation of catalytic systems. Finally, we anticipate that this methodology will pave the way for broader applications in material science and catalysis research, facilitating more efficient and accurate simulations across various systems.",
+  "authors": [
+   "An Niza El Aisnadaa",
+   "Kajjana Boonpalit Robin van der Kruit",
+   "Koen M. Draijer",
+   "Jon Lopez-Zorrilla",
+   "Masahiro Miyauchi",
+   "Akira Yamaguchi",
+   "Nongnuch Artrith"
+  ],
+  "categories": [
+   "cond-mat.dis-nn"
+  ],
+  "comment": "41 pages, 11 figures, 10 SI figures",
+  "first_author": "An Niza El Aisnadaa",
+  "pdf_url": "http://arxiv.org/pdf/2408.12939",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2024-08-23",
+  "tags": [
+   "catalysis",
+   "molecular-dynamics",
+   "transfer-learning"
+  ],
+  "title": "A cost-effective strategy of enhancing machine learning potentials by transfer learning from a multicomponent dataset on ænet-PyTorch",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2024-08-23"
+ },
+ "2408.13927": {
+  "abstract": "Plasmonic materials have got wide attention as a potential candidate for light driven catalysis of chemical conversions by harnessing solar energy to reduce the environmental issues generated by fossil fuels-based bulk chemical industries. Toward diluting this crisis, many reported the utilization of plasmonic nanostructured materials in driving industrially important reactions at normal temperature and pressure. However, these chemical conversions often suffer from low yield difficulties, and poor efficiency problems. Also, the mechanism of energy transfer from plasmon to desired molecules is still not properly understood which retards the efforts of scaling them up. Recent endeavors of using SERS to explore the complex mechanisms associated with plasmonic photocatalysis have shown great promises because of the higher sensitivity of the technique. In this article, our aim is to analyze the role of ultrafast SERS in revealing charge transfer as the primary mechanism of photocatalytic reaction of 4-nitrothiophenol to azobenzene-4,4-dithiol and how nanoparticles other than noble metals can also drive this dimerization reaction with similar potential of noble metals. We also intend to investigate why plasmonic heating occurring at metal surface is inadequate to run photocatalytic conversions. A series of analysis has been done in these works using SERS to gather data and understand the mechanisms involved in the processes by pumping plasmonic resonance simultaneously and investigating signals from molecules at various time delays. These results open the door for researchers to consider SERS as a promising technique to uncover the physical and chemical processes involved in plasmon-driven photocatalysis and to advance toward environment friendly and cost-efficient photochemical conversions in future.",
+  "authors": [
+   "Mahadi Hasan",
+   "Mahamadu Tiah Mahama"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Mahadi Hasan",
+  "pdf_url": "http://arxiv.org/pdf/2408.13927",
+  "primary_category": "physics.optics",
+  "published": "2024-08-25",
+  "tags": [
+   "catalysis",
+   "chemical-engineering",
+   "photocatalysis"
+  ],
+  "title": "Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2024-08-25"
+ },
+ "2408.14146": {
+  "abstract": "Smaller machine learning models, with less complex architectures and sensor inputs, can benefit wearable sensor-based human activity recognition (HAR) systems in many ways, from complexity and cost to battery life. In the specific case of smart factories, optimizing human-robot collaboration hinges on the implementation of cutting-edge, human-centric AI systems. To this end, workers' activity recognition enables accurate quantification of performance metrics, improving efficiency holistically. We present a two-stage semantic-aware knowledge distillation (KD) approach, TSAK, for efficient, privacy-aware, and wearable HAR in manufacturing lines, which reduces the input sensor modalities as well as the machine learning model size, while reaching similar recognition performance as a larger multi-modal and multi-positional teacher model. The first stage incorporates a teacher classifier model encoding attention, causal, and combined representations. The second stage encompasses a semantic classifier merging the three representations from the first stage. To evaluate TSAK, we recorded a multi-modal dataset at a smart factory testbed with wearable and privacy-aware sensors (IMU and capacitive) located on both workers' hands. In addition, we evaluated our approach on OpenPack, the only available open dataset mimicking the wearable sensor placements on both hands in the manufacturing HAR scenario. We compared several KD strategies with different representations to regulate the training process of a smaller student model. Compared to the larger teacher model, the student model takes fewer sensor channels from a single hand, has 79% fewer parameters, runs 8.88 times faster, and requires 96.6% less computing power (FLOPS).",
+  "authors": [
+   "Hymalai Bello",
+   "Daniel Geißler",
+   "Sungho Suh",
+   "Bo Zhou",
+   "Paul Lukowicz"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SP"
+  ],
+  "comment": "Accepted in 27th International Conference on Pattern Recognition (ICPR)",
+  "first_author": "Hymalai Bello",
+  "pdf_url": "http://arxiv.org/pdf/2408.14146",
+  "primary_category": "cs.LG",
+  "published": "2024-08-26",
+  "tags": [
+   "knowledge-distillation"
+  ],
+  "title": "TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-08-26"
+ },
+ "2408.15415": {
+  "abstract": "This paper is an invitation to the process systems engineering community to change the paradigm for process plants. The goal is to achieve much easier convergence while retaining accuracy on par with the rigorous models. Accurate plant models of existing plants can be linear or much less nonlinear if they are based on mass component flows and stream properties per unit mass properties instead of molar flows and mole fractions. Accurate stream properties per unit mass can be calculated at stream specific conditions by linear approximations which in many instances eliminates mole fraction-based flash calculations. Hybrid data-driven node models fit naturally in this paradigm, since they used measured data, which is either in mass or in volumetric units, but never in moles. Instantiation of models at all levels of abstraction (planning, scheduling, optimization, and control models) from the same plant topology representation will ensure inheritance of solutions from mass-only to mass-and-energy to mass-and-energy-and-stream-properties, thereby ensuring consistency of solutions between these models. None of the existing software provides inheritance between different levels of plant abstraction (i.e. inheritance between models for different business applications) or different levels of abstractions per plant sections or per time periods, which motivates this exposition.",
+  "authors": [
+   "Vladimir Mahalec"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Vladimir Mahalec",
+  "pdf_url": "http://arxiv.org/pdf/2408.15415",
+  "primary_category": "eess.SY",
+  "published": "2024-08-27",
+  "tags": [
+   "process-systems-engineering"
+  ],
+  "title": "Hybrid Plant Models Call for a Different Plant Modelling Paradigm and a New Generation of Software (Heresy in the land of moles, fractions, & rigorous physical properties)",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-08-27"
+ },
+ "2409.00210": {
+  "abstract": "Interactions of polyelectrolytes (PEs) with proteins play a crucial role in numerous biological processes, such as the internalization of virus particles into host cells. Although docking, machine learning methods, and molecular dynamics (MD) simulations are utilized to estimate binding poses and binding free energies of small-molecule drugs to proteins, quantitative prediction of the binding thermodynamics of PE-based drugs presents a significant obstacle in computer-aided drug design. This is due to the sluggish dynamics of PEs caused by their size and strong charge-charge correlations. In this paper, we introduce advanced sampling methods based on a force-spectroscopy setup and theoretical modeling to overcome this barrier. We exemplify our method with explicit solvent all-atom MD simulations of interactions of anionic PEs that show antiviral properties, namely heparin and linear polyglycerol sulfate (LPGS), with the SARS-CoV-2 spike protein receptor binding domain (RBD). Our prediction for the binding free energy of LPGS to the wild-type RBD matches experimentally measured dissociation constants within thermal energy, kT, and correctly reproduces the experimental PE-length dependence. We find that LPGS binds to the Delta-variant RBD with an additional free-energy gain of 2.4 kT, compared to the wild-type RBD, in accord with electrostatic arguments. We show that the LPGS-RBD binding is solvent-dominated and enthalpy-driven, though with a large entropy-enthalpy compensation. Our method is applicable to general polymer adsorption phenomena and predicts precise binding free energies and re-configurational friction as needed for drug and drug-delivery design.",
+  "authors": [
+   "Lenard Neander",
+   "Cedric Hannemann",
+   "Roland R. Netz",
+   "Anil Kumar Sahoo"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Lenard Neander",
+  "pdf_url": "http://arxiv.org/pdf/2409.00210",
+  "primary_category": "q-bio.BM",
+  "published": "2024-08-30",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Quantitative Prediction of Protein-Polyelectrolyte Binding Thermodynamics: Adsorption of Heparin-Analog Polysulfates to the SARS-CoV-2 Spike Protein RBD",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-08-30"
+ }
+}

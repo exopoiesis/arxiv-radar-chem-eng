@@ -1,0 +1,581 @@
+{
+ "2406.01528": {
+  "abstract": "In chemical engineering, process data are expensive to acquire, and complex phenomena are difficult to fully model. We explore the use of physics-informed neural networks (PINNs) for modeling dynamic processes with incomplete mechanistic semi-explicit differential-algebraic equation systems and scarce process data. In particular, we focus on estimating states for which neither direct observational data nor constitutive equations are available. We propose an easy-to-apply heuristic to assess whether estimation of such states may be possible. As numerical examples, we consider a continuously stirred tank reactor and a liquid-liquid separator. We find that PINNs can infer immeasurable states with reasonable accuracy, even if respective constitutive equations are unknown. We thus show that PINNs are capable of modeling processes when relatively few experimental data and only partially known mechanistic descriptions are available, and conclude that they constitute a promising avenue that warrants further investigation.",
+  "authors": [
+   "Mehmet Velioglu",
+   "Song Zhai",
+   "Sophia Rupprecht",
+   "Alexander Mitsos",
+   "Andreas Jupke",
+   "Manuel Dahmen"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "manuscript (35 pages, 10 figures, 11 tables), supporting materials (15 pages, 4 figures, 5 tables)",
+  "first_author": "Mehmet Velioglu",
+  "pdf_url": "http://arxiv.org/pdf/2406.01528",
+  "primary_category": "cs.LG",
+  "published": "2024-06-03",
+  "tags": [
+   "chemical-engineering",
+   "physics-informed-ml"
+  ],
+  "title": "Physics-Informed Neural Networks for Dynamic Process Operations with Limited Physical Knowledge and Data",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-09-30"
+ },
+ "2407.10458": {
+  "abstract": "The exceptional electrochemical performance of lithium-ion batteries has spurred considerable interest in advanced battery technologies, particularly those utilizing ternary nickel-cobalt-manganese (NCM) cathode materials, which are renowned for their robust electrochemical performance and structural stability. Building upon this research, investigators have explored doping additional elements into NCM cathode materials to further enhance their electrochemical performance and structural integrity. However, the multitude of doping strategies available for NCM battery systems presents a challenge in determining the most effective approach. In this study, we elucidate the potential of ternary NCM systems as cathode materials for lithium-ion batteries. We compile a comprehensive database of lithium-ion batteries employing NCM systems from various sources of prior research and develop a corresponding data-driven model utilizing graph neural networks to predict optimal doping strategies. Our aim is to provide insights into the NCM-based battery systems for both fundamental understanding and practical applications.",
+  "authors": [
+   "Zirui Zhao",
+   "Dong Luo",
+   "Shuxing Wu",
+   "Kaitong Sun",
+   "Zhan Lin",
+   "Hai-Feng Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Zirui Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2407.10458",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-07-15",
+  "tags": [
+   "electrochemical-systems",
+   "graph-neural-networks"
+  ],
+  "title": "Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.01439": {
+  "abstract": "Dark-field X-ray Microscopy (DFXM) is a novel diffraction-based imaging technique that non-destructively maps the local deformation from crystalline defects in bulk materials. While studies have demonstrated that DFXM can spatially map 3D defect geometries, it is still challenging to interpret DFXM images of the high dislocation density systems relevant to macroscopic crystal plasticity. This work develops a scalable forward model to calculate virtual DFXM images for complex discrete dislocation (DD) structures obtained from atomistic simulations. Our new DD-DFXM model integrates a non-singular formulation for calculating the local strain from the DD structures and an efficient geometrical optics algorithm for computing the DFXM image from the strain. We apply the model to complex DD structures obtained from a large-scale molecular dynamics (MD) simulation of compressive loading on a single-crystal silicon. Simulated DFXM images exhibit prominent feature contrast for dislocations between the multiple slip systems, demonstrating the DFXM's potential to resolve features from dislocation multiplication. The integrated DD-DFXM model provides a toolbox for DFXM experimental design and image interpretation in the context of bulk crystal plasticity for the breadth of measurements across shock plasticity and the broader materials science community.",
+  "authors": [
+   "Yifan Wang",
+   "Nicolas Bertin",
+   "Dayeeta Pal",
+   "Sara J. Irvine",
+   "Kento Katagiri",
+   "Robert E. Rudd",
+   "Leora E. Dresselhaus-Marais"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.comp-ph",
+   "physics.ins-det"
+  ],
+  "comment": null,
+  "first_author": "Yifan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2409.01439",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-02",
+  "tags": [
+   "experimental-design",
+   "molecular-dynamics"
+  ],
+  "title": "Computing virtual dark-field X-ray microscopy images of complex discrete dislocation structures from large-scale molecular dynamics simulations",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.05086": {
+  "abstract": "Utility-scale off-grid renewable power-to-hydrogen systems (OReP2HSs) typically include photovoltaic plants, wind turbines, electrolyzers (ELs), and energy storage systems. As an island system, OReP2HS requires at least one component, generally the battery energy storage system (BESS), that operates for grid-forming control to provide frequency and voltage references and regulate them through transient power support and short-term energy balance regulation. While larger BESS capacity increases this ability, it also raises investment costs. This paper proposes a framework of layered multi-timescale energy management system (EMS) and evaluates the most cost-effective size of the grid-forming BESS in the OReP2HS. The proposed EMS covers the timescales ranging from those for power system transient behaviors to intra-day scheduling, coordinating renewable power, BESS, and ELs. Then, an iterative search procedure based on high-fidelity simulation is employed to determine the size of the BESS with minimal levelized cost of hydrogen (LCOH). Simulations over a reference year, based on the data from a planned OReP2HS project in Inner Mongolia, China, show that with the proposed EMS, the base-case optimal LCOH is 33.212 CNY/kg (4.581 USD/kg). The capital expenditure of the BESS accounts for 17.83% of the total, and the optimal BESS size accounts for 13.6% of the rated hourly energy output of power sources. Sensitivity analysis reveals that by reducing the electrolytic load adjustment time step from 90 to 5 s and increasing its ramping limit from 1% to 10% rated power per second, the BESS size decreases by 53.57%, and the LCOH decreases to 25.458 CNY/kg (3.511 USD/kg). Considering the cost of designing and manufacturing utility-scale ELs with fast load regulation capability, a load adjustment time step of 5-10 s and a ramping limit of 4-6% rated power per second are recommended.",
+  "authors": [
+   "Jie Zhu",
+   "Yiwei Qiu",
+   "Yangjun Zeng",
+   "Yi Zhou",
+   "Shi Chen",
+   "Tianlei Zang",
+   "Buxiang Zhou",
+   "Zhipeng Yu",
+   "Jin Lin"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Jie Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2409.05086",
+  "primary_category": "math.OC",
+  "published": "2024-09-08",
+  "tags": [
+   "electrolysis",
+   "energy-storage"
+  ],
+  "title": "Exploring the Optimal Size of Grid-forming Energy Storage in an Off-grid Renewable P2H System under Multi-timescale Energy Management",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-09-08"
+ },
+ "2409.06443": {
+  "abstract": "Transformers have revolutionized the object detection landscape by introducing DETRs, acclaimed for their simplicity and efficacy. Despite their advantages, the substantial size of these models poses significant challenges for practical deployment, particularly in resource-constrained environments. This paper addresses the challenge of compressing DETR by leveraging knowledge distillation, a technique that holds promise for maintaining model performance while reducing size. A critical aspect of DETRs' performance is their reliance on queries to interpret object representations accurately. Traditional distillation methods often focus exclusively on positive queries, identified through bipartite matching, neglecting the rich information present in hard-negative queries. Our visual analysis indicates that hard-negative queries, focusing on foreground elements, are crucial for enhancing distillation outcomes. To this end, we introduce a novel Group Query Selection strategy, which diverges from traditional query selection in DETR distillation by segmenting queries based on their Generalized Intersection over Union (GIoU) with ground truth objects, thereby uncovering valuable hard-negative queries for distillation. Furthermore, we present the Knowledge Distillation via Query Selection for DETR (QSKD) framework, which incorporates Attention-Guided Feature Distillation (AGFD) and Local Alignment Prediction Distillation (LAPD). These components optimize the distillation process by focusing on the most informative aspects of the teacher model's intermediate features and output. Our comprehensive experimental evaluation of the MS-COCO dataset demonstrates the effectiveness of our approach, significantly improving average precision (AP) across various DETR architectures without incurring substantial computational costs. Specifically, the AP of Conditional DETR ResNet-18 increased from 35.8 to 39.9.",
+  "authors": [
+   "Yi Liu",
+   "Luting Wang",
+   "Zongheng Tang",
+   "Yue Liao",
+   "Yifan Sun",
+   "Lijun Zhang",
+   "Si Liu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Yi Liu",
+  "pdf_url": "http://arxiv.org/pdf/2409.06443",
+  "primary_category": "cs.CV",
+  "published": "2024-09-10",
+  "tags": [
+   "distillation",
+   "knowledge-distillation"
+  ],
+  "title": "Knowledge Distillation via Query Selection for Detection Transformer",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-09-10"
+ },
+ "2409.07545": {
+  "abstract": "We present a versatile framework that employs Physics-Informed Neural Networks (PINNs) to discover the entropic contribution that leads to the constitutive equation for the extra-stress in rheological models of polymer solutions. In this framework the training of the Neural Network is guided by an evolution equation for the conformation tensor which is GENERIC-compliant. We compare two training methodologies for the data-driven PINN constitutive models: one trained on data from the analytical solution of the Oldroyd-B model under steady-state rheometric flows (PINN-rheometric), and another trained on in-silico data generated from complex flow CFD simulations around a cylinder that use the Oldroyd-B model (PINN-complex). The capacity of the PINN models to provide good predictions are evaluated by comparison with CFD simulations using the underlying Oldroyd-B model as a reference. Both models are capable of predicting flow behavior in transient and complex conditions; however, the PINN-complex model, trained on a broader range of mixed flow data, outperforms the PINN-rheometric model in complex flow scenarios. The geometry agnostic character of our methodology allows us to apply the learned PINN models to flows with different topologies than the ones used for training.",
+  "authors": [
+   "David Nieto Simavilla",
+   "Andrea Bonfanti",
+   "Imanol García de Beristain",
+   "Pep Español",
+   "Marco Ellero"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "David Nieto Simavilla",
+  "pdf_url": "http://arxiv.org/pdf/2409.07545",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-11",
+  "tags": [
+   "cfd",
+   "physics-informed-ml"
+  ],
+  "title": "Hammering at the entropy: A GENERIC-guided approach to learning polymeric rheological constitutive equations using PINNs",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-09-11"
+ },
+ "2409.07664": {
+  "abstract": "In an effort to develop a rapid, reliable, and cost-effective method for predicting the structure of single-phase high entropy alloys, a Graph Neural Network (ALIGNN-FF) based approach was introduced. This method was successfully tested on 132 different high entropy alloys, and the results were analyzed and compared with density functional theory and valence electron concentration calculations. Additionally, the effects of various factors, including lattice parameters and the number of supercells with unique atomic configurations, on the prediction accuracy were investigated. The ALIGNN-FF based approach was subsequently used to predict the structure of a novel cobalt-free 3d high entropy alloy, and the result was experimentally verified.",
+  "authors": [
+   "Nicholas Beaver",
+   "Aniruddha Dive",
+   "Marina Wong",
+   "Keita Shimanuki",
+   "Ananya Patil",
+   "Anthony Ferrell",
+   "Mohsen B. Kivy"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "16 pages, 8 Figures. To be published in Results Materials",
+  "first_author": "Nicholas Beaver",
+  "pdf_url": "http://arxiv.org/pdf/2409.07664",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-11",
+  "tags": [
+   "dft",
+   "graph-neural-networks"
+  ],
+  "title": "Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-09-11"
+ },
+ "2409.08231": {
+  "abstract": "This research explores the application of Deep Reinforcement Learning (DRL) to optimize the design of a nuclear fusion reactor. DRL can efficiently address the challenging issues attributed to multiple physics and engineering constraints for steady-state operation. The fusion reactor design computation and the optimization code applicable to parallelization with DRL are developed. The proposed framework enables finding the optimal reactor design that satisfies the operational requirements while reducing building costs. Multi-objective design optimization for a fusion reactor is now simplified by DRL, indicating the high potential of the proposed framework for advancing the efficient and sustainable design of future reactors.",
+  "authors": [
+   "Jinsu Kim",
+   "Jaemin Seo"
+  ],
+  "categories": [
+   "physics.plasm-ph",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "16 pages",
+  "first_author": "Jinsu Kim",
+  "pdf_url": "http://arxiv.org/pdf/2409.08231",
+  "primary_category": "physics.plasm-ph",
+  "published": "2024-09-12",
+  "tags": [
+   "reactor-design"
+  ],
+  "title": "Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2409.09331": {
+  "abstract": "Intelligent real-world systems critically depend on expressive information about their system state and changing operation conditions, e.g., due to variation in temperature, location, wear, or aging. To provide this information, online inference and learning attempts to perform state estimation and (partial) system identification simultaneously. Current works combine tailored estimation schemes with flexible learning-based models but suffer from convergence problems and computational complexity due to many degrees of freedom in the inference problem (i.e., parameters to determine). To resolve these issues, we propose a procedure for data-driven offline conditioning of a highly flexible Gaussian Process (GP) formulation such that online learning is restricted to a subspace, spanned by expressive basis functions. Due to the simplicity of the transformed problem, a standard particle filter can be employed for Bayesian inference. In contrast to most existing works, the proposed method enables online learning of target functions that are nested nonlinearly inside a first-principles model. Moreover, we provide a theoretical quantification of the error, introduced by restricting learning to a subspace. A Monte-Carlo simulation study with a nonlinear battery model shows that the proposed approach enables rapid convergence with significantly fewer particles compared to a baseline and a state-of-the-art method.",
+  "authors": [
+   "Jan-Hendrik Ewering",
+   "Björn Volkmann",
+   "Simon F. G. Ehlers",
+   "Thomas Seel",
+   "Michael Meindl"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "8 pages, 4 figures, accepted for presentation at 2024 Conf. on Decision and Control",
+  "first_author": "Jan-Hendrik Ewering",
+  "pdf_url": "http://arxiv.org/pdf/2409.09331",
+  "primary_category": "eess.SY",
+  "published": "2024-09-14",
+  "tags": [
+   "battery-modeling",
+   "bayesian-inference",
+   "gaussian-process",
+   "system-identification"
+  ],
+  "title": "Efficient Online Inference and Learning in Partially Known Nonlinear State-Space Models by Learning Expressive Degrees of Freedom Offline",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-09-14"
+ },
+ "2409.09583": {
+  "abstract": "In the dynamic and rapidly advancing battery field, alloy anode materials are a focal point due to their superior electrochemical performance. Traditional screening methods are inefficient and time-consuming. Our research introduces a machine learning-assisted strategy to expedite the discovery and optimization of these materials. We compiled a vast dataset from the MP and AFLOW databases, encompassing tens of thousands of alloy compositions and properties. Utilizing a CGCNN, we accurately predicted the potential and specific capacity of alloy anodes, validated against experimental data. This approach identified approximately 120 low potential and high specific capacity alloy anodes suitable for various battery systems including Li, Na, K, Zn, Mg, Ca, and Al-based. Our method not only streamlines the screening of battery anode materials but also propels the advancement of battery material research and innovation in energy storage technology.",
+  "authors": [
+   "Xingyue Shi",
+   "Linming Zhou",
+   "Yuhui Huang",
+   "Yongjun Wu",
+   "Zijian Hong"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "41 pages include SI, 5 figures in main",
+  "first_author": "Xingyue Shi",
+  "pdf_url": "http://arxiv.org/pdf/2409.09583",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-15",
+  "tags": [
+   "electrochemical-systems",
+   "energy-storage"
+  ],
+  "title": "Machine learning assisted screening of metal binary alloys for anode materials",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-09-15"
+ },
+ "2409.10326": {
+  "abstract": "Electrical resistivity tomography is a suitable technique for non-invasive monitoring of municipal solid waste landfills, but accurate sensitivity analysis is necessary to evaluate the effectiveness and reliability of geoelectrical investigations and to properly design data acquisition. Commonly, a thin high-resistivity membrane in placed underneath the waste to prevent leachate leakage. In the construction of a numerical framework for sensitivity computation, taking into account the actual dimensions of the electrodes and, in particular, of the membrane, can lead to extremely high computational costs. In this work, we present a novel approach for numerically computing sensitivity effectively by adopting a mixed-dimensional framework, where the membrane is approximated as a 2D object and the electrodes as 1D objects. The code is first validated against analytical expressions for simple 4-electrode arrays and a homogeneous medium. It is then tested in simplified landfill models, where a 2D box-shaped liner separates the landfill body from the surrounding media, and 48 electrodes are used. The results show that electrodes arranged linearly along both sides of the perimeter edges of the box-shaped liner are promising for detecting liner damage, with sensitivity increasing by 2-3 orders of magnitude, even for damage as small as one-sixth of the electrode spacing in diameter. Good results are also obtained when simulating an electrical connection between the landfill and the surrounding media that is not due to liner damage. The next steps involve evaluating the minimum number of configurations needed to achieve suitable sensitivity with a manageable field effort and validating the modeling results with downscaled laboratory tests.",
+  "authors": [
+   "Lorenzo Panzeri",
+   "Alessio Fumagalli",
+   "Laura Longoni",
+   "Monica Papini",
+   "Diego Arosio"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Lorenzo Panzeri",
+  "pdf_url": "http://arxiv.org/pdf/2409.10326",
+  "primary_category": "math.NA",
+  "published": "2024-09-16",
+  "tags": [],
+  "title": "Sensitivity analysis with a 3D mixed-dimensional code for DC geoelectrical investigations of landfills: synthetic tests",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-09-16"
+ },
+ "2409.11037": {
+  "abstract": "The Co$_3$O$_4$ spinel is an important material in oxidation catalysis. Its properties under catalytic conditions, i.e., at finite temperatures, can be studied by molecular dynamics simulations, which critically depend on an accurate description of the atomic interactions. Due to the high complexity of Co$_3$O$_4$, which is related to the presence of multiple oxidation states of the cobalt ions, to date \\textit{ab initio} methods have been essentially the only way to reliably capture the underlying potential energy surface, while more efficient atomistic potentials are very challenging to construct. Consequently, the accessible length and time scales of computer simulations of systems containing Co$_3$O$_4$ are still severely limited. Rapid advances in the development of modern machine learning potentials (MLPs) trained on electronic structure data now make it possible to bridge this gap. In this work, we employ a high-dimensional neural network potential (HDNNP) to construct a MLP for bulk Co$_3$O$_4$ spinel based on density functional theory calculations. After a careful validation of the potential, we compute various structural, vibrational, and dynamical properties of the Co$_3$O$_4$ spinel with a particular focus on its temperature-dependent behavior, including the thermal expansion coefficient.",
+  "authors": [
+   "Amir Omranpour",
+   "Jörg Behler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Amir Omranpour",
+  "pdf_url": "http://arxiv.org/pdf/2409.11037",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-17",
+  "tags": [
+   "catalysis",
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "A High-Dimensional Neural Network Potential for Co$_3$O$_4$",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2024-09-17"
+ },
+ "2409.11992": {
+  "abstract": "The use of data-driven methods in fluid mechanics has surged dramatically in recent years due to their capacity to adapt to the complex and multi-scale nature of turbulent flows, as well as to detect patterns in large-scale simulations or experimental tests. In order to interpret the relationships generated in the models during the training process, numerical attributions need to be assigned to the input features. One important example are the additive-feature-attribution methods. These explainability methods link the input features with the model prediction, providing an interpretation based on a linear formulation of the models. The SHapley Additive exPlanations (SHAP values) are formulated as the only possible interpretation that offers a unique solution for understanding the model. In this manuscript, the additive-feature-attribution methods are presented, showing four common implementations in the literature: kernel SHAP, tree SHAP, gradient SHAP, and deep SHAP. Then, the main applications of the additive-feature-attribution methods are introduced, dividing them into three main groups: turbulence modeling, fluid-mechanics fundamentals, and applied problems in fluid dynamics and heat transfer. This review shows thatexplainability techniques, and in particular additive-feature-attribution methods, are crucial for implementing interpretable and physics-compliant deep-learning models in the fluid-mechanics field.",
+  "authors": [
+   "Andrés Cremades",
+   "Sergio Hoyas",
+   "Ricardo Vinuesa"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Andrés Cremades",
+  "pdf_url": "http://arxiv.org/pdf/2409.11992",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-18",
+  "tags": [
+   "heat-transfer",
+   "turbulence-modeling"
+  ],
+  "title": "Additive-feature-attribution methods: a review on explainable artificial intelligence for fluid dynamics and heat transfer",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-09-18"
+ },
+ "2409.12048": {
+  "abstract": "Differential Dynamic Programming (DDP) is one of the indirect methods for solving an optimal control problem. Several extensions to DDP have been proposed to add stagewise state and control constraints, which can mainly be classified as augmented lagrangian methods, active set methods, and barrier methods. In this paper, we use an interior point method, which is a type of barrier method, to incorporate arbitrary stagewise equality and inequality state and control constraints. We also provide explicit update formulas for all the involved variables. Finally, we apply this algorithm to example systems such as the inverted pendulum, a continuously stirred tank reactor, car parking, and obstacle avoidance.",
+  "authors": [
+   "Siddharth Prabhu",
+   "Srinivas Rangarajan",
+   "Mayuresh Kothare"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Siddharth Prabhu",
+  "pdf_url": "http://arxiv.org/pdf/2409.12048",
+  "primary_category": "math.OC",
+  "published": "2024-09-18",
+  "tags": [
+   "optimal-control"
+  ],
+  "title": "Differential dynamic programming with stagewise equality and inequality constraints using interior point method",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-09-18"
+ },
+ "2409.12550": {
+  "abstract": "Reliable, real-time state estimation in nuclear reactors is of critical importance for monitoring, control and safety. It further empowers the development of digital twins that are sufficiently accurate for real-world deployment. As nuclear engineering systems are typically characterised by extreme environments, their in-core sensing is a challenging task, even more so in Generation-IV reactor concepts, which feature molten salt or liquid metals as thermal carriers. The emergence of data-driven methods allows for new techniques for accurate and robust estimation of the full state space vector characterising the reactor (mainly composed by neutron fluxes and the thermal-hydraulics fields). These techniques can combine different sources of information, including computational proxy models and local noisy measurements on the system, in order to robustly estimate the state. This work leverages the Shallow Recurrent Decoder (SHRED) architecture to estimate the entire state vector of a reactor from three, out-of-core time-series neutron flux measurements alone. Specifically, the Molten Salt Fast Reactor, in the EVOL geometry (Evaluation and Viability of Liquid Fuel Fast Reactor System project), is demonstrated as a test case, with neutron flux measurements alone allowing for reconstruction of the 20 coupled field variables of the dynamics. This approach can further quantify the uncertainty associated with the state estimation due to its considerably low training cost on compressed data. The accurate reconstruction of every characteristic field in real-time makes this approach suitable for monitoring and control purposes in the framework of a reactor digital twin.",
+  "authors": [
+   "Stefano Riva",
+   "Carolina Introini",
+   "Antonio Cammi",
+   "J. Nathan Kutz"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "math.NA",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Stefano Riva",
+  "pdf_url": "http://arxiv.org/pdf/2409.12550",
+  "primary_category": "physics.ins-det",
+  "published": "2024-09-19",
+  "tags": [
+   "digital-twin"
+  ],
+  "title": "Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2024-09-19"
+ },
+ "2409.13851": {
+  "abstract": "Graph convolutional neural networks (GCNNs) have become a machine learning workhorse for screening the chemical space of crystalline materials in fields such as catalysis and energy storage, by predicting properties from structures. Multicomponent materials, however, present a unique challenge since they can exhibit chemical (dis)order, where a given lattice structure can encompass a variety of elemental arrangements ranging from highly ordered structures to fully disordered solid solutions. Critically, properties like stability, strength, and catalytic performance depend not only on structures but also on orderings. To enable rigorous materials design, it is thus critical to ensure GCNNs are capable of distinguishing among atomic orderings. However, the ordering-aware capability of GCNNs has been poorly understood. Here, we benchmark various neural network architectures for capturing the ordering-dependent energetics of multicomponent materials in a custom-made dataset generated with high-throughput atomistic simulations. Conventional symmetry-invariant GCNNs were found unable to discern the structural difference between the diverse symmetrically inequivalent atomic orderings of the same material, while symmetry-equivariant model architectures could inherently preserve and differentiate the distinct crystallographic symmetries of various orderings.",
+  "authors": [
+   "Jiayu Peng",
+   "James Damewood",
+   "Jessica Karaguesian",
+   "Jaclyn R. Lunger",
+   "Rafael Gómez-Bombarelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiayu Peng",
+  "pdf_url": "http://arxiv.org/pdf/2409.13851",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-20",
+  "tags": [
+   "catalysis",
+   "energy-storage"
+  ],
+  "title": "Learning Ordering in Crystalline Materials with Symmetry-Aware Graph Neural Networks",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.14436": {
+  "abstract": "The process of landscaping automotive innovation through patent analysis is crucial for Research and Development teams. It aids in comprehending innovation trends, technological advancements, and the latest technologies from competitors. Traditionally, this process required intensive manual efforts. However, with the advent of Large Language Models (LLMs), it can now be automated, leading to faster and more efficient patent categorization & state-of-the-art of inventive concept extraction. This automation can assist various R\\&D teams in extracting relevant information from extensive patent databases. This paper introduces a method based on prompt engineering to extract essential information for landscaping. The information includes the problem addressed by the patent, the technology utilized, and the area of innovation within the vehicle ecosystem (such as safety, Advanced Driver Assistance Systems and more).The result demonstrates the implementation of this method to create a landscape of fuel cell technology using open-source patent data. This approach provides a comprehensive overview of the current state of fuel cell technology, offering valuable insights for future research and development in this field.",
+  "authors": [
+   "Raju Gorain",
+   "Omkar Salunke"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.RO"
+  ],
+  "comment": "9pages, 4Figures, 1 Flow chart",
+  "first_author": "Raju Gorain",
+  "pdf_url": "http://arxiv.org/pdf/2409.14436",
+  "primary_category": "cs.CL",
+  "published": "2024-09-22",
+  "tags": [
+   "fuel-cells",
+   "large-language-models"
+  ],
+  "title": "Automotive innovation landscaping using LLM",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-09-22"
+ },
+ "2409.15393": {
+  "abstract": "Neural networks (NN) are extensively studied in cutting-edge soft sensor models due to their feature extraction and function approximation capabilities. Current research into network-based methods primarily focuses on models' offline accuracy. Notably, in industrial soft sensor context, online optimizing stability and interpretability are prioritized, followed by accuracy. This requires a clearer understanding of network's training process. To bridge this gap, we propose a novel NN named the Approximated Orthogonal Projection Unit (AOPU) which has solid mathematical basis and presents superior training stability. AOPU truncates the gradient backpropagation at dual parameters, optimizes the trackable parameters updates, and enhances the robustness of training. We further prove that AOPU attains minimum variance estimation (MVE) in NN, wherein the truncated gradient approximates the natural gradient (NG). Empirical results on two chemical process datasets clearly show that AOPU outperforms other models in achieving stable convergence, marking a significant advancement in soft sensor field.",
+  "authors": [
+   "Shaoqi Wang",
+   "Chunjie Yang",
+   "Siwei Lou"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Shaoqi Wang",
+  "pdf_url": "http://arxiv.org/pdf/2409.15393",
+  "primary_category": "cs.LG",
+  "published": "2024-09-23",
+  "tags": [
+   "chemical-engineering",
+   "soft-sensors"
+  ],
+  "title": "Approximated Orthogonal Projection Unit: Stabilizing Regression Network Training Using Natural Gradient",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2409.18000": {
+  "abstract": "Ensuring safety is a key aspect in sequential decision making problems, such as robotics or process control. The complexity of the underlying systems often makes finding the optimal decision challenging, especially when the safety-critical system is time-varying. Overcoming the problem of optimizing an unknown time-varying reward subject to unknown time-varying safety constraints, we propose TVSafeOpt, a new algorithm built on Bayesian optimization with a spatio-temporal kernel. The algorithm is capable of safely tracking a time-varying safe region without the need for explicit change detection. Optimality guarantees are also provided for the algorithm when the optimization problem becomes stationary. We show that TVSafeOpt compares favorably against SafeOpt on synthetic data, both regarding safety and optimality. Evaluation on a realistic case study with gas compressors confirms that TVSafeOpt ensures safety when solving time-varying optimization problems with unknown reward and safety functions.",
+  "authors": [
+   "Jialin Li",
+   "Marta Zagorowska",
+   "Giulia De Pasquale",
+   "Alisa Rupenyan",
+   "John Lygeros"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.OC"
+  ],
+  "comment": "Accepted to NeurIPS 2024",
+  "first_author": "Jialin Li",
+  "pdf_url": "http://arxiv.org/pdf/2409.18000",
+  "primary_category": "cs.LG",
+  "published": "2024-09-26",
+  "tags": [
+   "bayesian-inference",
+   "process-control"
+  ],
+  "title": "Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2409.18226": {
+  "abstract": "Part II of the present work concerns modeling and analyzing the experimental data obtained in Part I. A computational fluid dynamics (CFD) model of two-dimensional conductive heat transfer and thermocapillary-driven convection is developed. The conservation laws for mass, momentum, and energy are numerically solved by a second-order Godunov finite-volume method using an original Riemann solver developed for the applied equation of state. The CFD model is validated by comparison with the experiments. Formation of two outward vortices in the melt pool is revealed. Surface-active impurities can make the surface tension-temperature function non-monotonous giving raise additional vortices with the opposite inward flow direction. The influence of melt convection on the melt pool size is not considerable in the conditions of selective laser melting (SLM). The flow velocity in the melt pool is around or less than the laser scanning speed. This means insufficient mixing in the melt pool. One cannot expect a complete homogenization of chemical composition when using powder blends in SLM. The correlation between the error of the Rosenthal model and the latent heat of fusion is carefully studied resulting an analytical model for estimating the melt pool depth. In the studied SLM cases, the accuracy of the developed analytical model is within 10% relative the CFD model. The obtained experimental and theoretical results indicate that the melt depth is approximately proportional to linear energy density LED in the typical conditions of SLM. This can be useful when optimizing the SLM process.",
+  "authors": [
+   "Andrey V. Gusarov",
+   "Tatiana V. Tarasova",
+   "Sergey N. Grigoriev"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Andrey V. Gusarov",
+  "pdf_url": "http://arxiv.org/pdf/2409.18226",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-26",
+  "tags": [
+   "cfd",
+   "heat-transfer"
+  ],
+  "title": "Two-dimensional heat transfer and melt flow in the laser-impact zone at selective laser melting of thin walls -- II: Modeling",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2409.20256": {
+  "abstract": "Methodologies for combining the accuracy of data-driven models with extrapolability of physics-based models are described and tested, for the task of building transport models of tokamak fusion reactors that extrapolate well to new operational regimes. Information from multiple physics simulations (the ASTRA transport code with gyro-Bohm and TGLF estimates for turbulent diffusion) as well as multiple distinct experiments (DIII-D and AUG tokamaks) are considered. Applications of the methodology to the task of commissioning and controlling a new reactor such as ITER are discussed.",
+  "authors": [
+   "Joseph Abbate",
+   "Emiliano Fable",
+   "Giovanni Tardini",
+   "Rainer Fischer",
+   "Egemen Kolemen",
+   "ASDEX Upgrade Team"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Joseph Abbate",
+  "pdf_url": "http://arxiv.org/pdf/2409.20256",
+  "primary_category": "physics.plasm-ph",
+  "published": "2024-09-30",
+  "tags": [],
+  "title": "Combing physics-based and data-driven predictions for quantitatively accurate models that extrapolate well; with application to DIII-D, AUG, and ITER tokamak fusion reactors",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-09-30"
+ }
+}

@@ -1,0 +1,1247 @@
+{
+ "2405.11752": {
+  "abstract": "Developing accurate models for chemical reactors is often challenging due to the complexity of reaction kinetics and process dynamics. Traditional approaches require retraining models for each new system, limiting generalizability and efficiency. In this work, we take a step toward foundation models for chemical reactor modeling by introducing a neural network framework that generalizes across diverse reactor types and rapidly adapts to new chemical processes. Our approach leverages meta-learning to pretrain the model on a broad set of reactor dynamics, enabling efficient adaptation to unseen reactions with minimal data. To further enhance generalizability, we incorporate physics-informed fine-tuning, ensuring physically consistent adaptation to new reactor conditions. Our framework is evaluated across three integer-order fundamental reactor types - continuous stirred tank reactors, batch reactors, and plug flow reactors - demonstrating superior few-shot adaptation compared to conventional data-driven, physics-informed, and transfer learning approaches. By combining meta-learning with physics-informed adaptation, this work lays the foundation for a generalizable modeling framework, advancing the development of foundation models for chemical engineering applications. Source code is available at https://github.com/killingbear999/chemical-reactor-foundation-model.",
+  "authors": [
+   "Zihao Wang",
+   "Zhe Wu"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.LG"
+  ],
+  "comment": "Chemical Engineering Research and Design",
+  "first_author": "Zihao Wang",
+  "pdf_url": "http://arxiv.org/pdf/2405.11752",
+  "primary_category": "cs.CE",
+  "published": "2024-05-20",
+  "tags": [
+   "chemical-engineering",
+   "flow-reactors",
+   "large-language-models",
+   "reaction-kinetics",
+   "transfer-learning"
+  ],
+  "title": "Towards Foundation Model for Chemical Reactor Modeling: Meta-Learning with Physics-Informed Adaptation",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2025-05-15"
+ },
+ "2407.20906": {
+  "abstract": "Literature research, vital for scientific work, faces the challenge of surging information volumes exceeding researchers' processing capabilities. We present an automated review generation method based on large language models (LLMs) to overcome efficiency bottlenecks and reduce cognitive load. Our statistically validated evaluation framework demonstrates that the generated reviews match or exceed manual quality, offering broad applicability across research fields without requiring users' domain knowledge. Applied to propane dehydrogenation (PDH) catalysts, our method swiftly analyzed 343 articles, averaging seconds per article per LLM account, producing comprehensive reviews spanning 35 topics, with extended analysis of 1041 articles providing insights into catalysts' properties. Through multi-layered quality control, we effectively mitigated LLMs' hallucinations, with expert verification confirming accuracy and citation integrity while demonstrating hallucination risks reduced to below 0.5\\% with 95\\% confidence. Released Windows application enables one-click review generation, enhancing research productivity and literature recommendation efficiency while setting the stage for broader scientific explorations.",
+  "authors": [
+   "Shican Wu",
+   "Xiao Ma",
+   "Dehui Luo",
+   "Lulu Li",
+   "Xiangcheng Shi",
+   "Xin Chang",
+   "Xiaoyun Lin",
+   "Ran Luo",
+   "Chunlei Pei",
+   "Changying Du",
+   "Zhi-Jian Zhao",
+   "Jinlong Gong"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "physics.data-an"
+  ],
+  "comment": "Code: https://github.com/TJU-ECAT-AI/AutomaticReviewGeneration Data: https://github.com/TJU-ECAT-AI/AutomaticReviewGenerationData This research has been invited for a Short Oral presentation at the 18th ICC - International Congress on Catalysis, taking place in Lyon, France from July 14-19, 2024 Published at https://doi.org/10.1093/nsr/nwaf169 for newer edition",
+  "first_author": "Shican Wu",
+  "pdf_url": "http://arxiv.org/pdf/2407.20906",
+  "primary_category": "cs.CL",
+  "published": "2024-07-30",
+  "tags": [
+   "large-language-models"
+  ],
+  "title": "Automated Review Generation Method Based on Large Language Models",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2025-05-01"
+ },
+ "2409.14106": {
+  "abstract": "Understanding molecular structure and related knowledge is crucial for scientific research. Recent studies integrate molecular graphs with their textual descriptions to enhance molecular representation learning. However, they focus on the whole molecular graph and neglect frequently occurring subgraphs, known as motifs, which are essential for determining molecular properties. Without such fine-grained knowledge, these models struggle to generalize to unseen molecules and tasks that require motif-level insights. To bridge this gap, we propose FineMolTex, a novel Fine-grained Molecular graph-Text pre-training framework to jointly learn coarse-grained molecule-level knowledge and fine-grained motif-level knowledge. Specifically, FineMolTex consists of two pre-training tasks: a contrastive alignment task for coarse-grained matching and a masked multi-modal modeling task for fine-grained matching. In particular, the latter predicts the labels of masked motifs and words, which are selected based on their importance. By leveraging insights from both modalities, FineMolTex is able to understand the fine-grained matching between motifs and words. Finally, we conduct extensive experiments across three downstream tasks, achieving up to 230% improvement in the text-based molecule editing task. Additionally, our case studies reveal that FineMolTex successfully captures fine-grained knowledge, potentially offering valuable insights for drug discovery and catalyst design.",
+  "authors": [
+   "Yibo Li",
+   "Yuan Fang",
+   "Mengmei Zhang",
+   "Chuan Shi"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Accepted by KDD 2025",
+  "first_author": "Yibo Li",
+  "pdf_url": "http://arxiv.org/pdf/2409.14106",
+  "primary_category": "cs.AI",
+  "published": "2024-09-21",
+  "tags": [
+   "catalysis",
+   "catalyst-design"
+  ],
+  "title": "Advancing Molecular Graph-Text Pre-training via Fine-grained Alignment",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2025-05-30"
+ },
+ "2409.17632": {
+  "abstract": "Real-world (bio)chemical processes often exhibit stochastic dynamics with non-trivial correlations and state-dependent fluctuations. Model predictive control (MPC) often must consider these fluctuations to achieve reliable performance. However, most process models simply add stationary noise terms to a deterministic prediction. This work proposes using conditional normalizing flows as discrete-time models to learn stochastic dynamics. Normalizing flows learn the probability density function (PDF) of the states explicitly, given prior states and control inputs. In addition to standard least squares (LSQ) objectives, this work derives a marginal log-likelihood (MLL) objective based on the explicit PDF and Markov chain simulations. In a reactor study, the normalizing flow MPC reduces the setpoint error in open and closed-loop cases to half that of a nominal controller. Furthermore, the chance constraints lead to fewer constraint violations than the nominal controller. The MLL objective yields slightly more stable results than the LSQ, particularly for small scenario sets.",
+  "authors": [
+   "Eike Cramer"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "16 pages, 7 Figures, 10 Tables",
+  "first_author": "Eike Cramer",
+  "pdf_url": "http://arxiv.org/pdf/2409.17632",
+  "primary_category": "cs.LG",
+  "published": "2024-09-26",
+  "tags": [
+   "chemical-engineering",
+   "mpc"
+  ],
+  "title": "Least Squares and Marginal Log-Likelihood Model Predictive Control using Normalizing Flows",
+  "topics": [
+   "Process Control & Optimization",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-14"
+ },
+ "2410.14609": {
+  "abstract": "Conversational Search (CS) involves retrieving relevant documents from a corpus while considering the conversational context, integrating retrieval with context modeling. Recent advancements in Large Language Models (LLMs) have significantly enhanced CS by enabling query rewriting based on conversational context. However, employing LLMs during inference poses efficiency challenges. Existing solutions mitigate this issue by distilling embeddings derived from human-rewritten queries, focusing primarily on learning the context modeling task. These methods, however, often separate the contrastive retrieval task from the distillation process, treating it as an independent loss term. To overcome these limitations, we introduce DiSCo (Distillation of Sparse Conversational retrieval), a novel approach that unifies retrieval and context modeling through a relaxed distillation objective. Instead of relying exclusively on representation learning, our method distills similarity scores between conversations and documents, providing more freedom in the representation space and better leveraging the contrastive nature of document relevance. Extensive experiments on Learned Sparse Retrieval (LSR) across five CS datasets demonstrate that DiSCo achieves substantial improvements in both in-domain and out-of-domain retrieval tasks, achieving up to a six-point gain in recall for out-of-domain datasets over state-of-the-art methods. Additionally, DiSCo employs a multi-teacher distillation strategy, using multiple LLMs as teachers, further enhancing performance and surpassing the individual teachers in in-domain settings. Furthermore, analysis of model sparsity reveals that DiSCo allows for more effective control over the sparsity of the trained models.",
+  "authors": [
+   "Simon Lupart",
+   "Mohammad Aliannejadi",
+   "Evangelos Kanoulas"
+  ],
+  "categories": [
+   "cs.IR",
+   "cs.CL"
+  ],
+  "comment": "11 pages, 6 figures. SIGIR '25 Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval July 13--18, 2025 Padua, Italy",
+  "first_author": "Simon Lupart",
+  "pdf_url": "http://arxiv.org/pdf/2410.14609",
+  "primary_category": "cs.IR",
+  "published": "2024-10-18",
+  "tags": [
+   "distillation",
+   "large-language-models"
+  ],
+  "title": "DiSCo: LLM Knowledge Distillation for Efficient Sparse Retrieval in Conversational Search",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-15"
+ },
+ "2501.10337": {
+  "abstract": "Digital Twins, virtual replicas of physical systems that enable real-time monitoring, model updates, predictions, and decision-making, present novel avenues for proactive control strategies for autonomous systems. However, achieving real-time decision-making in Digital Twins considering uncertainty necessitates an efficient uncertainty quantification (UQ) approach and optimization driven by accurate predictions of system behaviors, which remains a challenge for learning-based methods. This paper presents a simultaneous multi-step robust model predictive control (MPC) framework that incorporates real-time decision-making with uncertainty awareness for Digital Twin systems. Leveraging a multistep ahead predictor named Time-Series Dense Encoder (TiDE) as the surrogate model, this framework differs from conventional MPC models that provide only one-step ahead predictions. In contrast, TiDE can predict future states within the prediction horizon in a one-shot, significantly accelerating MPC. Furthermore, quantile regression is employed with the training of TiDE to perform flexible while computationally efficient UQ on data uncertainty. Consequently, with the deep learning quantiles, the robust MPC problem is formulated into a deterministic optimization problem and provides a safety buffer that accommodates disturbances to enhance constraint satisfaction rate. As a result, the proposed method outperforms existing robust MPC methods by providing less-conservative UQ and has demonstrated efficacy in an engineering case study involving Directed Energy Deposition (DED) additive manufacturing. This proactive while uncertainty-aware control capability positions the proposed method as a potent tool for future Digital Twin applications and real-time process control in engineering systems.",
+  "authors": [
+   "Yi-Ping Chen",
+   "Ying-Kuan Tsai",
+   "Vispi Karkaria",
+   "Wei Chen"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Yi-Ping Chen",
+  "pdf_url": "http://arxiv.org/pdf/2501.10337",
+  "primary_category": "eess.SY",
+  "published": "2025-01-17",
+  "tags": [
+   "digital-twin",
+   "mpc",
+   "process-control",
+   "robust-control",
+   "surrogate-modeling",
+   "uncertainty-quantification"
+  ],
+  "title": "Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-06"
+ },
+ "2502.18314": {
+  "abstract": "Adversarial approaches, which intentionally challenge machine learning models by generating difficult examples, are increasingly being adopted to improve machine learning interatomic potentials (MLIPs). While already providing great practical value, little is known about the actual prediction errors of MLIPs on adversarial structures and whether these errors can be controlled. We propose the Calibrated Adversarial Geometry Optimization (CAGO) algorithm to discover adversarial structures with user-assigned errors. Through uncertainty calibration, the estimated uncertainty of MLIPs is unified with real errors. By performing geometry optimization for calibrated uncertainty, we reach adversarial structures with the user-assigned target MLIP prediction error. Integrating with active learning pipelines, we benchmark CAGO, demonstrating stable MLIPs that systematically converge structural, dynamical, and thermodynamical properties for liquid water and water adsorption in a metal-organic framework within only hundreds of training structures, where previously many thousands were typically required.",
+  "authors": [
+   "Henrique Musseli Cezar",
+   "Tilmann Bodenstein",
+   "Henrik Andersen Sveinsson",
+   "Morten Ledum",
+   "Simen Reine",
+   "Sigbjørn Løland Bore"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Henrique Musseli Cezar",
+  "pdf_url": "http://arxiv.org/pdf/2502.18314",
+  "primary_category": "physics.comp-ph",
+  "published": "2025-02-25",
+  "tags": [
+   "active-learning",
+   "adsorption",
+   "metal-organic-frameworks"
+  ],
+  "title": "Learning atomic forces from uncertainty-calibrated adversarial attacks",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2025-05-20"
+ },
+ "2503.02440": {
+  "abstract": "Reactor physics is the study of neutron properties, focusing on using models to examine the interactions between neutrons and materials in nuclear reactors. Artificial intelligence (AI) has made significant contributions to reactor physics, e.g., in operational simulations, safety design, real-time monitoring, core management and maintenance. This paper presents a comprehensive review of AI approaches in reactor physics, especially considering the category of Machine Learning (ML), with the aim of describing the application scenarios, frontier topics, unsolved challenges and future research directions. From equation solving and state parameter prediction to nuclear industry applications, this paper provides a step-by-step overview of ML methods applied to steady-state, transient and combustion problems. Most literature works achieve industry-demanded models by enhancing the efficiency of deterministic methods or correcting uncertainty methods, which leads to successful applications. However, research on ML methods in reactor physics is somewhat fragmented, and the ability to generalize models needs to be strengthened. Progress is still possible, especially in addressing theoretical challenges and enhancing industrial applications such as building surrogate models and digital twins.",
+  "authors": [
+   "Ruizhi Zhang",
+   "Shengfeng Zhu",
+   "Kan Wang",
+   "Ding She",
+   "Jean-Philippe Argaud",
+   "Bertrand Bouriquet",
+   "Qing Li",
+   "Helin Gong"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "33 pages, 6 figures",
+  "first_author": "Ruizhi Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2503.02440",
+  "primary_category": "cs.LG",
+  "published": "2025-03-04",
+  "tags": [
+   "digital-twin",
+   "surrogate-modeling"
+  ],
+  "title": "Artificial Intelligence in Reactor Physics: Current Status and Future Prospects",
+  "topics": [
+   "Digital Twins & Process Monitoring",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-05"
+ },
+ "2503.18787": {
+  "abstract": "Reinforcement learning (RL) can be used to tune data-driven (economic) nonlinear model predictive controllers ((e)NMPCs) for optimal performance in a specific control task by optimizing the dynamic model or parameters in the policy's objective function or constraints, such as state bounds. However, the sample efficiency of RL is crucial, and to improve it, we combine a model-based RL algorithm with our published method that turns Koopman (e)NMPCs into automatically differentiable policies. We apply our approach to an eNMPC case study of a continuous stirred-tank reactor (CSTR) model from the literature. The approach outperforms benchmark methods, i.e., data-driven eNMPCs using models based on system identification without further RL tuning of the resulting policy, and neural network controllers trained with model-based RL, by achieving superior control performance and higher sample efficiency. Furthermore, utilizing partial prior knowledge about the system dynamics via physics-informed learning further increases sample efficiency.",
+  "authors": [
+   "Daniel Mayfrank",
+   "Mehmet Velioglu",
+   "Alexander Mitsos",
+   "Manuel Dahmen"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.OC"
+  ],
+  "comment": "25 pages, 9 figures, 2 tables",
+  "first_author": "Daniel Mayfrank",
+  "pdf_url": "http://arxiv.org/pdf/2503.18787",
+  "primary_category": "cs.LG",
+  "published": "2025-03-24",
+  "tags": [
+   "system-identification"
+  ],
+  "title": "Sample-Efficient Reinforcement Learning of Koopman eNMPC",
+  "topics": [
+   "Process Control & Optimization",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-13"
+ },
+ "2503.18851": {
+  "abstract": "We investigate the behavior of fluid trajectories in a multifractal extension of the Kraichnan model of turbulent advection. The model couples a one-dimensional, Gaussian, white-in-time random flow to a frozen-in-time Gaussian multiplicative chaos (GMC). The resulting velocity field features an interplay between the roughness exponent $ξ\\in(0,2]$, controlling the correlation decay for the Gaussian component, and the intermittency parameter $γ\\in [0,\\sqrt {2}/2)$, prescribing the deviations from self-similarity. Recent numerical work by the authors suggests that such coupling induce a smoothing-by-intermittency effect, and the purpose here is to address this phenomenon theoretically. Using the theory of 1D Feller Markov processes, we characterize the phases of the two-particle separation process upon varying $ξ$ and $γ$, extending to a multifractal setting the stochastic/deterministic and colliding/non-colliding transitions known in the monofractal Kraichnan case. Our analysis distinguishes between two settings: quenched or annealed. In the quenched setting, the GMC realization is prescribed, and we show that the phases are governed by the most probable Hölder exponent of the multifractal velocity field. In the annealed setting, the GMC is averaged over, leading to an additional smoothing effect. Moreover, we show that the separation process exhibits structural analogies with multiplicative one-dimensional versions of the Liouville Brownian motion (LBM)--a diffusion process evolving in a random GMC landscape, originally introduced in the context of Liouville quantum gravity. In particular, both the quenched and annealed phase transitions are recovered by considering a multiplicative LBM characterized by a roughness parameter $ξ+ 4γ^2$ and an intermittency exponent $γ$.",
+  "authors": [
+   "André L. P. Considera",
+   "Simon Thalabard"
+  ],
+  "categories": [
+   "math-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "André L. P. Considera",
+  "pdf_url": "http://arxiv.org/pdf/2503.18851",
+  "primary_category": "math-ph",
+  "published": "2025-03-24",
+  "tags": [
+   "separations"
+  ],
+  "title": "Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-07"
+ },
+ "2504.04495": {
+  "abstract": "With the increasing adoption of video anomaly detection in intelligent surveillance domains, conventional visual-based detection approaches often struggle with information insufficiency and high false-positive rates in complex environments. To address these limitations, we present a novel weakly supervised framework that leverages audio-visual collaboration for robust video anomaly detection. Capitalizing on the exceptional cross-modal representation learning capabilities of Contrastive Language-Image Pretraining (CLIP) across visual, audio, and textual domains, our framework introduces two major innovations: an efficient audio-visual fusion that enables adaptive cross-modal integration through lightweight parametric adaptation while maintaining the frozen CLIP backbone, and a novel audio-visual prompt that dynamically enhances text embeddings with key multimodal information based on the semantic correlation between audio-visual features and textual labels, significantly improving CLIP's generalization for the video anomaly detection task. Moreover, to enhance robustness against modality deficiency during inference, we further develop an uncertainty-driven feature distillation module that synthesizes audio-visual representations from visual-only inputs. This module employs uncertainty modeling based on the diversity of audio-visual features to dynamically emphasize challenging features during the distillation process. Our framework demonstrates superior performance across multiple benchmarks, with audio integration significantly boosting anomaly detection accuracy in various scenarios. Notably, with unimodal data enhanced by uncertainty-driven distillation, our approach consistently outperforms current unimodal VAD methods.",
+  "authors": [
+   "Peng Wu",
+   "Wanshun Su",
+   "Guansong Pang",
+   "Yujia Sun",
+   "Qingsen Yan",
+   "Peng Wang",
+   "Yanning Zhang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "12 pages, 6 figures, 9 tables. This work has been submitted to the IEEE for possible publication",
+  "first_author": "Peng Wu",
+  "pdf_url": "http://arxiv.org/pdf/2504.04495",
+  "primary_category": "cs.CV",
+  "published": "2025-04-06",
+  "tags": [
+   "anomaly-detection",
+   "distillation"
+  ],
+  "title": "AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2025-05-31"
+ },
+ "2504.05924": {
+  "abstract": "Lithium-ion batteries are widely used in transportation, energy storage, and consumer electronics, driving the need for reliable battery management systems (BMS) for state estimation and control. The Single Particle Model (SPM) balances computational efficiency and accuracy but faces challenges in parameter estimation due to numerous parameters. Current SPM models using parabolic approximation introduce intermediate variables and hard to do parameter grouping. This study presents a control-oriented SPM reformulation that employs parameter grouping and parabolic approximation to simplify model parameters while using average and surface lithium-ion concentrations as model output. By parameter grouping, the original 17 parameters were reduced to 9 grouped parameters. The reformulated model achieves a reduced-order ordinary differential equation form while maintaining mathematical accuracy equivalent to the pre-grouped discretized SPM. Through Sobol sensitivity analysis under various current profiles, the grouped parameters were reduced from 9 to 6 highly sensitive parameters. Results demonstrate that estimating these 6 parameters achieves comparable practical accuracy to estimating all 9 parameters, with faster convergence. This control-oriented SPM enhances BMS applications by facilitating state estimation and control while reducing parameter estimation requirements.",
+  "authors": [
+   "Feng Guo",
+   "Luis D. Couto"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "30 pages, 4 figures",
+  "first_author": "Feng Guo",
+  "pdf_url": "http://arxiv.org/pdf/2504.05924",
+  "primary_category": "eess.SY",
+  "published": "2025-04-08",
+  "tags": [
+   "energy-storage",
+   "system-identification"
+  ],
+  "title": "A Control-Oriented Simplified Single Particle Model with Grouped Parameter and Sensitivity Analysis for Lithium-Ion Batteries",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-05-26"
+ },
+ "2504.18604": {
+  "abstract": "Traditional human reliability analysis (HRA) methods, such as IDHEAS-ECA, rely on expert judgment and empirical rules that often overlook the cognitive underpinnings of human error. Moreover, conducting human-in-the-loop experiments for advanced nuclear power plants is increasingly impractical due to novel interfaces and limited operational data. This study proposes a cognitive-mechanistic framework (COGMIF) that enhances the IDHEAS-ECA methodology by integrating an ACT-R-based human digital twin (HDT) with TimeGAN-augmented simulation. The ACT-R model simulates operator cognition, including memory retrieval, goal-directed procedural reasoning, and perceptual-motor execution, under high-fidelity scenarios derived from a high-temperature gas-cooled reactor (HTGR) simulator. To overcome the resource constraints of large-scale cognitive modeling, TimeGAN is trained on ACT-R-generated time-series data to produce high-fidelity synthetic operator behavior datasets. These simulations are then used to drive IDHEAS-ECA assessments, enabling scalable, mechanism-informed estimation of human error probabilities (HEPs). Comparative analyses with SPAR-H and sensitivity assessments demonstrate the robustness and practical advantages of the proposed COGMIF. Finally, procedural features are mapped onto a Bayesian network to quantify the influence of contributing factors, revealing key drivers of operational risk. This work offers a credible and computationally efficient pathway to integrate cognitive theory into industrial HRA practices.",
+  "authors": [
+   "Xingyu Xiao",
+   "Peng Chen",
+   "Jiejuan Tong",
+   "Shunshun Liu",
+   "Hongru Zhao",
+   "Jun Zhao",
+   "Qianqian Jia",
+   "Jingang Liang",
+   "Haitao Wang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Xingyu Xiao",
+  "pdf_url": "http://arxiv.org/pdf/2504.18604",
+  "primary_category": "cs.AI",
+  "published": "2025-04-25",
+  "tags": [
+   "digital-twin"
+  ],
+  "title": "A Cognitive-Mechanistic Human Reliability Analysis Framework: A Nuclear Power Plant Case Study",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2025-05-05"
+ },
+ "2504.21155": {
+  "abstract": "Our contributions are motivated by fusion reactors that rely on maintaining magnetohydrodynamic (MHD) equilibrium, where the balance between plasma pressure and confining magnetic fields is required for stable operation. In axisymmetric tokamak reactors in particular, and under the assumption of toroidal symmetry, this equilibrium can be mathematically modelled using the Grad-Shafranov Equation (GSE). Recent works have demonstrated the potential of using Physics-Informed Neural Networks (PINNs) to model the GSE. Existing studies did not examine realistic scenarios in which a single network generalizes to a variety of boundary conditions. Addressing that limitation, we evaluate a PINN architecture that incorporates boundary points as network inputs. Additionally, we compare PINN model accuracy and inference speeds with a Fourier Neural Operator (FNO) model. Finding the PINN model to be the most performant, and accurate in our setting, we use the network verification tool Marabou to perform a range of verification tasks. Although we find some discrepancies between evaluations of the networks natively in PyTorch, compared to via Marabou, we are able to demonstrate useful and practical verification workflows. Our study is the first investigation of verification of such networks.",
+  "authors": [
+   "Fauzan Nazranda Rizqan",
+   "Matthew Hole",
+   "Charles Gretton"
+  ],
+  "categories": [
+   "physics.plasm-ph",
+   "cs.AI",
+   "cs.NE"
+  ],
+  "comment": "9 pages, 4 figures",
+  "first_author": "Fauzan Nazranda Rizqan",
+  "pdf_url": "http://arxiv.org/pdf/2504.21155",
+  "primary_category": "physics.plasm-ph",
+  "published": "2025-04-29",
+  "tags": [
+   "physics-informed-ml"
+  ],
+  "title": "Evaluation and Verification of Physics-Informed Neural Models of the Grad-Shafranov Equation",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-01"
+ },
+ "2505.00574": {
+  "abstract": "Obtaining accurate transition state (TS) energies is a bottleneck in computational screening of complex materials and reaction networks due to the high cost of TS search methods and first-principles methods such as density functional theory (DFT). Here we propose a machine learning (ML) model for predicting TS energies based on Gaussian process regression with the Wasserstein Weisfeiler-Lehman graph kernel (WWL-GPR). Applying the model to predict adsorption and TS energies for the reverse water-gas shift (RWGS) reaction on single-atom alloy (SAA) catalysts, we show that it can significantly improve the accuracy compared to traditional approaches based on scaling relations or ML models without a graph representation. Further benefitting from the low cost of model training, we train an ensemble of WWL-GPR models to obtain uncertainties through subsampling of the training data and show how these uncertainties propagate to turnover frequency (TOF) predictions through the construction of an ensemble of microkinetic models. Comparing the errors in model-based vs DFT-based TOF predictions, we show that the WWL-GPR model reduces errors by almost an order of magnitude compared to scaling relations. This demonstrates the critical impact of accurate energy predictions on catalytic activity estimation. Finally, we apply our model to screen new materials, identifying promising catalysts for RWGS. This work highlights the power of combining advanced ML techniques with DFT and microkinetic modeling for screening catalysts for complex reactions like RWGS, providing a robust framework for future catalyst design.",
+  "authors": [
+   "Raffaele Cheula",
+   "Mie Andersen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Raffaele Cheula",
+  "pdf_url": "http://arxiv.org/pdf/2505.00574",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-01",
+  "tags": [
+   "adsorption",
+   "catalysis",
+   "catalyst-design",
+   "dft",
+   "gaussian-process",
+   "microkinetic-modeling"
+  ],
+  "title": "Transition States Energies from Machine Learning: An Application to Reverse Water-Gas Shift on Single-Atom Alloys",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Process Modeling & System Identification",
+   "Reaction Engineering & Kinetics",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2025-05-01"
+ },
+ "2505.00915": {
+  "abstract": "We study *non-adaptive* Local Computation Algorithms (LCA). A reduction of Parnas and Ron (TCS'07) turns any distributed algorithm into a non-adaptive LCA. Plugging known distributed algorithms, this leads to non-adaptive LCAs for constant approximations of maximum matching (MM) and minimum vertex cover (MVC) with complexity $Δ^{O(\\log Δ/ \\log \\log Δ)}$, where $Δ$ is the maximum degree of the graph. Allowing adaptivity, this bound can be significantly improved to $\\text{poly}(Δ)$, but is such a gap necessary or are there better non-adaptive LCAs?   Adaptivity as a resource has been studied extensively across various areas. Beyond this, we further motivate the study of non-adaptive LCAs by showing that even a modest improvement over the Parnas-Ron bound for the MVC problem would have major implications in the Massively Parallel Computation (MPC) setting; It would lead to faster truly sublinear space MPC algorithms for approximate MM, a major open problem of the area. Our main result is a lower bound that rules out this avenue for progress.   We prove that $Δ^{Ω(\\log Δ/ \\log \\log Δ)}$ queries are needed for any non-adaptive LCA computing a constant approximation of MM or MVC. This is the first separation between non-adaptive and adaptive LCAs, and already matches (up to constants in the exponent) the algorithm obtained by the black-box reduction of Parnas and Ron.   Our proof blends techniques from two separate lines of work: sublinear time lower bounds and distributed lower bounds. Particularly, we adopt techniques such as couplings over acyclic subgraphs from the recent sublinear time lower bounds of Behnezhad, Roghani, and Rubinstein (STOC'23, FOCS'23, STOC'24). We apply these techniques to a very different instance, (a modified version of) the construction of Kuhn, Moscibroda and Wattenhoffer (JACM'16) from distributed computing.",
+  "authors": [
+   "Amir Azarmehr",
+   "Soheil Behnezhad",
+   "Alma Ghafari",
+   "Madhu Sudan"
+  ],
+  "categories": [
+   "cs.DS"
+  ],
+  "comment": null,
+  "first_author": "Amir Azarmehr",
+  "pdf_url": "http://arxiv.org/pdf/2505.00915",
+  "primary_category": "cs.DS",
+  "published": "2025-05-01",
+  "tags": [
+   "life-cycle-assessment",
+   "mpc"
+  ],
+  "title": "Lower Bounds for Non-adaptive Local Computation Algorithms",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2025-05-01"
+ },
+ "2505.01424": {
+  "abstract": "Metal additive manufacturing enables unprecedented design freedom and the production of customized, complex components. However, the rapid melting and solidification dynamics inherent to metal AM processes generate heterogeneous, non-equilibrium microstructures that significantly impact mechanical properties and subsequent functionality. Predicting microstructure and its evolution across spatial and temporal scales remains a central challenge for process optimization and defect mitigation. While conventional experimental techniques and physics-based simulations provide a physical foundation and valuable insights, they face critical limitations. In contrast, data-driven machine learning offers an alternative prediction approach and powerful pattern recognition but often operate as black-box, lacking generalizability and physical consistency. To overcome these limitations, physics-informed machine learning, including physics-informed neural networks, has emerged as a promising paradigm by embedding governing physical laws into neural network architectures, thereby enhancing accuracy, transparency, data efficiency, and extrapolation capabilities. This work presents a comprehensive evaluation of modeling strategies for microstructure prediction in metal AM. The strengths and limitations of experimental, computational, and data-driven methods are analyzed in depth, and highlight recent advances in hybrid PIML frameworks that integrate physical knowledge with ML. Key challenges, such as data scarcity, multi-scale coupling, and uncertainty quantification, are discussed alongside future directions. Ultimately, this assessment underscores the importance of PIML-based hybrid approaches in enabling predictive, scalable, and physically consistent microstructure modeling for site-specific, microstructure-aware process control and the reliable production of high-performance AM components.",
+  "authors": [
+   "D. Patel",
+   "R. Sharma",
+   "Y. B. Guo"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "D. Patel",
+  "pdf_url": "http://arxiv.org/pdf/2505.01424",
+  "primary_category": "cs.LG",
+  "published": "2025-05-02",
+  "tags": [
+   "physics-informed-ml",
+   "process-control",
+   "process-design",
+   "uncertainty-quantification"
+  ],
+  "title": "Computational, Data-Driven, and Physics-Informed Machine Learning Approaches for Microstructure Modeling in Metal Additive Manufacturing",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-02"
+ },
+ "2505.01556": {
+  "abstract": "Multivariate Statistical Process Control (MSPC) is a framework for monitoring and diagnosing complex processes by analysing the relationships between multiple process variables simultaneously. Kernel MSPC extends the methodology by leveraging kernel functions to capture non-linear relationships between the data, enhancing the process monitoring capabilities. However, optimising the kernel MSPC parameters, such as the kernel type and kernel parameters, is often done in literature in time-consuming and non-procedural manners such as cross-validation or grid search. In the present paper, we propose optimising the kernel MSPC parameters with Kernel Flows (KF), a recent kernel learning methodology introduced for Gaussian Process Regression (GPR). Apart from the optimisation technique, the novelty of the study resides also in the utilisation of kernel combinations for learning the optimal kernel type, and introduces individual kernel parameters for each variable. The proposed methodology is evaluated with multiple cases from the benchmark Tennessee Eastman Process. The faults are detected for all evaluated cases, including the ones not detected in the original study.",
+  "authors": [
+   "Zina-Sabrina Duma",
+   "Victoria Jorry",
+   "Tuomas Sihvonen",
+   "Satu-Pia Reinikainen",
+   "Lassi Roininen"
+  ],
+  "categories": [
+   "cs.CE",
+   "stat.AP"
+  ],
+  "comment": null,
+  "first_author": "Zina-Sabrina Duma",
+  "pdf_url": "http://arxiv.org/pdf/2505.01556",
+  "primary_category": "cs.CE",
+  "published": "2025-05-02",
+  "tags": [
+   "gaussian-process",
+   "process-control",
+   "process-monitoring"
+  ],
+  "title": "Optimising Kernel-based Multivariate Statistical Process Control",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-02"
+ },
+ "2505.01957": {
+  "abstract": "A combined autoencoder (AE) and neural ordinary differential equation (NODE) framework has been used as a data-driven reduced-order model for time integration of a stiff reacting system. In this study, a new loss term using a latent variable gradient is proposed, and its impact on model performance is analyzed in terms of robustness, accuracy, and computational efficiency. A data set was generated by a chemical reacting solver, Cantera, for the ignition of homogeneous hydrogen-air and ammonia/hydrogen-air mixtures in homogeneous constant pressure reactors over a range of initial temperatures and equivalence ratios. The AE-NODE network was trained with the data set using two different loss functions based on the latent variable mapping and the latent gradient. The results show that the model trained using the latent gradient loss significantly improves the predictions at conditions outside the range of the trained data. The study demonstrates the importance of incorporating time derivatives in the loss function. Upon proper design of the latent space and training method, the AE+NODE architecture is found to predict the reaction dynamics at high fidelity at substantially reduced computational cost by the reduction of the dimensionality and temporal stiffness.",
+  "authors": [
+   "Mert Yakup Baykan",
+   "Vijayamanikandan Vijayarangan",
+   "Dong-hyuk Shin",
+   "Hong G. Im"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Mert Yakup Baykan",
+  "pdf_url": "http://arxiv.org/pdf/2505.01957",
+  "primary_category": "physics.comp-ph",
+  "published": "2025-05-04",
+  "tags": [
+   "reduced-order-modeling"
+  ],
+  "title": "Accelerated Integration of Stiff Reactive Systems Using Gradient-Informed Autoencoder and Neural Ordinary Differential Equation",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-04"
+ },
+ "2505.02967": {
+  "abstract": "Calibration is a vital step in the development of rigorous digital models of diverse physical and chemical processes, yet one which is highly time- and labour-intensive. In this paper, we introduce a novel tool, Autonomous Calibration and Characterisation via Evolutionary Simulation (ACCES), which uses evolutionary optimisation to efficiently, autonomously determine the calibration parameters of a numerical simulation using only simple experimental measurements. Modelling calibration as an optimisation problem, it can use any combination of sensibly-chosen experimental measurements as calibration targets for virtually any numerical modelling technique, e.g. computational fluid dynamics (CFD), finite element analysis (FEA), discrete element method (DEM). We provide a case study demonstrating the application of the method to DEM modelling and comprehensively validate the calibrated DEM particle properties using positron emission particle tracking (PEPT) experiments in conjunction with DEM digital models of systems spanning orders-of-magnitude differences in scale and covering both collisional and frictional operating regimes, showing excellent agreement. Key results show that i) even simple, well-chosen targets can achieve highly-accurate calibration, ii) though the calibration process only used images corresponding exclusively to a free-flowing surface shape, it was able to reproduce completely different quantities as well, such as velocities and occupancies, with quantitative precision, and thus iii) DEM can quantitatively predict complex particulate dynamics even outside the calibration system. ACCES is a portable, tested, documented and officially-registered Python package available under the GNU General Public License v3.0.",
+  "authors": [
+   "Andrei-Leonard Nicusan",
+   "Dominik Werner",
+   "Jack A. Sykes",
+   "Jonathan Seville",
+   "Tzany Kokalova",
+   "Christopher R. K. Windows-Yule"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Andrei-Leonard Nicusan",
+  "pdf_url": "http://arxiv.org/pdf/2505.02967",
+  "primary_category": "physics.comp-ph",
+  "published": "2025-05-05",
+  "tags": [
+   "cfd",
+   "chemical-engineering"
+  ],
+  "title": "ACCES: Non-Invasive Simulation Calibration via Optimisation using Evolutionary Algorithms and Metaprogramming",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2025-05-05"
+ },
+ "2505.03355": {
+  "abstract": "Pump-push-probe spectroscopy was employed for the exploration of charge-separation processes in organic photovoltaic blends as well as for proton-coupled electron-transfer (PCET) reactions in hydrogen-bonded complexes of tri-anisole-heptazine with substituted phenols in organic solvents. In the present work, the electron and proton transfer dynamics driven by a femtosecond pump pulse and a time-delayed femtosecond push pulse has been studied with ab initio on-the-fly nonadiabatic trajectory calculations for the hydrogen-bonded heptazine-H2O complex. While the dynamics following the pump pulse is dominated by ultrafast radiationless energy relaxation to the long-lived lowest singlet excited state (S1) of the heptazine chromophore with only minor PCET reactivity, the re-excitation of the transient S1 population by the push pulse results in a much higher PCET reaction probability. These results illustrate that pump-push excitation has the potential to unravel the individual electron and proton transfer processes of PCET reactions on femtosecond time scales.",
+  "authors": [
+   "Sebastian V. Pios",
+   "Maxim F. Gelin",
+   "Wolfgang Domcke",
+   "Lipeng Chen"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Sebastian V. Pios",
+  "pdf_url": "http://arxiv.org/pdf/2505.03355",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-05-06",
+  "tags": [
+   "separations"
+  ],
+  "title": "Simulation of Pump-Push Molecular Dynamics in the Heptazine-H2O Complex",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-06"
+ },
+ "2505.03620": {
+  "abstract": "Plasticisers (PLs) are small additives commonly incorporated into polymer composites to enhance processability and improve mechanical properties. Their effectiveness depends heavily on their miscibility within the polymer melt, yet isolating the influence of plasticiser properties, such as flexibility and geometry, remains challenging. This difficulty stems from the time consuming nature of experimental work and also from the presence of impurities and inconsistencies that often arise during synthesis and testing. Atomistic simulations face similar difficulties as phase separation can occur over microsecond timescales, which can be computationally expensive. In this work, we use a coarse-grained bead-and-spring model to screen plasticisers of varying flexibilities and geometries to build a pool-based active learning procedure which characterizes their design space and its effect on polymer/plasticiser miscibility. We perform an active learning cycle with a random forest model and an uncertainty/random hybrid query strategy to determine the miscibility behaviour of queried molecules. This is evaluated through computationally expensive, coarse-grained polymer/plasticiser simulations of a cis-(1,4)-polyisoprene melt filled with small hydrocarbon additives of varying sizes and rigidities. Through this, we are able to efficiently improve model performance in order to make predictions on the entire PL design space. Such findings enable us to determine a new set of general plasticiser design rules, suitable for non-polar molecules, which expands on our previous work. To further prove this, we perform atomistic simulations of polyisoprene/plasticiser systems which are approximately back-mapped from their coarse-grained equivalents. Our findings indicate that the polyisoprene/plasticiser phase behaviour, observed using the coarse-grained model for PLs in the absence of side chains, is valid.",
+  "authors": [
+   "Lois Smith",
+   "Jessica Steele",
+   "Hossein Ali Karimi-Varzaneh",
+   "Paola Carbone"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Lois Smith",
+  "pdf_url": "http://arxiv.org/pdf/2505.03620",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-05-06",
+  "tags": [
+   "active-learning"
+  ],
+  "title": "Active Learning for Predicting Polymer/Plasticizer Phase Behaviour",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2025-05-06"
+ },
+ "2505.04904": {
+  "abstract": "This paper presents a novel learning economic model predictive control scheme for uncertain nonlinear systems subject to input and state constraints and unknown dynamics. We design a fast and accurate Lipschitz regression method using input and output data that combines clustering and kernel regression to learn the unknown dynamics. In each cluster, the parallel convex optimization problems are solved to estimate the kernel weights and reduce the Lipschitz constant of the predictor, hence limiting the error propagation in the prediction horizon. We derive the two different bounds of learning errors in deterministic and probabilistic forms and customize a new robust constraint-tightening strategy for the discontinuous predictor. Then, the learning economic model predictive control algorithm is formulated by introducing a stabilized optimization problem to construct a Lyapunov function. Sufficient conditions are derived to ensure the recursive feasibility and input-to-state stability of the closed-loop system. The effectiveness of the proposed algorithm is verified by simulations of a numerical example and a continuously stirred tank reactor.",
+  "authors": [
+   "Weiliang Xiong",
+   "Defeng He",
+   "Haiping Du"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "Submitted to the Journal of the Franklin Institute; currently under review",
+  "first_author": "Weiliang Xiong",
+  "pdf_url": "http://arxiv.org/pdf/2505.04904",
+  "primary_category": "eess.SY",
+  "published": "2025-05-08",
+  "tags": [
+   "economic-mpc",
+   "mpc"
+  ],
+  "title": "Learning Economic Model Predictive Control via Clustering and Kernel-Based Lipschitz Regression",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2025-05-08"
+ },
+ "2505.05305": {
+  "abstract": "The global energy landscape is undergoing a transformative shift towards renewable energy and advanced storage solutions, driven by the urgent need for sustainable and resilient power systems. Isolated offshore communities, such as islands and offshore platforms, which traditionally rely on mainland grids or diesel generators, stand to gain significantly from renewable energy integration. Promising offshore renewable technologies include wind turbines, wave and tidal energy converters, and floating photovoltaic systems, paired with a storage solution like battery energy storage systems. This paper introduces a renewable energy microgrid optimizer (REMO), a tool designed to identify the optimal sizes of renewable generation and storage resources for offshore microgrids. A key challenge in such models is accurately accounting for battery degradation costs. To address this, the REMO model integrates a deep neural network-based battery degradation (DNN-BD) module, which factors in variables like ambient temperature, charge/discharge rates, state of charge, depth of discharge and battery health. Simulations on six test regions demonstrate that the REMO-DNN-BD approach minimizes lifetime energy costs while maintaining high reliability and sustainability, making it a viable design solution for offshore microgrid systems.",
+  "authors": [
+   "Ann Mary Toms",
+   "Xingpeng Li",
+   "Kaushik Rajashekara"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Ann Mary Toms",
+  "pdf_url": "http://arxiv.org/pdf/2505.05305",
+  "primary_category": "eess.SY",
+  "published": "2025-05-08",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Optimal Microgrid Sizing of Offshore Renewable Energy Sources for Offshore Platforms and Coastal Communities",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-05-08"
+ },
+ "2505.05364": {
+  "abstract": "Aiming at the dilemma that most laboratory data-driven diagnostic and prognostic methods cannot be applied to field batteries in passenger cars and energy storage systems, this paper proposes a method to bridge field data and laboratory data using machine learning. Only two field real impedances corresponding to a medium frequency and a high frequency are needed to predict laboratory real impedance curve, laboratory charge/discharge curve, and laboratory relaxation curve. Based on the predicted laboratory data, laboratory data-driven methods can be used for field battery diagnosis and prognosis. Compared with the field data-driven methods based on massive historical field data, the proposed method has the advantages of higher accuracy, lower cost, faster speed, readily available, and no use of private data. The proposed method is tested using two open-source datasets containing 249 NMC cells. For a test set containing 76 cells, the mean absolute percentage errors of laboratory real impedance curve, charge curve, and discharge curve prediction results are 0.85%, 4.72%, and 2.69%, respectively. This work fills the gap between laboratory data-driven diagnostic and prognostic methods and field battery applications, making all laboratory data-driven methods applicable to field battery diagnosis and prognosis. Furthermore, this work overturns the fixed path of developing field battery diagnostic and prognostic methods based on massive field historical data, opening up new research and breakthrough directions for field battery diagnosis and prognosis.",
+  "authors": [
+   "Yanbin Zhao",
+   "Hao Liu",
+   "Zhihua Deng",
+   "Tong Li",
+   "Haoyi Jiang",
+   "Zhenfei Ling",
+   "Xingkai Wang",
+   "Lei Zhang",
+   "Xiaoping Ouyang"
+  ],
+  "categories": [
+   "stat.AP"
+  ],
+  "comment": "73 pages, 21 figures",
+  "first_author": "Yanbin Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2505.05364",
+  "primary_category": "stat.AP",
+  "published": "2025-05-08",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Machine learning bridging battery field data and laboratory data",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-05-14"
+ },
+ "2505.05749": {
+  "abstract": "The diverse combinations of novel building blocks offer a vast design space for hydrogen-boned frameworks (HOFs), rendering it a great promise for gas separation and purification. However, the underlying separation mechanism facilitated by their unique hydrogen-bond networks has not yet been fully understood. In this work, a comprehensive understanding of the separation mechanisms was achieved through an iterative data-driven inverse engineering approach established upon a hypothetical HOF database possessing nearly 110,000 structures created by a material genomics method. Leveraging a simple yet universal feature extracted from hydrogen bonding information with unambiguous physical meanings, the entire design space was exploited to rapidly identify the optimization route towards novel HOF structures with superior Xe/Kr separation performance (selectivity >103). This work not only provides the first large-scale HOF database, but also demonstrates the enhanced machine learning interpretability of our model-driven iterative inverse design framework, offering new insights into the rational design of nanoporous materials for gas separation.",
+  "authors": [
+   "Yong Qiu",
+   "Lei Wang",
+   "Letian Chen",
+   "Yun Tian",
+   "Zhen Zhou",
+   "Jianzhong Wu"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yong Qiu",
+  "pdf_url": "http://arxiv.org/pdf/2505.05749",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-05-09",
+  "tags": [
+   "gas-separation"
+  ],
+  "title": "A Mechanism-Guided Inverse Engineering Framework to Unlock Design Principles of H-Bonded Organic Frameworks for Gas Separation",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-09"
+ },
+ "2505.06473": {
+  "abstract": "Electrochemical hybrid battery models have major potential to enable advanced physics-based control, diagnostic, and prognostic features for next-generation lithium-ion battery management systems. This is due to the physical significance of the electrochemical model, which is complemented by a machine learning model that compensates for output prediction errors caused by system uncertainties. While hybrid models have demonstrated robust output prediction performance under large system uncertainties, they are highly susceptible to the influence of uncertainties during parameter identification, which can compromise the physical significance of the model. To address this challenge, we present a parameter estimation framework that explicitly considers system uncertainties through a discrepancy function. The approach also incorporates a downsampling procedure to address the computational barriers associated with large time-series data sets, as are typical in the battery domain. The framework was validated in simulation, yielding several mean parameter estimation errors that were one order of magnitude smaller than those of the conventional least squares approach. While developed for the high-uncertainty, electrochemical hybrid modeling context, the estimation framework is applicable to all models and is presented in a generalized form.",
+  "authors": [
+   "Jackson Fogelquist",
+   "Xinfan Lin"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "7 pages, 2 figures, to be published in the 2025 American Control Conference proceedings",
+  "first_author": "Jackson Fogelquist",
+  "pdf_url": "http://arxiv.org/pdf/2505.06473",
+  "primary_category": "eess.SY",
+  "published": "2025-05-10",
+  "tags": [
+   "battery-modeling",
+   "electrochemical-systems",
+   "process-modeling",
+   "system-identification"
+  ],
+  "title": "Joint Parameterization of Hybrid Physics-Based and Machine Learning Li-Ion Battery Model",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-05-10"
+ },
+ "2505.06964": {
+  "abstract": "Large Language Models (LLMs) have demonstrated exceptional performance in general knowledge and reasoning tasks across various domains. However, their effectiveness in specialized scientific fields like Chemical and Biological Engineering (CBE) remains underexplored. Addressing this gap requires robust evaluation benchmarks that assess both knowledge and reasoning capabilities in these niche areas, which are currently lacking. To bridge this divide, we present a comprehensive empirical analysis of LLM reasoning capabilities in CBE, with a focus on Ionic Liquids (ILs) for carbon sequestration - an emerging solution for mitigating global warming. We develop and release an expert - curated dataset of 5,920 examples designed to benchmark LLMs' reasoning in this domain. The dataset incorporates varying levels of difficulty, balancing linguistic complexity and domain-specific knowledge. Using this dataset, we evaluate three open-source LLMs with fewer than 10 billion parameters. Our findings reveal that while smaller general-purpose LLMs exhibit basic knowledge of ILs, they lack the specialized reasoning skills necessary for advanced applications. Building on these results, we discuss strategies to enhance the utility of LLMs for carbon capture research, particularly using ILs. Given the significant carbon footprint of LLMs, aligning their development with IL research presents a unique opportunity to foster mutual progress in both fields and advance global efforts toward achieving carbon neutrality by 2050.",
+  "authors": [
+   "Gaurab Sarkar",
+   "Sougata Saha"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Gaurab Sarkar",
+  "pdf_url": "http://arxiv.org/pdf/2505.06964",
+  "primary_category": "cs.AI",
+  "published": "2025-05-11",
+  "tags": [
+   "carbon-capture",
+   "ionic-liquids",
+   "large-language-models"
+  ],
+  "title": "Bridging AI and Carbon Capture: A Dataset for LLMs in Ionic Liquids and CBE Research",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-17"
+ },
+ "2505.07442": {
+  "abstract": "Crystal structure generation is a foundational challenge in materials discovery, particularly in designing functional inorganic crystalline materials with desired properties. Most existing diffusion-based generative models for crystals rely on complex, hand-crafted priors and modular architectures to separately model atom types, atomic positions, and lattice parameters. These methods often require customized diffusion processes and conditional denoising, which can introduce additional model complexities and inconsistencies. Here we introduce DiffCrysGen, a fully data-driven, score-based diffusion model that jointly learns the distribution of all structural components in crystalline materials. With crystal structure representation as unified 2D matrices, DiffCrysGen bypasses the need for task-specific priors or decoupled modules, enabling end-to-end generation of atom types, fractional coordinates, and lattice parameters within a single framework. Our model learns crystallographic symmetry and chemical validity directly from large-scale datasets, allowing it to scale to complex materials discovery tasks. As a demonstration, we applied DiffCrysGen to the design of rare-earth-free magnetic materials with high saturation magnetization, showing its effectiveness in generating stable, diverse, and property-aligned candidates for sustainable magnet applications.",
+  "authors": [
+   "Sourav Mal",
+   "Subhankar Mishra",
+   "Prasenjit Sen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Sourav Mal",
+  "pdf_url": "http://arxiv.org/pdf/2505.07442",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-12",
+  "tags": [
+   "generative-models",
+   "materials-discovery"
+  ],
+  "title": "DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-12"
+ },
+ "2505.09203": {
+  "abstract": "Developing inverse design methods for functional materials with specific properties is critical to advancing fields like renewable energy, catalysis, energy storage, and carbon capture. Generative models based on diffusion principles can directly produce new materials that meet performance constraints, thereby significantly accelerating the material design process. However, existing methods for generating and predicting crystal structures often remain limited by low success rates. In this work, we propose a novel inverse material design generative framework called InvDesFlow-AL, which is based on active learning strategies. This framework can iteratively optimize the material generation process to gradually guide it towards desired performance characteristics. In terms of crystal structure prediction, the InvDesFlow-AL model achieves an RMSE of 0.0423 Å, representing an 32.96% improvement in performance compared to exsisting generative models. Additionally, InvDesFlow-AL has been successfully validated in the design of low-formation-energy and low-Ehull materials. It can systematically generate materials with progressively lower formation energies while continuously expanding the exploration across diverse chemical spaces. These results fully demonstrate the effectiveness of the proposed active learning-driven generative model in accelerating material discovery and inverse design. To further prove the effectiveness of this method, we took the search for BCS superconductors under ambient pressure as an example explored by InvDesFlow-AL. As a result, we successfully identified Li\\(_2\\)AuH\\(_6\\) as a conventional BCS superconductor with an ultra-high transition temperature of 140 K. This discovery provides strong empirical support for the application of inverse design in materials science.",
+  "authors": [
+   "Xiao-Qi Han",
+   "Peng-Jie Guo",
+   "Ze-Feng Gao",
+   "Hao Sun",
+   "Zhong-Yi Lu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.supr-con",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "29 pages, 11 figures",
+  "first_author": "Xiao-Qi Han",
+  "pdf_url": "http://arxiv.org/pdf/2505.09203",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-14",
+  "tags": [
+   "active-learning",
+   "carbon-capture",
+   "catalysis",
+   "energy-storage",
+   "generative-models"
+  ],
+  "title": "InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems",
+   "Separation Processes & Transport Phenomena",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2025-05-14"
+ },
+ "2505.10505": {
+  "abstract": "Multireference methods such as multiconfiguration pair-density functional theory (MC-PDFT) offer an effective means of capturing electronic correlation in systems with significant multiconfigurational character. However, their application to train machine learning-based interatomic potentials (MLPs) for catalytic dynamics has been challenging due to the sensitivity of multireference calculations to the underlying active space, which complicates achieving consistent energies and gradients across diverse nuclear configurations. To overcome this limitation, we introduce the Weighted Active-Space Protocol (WASP), a systematic approach to assign a consistent active space for a given system across uncorrelated configurations. By integrating WASP with MLPs and enhanced sampling techniques, we propose a data-efficient active learning cycle that enables the training of an MLP on multireference data. We demonstrate the method on the TiC+-catalyzed C-H activation of methane, a reaction that poses challenges for Kohn-Sham density functional theory due to its significant multireference character. This framework enables accurate and efficient modeling of catalytic dynamics, establishing a new paradigm for simulating complex reactive processes beyond the limits of conventional electronic-structure methods.",
+  "authors": [
+   "Aniruddha Seal",
+   "Simone Perego",
+   "Matthew R. Hennefarth",
+   "Umberto Raucci",
+   "Luigi Bonati",
+   "Andrew L. Ferguson",
+   "Michele Parrinello",
+   "Laura Gagliardi"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Aniruddha Seal",
+  "pdf_url": "http://arxiv.org/pdf/2505.10505",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-05-15",
+  "tags": [
+   "active-learning",
+   "catalysis",
+   "dft"
+  ],
+  "title": "Weighted Active Space Protocol for Multireference Machine-Learned Potentials",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2025-05-15"
+ },
+ "2505.13786": {
+  "abstract": "Spin states are pivotal in modulating the electrocatalytic activity of transition-metal (TM)-based compounds, yet quantitatively evaluating the activity-spin state correlation remains a formidable challenge. Here, we propose an 'activity index n' as a descriptor, to assess the activity of the spin states for the hydrogen evolution reaction (HER). n descriptor integrates three key electronic parameters: the proportion (P), broadening range (R) and center cc of active spin state, which collectively account for the electronic structure modulation induced by both the intrinsic active site and its local coordination environment. Using 1T-phase ZrSe2-anchored TM atoms (TM=Sc to Ni) as prototypes, we reveal that the correlation between Gibbs free energy and the n value follows a linear relation, namely, the vGH reduces as the n decreases. Notably, ZrSe2-Mn exhibits the optimal n value (-0.56), corresponding the best HER activity with a vGH of 0.04 eV closer to the thermoneutral ideal value (0 eV) than even Pt (vGH = -0.09 eV). This relationship suggests that n is the effective descriptor of active spin state for HER of TM-based catalysts. Our study brings fundamental insights into the HER activity-spin state correlation, offering new strategies for HER catalyst design.",
+  "authors": [
+   "Yu Tan",
+   "Lei Li",
+   "Zi-Xuan Yang",
+   "Tao Huang",
+   "Qiao-Ling Wang",
+   "Tao Zhang",
+   "Jing-Chun Luo",
+   "Gui-Fang Huang",
+   "Wangyu Hu",
+   "Wei-Qing Huang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "17 pages, 5 figures",
+  "first_author": "Yu Tan",
+  "pdf_url": "http://arxiv.org/pdf/2505.13786",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-20",
+  "tags": [
+   "active-sites",
+   "catalysis",
+   "catalyst-design",
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2025-05-20"
+ },
+ "2505.14701": {
+  "abstract": "Critical heat flux (CHF) marks the transition from nucleate to film boiling, where heat transfer to the working fluid can rapidly deteriorate. Accurate CHF prediction is essential for efficiency, safety, and preventing equipment damage, particularly in nuclear reactors. Although widely used, empirical correlations frequently exhibit discrepancies in comparison with experimental data, limiting their reliability in diverse operational conditions. Traditional machine learning (ML) approaches have demonstrated the potential for CHF prediction but have often suffered from limited interpretability, data scarcity, and insufficient knowledge of physical principles. Hybrid model approaches, which combine data-driven ML with physics-based models, mitigate these concerns by incorporating prior knowledge of the domain. This study integrated a purely data-driven ML model and two hybrid models (using the Biasi and Bowring CHF correlations) within the CTF subchannel code via a custom Fortran framework. Performance was evaluated using two validation cases: a subset of the Nuclear Regulatory Commission CHF database and the Bennett dryout experiments. In both cases, the hybrid models exhibited significantly lower error metrics in comparison with conventional empirical correlations. The pure ML model remained competitive with the hybrid models. Trend analysis of error parity indicates that ML-based models reduce the tendency for CHF overprediction, improving overall accuracy. These results demonstrate that ML-based CHF models can be effectively integrated into subchannel codes and can potentially increase performance in comparison with conventional methods.",
+  "authors": [
+   "Aidan Furlong",
+   "Xingang Zhao",
+   "Robert Salko",
+   "Xu Wu"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Aidan Furlong",
+  "pdf_url": "http://arxiv.org/pdf/2505.14701",
+  "primary_category": "cs.CE",
+  "published": "2025-05-12",
+  "tags": [
+   "heat-transfer"
+  ],
+  "title": "Deployment of Traditional and Hybrid Machine Learning for Critical Heat Flux Prediction in the CTF Thermal Hydraulics Code",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-12"
+ },
+ "2505.16060": {
+  "abstract": "We introduce Model Feedback Learning (MFL), a novel test-time optimization framework for optimizing inputs to pre-trained AI models or deployed hardware systems without requiring any retraining of the models or modifications to the hardware. In contrast to existing methods that rely on adjusting model parameters, MFL leverages a lightweight reverse model to iteratively search for optimal inputs, enabling efficient adaptation to new objectives under deployment constraints. This framework is particularly advantageous in real-world settings, such as semiconductor manufacturing recipe generation, where modifying deployed systems is often infeasible or cost-prohibitive. We validate MFL on semiconductor plasma etching tasks, where it achieves target recipe generation in just five iterations, significantly outperforming both Bayesian optimization and human experts. Beyond semiconductor applications, MFL also demonstrates strong performance in chemical processes (e.g., chemical vapor deposition) and electronic systems (e.g., wire bonding), highlighting its broad applicability. Additionally, MFL incorporates stability-aware optimization, enhancing robustness to process variations and surpassing conventional supervised learning and random search methods in high-dimensional control settings. By enabling few-shot adaptation, MFL provides a scalable and efficient paradigm for deploying intelligent control in real-world environments.",
+  "authors": [
+   "Shangding Gu",
+   "Donghao Ying",
+   "Ming Jin",
+   "Yu Joe Lu",
+   "Jun Wang",
+   "Javad Lavaei",
+   "Costas Spanos"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Shangding Gu",
+  "pdf_url": "http://arxiv.org/pdf/2505.16060",
+  "primary_category": "cs.LG",
+  "published": "2025-05-21",
+  "tags": [
+   "bayesian-inference",
+   "chemical-engineering"
+  ],
+  "title": "Few-Shot Test-Time Optimization Without Retraining for Semiconductor Recipe Generation and Beyond",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2025-05-21"
+ },
+ "2505.16674": {
+  "abstract": "Batteries are essential for various applications, including electric vehicles and renewable energy storage, making safety and efficiency critical concerns. Anomaly detection in battery thermal images helps identify failures early, but traditional deep learning methods require extensive labeled data, which is difficult to obtain, especially for anomalies due to safety risks and high data collection costs. To overcome this, we explore zero-shot anomaly detection using Visual Question Answering (VQA) models, which leverage pretrained knowledge and textbased prompts to generalize across vision tasks. By incorporating prior knowledge of normal battery thermal behavior, we design prompts to detect anomalies without battery-specific training data. We evaluate three VQA models (ChatGPT-4o, LLaVa-13b, and BLIP-2) analyzing their robustness to prompt variations, repeated trials, and qualitative outputs. Despite the lack of finetuning on battery data, our approach demonstrates competitive performance compared to state-of-the-art models that are trained with the battery data. Our findings highlight the potential of VQA-based zero-shot learning for battery anomaly detection and suggest future directions for improving its effectiveness.",
+  "authors": [
+   "Marcella Astrid",
+   "Abdelrahman Shabayek",
+   "Djamila Aouada"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted in EUSIPCO 2025",
+  "first_author": "Marcella Astrid",
+  "pdf_url": "http://arxiv.org/pdf/2505.16674",
+  "primary_category": "cs.CV",
+  "published": "2025-05-22",
+  "tags": [
+   "anomaly-detection",
+   "energy-storage"
+  ],
+  "title": "Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-05-22"
+ },
+ "2505.17321": {
+  "abstract": "The electrification of transportation and the increased adoption of decentralized renewable energy generation have added complexity to managing Renewable Energy Communities (RECs). Integrating Electric Vehicle (EV) charging with building energy systems like heating, ventilation, air conditioning (HVAC), photovoltaic (PV) generation, and battery storage presents significant opportunities but also practical challenges. Reinforcement learning (RL), particularly MultiAgent Deep Deterministic Policy Gradient (MADDPG) algorithms, have shown promising results in simulation, outperforming heuristic control strategies. However, translating these successes into real-world deployments faces substantial challenges, including incomplete and noisy data, integration of heterogeneous subsystems, synchronization issues, unpredictable occupant behavior, and missing critical EV state-of-charge (SoC) information. This paper introduces a framework designed explicitly to handle these complexities and bridge the simulation to-reality gap. The framework incorporates EnergAIze, a MADDPG-based multi-agent control strategy, and specifically addresses challenges related to real-world data collection, system integration, and user behavior modeling. Preliminary results collected from a real-world operational REC with four residential buildings demonstrate the practical feasibility of our approach, achieving an average 9% reduction in daily peak demand and a 5% decrease in energy costs through optimized load scheduling and EV charging behaviors. These outcomes underscore the framework's effectiveness, advancing the practical deployment of intelligent energy management solutions in RECs.",
+  "authors": [
+   "Tiago Fonseca",
+   "Clarisse Sousa",
+   "Ricardo Venâncio",
+   "Pedro Pires",
+   "Ricardo Severino",
+   "Paulo Rodrigues",
+   "Pedro Paiva",
+   "Luis Lino Ferreira"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI"
+  ],
+  "comment": "8 pages, 3 figures, 1 table, 30th IEEE International Conference on Emerging Technologies and Factory Automation",
+  "first_author": "Tiago Fonseca",
+  "pdf_url": "http://arxiv.org/pdf/2505.17321",
+  "primary_category": "eess.SY",
+  "published": "2025-05-22",
+  "tags": [
+   "energy-systems"
+  ],
+  "title": "Control of Renewable Energy Communities using AI and Real-World Data",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-05-22"
+ },
+ "2505.18147": {
+  "abstract": "Dissociative chemisorption is a key process in hydrogen-metal surface chemistry, where nonadiabatic effects due to low-lying electron-hole-pair excitations may affect reaction outcomes. Molecular dynamics with electronic friction simulations can capture weak nonadiabatic effects at metal surfaces, but require as input energy landscapes and electronic friction tensors. Here, we present full-dimensional machine learning surrogate models of the electronic friction tensor to study reactive hydrogen chemistry at the low-index surface facets Cu(100), Cu(110), Cu(111), and Cu(211). We combine these surrogate models with machine learning interatomic potentials to simulate quantum-state-resolved H$_2$ reactive scattering on pristine copper surfaces. The predicted sticking coefficient and survival probabilities are in excellent agreement with experiment. Comparison between adiabatic and nonadiabatic simulations reveals that the influence of electron-hole pair excitations on the scattering dynamics is weak and that the probability for dissociative adsorption is dominated by the shape of the underlying potential energy surface and the initial vibrational quantum state. Nonadiabatic effects only lead to subtle changes in rovibrationally inelastic state-to-state scattering probabilities. The differences between jellium-based isotropic local density friction and full ab-initio response-theory-based orbital-dependent friction are even more subtle. The presented machine learning models represent the most accurate publicly available, full-dimensional models for H$_2$ on copper to date.",
+  "authors": [
+   "Wojciech G. Stark",
+   "Connor L. Box",
+   "Matthias Sachs",
+   "Nils Hertl",
+   "Reinhard J. Maurer"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 10 figures",
+  "first_author": "Wojciech G. Stark",
+  "pdf_url": "http://arxiv.org/pdf/2505.18147",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-05-23",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics",
+   "surrogate-modeling"
+  ],
+  "title": "Nonadiabatic reactive scattering of hydrogen on different surface facets of copper",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2025-05-23"
+ },
+ "2505.18682": {
+  "abstract": "Wastewater data can be very useful for epidemic control during a disease outbreak and proper synthesis of different sources of information can be integrated towards an alerting system, that can be used for decision support. Wastewater data are considered to be of high quality, since they do not depend on testing and can take into account asymptomatic cases. However, little effort has been given into utilizing such information in statistical process control procedures, usually aimed at industrial problems. In this article, we demonstrate how wastewater data can be utilized in health surveillance and propose a statistical framework that can act as a decision support tool. Specifically, we analyze SARS-CoV-2 wastewater data from Austria, constructing summary variables to implicitly describe the Covid-19 prevalence and, based on them, we assess the effectiveness of the current sampling strategy of Austria. We propose a framework of a statistical process monitoring system to aid epidemic management procedures in case SARS-CoV-2 concentration gets dangerously high.",
+  "authors": [
+   "Anastasios Apsemidis",
+   "Karin Weyermair",
+   "Hans Peter Stüger",
+   "Sabrina Kuchling",
+   "Tadej Zerak",
+   "Oliver Alber"
+  ],
+  "categories": [
+   "stat.AP"
+  ],
+  "comment": "18 pages, 3 figures",
+  "first_author": "Anastasios Apsemidis",
+  "pdf_url": "http://arxiv.org/pdf/2505.18682",
+  "primary_category": "stat.AP",
+  "published": "2025-05-24",
+  "tags": [
+   "process-control",
+   "process-monitoring"
+  ],
+  "title": "Integrating Region-Specific SARS-CoV-2 Data for Statistical Wastewater Monitoring",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2025-05-24"
+ },
+ "2505.20300": {
+  "abstract": "We propose FMEnets, a physics-informed machine learning framework for the design and analysis of non-ideal plug flow reactors. FMEnets integrates the fundamental governing equations (Navier-Stokes for fluid flow, material balance for reactive species transport, and energy balance for temperature distribution) into a unified multi-scale network model. The framework is composed of three interconnected sub-networks with independent optimizers that enable both forward and inverse problem-solving. In the forward mode, FMEnets predicts velocity, pressure, species concentrations, and temperature profiles using only inlet and outlet information. In the inverse mode, FMEnets utilizes sparse multi-residence-time measurements to simultaneously infer unknown kinetic parameters and states. FMEnets can be implemented either as FME-PINNs, which employ conventional multilayer perceptrons, or as FME-KANs, based on Kolmogorov-Arnold Networks. Comprehensive ablation studies highlight the critical role of the FMEnets architecture in achieving accurate predictions. Specifically, FME-KANs are more robust to noise than FME-PINNs, although both representations are comparable in accuracy and speed in noise-free conditions. The proposed framework is applied to three different sets of reaction scenarios and is compared with finite element simulations. FMEnets effectively captures the complex interactions, achieving relative errors less than 2.5% for the unknown kinetic parameters. The new network framework not only provides a computationally efficient alternative for reactor design and optimization, but also opens new avenues for integrating empirical correlations, limited and noisy experimental data, and fundamental physical equations to guide reactor design.",
+  "authors": [
+   "Chenxi Wu",
+   "Juan Diego Toscano",
+   "Khemraj Shukla",
+   "Yingjie Chen",
+   "Ali Shahmohammadi",
+   "Edward Raymond",
+   "Thomas Toupy",
+   "Neda Nazemifard",
+   "Charles Papageorgiou",
+   "George Em Karniadakis"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Chenxi Wu",
+  "pdf_url": "http://arxiv.org/pdf/2505.20300",
+  "primary_category": "cs.LG",
+  "published": "2025-05-10",
+  "tags": [
+   "flow-reactors",
+   "physics-informed-ml",
+   "reactor-design"
+  ],
+  "title": "FMEnets: Flow, Material, and Energy networks for non-ideal plug flow reactor design",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2025-05-10"
+ },
+ "2505.21026": {
+  "abstract": "In the era of Industry 4.0 and smart manufacturing, process systems engineering must adapt to digital transformation. While reinforcement learning offers a model-free approach to process control, its applications are limited by the dependence on accurate digital twins and well-designed reward functions. To address these limitations, this paper introduces a novel framework that integrates inverse reinforcement learning (IRL) with multi-task learning for data-driven, multi-mode control design. Using historical closed-loop data as expert demonstrations, IRL extracts optimal reward functions and control policies. A latent-context variable is incorporated to distinguish modes, enabling the training of mode-specific controllers. Case studies on a continuous stirred tank reactor and a fed-batch bioreactor validate the effectiveness of this framework in handling multi-mode data and training adaptable controllers.",
+  "authors": [
+   "Runze Lin",
+   "Junghui Chen",
+   "Biao Huang",
+   "Lei Xie",
+   "Hongye Su"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Runze Lin",
+  "pdf_url": "http://arxiv.org/pdf/2505.21026",
+  "primary_category": "eess.SY",
+  "published": "2025-05-27",
+  "tags": [
+   "digital-twin",
+   "process-control",
+   "process-systems-engineering"
+  ],
+  "title": "Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning",
+  "topics": [
+   "Digital Twins & Process Monitoring",
+   "Process Control & Optimization"
+  ],
+  "updated": "2025-05-27"
+ },
+ "2505.21428": {
+  "abstract": "The conversion of $\\mathrm{CO_2}$ to value-added compounds is an important part of the effort to store and reuse atmospheric $\\mathrm{CO_2}$ emissions. Here we focus on $\\mathrm{CO_2}$ hydrogenation over so-called inverse catalysts: transition metal oxide clusters supported on metal surfaces. The conventional approach for computational screening of such candidate catalyst materials involves a reliance on density functional theory (DFT) to obtain accurate adsorption energies at a significant computational cost. Here we present a machine learning (ML)-accelerated workflow for obtaining adsorption energies at the metal--oxide interface. We enumerate possible binding sites at the clusters and use DFT to sample a subset of these with diverse local adsorbate environments. The data set is used to explore interpretable and black-box ML models with the aim to reveal the electronic and structural factors controlling adsorption at metal--oxide interfaces. Furthermore, the explored ML models can be used for low-cost prediction of adsorption energies on structures outside of the original training data set. The workflow presented here, along with the insights into trends in adsorption energies at metal--oxide interfaces, will be useful for identifying active sites, predicting parameters required for microkinetic modeling of reactions on complex catalyst materials, and accelerating data-driven catalyst design.",
+  "authors": [
+   "Marius Juul Nielsen",
+   "Luuk H. E. Kempen",
+   "Julie de Neergaard Ravn",
+   "Raffaele Cheula",
+   "Mie Andersen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 6 figures, 3 tables + supplementary material (15 pages, 13 figures, 6 tables) -- submitted to JCP",
+  "first_author": "Marius Juul Nielsen",
+  "pdf_url": "http://arxiv.org/pdf/2505.21428",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-27",
+  "tags": [
+   "active-sites",
+   "adsorption",
+   "adsorption-energy",
+   "catalysis",
+   "catalyst-design",
+   "dft",
+   "microkinetic-modeling"
+  ],
+  "title": "Interpretable machine learned predictions of adsorption energies at the metal--oxide interface",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Reaction Engineering & Kinetics",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-27"
+ },
+ "2505.21509": {
+  "abstract": "Additively manufactured (AM) architected materials have enabled unprecedented control over mechanical properties of engineered materials. While lattice architectures have played a key role in these advances, they suffer from stress concentrations at sharp joints and bending-dominated behavior at high relative densities, limiting their mechanical efficiency. Additionally, high-resolution AM techniques often result in low-throughput or costly fabrication, restricting manufacturing scalability of these materials. Aperiodic spinodal architected materials offer a promising alternative by leveraging low-curvature architectures that can be fabricated through techniques beyond AM. Enabled by phase separation processes, these architectures exhibit tunable mechanical properties and enhanced defect tolerance by tailoring their curvature distributions. However, the relation between curvature and their anisotropic mechanical behavior remains poorly understood. In this work, we develop a theoretical framework to quantify the role of curvature in governing the anisotropic stiffness and strength of shell-based spinodal architected materials. We introduce geometric metrics that predict the distribution of stretching and bending energies under different loading conditions, bridging the gap between curvature in doubly curved shell-based morphologies and their mechanical anisotropy. We validate our framework through finite element simulations and microscale experiments, demonstrating its utility in designing mechanically robust spinodal architectures. This study provides fundamental insights into curvature-driven mechanics, guiding the optimization of next-generation architected materials for engineering applications.",
+  "authors": [
+   "Somayajulu Dhulipala",
+   "Carlos M. Portela"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "physics.app-ph"
+  ],
+  "comment": "32 pages, 10 figures, supplementary appendix",
+  "first_author": "Somayajulu Dhulipala",
+  "pdf_url": "http://arxiv.org/pdf/2505.21509",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-15",
+  "tags": [
+   "separations"
+  ],
+  "title": "Curvature-Guided Mechanics and Design of Spinodal and Shell-Based Architected Materials",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2025-05-15"
+ },
+ "2505.24361": {
+  "abstract": "Multi-modal RGB and Depth (RGBD) data are predominant in many domains such as robotics, autonomous driving and remote sensing. The combination of these multi-modal data enhances environmental perception by providing 3D spatial context, which is absent in standard RGB images. Although RGBD multi-modal data can be available to train computer vision models, accessing all sensor modalities during the inference stage may be infeasible due to sensor failures or resource constraints, leading to a mismatch between data modalities available during training and inference. Traditional Cross-Modal Knowledge Distillation (CMKD) frameworks, developed to address this task, are typically based on a teacher/student paradigm, where a multi-modal teacher distills knowledge into a single-modality student model. However, these approaches face challenges in teacher architecture choices and distillation process selection, thus limiting their adoption in real-world scenarios. To overcome these issues, we introduce CroDiNo-KD (Cross-Modal Disentanglement: a New Outlook on Knowledge Distillation), a novel cross-modal knowledge distillation framework for RGBD semantic segmentation. Our approach simultaneously learns single-modality RGB and Depth models by exploiting disentanglement representation, contrastive learning and decoupled data augmentation with the aim to structure the internal manifolds of neural network models through interaction and collaboration. We evaluated CroDiNo-KD on three RGBD datasets across diverse domains, considering recent CMKD frameworks as competitors. Our findings illustrate the quality of CroDiNo-KD, and they suggest reconsidering the conventional teacher/student paradigm to distill information from multi-modal data to single-modality neural networks.",
+  "authors": [
+   "Roger Ferrod",
+   "Cássio F. Dantas",
+   "Luigi Di Caro",
+   "Dino Ienco"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Roger Ferrod",
+  "pdf_url": "http://arxiv.org/pdf/2505.24361",
+  "primary_category": "cs.CV",
+  "published": "2025-05-30",
+  "tags": [
+   "distillation",
+   "knowledge-distillation"
+  ],
+  "title": "Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2025-05-30"
+ },
+ "2506.15712": {
+  "abstract": "Accurate fault detection in lithium-ion batteries is essential for the safe and reliable operation of electric vehicles and energy storage systems. However, existing methods often struggle to capture complex temporal dependencies and cannot fully leverage abundant unlabeled data. Although large language models (LLMs) exhibit strong representation capabilities, their architectures are not directly suited to the numerical time-series data common in industrial settings. To address these challenges, we propose a novel framework that adapts BERT-style pretraining for battery fault detection by extending the standard BERT architecture with a customized time-series-to-token representation module and a point-level Masked Signal Modeling (point-MSM) pretraining task tailored to battery applications. This approach enables self-supervised learning on sequential current, voltage, and other charge-discharge cycle data, yielding distributionally robust, context-aware temporal embeddings. We then concatenate these embeddings with battery metadata and feed them into a downstream classifier for accurate fault classification. Experimental results on a large-scale real-world dataset show that models initialized with our pretrained parameters significantly improve both representation quality and classification accuracy, achieving an AUROC of 0.945 and substantially outperforming existing approaches. These findings validate the effectiveness of BERT-style pretraining for time-series fault detection.",
+  "authors": [
+   "Songqi Zhou",
+   "Ruixue Liu",
+   "Yixing Wang",
+   "Jia Lu",
+   "Benben Jiang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Songqi Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2506.15712",
+  "primary_category": "cs.LG",
+  "published": "2025-05-31",
+  "tags": [
+   "energy-storage",
+   "fault-detection",
+   "large-language-models"
+  ],
+  "title": "BatteryBERT for Realistic Battery Fault Detection Using Point-Masked Signal Modeling",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-05-31"
+ }
+}

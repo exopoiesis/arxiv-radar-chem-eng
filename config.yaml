@@ -1,0 +1,78 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "exopoiesis"
+repo_name: "arxiv-radar-chem-eng"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/chem-eng-arxiv-daily.json'
+json_gitpage_path: './docs/chem-eng-arxiv-daily-web.json'
+json_wechat_path: './docs/chem-eng-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# Search filters per topic.
+#
+# The original daily-arxiv-ai4cheme config used broad plain OR filters such as
+# "Process Control", "Digital Twin", and "Uncertainty Quantification"; those
+# pulled robotics, healthcare, astronomy, generic ML, and power-grid papers.
+# Keep greedy terms inside RAW expressions with a chemical-engineering context.
+keywords:
+    "Process Modeling & System Identification":
+        filters:
+          - "AI for Chemical Engineering"
+          - "Machine Learning for Chemical Engineering"
+          - 'RAW:("Process Modeling" OR "System Identification" OR "Data-Driven Modeling" OR "Surrogate Modeling" OR "Reduced-Order Modeling" OR "Nonlinear Process Models" OR "Hybrid Modeling" OR "Scientific Machine Learning" OR "Physics-Informed Neural Networks" OR PINN OR "Gaussian Process") AND ("chemical engineering" OR "chemical process" OR "process systems engineering" OR reactor OR "distillation column" OR "distillation process" OR separation OR membrane OR catalysis OR "transport phenomena" OR "process control" OR "process monitoring" OR "wastewater treatment" OR crystallization OR electrolysis OR electrolyzer)'
+
+    "Process Control & Optimization":
+        filters:
+          - "Process Systems Engineering"
+          - 'RAW:("Process Control" OR "Model Predictive Control" OR MPC OR "Economic MPC" OR "Robust MPC" OR "Optimal Control" OR "Reinforcement Learning for Control" OR "Adaptive Control" OR "Real-Time Optimization" OR "Safe Control" OR "Robust Optimization" OR "Process Design" OR "Process Optimization" OR "Process Synthesis" OR Flowsheeting OR "Process Simulation" OR "Process Intensification") AND ("chemical engineering" OR "chemical process" OR "process systems engineering" OR reactor OR "distillation column" OR "distillation process" OR separation OR membrane OR crystallization OR "fuel cell" OR "carbon capture" OR "electrochemical system" OR electrolyzer)'
+
+    "Reaction Engineering & Kinetics":
+        filters:
+          - "Chemical Reaction Engineering"
+          - "Microkinetic Modeling"
+          - 'RAW:("Reaction Kinetics" OR "Chemical Kinetics" OR "Reaction Network Modeling" OR "Catalytic Reactions" OR "Reaction Rate Prediction" OR "Mechanism Learning" OR "Reactor Design" OR "Reactor Optimization" OR Microreactor OR "Flow Reactor" OR "Packed Bed Reactor" OR "Fixed Bed Reactor" OR "Reaction Mechanism") AND ("chemical engineering" OR catalysis OR catalyst OR reactor OR "reaction engineering" OR "chemical reaction" OR microkinetic OR electrolysis OR "CO2 reduction")'
+
+    "Separation Processes & Transport Phenomena":
+        filters:
+          - "Membrane Separation"
+          - 'RAW:("Separation Processes" OR "Distillation Column" OR "Distillation Process" OR Adsorption OR "Adsorption Isotherm" OR "Pressure Swing Adsorption" OR "Gas Separation" OR "Solvent Extraction" OR Chromatography OR Crystallization OR "Membrane Distillation" OR "Mass Transfer" OR "Heat Transfer" OR "Transport Phenomena" OR "Wastewater Treatment" OR "Reactive Transport" OR "Metal-Organic Framework" OR MOF OR Zeolite OR "Ionic Liquid") AND ("chemical engineering" OR "chemical process" OR membrane OR adsorbent OR solvent OR reactor OR desalination OR wastewater OR "carbon capture" OR "CO2 capture" OR separation)'
+
+    "Catalysis & Materials for Chemical Engineering":
+        filters:
+          - "Heterogeneous Catalysis"
+          - "Electrocatalysis"
+          - "Photocatalysis"
+          - "Catalyst Design"
+          - 'RAW:("Materials Discovery" OR "Structure-Property Relationships" OR "Catalysis" OR "Active Sites" OR "Adsorption Energy" OR "CO2 Reduction" OR "Hydrogen Evolution" OR "Oxygen Evolution" OR "Molecular Simulation" OR "Molecular Dynamics" OR "Density Functional Theory" OR DFT OR "Porous Materials" OR "Metal-Organic Framework" OR MOF OR Zeolite) AND ("chemical engineering" OR catalyst OR catalytic OR reactor OR adsorption OR electrocatalysis OR photocatalysis OR electrolyzer OR electrolysis OR "fuel cell" OR "carbon capture")'
+
+    "Computational Fluid Dynamics & Multiphase Flow":
+        filters:
+          - "Data-Driven CFD"
+          - 'RAW:("Computational Fluid Dynamics" OR CFD OR "Multiphase Flow" OR "Turbulence Modeling" OR "Flow Simulation" OR "Reactor CFD" OR "Bubble Column" OR "Fluidized Bed" OR "Packed Bed" OR "Fixed Bed" OR "Porous Media Flow" OR "Reacting Flow") AND ("chemical engineering" OR reactor OR "chemical process" OR "process systems" OR "fluidized bed" OR bubble OR boiling OR mixing OR "mass transfer" OR "heat transfer" OR electrochemical OR membrane)'
+
+    "Digital Twins & Process Monitoring":
+        filters:
+          - 'RAW:("Digital Twin" OR "Process Monitoring" OR "Fault Detection" OR "Fault Diagnosis" OR "Anomaly Detection" OR "Soft Sensors" OR "Condition Monitoring" OR "Predictive Maintenance") AND ("chemical engineering" OR "chemical process" OR "process systems engineering" OR reactor OR "distillation column" OR "distillation process" OR membrane OR crystallization OR "fuel cell" OR "carbon capture" OR "electrochemical system" OR wastewater)'
+
+    "Uncertainty Quantification & Bayesian Methods":
+        filters:
+          - 'RAW:("Uncertainty Quantification" OR "Bayesian Inference" OR "Probabilistic Modeling" OR "Data Assimilation" OR "Active Learning" OR "Experimental Design" OR "Bayesian Optimization" OR "Gaussian Process" OR "Robust Optimization" OR "Sensitivity Analysis") AND ("chemical engineering" OR "chemical process" OR "process systems engineering" OR reactor OR catalysis OR catalyst OR separation OR membrane OR "fuel cell" OR "carbon capture" OR "electrochemical system" OR wastewater OR crystallization)'
+
+    "Energy, Sustainability & Electrochemical Systems":
+        filters:
+          - "Electrochemical Systems"
+          - "Battery Modeling"
+          - "Fuel Cells"
+          - "Carbon Capture"
+          - 'RAW:("Energy Systems" OR "Sustainable Chemical Processes" OR "Energy Storage" OR Electrolysis OR Electrolyzer OR "Water Electrolysis" OR "Hydrogen Production" OR "CO2 Capture" OR "CO2 Electroreduction" OR "Direct Air Capture" OR "Redox Flow Battery" OR "Ammonia Synthesis" OR "Techno-Economic Analysis" OR "Life Cycle Assessment") AND ("chemical engineering" OR "chemical process" OR "process systems engineering" OR electrochemical OR battery OR electrode OR electrolyte OR "fuel cell" OR "carbon capture" OR reactor OR catalysis)'

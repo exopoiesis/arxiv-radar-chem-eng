@@ -1,0 +1,803 @@
+{
+ "2406.15562": {
+  "abstract": "Microfluidic devices have been the subject of considerable attention in recent years. The development of novel microfluidic devices, their evaluation, and their validation requires simulations. While common methods based on Computational Fluid Dynamics (CFD) can be time-consuming, 1D simulation provides an appealing alternative that leads to efficient results with reasonable quality. Current 1D simulation tools cover specific microfluidic applications; however, these tools are still rare and not widely adopted. There is a need for a more versatile and adaptable tool that covers novel applications, like mixing and the addition of membranes, and allows easy extension, resulting in one comprehensive 1D simulation tool for microfluidic devices. In this work, we present an open-source, modular, and extendable 1D simulation approach for microfluidic devices, which is available as an open-source software package at https://github.com/cda-tum/mmft-modular-1D-simulator. To this end, we propose an implementation that consists of a base module (providing the core functionality) that can be extended with dedicated application-specific modules (providing dedicated support for common microfluidic applications such as mixing, droplets, membranes, etc.). Case studies show that this indeed allows to efficiently simulate a broad spectrum of microfluidic applications in a quality that matches previous results or even fabricated devices.",
+  "authors": [
+   "Maria Emmerich",
+   "Florina Costamoling",
+   "Robert Wille"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Maria Emmerich",
+  "pdf_url": "http://arxiv.org/pdf/2406.15562",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-06-21",
+  "tags": [
+   "cfd"
+  ],
+  "title": "Modular and Extendable 1D-Simulation for Microfluidic Devices",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-11-04"
+ },
+ "2408.00909": {
+  "abstract": "A novel method, the Gaussian Integral Method (GIM), is presented for calculating void fractions in Computational Fluid Dynamics-Discrete Element Method (CFD-DEM) simulations. GIM is versatile and applicable to various grid types, including structured and unstructured polyhedral meshes, without requiring special boundary treatments. An optimization technique is introduced to make GIM independent of grid resolution and type. The method is validated against experimental data from a fluidized bed, demonstrating that GIM produces realistic simulations closely resembling experimental observations. Additionally, unstructured polyhedral grids using GIM outperform structured grids of equivalent resolution, yielding results more aligned with experimental data. The gradient of the void fraction is computed in the CFD solver and utilized in the DEM solver for precise estimation at particle locations. Overall, GIM provides an effective solution for void fraction calculations in particulate media simulations with complex geometries, enhancing the accuracy and applicability of CFD-DEM simulations in industrial applications.",
+  "authors": [
+   "Alireza Kianimoqadam",
+   "Justin L. Lapp"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Alireza Kianimoqadam",
+  "pdf_url": "http://arxiv.org/pdf/2408.00909",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-08-01",
+  "tags": [
+   "cfd",
+   "multiphase-flow"
+  ],
+  "title": "Gaussian Integral Method for Void Fraction",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-11-21"
+ },
+ "2408.03664": {
+  "abstract": "Deep Geothermal Energy, Carbon Capture and Storage, and Hydrogen Storage hold considerable promise for meeting the energy sector's large-scale requirements and reducing CO$_2$ emissions. However, the injection of fluids into the Earth's crust, essential for these activities, can induce or trigger earthquakes. In this paper, we highlight a new approach based on Reinforcement Learning for the control of human-induced seismicity in the highly complex environment of an underground reservoir. This complex system poses significant challenges in the control design due to parameter uncertainties and unmodeled dynamics. We show that the reinforcement learning algorithm can interact efficiently with a robust controller, by choosing the controller parameters in real-time, reducing human-induced seismicity and allowing the consideration of further production objectives, \\textit{e.g.}, minimal control power. Simulations are presented for a simplified underground reservoir under various energy demand scenarios, demonstrating the reliability and effectiveness of the proposed control-reinforcement learning approach.",
+  "authors": [
+   "Diego Gutierrez-Oribio",
+   "Alexandros Stathas",
+   "Ioannis Stefanou"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Diego Gutierrez-Oribio",
+  "pdf_url": "http://arxiv.org/pdf/2408.03664",
+  "primary_category": "cs.LG",
+  "published": "2024-08-07",
+  "tags": [
+   "carbon-capture"
+  ],
+  "title": "AI-Driven approach for sustainable extraction of earth's subsurface renewable energy while minimizing seismic activity",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-11-05"
+ },
+ "2408.15797": {
+  "abstract": "The influence of hydrated cation-π interaction forces on the adsorption and filtration capabilities of graphene-based membrane materials is significant. However, the lack of interaction potential between hydrated Cs+ and graphene limits the scope of adsorption studies. Here, it is developed that a deep neural network potential function model to predict the interaction force between hydrated Cs+ and graphene. The deep potential has DFT-level accuracy, enabling accurate property prediction. This deep potential is employed to investigate the properties of the graphene surface solution, including the density distribution, mean square displacement, and vibrational power spectrum of water. Furthermore, calculations of the molecular orbital electron distributions indicate the presence of electron migration in the molecular orbitals of graphene and hydrated Cs+, resulting in a strong electrostatic interaction force. The method provides a powerful tool to study the adsorption behavior of hydrated cations on graphene surfaces and offers a new solution for handling radionuclides.",
+  "authors": [
+   "Yangjun Qin",
+   "Liuhua Mu",
+   "Xiao Wan",
+   "Zhicheng Zong",
+   "Tianhao Li",
+   "Nuo Yang"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yangjun Qin",
+  "pdf_url": "http://arxiv.org/pdf/2408.15797",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-08-28",
+  "tags": [
+   "adsorption",
+   "dft"
+  ],
+  "title": "Deep potential for interaction between hydrated Cs+ and graphene",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-11-29"
+ },
+ "2409.18461": {
+  "abstract": "Federated Learning has emerged as a promising paradigm for collaborative machine learning, while preserving user data privacy. Despite its potential, standard FL lacks support for diverse heterogeneous device prototypes, which vary significantly in model and dataset sizes -- from small IoT devices to large workstations. This limitation is only partially addressed by existing knowledge distillation techniques, which often fail to transfer knowledge effectively across a broad spectrum of device prototypes with varied capabilities. This failure primarily stems from two issues: the dilution of informative logits from more capable devices by those from less capable ones, and the use of a single integrated logits as the distillation target across all devices, which neglects their individual learning capacities and and the unique contributions of each. To address these challenges, we introduce TAKFL, a novel KD-based framework that treats the knowledge transfer from each device prototype's ensemble as a separate task, independently distilling each to preserve its unique contributions and avoid dilution. TAKFL also incorporates a KD-based self-regularization technique to mitigate the issues related to the noisy and unsupervised ensemble distillation process. To integrate the separately distilled knowledge, we introduce an adaptive task arithmetic knowledge integration process, allowing each student model to customize the knowledge integration for optimal performance. Additionally, we present theoretical results demonstrating the effectiveness of task arithmetic in transferring knowledge across heterogeneous devices with varying capacities. Comprehensive evaluations of our method across both CV and NLP tasks demonstrate that TAKFL achieves SOTA results in a variety of datasets and settings, significantly outperforming existing KD-based methods Code is released at https://github.com/MMorafah/TAKFL",
+  "authors": [
+   "Mahdi Morafah",
+   "Vyacheslav Kungurtsev",
+   "Hojin Chang",
+   "Chen Chen",
+   "Bill Lin"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CV",
+   "cs.DC"
+  ],
+  "comment": "NeurIPS 2024",
+  "first_author": "Mahdi Morafah",
+  "pdf_url": "http://arxiv.org/pdf/2409.18461",
+  "primary_category": "cs.LG",
+  "published": "2024-09-27",
+  "tags": [
+   "distillation",
+   "knowledge-distillation"
+  ],
+  "title": "Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-11-11"
+ },
+ "2410.13762": {
+  "abstract": "Effective real-time monitoring is a foundation of digital twin technology, crucial for detecting material degradation and maintaining the structural integrity of nuclear systems to ensure both safety and operational efficiency. Traditional physical sensor systems face limitations such as installation challenges, high costs, and difficulty measuring critical parameters in hard-to-reach or harsh environments, often resulting in incomplete data coverage. Machine learning-driven virtual sensors, integrated within a digital twin framework, offer a transformative solution by enhancing physical sensor capabilities to monitor critical degradation indicators like pressure, velocity, and turbulence. However, conventional machine learning models struggle with real-time monitoring due to the high-dimensional nature of reactor data and the need for frequent retraining. This paper introduces the use of Deep Operator Networks (DeepONet) as a core component of a digital twin framework to predict key thermal-hydraulic parameters in the hot leg of an AP-1000 Pressurized Water Reactor (PWR). DeepONet serves as a dynamic and scalable virtual sensor by accurately mapping the interplay between operational input parameters and spatially distributed system behaviors. In this study, DeepONet is trained with different operational conditions, which relaxes the requirement of continuous retraining, making it suitable for online and real-time prediction components for digital twin. Our results show that DeepONet achieves accurate predictions with low mean squared error and relative L2 error and can make predictions on unknown data 1400 times faster than traditional CFD simulations. This speed and accuracy enable DeepONet to synchronize with the physical system in real-time, functioning as a dynamic virtual sensor that tracks degradation-contributing conditions.",
+  "authors": [
+   "Raisa Bentay Hossain",
+   "Farid Ahmed",
+   "Kazuma Kobayashi",
+   "Seid Koric",
+   "Diab Abueidda",
+   "Syed Bahauddin Alam"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Raisa Bentay Hossain",
+  "pdf_url": "http://arxiv.org/pdf/2410.13762",
+  "primary_category": "cs.LG",
+  "published": "2024-10-17",
+  "tags": [
+   "cfd",
+   "digital-twin"
+  ],
+  "title": "Virtual Sensing-Enabled Digital Twin Framework for Real-Time Monitoring of Nuclear Systems Leveraging Deep Neural Operators",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2024-11-29"
+ },
+ "2411.00426": {
+  "abstract": "Accurate prediction of Global Warming Potential (GWP) is essential for assessing the environmental impact of chemical processes and materials. Traditional GWP prediction models rely predominantly on molecular structure, overlooking critical process-related information. In this study, we present an integrative GWP prediction model that combines molecular descriptors (MACCS keys and Mordred descriptors) with process information (process title, description, and location) to improve predictive accuracy and interpretability. Using a deep neural network (DNN) model, we achieved an R-squared of 86% on test data with Mordred descriptors, process location, and description information, representing a 25% improvement over the previous benchmark of 61%; XAI analysis further highlighted the significant role of process title embeddings in enhancing model predictions. To enhance interpretability, we employed a Kolmogorov-Arnold Network (KAN) to derive a symbolic formula for GWP prediction, capturing key molecular and process features and providing a transparent, interpretable alternative to black-box models, enabling users to gain insights into the molecular and process factors influencing GWP. Error analysis showed that the model performs reliably in densely populated data ranges, with increased uncertainty for higher GWP values. This analysis allows users to manage prediction uncertainty effectively, supporting data-driven decision-making in chemical and process design. Our results suggest that integrating both molecular and process-level information in GWP prediction models yields substantial gains in accuracy and interpretability, offering a valuable tool for sustainability assessments. Future work may extend this approach to additional environmental impact categories and refine the model to further enhance its predictive reliability.",
+  "authors": [
+   "Jaewook Lee",
+   "Xinyang Sun",
+   "Ethan Errington",
+   "Miao Guo"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Jaewook Lee",
+  "pdf_url": "http://arxiv.org/pdf/2411.00426",
+  "primary_category": "cs.LG",
+  "published": "2024-11-01",
+  "tags": [
+   "chemical-engineering",
+   "process-design"
+  ],
+  "title": "A KAN-based Interpretable Framework for Process-Informed Prediction of Global Warming Potential",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-11-01"
+ },
+ "2411.00720": {
+  "abstract": "The sustainable production of many bulk chemicals relies on heterogeneous catalysis. The rational design or improvement of the required catalysts critically depends on insights into the underlying mechanisms at the atomic scale. In recent years, substantial progress has been made in applying advanced experimental techniques to complex catalytic reactions in operando, but in order to achieve a comprehensive understanding, additional information from computer simulations is indispensable in many cases. In particular, ab initio molecular dynamics (AIMD) has become an important tool to explicitly address the atomistic level structure, dynamics, and reactivity of interfacial systems, but the high computational costs limit applications to systems consisting of at most a few hundred atoms for simulation times of up to tens of picoseconds. Rapid advances in the development of modern machine learning potentials (MLP) now offer a new approach to bridge this gap, enabling simulations of complex catalytic reactions with ab initio accuracy at a small fraction of the computational costs. In this perspective, we provide an overview of the current state of the art of applying MLPs to systems relevant for heterogeneous catalysis along with a discussion of the prospects for the use of MLPs in catalysis science in the years to come.",
+  "authors": [
+   "Amir Omranpour",
+   "Jan Elsner",
+   "K. Nikolas Lausch",
+   "Jörg Behler"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Amir Omranpour",
+  "pdf_url": "http://arxiv.org/pdf/2411.00720",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-11-01",
+  "tags": [
+   "catalysis",
+   "heterogeneous-catalysis",
+   "molecular-dynamics"
+  ],
+  "title": "Machine Learning Potentials for Heterogeneous Catalysis",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2024-11-01"
+ },
+ "2411.00742": {
+  "abstract": "Population balance equation (PBE) models have potential to automate many engineering processes with far-reaching implications. In the pharmaceutical sector, crystallization model-based design can contribute to shortening excessive drug development timelines. Even so, two major barriers, typical of most transport equations, not just PBEs, have limited this potential. Notably, the time taken to compute a solution to these models with representative accuracy is frequently limiting. Likewise, the model construction process is often tedious and wastes valuable time, owing to the reliance on human expertise to guess constituent models from empirical data. Hybrid models promise to overcome both barriers through tight integration of neural networks with physical PBE models. Towards eliminating experimental guesswork, hybrid models facilitate determining physical relationships from data, also known as 'discovering physics'. Here, we aim to prepare for planned Scientific Machine Learning (SciML) integration through a contemporary implementation of an existing PBE algorithm, one with computational efficiency and differentiability at the forefront. To accomplish this, we utilized JAX, a cutting-edge library for accelerated computing. We showcase the speed benefits of this modern take on PBE modelling by benchmarking our solver to others we prepared using older, more widespread software. Primarily among these software tools is the ubiquitous NumPy, where we show JAX achieves up to 300x relative acceleration in PBE simulations. Our solver is also fully differentiable, which we demonstrate is the only feasible option for integrating learnable data-driven models at scale. We show that differentiability can be 40x faster for optimizing larger models than conventional approaches, which represents the key to neural network integration for physics discovery in later work.",
+  "authors": [
+   "Mohammed Alsubeihi",
+   "Arthur Jessop",
+   "Ben Moseley",
+   "Cláudio P. Fonte",
+   "Ashwin Kumar Rajagopalan"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mohammed Alsubeihi",
+  "pdf_url": "http://arxiv.org/pdf/2411.00742",
+  "primary_category": "cs.CE",
+  "published": "2024-11-01",
+  "tags": [
+   "crystallization",
+   "scientific-machine-learning"
+  ],
+  "title": "Modern, Efficient, and Differentiable Transport Equation Models using JAX: Applications to Population Balance Equations",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-11-01"
+ },
+ "2411.03721": {
+  "abstract": "Metal-film dielectric capacitors provide lump portions of energy on demand. While the capacities of various capacitor designs are comparable in magnitude, their stabilities make a difference. Dielectric breakdowns - micro-discharges - routinely occur in capacitors due to the inevitable presence of localized structure defects. The application of polymeric dielectric materials featuring flexible structures helps obtain more uniform insulating layers. At the modern technological level, it is impossible to completely avoid micro-discharges upon device exploitation. Every micro-discharge results in the formation of a soot channel, which is empirically known to exhibit semiconductor behavior. Because of its capability to conduct electricity, the emerged soot channels harm the subsequent capacitor performance and decrease the amount of stored energy. The accumulation of the soot throughout a dielectric capacitor ultimately results in irreversible overall failure. In the context of the dielectric breakdown, self-healing designates a range of chemical processes, which spontaneously rearrange the atoms in the soot channels to partially return their insulative function. We developed a universal method capable of rating new capacitor designs including electrode and polymer material and their proportions. We found the best-performing designs produce abundant volatile by-products after micro-discharge, whereas the soot samples exhibit lower electronic conductivities. We proved the capability of the theoretical method to rate the empirical performance of the known capacitors. The method relies on various electronic-structure simulations and potential landscape explorations. The reported advance opens an impressive avenue to computationally probe thousands of hypothetical capacitor designs.",
+  "authors": [
+   "Nadezhda A. Andreeva",
+   "Vitaly V. Chaban"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nadezhda A. Andreeva",
+  "pdf_url": "http://arxiv.org/pdf/2411.03721",
+  "primary_category": "physics.app-ph",
+  "published": "2024-11-06",
+  "tags": [
+   "chemical-engineering"
+  ],
+  "title": "Self-Healing in Dielectric Capacitors: a Universal Method to Computationally Rate Newly Introduced Energy Storage Designs",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-11-08"
+ },
+ "2411.06015": {
+  "abstract": "Urban Air Mobility (UAM), powered by flying cars, is poised to revolutionize urban transportation by expanding vehicle travel from the ground to the air. This advancement promises to alleviate congestion and enable faster commutes. However, the fast travel speeds mean vehicles will encounter vastly different environments during a single journey. As a result, onboard learning systems need access to extensive environmental data, leading to high costs in data collection and training. These demands conflict with the limited in-vehicle computing and battery resources. Fortunately, learning model sharing offers a solution. Well-trained local Deep Learning (DL) models can be shared with other vehicles, reducing the need for redundant data collection and training. However, this sharing process relies heavily on efficient vehicular communications in UAM. To address these challenges, this paper leverages the multi-hop Reconfigurable Intelligent Surface (RIS) technology to improve DL model sharing between distant flying cars. We also employ knowledge distillation to reduce the size of the shared DL models and enable efficient integration of non-identical models at the receiver. Our approach enhances model sharing and onboard learning performance for cars entering new environments. Simulation results show that our scheme improves the total reward by 85% compared to benchmark methods.",
+  "authors": [
+   "Kai Xiong",
+   "Hanqing Yu",
+   "Supeng Leng",
+   "Chongwen Huang",
+   "Chau Yuen"
+  ],
+  "categories": [
+   "cs.NI"
+  ],
+  "comment": "13pages, 17 figures",
+  "first_author": "Kai Xiong",
+  "pdf_url": "http://arxiv.org/pdf/2411.06015",
+  "primary_category": "cs.NI",
+  "published": "2024-11-09",
+  "tags": [
+   "knowledge-distillation"
+  ],
+  "title": "Multi-hop RIS-aided Learning Model Sharing for Urban Air Mobility",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-11-09"
+ },
+ "2411.06997": {
+  "abstract": "Many paintings from the 19th century have exhibited signs of fading and discoloration, often linked to cadmium yellow, a pigment widely used by artists during that time. In this work, we develop a mathematical model of the cadmium sulfide photocatalytic reaction responsible for these damages. By employing non-local integral operators, we capture the interplay between chemical processes and environmental factors, offering a detailed representation of the degradation mechanisms. Furthermore, we present a second order positivity-preserving numerical method designed to accurately simulate the phenomenon and ensure reliable predictions across different scenarios, along with a comprehensive sensitivity analysis of the model.",
+  "authors": [
+   "Maurizio Ceseri",
+   "Roberto Natalini",
+   "Mario Pezzella"
+  ],
+  "categories": [
+   "math.NA",
+   "math-ph",
+   "math.DS"
+  ],
+  "comment": null,
+  "first_author": "Maurizio Ceseri",
+  "pdf_url": "http://arxiv.org/pdf/2411.06997",
+  "primary_category": "math.NA",
+  "published": "2024-11-11",
+  "tags": [
+   "chemical-engineering",
+   "photocatalysis"
+  ],
+  "title": "An Integro-differential Model of Cadmium Yellow Photodegradation",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-11-11"
+ },
+ "2411.08370": {
+  "abstract": "Early fault detection and timely maintenance scheduling can significantly mitigate operational risks in NPPs and enhance the reliability of operator decision-making. Therefore, it is necessary to develop an efficient Prognostics and Health Management (PHM) multi-step prediction model for predicting of system health status and prompt execution of maintenance operations. In this study, we propose a novel predictive model that integrates reinforcement learning with Long Short-Term Memory (LSTM) neural networks and the Expert Fuzzy Evaluation Method. The model is validated using parameter data for 20 different breach sizes in the Main Steam Line Break (MSLB) accident condition of the CPR1000 pressurized water reactor simulation model and it demonstrates a remarkable capability in accurately forecasting NPP parameter changes up to 128 steps ahead (with a time interval of 10 seconds per step, i.e., 1280 seconds), thereby satisfying the temporal advance requirement for fault prognostics in NPPs. Furthermore, this method provides an effective reference solution for PHM applications such as anomaly detection and remaining useful life prediction.",
+  "authors": [
+   "Siwei Li",
+   "Jiayan Fang",
+   "Yichun Wua",
+   "Wei Wang",
+   "Chengxin Li",
+   "Jiangwen Chen"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Siwei Li",
+  "pdf_url": "http://arxiv.org/pdf/2411.08370",
+  "primary_category": "cs.AI",
+  "published": "2024-11-13",
+  "tags": [
+   "anomaly-detection",
+   "fault-detection"
+  ],
+  "title": "A Fuzzy Reinforcement LSTM-based Long-term Prediction Model for Fault Conditions in Nuclear Power Plants",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2024-11-13"
+ },
+ "2411.08378": {
+  "abstract": "Diffusion models have recently emerged as a potent tool in generative modeling. However, their inherent iterative nature often results in sluggish image generation due to the requirement for multiple model evaluations. Recent progress has unveiled the intrinsic link between diffusion models and Probability Flow Ordinary Differential Equations (ODEs), thus enabling us to conceptualize diffusion models as ODE systems. Simultaneously, Physics Informed Neural Networks (PINNs) have substantiated their effectiveness in solving intricate differential equations through implicit modeling of their solutions. Building upon these foundational insights, we introduce Physics Informed Distillation (PID), which employs a student model to represent the solution of the ODE system corresponding to the teacher diffusion model, akin to the principles employed in PINNs. Through experiments on CIFAR 10 and ImageNet 64x64, we observe that PID achieves performance comparable to recent distillation methods. Notably, it demonstrates predictable trends concerning method-specific hyperparameters and eliminates the need for synthetic dataset generation during the distillation process. Both of which contribute to its easy-to-use nature as a distillation approach for Diffusion Models. Our code and pre-trained checkpoint are publicly available at: https://github.com/pantheon5100/pid_diffusion.git.",
+  "authors": [
+   "Joshua Tian Jin Tee",
+   "Kang Zhang",
+   "Hee Suk Yoon",
+   "Dhananjaya Nagaraja Gowda",
+   "Chanwoo Kim",
+   "Chang D. Yoo"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Joshua Tian Jin Tee",
+  "pdf_url": "http://arxiv.org/pdf/2411.08378",
+  "primary_category": "cs.LG",
+  "published": "2024-11-13",
+  "tags": [
+   "distillation",
+   "knowledge-distillation",
+   "physics-informed-ml"
+  ],
+  "title": "Physics Informed Distillation for Diffusion Models",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2024-11-13"
+ },
+ "2411.10048": {
+  "abstract": "Physics-Informed Neural Networks (PINNs) have emerged as an influential technology, merging the swift and automated capabilities of machine learning with the precision and dependability of simulations grounded in theoretical physics. PINNs are often employed to solve algebraic or differential equations to replace some or even all steps of multi-stage computational workflows, leading to their significant speed-up. However, wide adoption of PINNs is still hindered by reliability issues, particularly at extreme ends of the input parameter ranges. In this study, we demonstrate this in the context of a system of coupled non-linear differential reaction-diffusion and heat transfer equations related to Fischer-Tropsch synthesis, which are solved by a finite-difference method with a PINN used in evaluating their source terms. It is shown that the testing strategies traditionally used to assess the accuracy of neural networks as function approximators can overlook the peculiarities which ultimately cause instabilities of the finite-difference solver. We propose a domain knowledge-based modifications to the PINN architecture ensuring its correct asymptotic behavior. When combined with an improved numerical scheme employed as an initial guess generator, the proposed modifications are shown to recover the overall stability of the simulations, while preserving the speed-up brought by PINN as the workflow component. We discuss the possible applications of the proposed hybrid transport equation solver in context of chemical reactors simulations.",
+  "authors": [
+   "Tymofii Nikolaienko",
+   "Harshil Patel",
+   "Aniruddha Panda",
+   "Subodh Madhav Joshi",
+   "Stanislav Jaso",
+   "Kaushic Kalyanaraman"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Tymofii Nikolaienko",
+  "pdf_url": "http://arxiv.org/pdf/2411.10048",
+  "primary_category": "cs.LG",
+  "published": "2024-11-15",
+  "tags": [
+   "heat-transfer",
+   "physics-informed-ml"
+  ],
+  "title": "Physics-informed neural networks need a physicist to be accurate: the case of mass and heat transport in Fischer-Tropsch catalyst particles",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-11-15"
+ },
+ "2411.10125": {
+  "abstract": "Artificial Intelligence (AI) in materials science is driving significant advancements in the discovery of advanced materials for energy applications. The recent GNoME protocol identifies over 380,000 novel stable crystals. From this, we identify over 33,000 materials with potential as energy materials forming the Energy-GNoME database. Leveraging Machine Learning (ML) and Deep Learning (DL) tools, our protocol mitigates cross-domain data bias using feature spaces to identify potential candidates for thermoelectric materials, novel battery cathodes, and novel perovskites. Classifiers with both structural and compositional features identify domains of applicability, where we expect enhanced accuracy of the regressors. Such regressors are trained to predict key materials properties like, thermoelectric figure of merit (zT), band gap (Eg), and cathode voltage ($ΔV_c$). This method significantly narrows the pool of potential candidates, serving as an efficient guide for experimental and computational chemistry investigations and accelerating the discovery of materials suited for electricity generation, energy storage and conversion.",
+  "authors": [
+   "Paolo De Angelis",
+   "Giovanni Trezza",
+   "Giulio Barletta",
+   "Pietro Asinari",
+   "Eliodoro Chiavazzo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other",
+   "cs.LG"
+  ],
+  "comment": "60 pages, 16 figures",
+  "first_author": "Paolo De Angelis",
+  "pdf_url": "http://arxiv.org/pdf/2411.10125",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-11-15",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Energy-GNoME: A Living Database of Selected Materials for Energy Applications",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-11-15"
+ },
+ "2411.11783": {
+  "abstract": "The search for low-cost, durable, and effective catalysts is essential for green hydrogen production and carbon dioxide upcycling to help in the mitigation of climate change. Discovery of new catalysts is currently limited by the gap between what AI-accelerated computational models predict and what experimental studies produce. To make progress, large and diverse experimental datasets are needed that are reproducible and tested at industrially-relevant conditions. We address these needs by utilizing a comprehensive high-throughput characterization and experimental pipeline to create the Open Catalyst Experiments 2024 (OCX24) dataset. The dataset contains 572 samples synthesized using both wet and dry methods with X-ray fluorescence and X-ray diffraction characterization. We prepared 441 gas diffusion electrodes, including replicates, and evaluated them using zero-gap electrolysis for carbon dioxide reduction (CO$_2$RR) and hydrogen evolution reactions (HER) at current densities up to $300$ mA/cm$^2$. To find correlations with experimental outcomes and to perform computational screens, DFT-verified adsorption energies for six adsorbates were calculated on $\\sim$20,000 inorganic materials requiring 685 million AI-accelerated relaxations. Remarkably from this large set of materials, a data driven Sabatier volcano independently identified Pt as being a top candidate for HER without having any experimental measurements on Pt or Pt-alloy samples. We anticipate the availability of experimental data generated specifically for AI training, such as OCX24, will significantly improve the utility of computational models in selecting materials for experimental screening.",
+  "authors": [
+   "Jehad Abed",
+   "Jiheon Kim",
+   "Muhammed Shuaibi",
+   "Brook Wander",
+   "Boris Duijf",
+   "Suhas Mahesh",
+   "Hyeonseok Lee",
+   "Vahe Gharakhanyan",
+   "Sjoerd Hoogland",
+   "Erdem Irtem",
+   "Janice Lan",
+   "Niels Schouten",
+   "Anagha Usha Vijayakumar",
+   "Jason Hattrick-Simpers",
+   "John R. Kitchin",
+   "Zachary W. Ulissi",
+   "Aaike van Vugt",
+   "Edward H. Sargent",
+   "David Sinton",
+   "C. Lawrence Zitnick"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "38 pages, 22 figures",
+  "first_author": "Jehad Abed",
+  "pdf_url": "http://arxiv.org/pdf/2411.11783",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-11-18",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "catalysis",
+   "co2-reduction",
+   "dft",
+   "electrolysis",
+   "hydrogen-evolution",
+   "hydrogen-production"
+  ],
+  "title": "Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-11-18"
+ },
+ "2411.12505": {
+  "abstract": "We consider an evolutionary PDE system coupling the Cahn-Hilliard equation with singular potential, mass source and transport effects, to a Brinkman-type relation for the macroscopic velocity field and to a further equation describing the evolution of the concentration of a chemical substance affecting the phase separation process. The main application we have in mind refers to tumor growth models: in particular, the equation for the chemical prescribes that such a substance tends to migrate towards the regions where the tumor cells are more dense and consume it more actively. The cross-diffusion effects characterizing the system are similar to those occurring in the Keller-Segel model for chemotaxis. There is, however, a profound difference between the two settings: actually, the Cahn-Hilliard system prescribes a fourth-order dynamics with respect to space variables, whereas most models for chemotaxis are of the second order in space. This fact has a number of specific consequences regarding regularity properties of solutions and conditions ensuring existence. Our main results are devoted to proving existence of weak solutions in the case when the chemotactic sensitivity function depends nonlinearly on the chemical species concentration, and, more precisely, has a slow growth at infinity so to avoid finite-time blowup. We also analyze the asymptotic problem obtained by letting the viscosity go to zero so to get a Darcy flow regime in the limit.",
+  "authors": [
+   "Giulio Schimperna"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "31 pages",
+  "first_author": "Giulio Schimperna",
+  "pdf_url": "http://arxiv.org/pdf/2411.12505",
+  "primary_category": "math.AP",
+  "published": "2024-11-19",
+  "tags": [
+   "separations"
+  ],
+  "title": "On a modified Cahn-Hilliard-Brinkman model with chemotaxis and nonlinear sensitivity",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-11-19"
+ },
+ "2411.12935": {
+  "abstract": "Accurate modeling of lithium ion (li-ion) batteries is essential for enhancing the safety, and efficiency of electric vehicles and renewable energy systems. This paper presents a data-inspired approach for improving the fidelity of reduced-order li-ion battery models. The proposed method combines a Genetic Algorithm with Sequentially Thresholded Ridge Regression (GA-STRidge) to identify and compensate for discrepancies between a low-fidelity model (LFM) and data generated either from testing or a high-fidelity model (HFM). The hybrid model, combining physics-based and data-driven methods, is tested across different driving cycles to demonstrate the ability to significantly reduce the voltage prediction error compared to the baseline LFM, while preserving computational efficiency. The model robustness is also evaluated under various operating conditions, showing low prediction errors and high Pearson correlation coefficients for terminal voltage in unseen environments.",
+  "authors": [
+   "Samuel Filgueira da Silva",
+   "Mehmet Fatih Ozkan",
+   "Faissal El Idrissi",
+   "Prashanth Ramesh",
+   "Marcello Canova"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.LG",
+   "cs.NE"
+  ],
+  "comment": "6 pages",
+  "first_author": "Samuel Filgueira da Silva",
+  "pdf_url": "http://arxiv.org/pdf/2411.12935",
+  "primary_category": "eess.SY",
+  "published": "2024-11-20",
+  "tags": [
+   "battery-modeling",
+   "energy-systems"
+  ],
+  "title": "Improving Low-Fidelity Models of Li-ion Batteries via Hybrid Sparse Identification of Nonlinear Dynamics",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-11-20"
+ },
+ "2411.13002": {
+  "abstract": "Cardiovascular surgeries and mechanical circulatory support devices create non-physiological blood flow conditions that can be detrimental, especially for pediatric patients. A source of complications is mechanical red blood cell (RBC) damage induced by the localized supraphysiological shear fields. To understand such complications, we introduce a multi-scale numerical model to predict the risk of hemolysis in a set of idealized anatomies. We employed our in-house CFD solver coupled with Lagrangian tracking and cell-resolved fluid-structure interaction to measure flow-induced stresses and strains on the RBC membrane. The Norwood procedure, well-known to be associated with high mortality rate, is selected for its importance in the survival of the single-ventricle population. We simulated three anatomies including 2.5mm and 4.0mm diameter modified Blalock-Taussig (BT) shunts and a 2.5mm central shunt (CS), with hundreds of RBCs in each case for statistical analysis. The results show that the conditions created by these surgeries can elongate RBCs by more than two-fold (3.1% of RBCs for 2.5mm BT shunt, 1.4% for 4mm BT shunt, and 8.8% for CS). Shear and areal strain metrics also reveal that the central shunt creates the greatest deformations on the RBCs membrane, indicating it is a more hemolytic procedure in comparison to the BT shunt. Between the two BT shunts, the smaller diameter is slightly more prone to hemolysis. These conclusions are confirmed when strain history and different damage thresholds are considered. The spatial damage maps produced based on these metrics highlighted hot zones that match the clinical images of shunt thrombosis.",
+  "authors": [
+   "Saba Mansour",
+   "Emily Logan",
+   "James F. Antaki",
+   "Mahdi Esmaily"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "31 pages, 16 figures",
+  "first_author": "Saba Mansour",
+  "pdf_url": "http://arxiv.org/pdf/2411.13002",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-11-20",
+  "tags": [
+   "cfd"
+  ],
+  "title": "Multi-scale simulation of red blood cell trauma in large-scale high-shear flows after Norwood operation",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2024-11-20"
+ },
+ "2411.14192": {
+  "abstract": "Understanding the process of multiphase fluid flow through porous media is crucial for many climate change mitigation technologies, including CO$_2$ geological storage, hydrogen storage, and fuel cells. However, current numerical models are often incapable of accurately capturing the complex pore-scale physics observed in experiments. In this study, we address this challenge using a graph neural network-based approach and directly learn pore-scale fluid flow using micro-CT experimental data. We propose a Long-Short-Edge MeshGraphNet (LSE-MGN) that predicts the state of each node in the pore space at each time step. During inference, given an initial state, the model can autoregressively predict the evolution of the multiphase flow process over time. This approach successfully captures the physics from the high-resolution experimental data while maintaining computational efficiency, providing a promising direction for accurate and efficient pore-scale modeling of complex multiphase fluid flow dynamics.",
+  "authors": [
+   "Yuxuan Gu",
+   "Catherine Spurin",
+   "Gege Wen"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.LG"
+  ],
+  "comment": "Accpeted for Machine Learning and the Physical Sciences Workshop at the 38th conference on Neural Information Processing Systems (NeurIPS 2024)",
+  "first_author": "Yuxuan Gu",
+  "pdf_url": "http://arxiv.org/pdf/2411.14192",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-11-21",
+  "tags": [
+   "fuel-cells",
+   "graph-neural-networks",
+   "multiphase-flow"
+  ],
+  "title": "Learning Pore-scale Multi-phase Flow from Experimental Data with Graph Neural Network",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-11-21"
+ },
+ "2411.14732": {
+  "abstract": "Electrochemical processes play a crucial role in energy storage and conversion systems, yet their computational modeling remains a significant challenge. Accurately incorporating the effects of electric potential has been a central focus in theoretical electrochemistry. Although constant-potential ab initio molecular dynamics (CP-AIMD) has provided valuable insights, it is limited by its substantial computational demands. Here, we introduce the Explicit Electric Potential Machine Learning Force Field (EEP-MLFF) model. Our model integrates the electric potential as an explicit input parameter along with the atom-centered descriptors in the atomic neural network. This approach enables the evaluation of nuclear forces under arbitrary electric potentials, thus facilitating molecular dynamics simulations at a specific potential. By applying the proposed machine learning method to the Cu/1T$^{\\prime}$-MoS$_{2}$ system, molecular dynamics simulations reveal that the potential-modulated Cu atom migration and aggregation lead to the formation of small steric Cu clusters (Single Clusters, SCs) at potentials below -0.1 V. The morphological transformations of adsorbed Cu atoms are elucidated through electronic structure analyses, which demonstrates that both Cu-S and Cu-Cu bonding can be effectively tuned by the applied electric potential. Our findings present an opportunity for the convenient manufacture of single metal cluster catalysts through potential modulation. Moreover, this theoretical framework facilitates the exploration of potential-regulated processes and helps investigate the mechanisms of electrochemical reactions.",
+  "authors": [
+   "Jingwen Zhou",
+   "Yunsong Fu",
+   "Ling Liu",
+   "Chungen Liu"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 6 figures",
+  "first_author": "Jingwen Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2411.14732",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-11-22",
+  "tags": [
+   "electrochemical-systems",
+   "energy-storage",
+   "molecular-dynamics"
+  ],
+  "title": "Constant-Potential Machine Learning Molecular Dynamics Simulations Reveal Potential-Regulated Cu Cluster Formation on MoS$_{2}$",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-11-22"
+ },
+ "2411.16330": {
+  "abstract": "Understanding the evolution of electrified solid-liquid interfaces during electrochemical reactions is crucial. However, capturing the dynamic behavior of the interfaces with high temporal resolution and accuracy over long timescales remains a major challenge for both experimental and computational techniques. Here, we present a constant potential reactor framework that enables the simulation of electrochemical reactions with ab initio accuracy over extended timescales, allowing for real-time atomic scale observations for the electrified solid-liquid interface evolution. By implementing an enhanced sampling active learning protocol, we develop fast, accurate, and scalable neural network potentials that generalize across systems with varying electron counts, based on high-throughput density functional theory computations within an explicit-implicit hybrid solvent model. The simulation of reactions in realistic electrochemical environments uncovers the intrinsic mechanisms through which alkali metal cations promote CO2 adsorption and suppress the hydrogen evolution reaction. These findings align with previous experimental results and clarify previously elusive observations, offering valuable computational insights. Our framework lay the groundwork for future studies exploring the dynamic interplay between interfacial structure and reactivity in electrochemical environments.",
+  "authors": [
+   "Letian Chen",
+   "Yun Tian",
+   "Xu Hu",
+   "Suya Chen",
+   "Huijuan Wang",
+   "Xu Zhang",
+   "Zhen Zhou"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "107 pages, 105 figures, 1 tables",
+  "first_author": "Letian Chen",
+  "pdf_url": "http://arxiv.org/pdf/2411.16330",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-11-25",
+  "tags": [
+   "active-learning",
+   "adsorption",
+   "dft",
+   "electrochemical-systems",
+   "hydrogen-evolution"
+  ],
+  "title": "A constant potential reactor framework for electrochemical reaction simulations",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2024-11-25"
+ },
+ "2411.17707": {
+  "abstract": "This article focuses on the faults of important mechanical components such as pumps, valves, and pipelines in the reactor coolant system, main steam system, condensate system, and main feedwater system of nuclear power plants (NPPs). It proposes a composite multi-fault diagnosis model based on Bayesian algorithm and EfficientNet large model using data-driven deep learning fault diagnosis technology. The aim is to evaluate the effectiveness of automatic deep learning-based large model technology through transfer learning in nuclear power plant scenarios.",
+  "authors": [
+   "Siwei Li",
+   "Jiangwen Chen",
+   "Hua Lin",
+   "Wei Wang"
+  ],
+  "categories": [
+   "eess.SP",
+   "cs.AI",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Siwei Li",
+  "pdf_url": "http://arxiv.org/pdf/2411.17707",
+  "primary_category": "eess.SP",
+  "published": "2024-11-13",
+  "tags": [
+   "fault-detection",
+   "transfer-learning"
+  ],
+  "title": "A Composite Fault Diagnosis Model for NPPs Based on Bayesian-EfficientNet Module",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2024-11-13"
+ },
+ "2411.18305": {
+  "abstract": "Wastewater treatment plants face unique challenges for process control due to their complex dynamics, slow time constants, and stochastic delays in observations and actions. These characteristics make conventional control methods, such as Proportional-Integral-Derivative controllers, suboptimal for achieving efficient phosphorus removal, a critical component of wastewater treatment to ensure environmental sustainability. This study addresses these challenges using a novel deep reinforcement learning approach based on the Soft Actor-Critic algorithm, integrated with a custom simulator designed to model the delayed feedback inherent in wastewater treatment plants. The simulator incorporates Long Short-Term Memory networks for accurate multi-step state predictions, enabling realistic training scenarios. To account for the stochastic nature of delays, agents were trained under three delay scenarios: no delay, constant delay, and random delay. The results demonstrate that incorporating random delays into the reinforcement learning framework significantly improves phosphorus removal efficiency while reducing operational costs. Specifically, the delay-aware agent achieved 36% reduction in phosphorus emissions, 55% higher reward, 77% lower target deviation from the regulatory limit, and 9% lower total costs than traditional control methods in the simulated environment. These findings underscore the potential of reinforcement learning to overcome the limitations of conventional control strategies in wastewater treatment, providing an adaptive and cost-effective solution for phosphorus removal.",
+  "authors": [
+   "Esmaeel Mohammadi",
+   "Daniel Ortiz-Arroyo",
+   "Aviaja Anna Hansen",
+   "Mikkel Stokholm-Bjerregaard",
+   "Sebastien Gros",
+   "Akhil S Anand",
+   "Petar Durdevic"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Esmaeel Mohammadi",
+  "pdf_url": "http://arxiv.org/pdf/2411.18305",
+  "primary_category": "eess.SY",
+  "published": "2024-11-27",
+  "tags": [
+   "process-control",
+   "wastewater-treatment"
+  ],
+  "title": "Application of Soft Actor-Critic Algorithms in Optimizing Wastewater Treatment with Time Delays Integration",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2024-11-27"
+ },
+ "2411.19764": {
+  "abstract": "The origin of the chirality of single-walled carbon nanotubes (SWCNTs) has been a long-standing dispute. Molecular dynamics (MD) simulations driven by machine-learning force fields (MLFF), which can study the interface dynamics under near ab-initio accuracy, provides a powerful technique to reveal the formation mechanism of SWCNTs. Here, we develop a cobalt-carbon MLFF and perform growth simulations on a cobalt catalyst to investigate the chirality preference of the growth of SWCNTs under the vapor-liquid-solid (VLS) regime. Through microkinetic modeling, we reproduce the observed growth and defect kinetics, demonstrating their dependence on the chirality. It is observed that while the initial chirality assignment is likely related to the configurational degeneracy of the nanotube caps, pentagon defects immediately form and resolve after nucleation. Such processes, which we name as diameter control mechanisms, not only control the diameter toward an optimum but also shift the chirality distribution drastically. Our work therefore offers a microkinetic modeling workflow for the chirality-dependent kinetics of the SWCNTs, highlighting the important contribution of the defect kinetics to the chirality origination.",
+  "authors": [
+   "Sida Sun",
+   "Shigeo Maruyama",
+   "Yan Li"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "10 pages, 7 figures",
+  "first_author": "Sida Sun",
+  "pdf_url": "http://arxiv.org/pdf/2411.19764",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2024-11-29",
+  "tags": [
+   "catalysis",
+   "microkinetic-modeling",
+   "molecular-dynamics"
+  ],
+  "title": "Chirality-Dependent Kinetics of Single-Walled Carbon Nanotubes from Machine-Learning Force Fields",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2024-11-29"
+ },
+ "2412.00107": {
+  "abstract": "Real-time monitoring of critical parameters is essential for energy systems' safe and efficient operation. However, traditional sensors often fail and degrade in harsh environments where physical sensors cannot be placed (inaccessible locations). In addition, there are important parameters that cannot be directly measured by sensors. We need machine learning (ML)-based real-time monitoring in those remote locations to ensure system operations. However, traditional ML models struggle to process continuous sensor profile data to fit model requirements, leading to the loss of spatial relationships. Another challenge for real-time monitoring is ``dataset shift\" and the need for frequent retraining under varying conditions, where extensive retraining prohibits real-time inference. To resolve these challenges, this study addressed the limitations of real-time monitoring methods by enabling monitoring in locations where physical sensors are impractical to deploy. Our proposed approach, utilizing Multi-Input Operator Network virtual sensors, leverages deep learning to seamlessly integrate diverse data sources and accurately predict key parameters in real-time without the need for additional physical sensors. The approach's effectiveness is demonstrated through thermal-hydraulic monitoring in a nuclear reactor subchannel, achieving remarkable accuracy.",
+  "authors": [
+   "Kazuma Kobayashi",
+   "Farid Ahmed",
+   "Syed Bahauddin Alam"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "eess.SP"
+  ],
+  "comment": "17 pages, 7 figures",
+  "first_author": "Kazuma Kobayashi",
+  "pdf_url": "http://arxiv.org/pdf/2412.00107",
+  "primary_category": "cs.LG",
+  "published": "2024-11-28",
+  "tags": [
+   "energy-systems"
+  ],
+  "title": "Virtual Sensing to Enable Real-Time Monitoring of Inaccessible Locations \\& Unmeasurable Parameters",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2024-11-28"
+ },
+ "2412.00508": {
+  "abstract": "Control structure design is an important but tedious step in P&ID development. Generative artificial intelligence (AI) promises to reduce P&ID development time by supporting engineers. Previous research on generative AI in chemical process design mainly represented processes by sequences. However, graphs offer a promising alternative because of their permutation invariance. We propose the Graph-to-SFILES model, a generative AI method to predict control structures from flowsheet topologies. The Graph-to-SFILES model takes the flowsheet topology as a graph input and returns a control-extended flowsheet as a sequence in the SFILES 2.0 notation. We compare four different graph encoder architectures, one of them being a graph neural network (GNN) proposed in this work. The Graph-to-SFILES model achieves a top-5 accuracy of 73.2% when trained on 10,000 flowsheet topologies. In addition, the proposed GNN performs best among the encoder architectures. Compared to a purely sequence-based approach, the Graph-to-SFILES model improves the top-5 accuracy for a relatively small training dataset of 1,000 flowsheets from 0.9% to 28.4%. However, the sequence-based approach performs better on a large-scale dataset of 100,000 flowsheets. These results highlight the potential of graph-based AI models to accelerate P&ID development in small-data regimes but their effectiveness on industry relevant case studies still needs to be investigated.",
+  "authors": [
+   "Lukas Schulze Balhorn",
+   "Kevin Degens",
+   "Artur M. Schweidtmann"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Lukas Schulze Balhorn",
+  "pdf_url": "http://arxiv.org/pdf/2412.00508",
+  "primary_category": "cs.LG",
+  "published": "2024-11-30",
+  "tags": [
+   "chemical-engineering",
+   "graph-neural-networks",
+   "process-design"
+  ],
+  "title": "Graph-to-SFILES: Control structure prediction from process topologies using generative artificial intelligence",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2024-11-30"
+ }
+}
