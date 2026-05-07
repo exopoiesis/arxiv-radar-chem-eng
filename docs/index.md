@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-06._
+_Updated 2026-05-07._
 
-**1083** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1084** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -19,6 +19,12 @@ _Updated 2026-05-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.03489.html">A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
 <td>Jan Lorenz Svensen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03489">2605.03489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04222.html">Safety by Invariance, Liveness through Refinement: Heterogeneous Contract Framework for Co-Design of Layered Control</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Yoshinari Takayama et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04222">2605.04222</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -187,11 +193,5 @@ _Updated 2026-05-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.19223.html">Deep-Learning based surrogate models for plasma exhaust simulations -- SOLPS-NN</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="tag/transfer-learning-30d.html">transfer-learning</a></div></td>
 <td>Stefan Dasbach et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19223">2604.19223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00863.html">Physics-informed neural networks for form-finding of unilateral membrane structures</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Luigi Sibille et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00863">2605.00863</a></td>
 </tr>
 </tbody></table>

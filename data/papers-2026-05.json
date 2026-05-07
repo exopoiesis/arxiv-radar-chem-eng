@@ -288,5 +288,35 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2026-05-05"
+ },
+ "2605.04222": {
+  "abstract": "Real-world control systems must achieve long-horizon objectives (liveness) while respecting continuous-time safety constraints, a combination that motivates hierarchical layered control architectures (LCAs). Existing LCA research, however, lacks (i) a uniform specification language across discrete planning and continuous execution, (ii) formal guarantees that specifications are preserved when interconnecting subsystems at heterogeneous time scales, and (iii) compositional separation between layers, owing to reliance on naive input-filtering laws. This paper addresses all three gaps by importing the safety--liveness decomposition into a heterogeneous assume--guarantee framework: \\emph{safety is enforced by invariance} at the continuous-time layer, while \\emph{liveness is achieved through refinement} at the discrete-time layer, with inter-layer coordination formalized via vertical refinement and timing-compatibility conditions. We instantiate this contract with a novel LCA combining an MPC planner, an input-to-state stabilizing (ISS) low-level controller, and a reference-governor bridge, and validate it on a Hybrid Energy Storage System (HESS) comprising a battery and a supercapacitor.",
+  "authors": [
+   "Yoshinari Takayama",
+   "Alessio Iovine",
+   "Bart Besselink",
+   "Guillaume Sandou",
+   "Adnane Saoud"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.RO"
+  ],
+  "comment": "22 pages",
+  "first_author": "Yoshinari Takayama",
+  "pdf_url": "http://arxiv.org/pdf/2605.04222",
+  "primary_category": "eess.SY",
+  "published": "2026-05-05",
+  "tags": [
+   "energy-storage",
+   "life-cycle-assessment",
+   "mpc"
+  ],
+  "title": "Safety by Invariance, Liveness through Refinement: Heterogeneous Contract Framework for Co-Design of Layered Control",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-05"
  }
 }
