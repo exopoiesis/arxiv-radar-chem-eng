@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05382.html">Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes</a></div><div class="paper-tags"><a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="gaussian-process-30d.html">gaussian-process</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Becky Langdon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05382">2605.05382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21803.html">Bayesian Neural Network Surrogates for Bayesian Optimization of Carbon Capture and Storage Operations</a></div><div class="paper-tags"><a href="carbon-capture-30d.html">carbon-capture</a> · <a href="gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Sofianos Panagiotis Fotias et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10173.html">Continuous PT-Symmetry Breaking as a Design Variable for Giant Altermagnetic Spin Splitting</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Kichan Chun et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10173">2604.10173</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01328.html">Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="gaussian-process-30d.html">gaussian-process</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Zhongwei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01328">2604.01328</a></td>
 </tr>
 </tbody></table>

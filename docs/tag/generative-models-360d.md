@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Laura van Weesep et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13520.html">LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Chaoran Zhang et al.</td>
@@ -110,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07442.html">DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07442">2505.07442</a></td>
 </tr>
 </tbody></table>

@@ -318,5 +318,119 @@
    "Process Control & Optimization"
   ],
   "updated": "2026-05-05"
+ },
+ "2605.05382": {
+  "abstract": "The optimisation of fed-batch (bio)chemical process recipes is subject to inherent, underlying, and unmeasurable fluctuations across batches, whose trajectories are difficult to model and costly to measure. Bayesian Optimisation (BayesOpt) is a powerful tool for sampling and optimisation of expensive-to-measure functions. Gaussian Processes (GPs), the surrogate models used in BayesOpt, are static, forecast poorly, and lack generalisation across experiments, limiting their applicability to time-varying batch processes with stochastic parameters, i.e., process fluctuations. This work investigates System-Aware Neural ODE Processes (SANODEP) as a meta-learning model to overcome the limitations of GPs and increase few-shot optimisation performance in BayesOpt. Using a penicillin batch production case study, we find that SANODEP outperforms GP-based BayesOpt in the low-data regime, resulting in improved objectives when few experimental runs are performed. These improvements are observed in both on- and off-distribution batches, highlighting the generalisation capabilities of SANODEP. Using this approach, batch process operators can accelerate the initial optimisation steps in BayesOpt by deploying meta-learning or optimise the process with fewer experiments when the experimental cost is high.",
+  "authors": [
+   "Becky Langdon",
+   "Gabriel D. Patrón",
+   "Chrysoula D. Kappatou",
+   "Robert M. Lee",
+   "Behrang Shafei",
+   "Jixiang Qing",
+   "Ruth Misener",
+   "Mark van der Wilk",
+   "Calvin Tsay"
+  ],
+  "categories": [
+   "math.OC",
+   "cs.LG"
+  ],
+  "comment": "24 pages, 12 figures",
+  "first_author": "Becky Langdon",
+  "pdf_url": "http://arxiv.org/pdf/2605.05382",
+  "primary_category": "math.OC",
+  "published": "2026-05-06",
+  "tags": [
+   "bayesian-inference",
+   "chemical-engineering",
+   "gaussian-process",
+   "surrogate-modeling"
+  ],
+  "title": "Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.05770": {
+  "abstract": "Generative models coupled with reinforcement learning (RL), such as REINVENT and PepINVENT, have emerged as a powerful framework for de novo molecular design. During the ideation process these generative frameworks utilize various predictive models as part of the optimization objectives. However, the utility of the predictive models can be limited by their domain of applicability. When RL is used to explore the chemical space with predictive models, it can suggest molecules that lie outside the predictor's domain of applicability. As a result, the predictions may become less reliable, potentially steering designs into high reward but also high uncertainty chemical spaces. This is particularly pronounced for cyclic peptides which show therapeutic promise due to their modifiability and large interaction surfaces but are understudied compared to small molecules. While passive membrane permeation in cyclic peptides has attracted interest, identifying optimal permeable designs remains challenging yet crucial for targeting intracellular sites. We present an RL-guided generative framework that designs permeable cyclic peptides using an uncertainty-aware permeability predictor as the scoring component. To address predictive uncertainty, especially impacted by novel chemistry, we integrate conformal prediction (CP) as our uncertainty quantification method. CP assesses designs based on the calibrated model under a user-defined confidence level. We demonstrate that rewarding generated peptides with CP-informed predictions improves both reliability and efficiency of peptide optimization process. This also discourages exploration outside the predictor's applicability domain. This approach bridges the gap between predictive uncertainty and RL-guided exploration, showing how generative modelling and conformal prediction can be combined for the first time.",
+  "authors": [
+   "Laura van Weesep",
+   "Sunay Chankeshwara",
+   "Leonardo De Maria",
+   "Florian David",
+   "Ola Engkvist",
+   "Gökçe Geylan"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Laura van Weesep",
+  "pdf_url": "http://arxiv.org/pdf/2605.05770",
+  "primary_category": "cs.AI",
+  "published": "2026-05-07",
+  "tags": [
+   "generative-models",
+   "uncertainty-quantification"
+  ],
+  "title": "Confidence is the key: how conformal prediction enhances the generative design of permeable peptides",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-07"
+ },
+ "2605.06448": {
+  "abstract": "Model predictive control (MPC) is widely used in industries but implementing it poses challenges due to hardware or time constraints. A promising solution is to approximate the MPC policy using function approximators like neural networks. Existing methods focus on minimizing the error between the approximators outputs and the MPC optimal control actions on training data, which is called error guided learning approach in this paper. However, the goals of control law design is not to minimize the fitting error but to minimize the operation cost. This paper proposes a novel cost-guided learning approach that utilizes the cost sensitivity information from the MPC problem to directly minimize the loss in closed-loop performance. A theoretical analysis shows cost-guided learning provides tighter guarantees on optimality loss compared to traditional error-guided learning. Experiments on a continuous stirred tank reactor (CSTR) benchmark demonstrate that the proposed technique results in approximate MPC policies that achieve substantially better closed-loop performance. This work makes an important contribution by connecting the fitting errors with operational objectives, overcoming key limitations of existing approximation methods. The core idea could be applied more broadly for data-driven control.",
+  "authors": [
+   "Chenchen Zhou",
+   "Yi Cao",
+   "Shuang-hua Yang"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Chenchen Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2605.06448",
+  "primary_category": "math.OC",
+  "published": "2026-05-07",
+  "tags": [
+   "mpc",
+   "optimal-control"
+  ],
+  "title": "Performance guaranteed MPC Policy Approximation via Cost Guided Learning",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-07"
+ },
+ "2605.06570": {
+  "abstract": "Many real-world problems require sequential decisions under uncertainty: when to inject or withdraw gas from storage, how to rebalance a pension portfolio each month, what temperature profile to run through a pharmaceutical reactor chain. Dynamic programming solves small instances exactly but scales exponentially in state dimensions. Black-box reinforcement learning handles high-dimensional states but trains slowly and produces no sensitivities.   We introduce SNAPO (Smooth Neural Adjoint Policy Optimization), a framework that embeds a neural policy inside a known, differentiable simulator, replaces hard constraints with smooth approximations, and computes exact gradients of the objective with respect to all policy parameters and all inputs in a single adjoint pass.   We demonstrate SNAPO on three domains: natural gas storage (training in under a minute, 365 forward curve sensitivities at no additional cost per sensitivity), pension fund asset-liability management (6.5x-200x sensitivity speedup over bump-and-revalue, scaling with the number of risk factors), and pharmaceutical manufacturing (cross-unit sensitivities through a 4-unit process chain, with 20 ICH Q8 regulatory sensitivities from 5 adjoint passes in 74.5 milliseconds).   All sensitivities are produced by the same backward pass that trains the policy, at a cost proportional to one reverse pass regardless of how many sensitivities are computed.",
+  "authors": [
+   "Dmitri Goloubentsev",
+   "Natalija Karpichina"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.OC",
+   "q-fin.CP",
+   "q-fin.MF",
+   "q-fin.RM"
+  ],
+  "comment": "27 pages, 8 tables. Three domains: natural gas storage, pension fund ALM, pharmaceutical manufacturing. Benchmark code and trained policies available on request",
+  "first_author": "Dmitri Goloubentsev",
+  "pdf_url": "http://arxiv.org/pdf/2605.06570",
+  "primary_category": "cs.LG",
+  "published": "2026-05-07",
+  "tags": [],
+  "title": "SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-07"
  }
 }

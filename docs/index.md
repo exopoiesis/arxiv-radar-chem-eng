@@ -5,15 +5,39 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-07._
+_Updated 2026-05-08._
 
-**1084** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1088** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Laura van Weesep et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06448.html">Performance guaranteed MPC Policy Approximation via Cost Guided Learning</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Chenchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06448">2605.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06570.html">SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation</a></div></td>
+<td>Dmitri Goloubentsev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06570">2605.06570</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05382.html">Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Becky Langdon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05382">2605.05382</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.03489.html">A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-05-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
 <td>Srinivasan T. et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.20175.html">Physics-Enhanced Deep Learning for Proactive Thermal Runaway Forecasting in Li-Ion Batteries</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
-<td>Salman Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20175">2604.20175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2407.05102.html">Towards Auto-Building of Embedded FPGA-based Soft Sensors for Wastewater Flow Estimation</a></div><div class="paper-tags"><a href="tag/soft-sensors-30d.html">soft-sensors</a></div></td>
-<td>Tianheng Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05102">2407.05102</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.19175.html">Digital twin-based hybrid framework for steam generator clogging prognostics</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Edgar Jaber et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19175">2604.19175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.19223.html">Deep-Learning based surrogate models for plasma exhaust simulations -- SOLPS-NN</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="tag/transfer-learning-30d.html">transfer-learning</a></div></td>
-<td>Stefan Dasbach et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19223">2604.19223</a></td>
 </tr>
 </tbody></table>

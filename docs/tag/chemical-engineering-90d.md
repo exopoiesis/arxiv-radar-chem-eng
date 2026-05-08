@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-engineering — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <strong>90d</strong> <a href="chemical-engineering-360d.html">360d</a> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05382.html">Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="gaussian-process-90d.html">gaussian-process</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Becky Langdon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05382">2605.05382</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26073.html">Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization</a></div><div class="paper-tags"><a href="process-design-90d.html">process-design</a> · <a href="process-modeling-90d.html">process-modeling</a></div></td>
