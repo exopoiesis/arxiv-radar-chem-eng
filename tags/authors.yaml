@@ -1,0 +1,67 @@
+# Author whitelist for arxiv-radar-chem-eng.
+#
+# After the regex relevance_filter rejects a paper, daily_arxiv does a
+# second-chance check against this whitelist. Matched papers enter with
+# topic `via:author-whitelist:<note>`.
+#
+# Scope: process systems engineering, MPC / RL for control, surrogate
+# modeling, hybrid models, microkinetics, reactor design, autonomous
+# experimentation / self-driving labs.
+
+authors:
+
+  # --- Process systems engineering / hybrid modeling ---
+
+  - name_match: ["Pistikopoulos", "Efstratios Pistikopoulos"]
+    note: "PSE, parametric programming"
+
+  - name_match: ["Floudas", "Christodoulos Floudas"]
+    note: "global optimization, PSE"
+
+  - name_match: ["Daoutidis", "Prodromos Daoutidis"]
+    note: "process control, networks"
+
+  - name_match: ["Zavala, V", "Victor Zavala"]
+    note: "MPC, infrastructure optimization"
+
+  - name_match: ["Gounaris", "Chrysanthos Gounaris"]
+    note: "robust optimization, scheduling"
+
+  - name_match: ["Lima, F", "Fernando Lima"]
+    note: "MPC, process safety"
+
+  - name_match: ["Christofides, P", "Panagiotis Christofides"]
+    note: "process control, ML for control"
+
+  # --- Reaction engineering / microkinetics ---
+
+  - name_match: ["Vlachos, D", "Dionisios Vlachos"]
+    note: "microkinetics, multi-scale catalysis"
+
+  - name_match: ["Salciccioli, M", "Michael Salciccioli"]
+    note: "kinetic networks, microkinetics"
+
+  - name_match: ["Goldsmith, F", "Franklin Goldsmith"]
+    note: "automated kinetic mechanism generation"
+
+  # --- Self-driving labs / autonomous experimentation ---
+
+  - name_match: ["Aspuru-Guzik", "Alán Aspuru-Guzik"]
+    note: "autonomous discovery, self-driving labs"
+
+  - name_match: ["Cronin", "Lee Cronin"]
+    note: "chemputers, autonomous synthesis"
+
+  - name_match: ["Burger, B", "Benjamin Burger"]
+    note: "mobile robotic chemist"
+
+  - name_match: ["Reizman, B", "Brandon Reizman"]
+    note: "autonomous reaction optimization"
+
+  # --- ML for materials / catalysis ---
+
+  - name_match: ["Bligaard", "Thomas Bligaard"]
+    note: "computational catalyst design, scaling relations"
+
+  - name_match: ["Ulissi", "Zachary Ulissi"]
+    note: "Open Catalyst, ML for catalysis"
