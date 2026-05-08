@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-models — all</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="generative-models-7d.html">7d</a> <a href="generative-models-30d.html">30d</a> <a href="generative-models-90d.html">90d</a> <a href="generative-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a></div></td>
+<td>Seunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13520.html">LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design</a></div><div class="paper-tags"><a href="carbon-capture-all.html">carbon-capture</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
@@ -26,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12607.html">Hierarchical generative modeling for the design of multi-component systems</a></div><div class="paper-tags"><a href="active-sites-all.html">active-sites</a> · <a href="catalysis-all.html">catalysis</a></div></td>
 <td>Rhyan Barrett et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12607">2604.12607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04849.html">El Agente Estructural: An Artificially Intelligent Molecular Editor</a></div></td>
+<td>Changhyeok Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2602.04849">2602.04849</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-19</td>
@@ -76,10 +88,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.16207">2511.16207</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14155.html">Supervised and Unsupervised Deep Learning Applied to the Majority Vote Model</a></div></td>
+<td>J. F. Silva Neto et al.</td>
+<td><a href="http://arxiv.org/abs/2509.14155">2509.14155</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="catalysis-all.html">catalysis</a> · <a href="energy-storage-all.html">energy-storage</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.09253.html">The generative quantum eigensolver (GQE) and its application for ground state search</a></div></td>
+<td>Kouhei Nakaji et al.</td>
+<td><a href="http://arxiv.org/abs/2401.09253">2401.09253</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-29</td>
@@ -94,6 +118,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2509.25538">2509.25538</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13791.html">Scalable Autoregressive 3D Molecule Generation</a></div></td>
+<td>Austin H. Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2505.13791">2505.13791</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03278.html">Artificial Intelligence and Generative Models for Materials Discovery -- A Review</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Albertus Denny Handoko et al.</td>
@@ -104,6 +134,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11226.html">MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
 <td>Peter Eckmann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11226">2410.11226</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02819.html">Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts</a></div></td>
+<td>Marta Skreta et al.</td>
+<td><a href="http://arxiv.org/abs/2503.02819">2503.02819</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-14</td>
@@ -130,10 +166,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.17270">2410.17270</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12540.html">Stiefel Flow Matching for Moment-Constrained Structure Elucidation</a></div></td>
+<td>Austin Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2412.12540">2412.12540</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18761.html">Probabilistic Joint Recovery Method for CO$_2$ Plume Monitoring</a></div><div class="paper-tags"><a href="carbon-capture-all.html">carbon-capture</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Zijun Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18761">2501.18761</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16986.html">Generative quantum combinatorial optimization by means of a novel conditional generative quantum eigensolver</a></div></td>
+<td>Shunya Minami et al.</td>
+<td><a href="http://arxiv.org/abs/2501.16986">2501.16986</a></td>
 </tr>
 <tr class="paper">
 <td>2025-01-17</td>
@@ -160,9 +208,21 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2408.07608">2408.07608</a></td>
 </tr>
 <tr class="paper">
+<td>2024-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.17404.html">Generative diffusion model for surface structure discovery</a></div></td>
+<td>Nikolaj Rønne et al.</td>
+<td><a href="http://arxiv.org/abs/2402.17404">2402.17404</a></td>
+</tr>
+<tr class="paper">
 <td>2024-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07461.html">Noise-robust Speech Separation with Fast Generative Correction</a></div><div class="paper-tags"><a href="separations-all.html">separations</a></div></td>
 <td>Helin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.07461">2406.07461</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08210.html">Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS</a></div></td>
+<td>Mohammad Ghazi Vakili et al.</td>
+<td><a href="http://arxiv.org/abs/2402.08210">2402.08210</a></td>
 </tr>
 </tbody></table>

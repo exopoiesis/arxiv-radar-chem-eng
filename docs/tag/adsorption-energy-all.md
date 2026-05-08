@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption-energy — all</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <a href="adsorption-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -112,6 +112,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03162.html">The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="carbon-capture-all.html">carbon-capture</a> · <a href="dft-all.html">dft</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a></div></td>
+<td>Anuroop Sriram et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03162">2508.03162</a></td>
+</tr>
+<tr class="paper">
 <td>2025-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20827.html">Optimizing adsorption configurations on alloy surfaces using Tensor Train Optimizer</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a></div></td>
 <td>Tuan Minh Do et al.</td>
@@ -152,5 +158,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.11783.html">Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="co2-reduction-all.html">co2-reduction</a> · <a href="dft-all.html">dft</a> · <a href="electrolysis-all.html">electrolysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="hydrogen-production-all.html">hydrogen-production</a></div></td>
 <td>Jehad Abed et al.</td>
 <td><a href="http://arxiv.org/abs/2411.11783">2411.11783</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.09811.html">Adapting OC20-trained EquiformerV2 Models for High-Entropy Materials</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
+<td>Christian M. Clausen et al.</td>
+<td><a href="http://arxiv.org/abs/2403.09811">2403.09811</a></td>
 </tr>
 </tbody></table>

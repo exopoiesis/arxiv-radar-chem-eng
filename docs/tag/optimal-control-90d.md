@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>optimal-control — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <strong>90d</strong> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -40,6 +40,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2506.11765">2506.11765</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07693.html">On Linear Critical-Region Boundaries in Continuous-Time Multiparametric Optimal Control</a></div></td>
+<td>Lida Lamakani et al.</td>
+<td><a href="http://arxiv.org/abs/2604.07693">2604.07693</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02441.html">Computationally efficient Gauss-Newton reinforcement learning for model predictive control</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a> · <a href="process-control-90d.html">process-control</a></div></td>
 <td>Dean Brandner et al.</td>
@@ -56,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21545.html">Auction-Based Task Allocation with Energy-Conscientious Trajectory Optimization for AMR Fleets</a></div><div class="paper-tags"><a href="battery-modeling-90d.html">battery-modeling</a></div></td>
 <td>Jiachen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21545">2603.21545</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16887.html">Multiparametric continuous-time optimal control via Pontryagin&#x27;s Maximum Principle: explicit solutions and comparisons with discrete-time formulations</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a></div></td>
+<td>Lida Lamakani et al.</td>
+<td><a href="http://arxiv.org/abs/2603.16887">2603.16887</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-11</td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,6 +86,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20496.html">Orbital-interaction-aware deep learning model for efficient surface chemistry simulations</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="gas-separation-360d.html">gas-separation</a> · <a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a></div></td>
 <td>Zhihao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20496">2507.20496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09788.html">Capillary filling of star polymer melts in nanopores</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jianwei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.09788">2603.09788</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-01</td>
@@ -254,6 +260,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03162.html">The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="dft-360d.html">dft</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Anuroop Sriram et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03162">2508.03162</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-23</td>

@@ -163,6 +163,50 @@
   ],
   "updated": "2025-02-27"
  },
+ "2501.14893": {
+  "abstract": "We present a study of new 7.7-11.3 $μ$m data obtained with the James Webb Space Telescope Mid-InfraRed Instrument in the starburst galaxy M 82. In particular, we focus on the dependency of the integrated CO(1-0) line intensity on the MIRI-F770W and MIRI-F1130W filter intensities to investigate the correlation between CO content and the 7.7 and 11.3 $μ$m features from polycyclic aromatic hydrocarbons (PAH) in M 82's outflows. To perform our analysis, we identify CO clouds using archival $^{12}$CO($J$=1-0) NOEMA moment 0 map within 2 kpc from the center of M 82, with sizes ranging between $\\sim$21 and 270 pc; then, we compute the CO-to-PAH relations for the 306 validated CO clouds. On average, the power-law slopes for the two relations in M 82 are lower than what is seen in local main-sequence spirals. In addition, there is a moderate correlation between $I_{\\rm CO(1-0)}$-$I_{\\rm 7.7μm} /I_{\\rm 11.3μm}$ for most of the CO cloud groups analyzed in this work. Our results suggest that the extreme conditions in M 82 translate into CO not tracing the full budget of molecular gas in smaller clouds, perhaps as a consequence of photoionization and/or emission suppression of CO molecules due to hard radiation fields from the central starburst.",
+  "authors": [
+   "V. Villanueva",
+   "A. D. Bolatto",
+   "R. Herrera-Camus",
+   "A. Leroy",
+   "D. B. Fisher",
+   "R. C. Levy",
+   "T. Böker",
+   "L. Boogaard",
+   "S. A. Cronin",
+   "D. A. Dale",
+   "K. Emig",
+   "I. De Looze",
+   "G. P. Donnelly",
+   "T. S. -Y. Lai",
+   "L. Lenkic",
+   "L. A. Lopez",
+   "S. Lopez",
+   "D. S. Meier",
+   "J. Ott",
+   "M. Relano",
+   "J. D. Smith",
+   "E. Tarantino",
+   "S. Veilleux",
+   "F. Walter",
+   "P. van der Werf"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": null,
+  "first_author": "V. Villanueva",
+  "pdf_url": "http://arxiv.org/pdf/2501.14893",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-01-24",
+  "tags": [],
+  "title": "JWST Observations of Starbursts: Relations between PAH features and CO clouds in the starburst galaxy M 82",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2025-02-28"
+ },
  "2502.00498": {
   "abstract": "Computational Fluid Dynamics (CFD) is widely used in aerospace, energy, and biology to model fluid flow, heat transfer, and chemical reactions. While Large Language Models (LLMs) have transformed various domains, their application in CFD remains limited, particularly for complex tasks like post-processing. To bridge this gap, we introduce MetaOpenFOAM 2.0, which leverages Chain of Thought (COT) decomposition and iterative verification to enhance accessibility for non-expert users through natural language inputs. Tested on a new benchmark covering simulation (fluid flow, heat transfer, combustion) and post-processing (extraction, visualization), MetaOpenFOAM 2.0 achieved an Executability score of 6.3/7 and a pass rate of 86.9%, significantly outperforming MetaOpenFOAM 1.0 (2.1/7, 0%). Additionally, it proved cost-efficient, averaging $0.15 per case. An ablation study confirmed that COT-driven decomposition and iterative refinement substantially improved task performance. Furthermore, scaling laws showed that increasing COT steps enhanced accuracy while raising token usage, aligning with LLM post-training scaling trends. These results highlight the transformative potential of LLMs in automating CFD workflows for industrial and research applications. Code is available at https://github.com/Terry-cyx/MetaOpenFOAM",
   "authors": [
@@ -223,6 +267,31 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-02-04"
+ },
+ "2502.02872": {
+  "abstract": "The most fundamental abstraction underlying all modern computers is the Turing Machine, that is if any modern computer can simulate a Turing Machine, an equivalence which is called Turing completeness, it is theoretically possible to achieve any task that can be algorithmically described by executing a series of discrete unit operations. In chemistry, the ability to program chemical processes is demanding because it is hard to ensure that the process can be understood at a high level of abstraction, and then reduced to practice. Herein we exploit the concept of Turing completeness applied to robotic platforms for chemistry that can be used to synthesise complex molecules through unit operations that execute chemical processes using a chemically-aware programming language, XDL. We leverage the concept of computability by computers to synthesizability of chemical compounds by automated synthesis machines. The results of an interactive demonstration of Turing completeness using the colour gamut and conditional logic are presented and examples of chemical use-cases are discussed. Over 16.7 million combinations of Red, Green, Blue (RGB) colour space were binned into 5 discrete values and measured over 10 regions of interest (ROIs), affording 78 million possible states per step and served as a proxy for conceptual, chemical space exploration. This formal description establishes a formal framework in future chemical programming languages to ensure complex logic operations are expressed and executed correctly, with the possibility of error correction, in the automated and autonomous pursuit of increasingly complex molecules.",
+  "authors": [
+   "Daniel Gahler",
+   "Dean Thomas",
+   "Slawomir Lach",
+   "Leroy Cronin"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "18 pages, 7 figures, 28 references",
+  "first_author": "Daniel Gahler",
+  "pdf_url": "http://arxiv.org/pdf/2502.02872",
+  "primary_category": "cs.CL",
+  "published": "2025-02-05",
+  "tags": [
+   "chemical-engineering"
+  ],
+  "title": "Achieving Operational Universality through a Turing Complete Chemputer",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2025-02-05"
  },
  "2502.03412": {
   "abstract": "The rapid rise in electric vehicle (EV) adoption presents significant challenges in managing the vast number of retired EV batteries. Research indicates that second-life batteries (SLBs) from EVs typically retain considerable residual capacity, offering extended utility. These batteries can be effectively repurposed for use in EV charging stations (EVCS), providing a cost-effective alternative to new batteries and reducing overall planning costs. Integrating battery energy storage systems (BESS) with SLBs into EVCS is a promising strategy to alleviate system overload. However, efficient operation of EVCS with integrated BESS is hindered by uncertainties such as fluctuating EV arrival and departure times and variable power prices from the grid. This paper presents a deep reinforcement learning-based (DRL) planning framework for EV charging stations with BESS, leveraging SLBs. We employ the advanced soft actor-critic (SAC) approach, training the model on a year's worth of data to account for seasonal variations, including weekdays and holidays. A tailored reward function enables effective offline training, allowing real-time optimization of EVCS operations under uncertainty.",
@@ -515,6 +584,31 @@
   ],
   "updated": "2025-02-12"
  },
+ "2502.09750": {
+  "abstract": "Quantifying the evolution and complexity of materials is of importance in many areas of science and engineering, where a central open challenge is developing experimental complexity measurements to distinguish random structures from evolved or engineered materials. Assembly Theory (AT) was developed to measure complexity produced by selection, evolution and technology. Here, we extend the fundamentals of AT to quantify complexity in inorganic molecules and solid-state periodic objects such as crystals, minerals and microprocessors, showing how the framework of AT can be used to distinguish naturally formed materials from evolved and engineered ones by quantifying the amount of assembly using the assembly equation defined by AT. We show how tracking the Assembly of repeated structures within a material allows us formalizing the complexity of materials in a manner accessible to measurement. We confirm the physical relevance of our formal approach, by applying it to phase transformations in crystals using the HCP to FCC transformation as a model system. To explore this approach, we introduce random stacking faults in closed-packed systems simplified to one-dimensional strings and demonstrate how Assembly can track the phase transformation. We then compare the Assembly of closed-packed structures with random or engineered faults, demonstrating its utility in distinguishing engineered materials from randomly structured ones. Our results have implications for the study of pre-genetic minerals at the origin of life, optimization of material design in the trade-off between complexity and function, and new approaches to explore material technosignatures which can be unambiguously identified as products of engineered design.",
+  "authors": [
+   "Keith Y Patarroyo",
+   "Abhishek Sharma",
+   "Ian Seet",
+   "Ignas Packmore",
+   "Sara I. Walker",
+   "Leroy Cronin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "34 pages, 7 figures, 55 references; version 2",
+  "first_author": "Keith Y Patarroyo",
+  "pdf_url": "http://arxiv.org/pdf/2502.09750",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-02-13",
+  "tags": [],
+  "title": "Quantifying the Complexity of Materials with Assembly Theory",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2025-02-25"
+ },
  "2502.09970": {
   "abstract": "With the rapid development of energy storage technology, high-performance solid-state electrolytes (SSEs) have become critical for next-generation lithium-ion batteries. These materials require high ionic conductivity, excellent electrochemical stability, and good mechanical properties to meet the demands of electric vehicles and portable electronics. However, traditional methods like density functional theory (DFT) and empirical force fields face challenges such as high computational costs, poor scalability, and limited accuracy across material systems. Universal machine learning interatomic potentials (uMLIPs) offer a promising solution with their efficiency and near-DFT-level accuracy.This study systematically evaluates six advanced uMLIP models (MatterSim, MACE, SevenNet, CHGNet, M3GNet, and ORBFF) in terms of energy, forces, thermodynamic properties, elastic moduli, and lithium-ion diffusion behavior. The results show that MatterSim outperforms others in nearly all metrics, particularly in complex material systems, demonstrating superior accuracy and physical consistency. Other models exhibit significant deviations due to issues like energy inconsistency or insufficient training data coverage.Further analysis reveals that MatterSim achieves excellent agreement with reference values in lithium-ion diffusivity calculations, especially at room temperature. Studies on Li3YCl6 and Li6PS5Cl uncover how crystal structure, anion disorder levels, and Na/Li arrangements influence ionic conductivity. Appropriate S/Cl disorder levels and optimized Na/Li arrangements enhance diffusion pathway connectivity, improving overall ionic transport performance.",
   "authors": [
@@ -542,6 +636,61 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-02-14"
+ },
+ "2502.10166": {
+  "abstract": "As digital services increasingly replace traditional analogue systems, ensuring that older adults are not left behind is critical to fostering inclusive access. This study explores how digital educators support older adults in developing essential digital skills, drawing insights from interviews with $34$ educators in Ireland. These educators, both professional and volunteer, offer instruction through a range of formats, including workshops, remote calls, and in-person sessions. Our findings highlight the importance of personalized, step-by-step guidance tailored to older adults' learning needs, as well as fostering confidence through hands-on engagement with technology. Key challenges identified include limited transportation options, poor internet connectivity, outdated devices, and a lack of familial support for learning. To address these barriers, we propose enhanced public funding, expanded access to resources, and sustainable strategies such as providing relevant and practical course materials. Additionally, innovative tools like simulated online platforms for practicing digital transactions can help reduce anxiety and enhance digital literacy among older adults. This study underscores the vital role that digital educators play in bridging the digital divide, creating a more inclusive, human-centered approach to digital learning for older adults.",
+  "authors": [
+   "Melanie Gruben",
+   "Ashley Sheil",
+   "Sanchari Das",
+   "Michelle O Keeffe",
+   "Jacob Camilleri",
+   "Moya Cronin",
+   "Hazel Murray"
+  ],
+  "categories": [
+   "cs.CR",
+   "cs.CY",
+   "cs.HC"
+  ],
+  "comment": null,
+  "first_author": "Melanie Gruben",
+  "pdf_url": "http://arxiv.org/pdf/2502.10166",
+  "primary_category": "cs.CR",
+  "published": "2025-02-14",
+  "tags": [],
+  "title": "\"It's Like Not Being Able to Read and Write\": Narrowing the Digital Divide for Older Adults and Leveraging the Role of Digital Educators in Ireland",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2025-02-14"
+ },
+ "2502.11650": {
+  "abstract": "Based on Irish older adult's perceptions, practices, and challenges regarding password management, the goal of this study was to compile suitable advice that can benefit this demographic. To achieve this, we first conducted semi structured interviews (n=37), we then collated advice based on best practice and what we learned from these interviews. We facilitated two independent focus groups (n=31) to evaluate and adjust this advice and tested the finalized advice through an observational study (n=15). The participants were aged between 59 and 86 and came from various counties in Ireland, both rural and urban. The findings revealed that managing multiple passwords was a significant source of frustration, leading some participants to adopt novel and informal strategies for storing them. A notable hesitation to adopt digital password managers and passphrases was also observed. Participants appreciated guidance on improving their password practices, with many affirming that securely writing down passwords was a practical strategy. Irish older adults demonstrated strong intuition regarding cybersecurity, notably expressing concerns over knowledge-based security checks used by banks and government institutions. This study aims to contribute to the aggregation of practical password advice suited to older adults, making password security more manageable and less burdensome for this demographic.",
+  "authors": [
+   "Ashley Sheil",
+   "Jacob Camilleri",
+   "Michelle O'Keeffe",
+   "Melanie Gruben",
+   "Moya Cronin",
+   "Hazel Murray"
+  ],
+  "categories": [
+   "cs.CR",
+   "cs.CY",
+   "cs.HC"
+  ],
+  "comment": null,
+  "first_author": "Ashley Sheil",
+  "pdf_url": "http://arxiv.org/pdf/2502.11650",
+  "primary_category": "cs.CR",
+  "published": "2025-02-17",
+  "tags": [],
+  "title": "\"I'm 73, you can't expect me to have multiple passwords\": Password Management Concerns and Solutions of Irish Older Adults",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2025-02-17"
  },
  "2502.12383": {
   "abstract": "In the field of chemical engineering, traditional data-processing and prediction methods face significant challenges. Machine-learning and large-language models (LLMs) also have their respective limitations. This paper explores the application of the Chain-of-Thought (CoT) reasoning model in chemical engineering, starting from 30 experimental data points. By integrating traditional surrogate models like Gaussian processes and random forests with powerful LLMs such as DeepSeek-R1, a hierarchical architecture is proposed. Two CoT-building methods, Large Language Model-Chain of Thought (LLM-CoT) and Machine Learning-Large Language Model-Chain of Thought (ML-LLM-CoT), are studied. The LLM-CoT combines local models DeepSeek-r1:14b and Qwen2:7b with Ollama. The ML-LLM-CoT integrates a pre-trained Gaussian ML model with the LLM-based CoT framework. Our results show that during construction, ML-LLM-CoT is more efficient. It only has 2 points that require rethink and a total of 4 rethink times, while LLM-CoT has 5 points that need to be re-thought and 34 total rethink times. In predicting the solubility of 20 molecules with dissimilar structures, the number of molecules with a prediction deviation higher than 100\\% for the Gaussian model, LLM-CoT, and ML-LLM-CoT is 7, 6, and 4 respectively. These results indicate that ML-LLM-CoT performs better in controlling the number of high-deviation molecules, optimizing the average deviation, and achieving a higher success rate in solubility judgment, providing a more reliable method for chemical engineering and molecular property prediction. This study breaks through the limitations of traditional methods and offers new solutions for rapid property prediction and process optimization in chemical engineering.",
@@ -810,6 +959,68 @@
    "Computational Fluid Dynamics & Multiphase Flow"
   ],
   "updated": "2025-02-24"
+ },
+ "2502.18966": {
+  "abstract": "General parameters are highly desirable in the natural sciences - e.g., chemical reaction conditions that enable high yields across a range of related transformations. This has a significant practical impact since those general parameters can be transferred to related tasks without the need for laborious and time-intensive re-optimization. While Bayesian optimization (BO) is widely applied to find optimal parameter sets for specific tasks, it has remained underused in experiment planning towards such general optima. In this work, we consider the real-world problem of condition optimization for chemical reactions to study how performing generality-oriented BO can accelerate the identification of general optima, and whether these optima also translate to unseen examples. This is achieved through a careful formulation of the problem as an optimization over curried functions, as well as systematic evaluations of generality-oriented strategies for optimization tasks on real-world experimental data. We find that for generality-oriented optimization, simple myopic optimization strategies that decouple parameter and task selection perform comparably to more complex ones, and that effective optimization is merely determined by an effective exploration of both parameter and task space.",
+  "authors": [
+   "Stefan P. Schmid",
+   "Ella Miray Rajaonson",
+   "Cher Tian Ser",
+   "Mohammad Haddadnia",
+   "Shi Xuan Leong",
+   "Alán Aspuru-Guzik",
+   "Agustinus Kristiadi",
+   "Kjell Jorner",
+   "Felix Strieth-Kalthoff"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Stefan P. Schmid",
+  "pdf_url": "http://arxiv.org/pdf/2502.18966",
+  "primary_category": "cs.LG",
+  "published": "2025-02-26",
+  "tags": [
+   "bayesian-inference"
+  ],
+  "title": "One Set to Rule Them All: How to Obtain General Chemical Conditions via Bayesian Optimization over Curried Functions",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-02-26"
+ },
+ "2502.19333": {
+  "abstract": "Despite advances in methods to interrogate tumor biology, the observational and population-based approach of classical cancer research and clinical oncology does not enable anticipation of tumor outcomes to hasten the discovery of cancer mechanisms and personalize disease management. To address these limitations, individualized cancer forecasts have been shown to predict tumor growth and therapeutic response, inform treatment optimization, and guide experimental efforts. These predictions are obtained via computer simulations of mathematical models that are constrained with data from a patient's cancer and experiments. This book chapter addresses the validation of these mathematical models to forecast tumor growth and treatment response. We start with an overview of mathematical modeling frameworks, model selection techniques, and fundamental metrics. We then describe the usual strategies employed to validate cancer forecasts in preclinical and clinical scenarios. Finally, we discuss existing barriers in validating these predictions along with potential strategies to address them.",
+  "authors": [
+   "Guillermo Lorenzo",
+   "David A. Hormuth",
+   "Chengyue Wu",
+   "Graham Pash",
+   "Anirban Chaudhuri",
+   "Ernesto A. B. F. Lima",
+   "Lois C. Okereke",
+   "Reshmi Patel",
+   "Karen Willcox",
+   "Thomas E. Yankeelov"
+  ],
+  "categories": [
+   "q-bio.TO",
+   "cs.CE",
+   "q-bio.CB",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Guillermo Lorenzo",
+  "pdf_url": "http://arxiv.org/pdf/2502.19333",
+  "primary_category": "q-bio.TO",
+  "published": "2025-02-26",
+  "tags": [],
+  "title": "Validating the predictions of mathematical models describing tumor growth and treatment response",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2025-02-26"
  },
  "2502.19357": {
   "abstract": "Critical heat flux is a key quantity in boiling system modeling due to its impact on heat transfer and component temperature and performance. This study investigates the development and validation of an uncertainty-aware hybrid modeling approach that combines machine learning with physics-based models in the prediction of critical heat flux in nuclear reactors for cases of dryout. Two empirical correlations, Biasi and Bowring, were employed with three machine learning uncertainty quantification techniques: deep neural network ensembles, Bayesian neural networks, and deep Gaussian processes. A pure machine learning model without a base model served as a baseline for comparison. This study examines the performance and uncertainty of the models under both plentiful and limited training data scenarios using parity plots, uncertainty distributions, and calibration curves. The results indicate that the Biasi hybrid deep neural network ensemble achieved the most favorable performance (with a mean absolute relative error of 1.846% and stable uncertainty estimates), particularly in the plentiful data scenario. The Bayesian neural network models showed slightly higher error and uncertainty but superior calibration. By contrast, deep Gaussian process models underperformed by most metrics. All hybrid models outperformed pure machine learning configurations, demonstrating resistance against data scarcity.",

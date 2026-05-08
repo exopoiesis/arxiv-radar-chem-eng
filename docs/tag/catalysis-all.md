@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -436,6 +436,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2508.13790">2508.13790</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04294.html">Open Gas-Cell Transmission Electron Microscopy at 50 pm Resolution</a></div><div class="paper-tags"><a href="crystallization-all.html">crystallization</a></div></td>
+<td>Idan Biran et al.</td>
+<td><a href="http://arxiv.org/abs/2508.04294">2508.04294</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02214.html">Predictive Chemical Kinetic Modeling of Pt-Catalyzed Dry Methane Reforming</a></div><div class="paper-tags"><a href="catalyst-design-all.html">catalyst-design</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="microkinetic-modeling-all.html">microkinetic-modeling</a> · <a href="reaction-kinetics-all.html">reaction-kinetics</a></div></td>
 <td>Esther Ritov et al.</td>
@@ -862,6 +868,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2405.02078">2405.02078</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06335.html">Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a></div></td>
+<td>Nicole Bellonzi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06335">2406.06335</a></td>
+</tr>
+<tr class="paper">
 <td>2024-05-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20239.html">BEAST DB: Grand-Canonical Database of Electrocatalyst Properties</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
 <td>Cooper Tezak et al.</td>
@@ -878,5 +890,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04654.html">Metabolism, information, and viability in a simulated physically-plausible protocell</a></div><div class="paper-tags"><a href="experimental-design-all.html">experimental-design</a></div></td>
 <td>Kristoffer R. Thomsen et al.</td>
 <td><a href="http://arxiv.org/abs/2405.04654">2405.04654</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.09811.html">Adapting OC20-trained EquiformerV2 Models for High-Entropy Materials</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="dft-all.html">dft</a> · <a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
+<td>Christian M. Clausen et al.</td>
+<td><a href="http://arxiv.org/abs/2403.09811">2403.09811</a></td>
 </tr>
 </tbody></table>

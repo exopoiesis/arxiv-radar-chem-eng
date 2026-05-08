@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>graph-neural-networks — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="graph-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,6 +92,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15228.html">Accelerating High-Throughput Catalyst Screening by Direct Generation of Equilibrium Adsorption Structures</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="dft-360d.html">dft</a> · <a href="generative-models-360d.html">generative-models</a></div></td>
 <td>Songze Huo et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15228">2512.15228</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21624.html">Shoot from the HIP: Hessian Interatomic Potentials without derivatives</a></div></td>
+<td>Andreas Burger et al.</td>
+<td><a href="http://arxiv.org/abs/2509.21624">2509.21624</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11870.html">Graph-Based Imitation and Reinforcement Learning for Efficient Benders Decomposition</a></div></td>
+<td>Bernard T. Agyeman et al.</td>
+<td><a href="http://arxiv.org/abs/2511.11870">2511.11870</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-23</td>

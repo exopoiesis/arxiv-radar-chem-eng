@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,6 +56,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18864.html">Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Samuel Del Fré et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18864">2603.18864</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09788.html">Capillary filling of star polymer melts in nanopores</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
+<td>Jianwei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.09788">2603.09788</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06567.html">A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention</a></div></td>
+<td>Eric Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.06567">2603.06567</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-26</td>
@@ -128,6 +140,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14828.html">Statistics makes a difference: Machine learning adsorption dynamics of functionalized cyclooctine on Si(001) at DFT accuracy</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Hendrik Weiske et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14828">2509.14828</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08734.html">DEQuify your force field: More efficient simulations using deep equilibrium models</a></div></td>
+<td>Andreas Burger et al.</td>
+<td><a href="http://arxiv.org/abs/2509.08734">2509.08734</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-04</td>

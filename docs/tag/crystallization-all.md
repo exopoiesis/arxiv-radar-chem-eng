@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystallization — all</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="crystallization-7d.html">7d</a> <a href="crystallization-30d.html">30d</a> <a href="crystallization-90d.html">90d</a> <a href="crystallization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -76,6 +76,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2509.09022">2509.09022</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04294.html">Open Gas-Cell Transmission Electron Microscopy at 50 pm Resolution</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
+<td>Idan Biran et al.</td>
+<td><a href="http://arxiv.org/abs/2508.04294">2508.04294</a></td>
+</tr>
+<tr class="paper">
 <td>2025-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19316.html">Human-AI Synergy in Adaptive Active Learning for Continuous Lithium Carbonate Crystallization Optimization</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
 <td>Shayan S. Mousavi Masouleh et al.</td>
@@ -116,6 +122,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00742.html">Modern, Efficient, and Differentiable Transport Equation Models using JAX: Applications to Population Balance Equations</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Mohammed Alsubeihi et al.</td>
 <td><a href="http://arxiv.org/abs/2411.00742">2411.00742</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05196.html">AI-Driven Robotic Crystal Explorer for Rapid Polymorph Identification</a></div></td>
+<td>Edward C Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2409.05196">2409.05196</a></td>
 </tr>
 <tr class="paper">
 <td>2024-07-11</td>

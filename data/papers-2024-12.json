@@ -55,6 +55,32 @@
   ],
   "updated": "2024-12-17"
  },
+ "2406.12176": {
+  "abstract": "Assembly theory (AT) quantifies selection using the assembly equation and identifies complex objects that occur in abundance based on two measurements, assembly index and copy number, where the assembly index is the minimum number of joining operations necessary to construct an object from basic parts, and the copy number is how many instances of the given object(s) are observed. Together these define a quantity, called Assembly, which captures the amount of causation required to produce objects in abundance in an observed sample. This contrasts with the random generation of objects. Herein we describe how AT's focus on selection as the mechanism for generating complexity offers a distinct approach, and answers different questions, than computational complexity theory with its focus on minimum descriptions via compressibility. To explore formal differences between the two approaches, we show several simple and explicit mathematical examples demonstrating that the assembly index, itself only one piece of the theoretical framework of AT, is formally not equivalent to other commonly used complexity measures from computer science and information theory including Shannon entropy, Huffman encoding, and Lempel-Ziv-Welch compression. We also include proofs that assembly index is not in the same computational complexity class as these compression algorithms and discuss fundamental differences in the ontological basis of AT, and assembly index as a physical observable, which distinguish it from theoretical approaches to formalizing life that are unmoored from measurement.",
+  "authors": [
+   "Christopher P. Kempes",
+   "Michael Lachmann",
+   "Andrew Iannaccone",
+   "G. Matthew Fricke",
+   "M. Redwan Chowdhury",
+   "Sara I. Walker",
+   "Leroy Cronin"
+  ],
+  "categories": [
+   "cs.CC"
+  ],
+  "comment": "38 pages, 4 figures, 1 table, and 91 references plus supplement with proof of assembly index computational class",
+  "first_author": "Christopher P. Kempes",
+  "pdf_url": "http://arxiv.org/pdf/2406.12176",
+  "primary_category": "cs.CC",
+  "published": "2024-06-18",
+  "tags": [],
+  "title": "Assembly Theory and its Relationship with Computational Complexity",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2024-12-03"
+ },
  "2407.21088": {
   "abstract": "Understanding and accurately predicting hydrogen diffusion in materials is challenging due to the complex interactions between hydrogen defects and the crystal lattice. These interactions span large length and time scales, making them difficult to address with standard ab initio techniques. This work addresses this challenge by employing accelerated machine learning (ML) molecular dynamics simulations through active learning. We conduct a comparative study of different ML-based interatomic potential schemes, including VASP, MACE, and CHGNet, utilizing various training strategies such as on-the-fly learning, pre-trained universal models, and fine-tuning.By considering different temperatures and concentration regimes, we obtain hydrogen diffusion coefficients and activation energy values which align remarkably well with experimental results, underlining the efficacy and accuracy of ML-assisted methodologies in the context of diffusive dynamics. Particularly, our procedure significantly reduces the computational effort associated with traditional transition state calculations or ad-hoc designed interatomic potentials. The results highlight the limitations of pre-trained universal solutions for defective materials and how they can be improved by fine-tuning. Specifically, fine-tuning the models on a database produced during on-the-fly training of VASP ML force-field allows the retrieving of DFT-level accuracy at a fraction of the computational cost.",
   "authors": [
@@ -178,6 +204,38 @@
   ],
   "updated": "2024-12-10"
  },
+ "2410.07974": {
+  "abstract": "Rare event sampling in dynamical systems is a fundamental problem arising in the natural sciences, which poses significant computational challenges due to an exponentially large space of trajectories. For settings where the dynamical system of interest follows a Brownian motion with known drift, the question of conditioning the process to reach a given endpoint or desired rare event is definitively answered by Doob's h-transform. However, the naive estimation of this transform is infeasible, as it requires simulating sufficiently many forward trajectories to estimate rare event probabilities. In this work, we propose a variational formulation of Doob's h-transform as an optimization problem over trajectories between a given initial point and the desired ending point. To solve this optimization, we propose a simulation-free training objective with a model parameterization that imposes the desired boundary conditions by design. Our approach significantly reduces the search space over trajectories and avoids expensive trajectory simulation and inefficient importance sampling estimators which are required in existing methods. We demonstrate the ability of our method to find feasible transition paths on real-world molecular simulation and protein folding tasks.",
+  "authors": [
+   "Yuanqi Du",
+   "Michael Plainer",
+   "Rob Brekelmans",
+   "Chenru Duan",
+   "Frank Noé",
+   "Carla P. Gomes",
+   "Alán Aspuru-Guzik",
+   "Kirill Neklyudov"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "physics.bio-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "Accepted as Spotlight at Conference on Neural Information Processing Systems (NeurIPS 2024); Alanine dipeptide results updated after fixing unphysical parameterization and energy computation",
+  "first_author": "Yuanqi Du",
+  "pdf_url": "http://arxiv.org/pdf/2410.07974",
+  "primary_category": "cs.LG",
+  "published": "2024-10-10",
+  "tags": [
+   "molecular-simulation"
+  ],
+  "title": "Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2024-12-10"
+ },
  "2410.15924": {
   "abstract": "We consider a class of nonlocal Cahn-Hilliard equations in a bounded domain $Ω\\subset\\mathbb{R}^{d}$ $(d\\in\\{2,3\\})$, subject to a nonlocal kinetic rate dependent dynamic boundary condition. This diffuse interface model describes phase separation processes with possible long-range interactions both within the bulk material and on its boundary. The kinetic rate $1/L$, with $L\\in[0,+\\infty]$, distinguishes different types of bulk-boundary interactions. For the initial boundary value problem endowed with general singular potentials, including the physically relevant logarithmic potential, we first establish the existence and uniqueness of global weak solutions when the bulk and boundary chemical potentials are coupled through a Robin-type boundary condition, i.e., $L\\in(0,+\\infty)$. The proof of existence is based on a Yosida approximation of singular potentials and a suitable Faedo-Galerkin scheme. Subsequently, we investigate asymptotic limits as the kinetic rate approaches zero or infinity, which yield weak well-posedness for the limiting cases $L=+\\infty$ and $L=0$, respectively. Under appropriate assumptions on the interaction kernels, we derive explicit convergence rates for the Yosida approximation as $\\varepsilon\\to0$ and for the asymptotic limits as $L\\to0$ or $L\\to+\\infty$. Finally, we demonstrate that every global weak solution exhibits a propagation of regularity over time and when $L\\in(0,+\\infty]$, we establish the instantaneous strict separation property by means of a suitable De Giorgi's iteration scheme.",
   "authors": [
@@ -289,6 +347,56 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2024-12-01"
+ },
+ "2411.15117": {
+  "abstract": "The $\\sim$5 Myr PDS 70 is the only known system with protoplanets residing in the cavity of the circumstellar disk from which they formed, ideal for studying exoplanet formation and evolution within its natal environment. Here we report the first spin constraint and C/O measurement of PDS 70b from Keck/KPIC high-resolution spectroscopy. We detected CO (3.8 $σ$) and H$_2$O (3.5 $σ$) molecules in the PDS 70b atmosphere via cross-correlation, with a combined CO and H$_2$O template detection significance of 4.2 $σ$. Our forward model fits, using BT-Settl model grids, provide an upper limit for the spin-rate of PDS 70b ($<$29 km s$^{-1}$). The atmospheric retrievals constrain the PDS 70b C/O ratio to ${0.28}^{+0.20}_{-0.12}$ ($<$0.63 under 95$\\%$ confidence level) and a metallicity [C/H] of ${-0.2}^{+0.8}_{-0.5}$ dex, consistent with that of its host star. The following scenarios can explain our measured C/O of PDS 70b in contrast with that of the gas-rich outer disk (for which C/O $\\gtrsim$ 1). First, the bulk composition of PDS 70b might be dominated by dust+ice aggregates rather than disk gas. Another possible explanation is that the disk became carbon-enriched $\\textit{after}$ PDS 70b was formed, as predicted in models of disk chemical evolution and as observed in both very low mass star and older disk systems with $\\textit{JWST}$/MIRI. Because PDS 70b continues to accrete and its chemical evolution is not yet complete, more sophisticated modeling of the planet and the disk, and higher quality observations of PDS 70b (and possibly PDS 70c), are necessary to validate these scenarios.",
+  "authors": [
+   "Chih-Chun Hsu",
+   "Jason J. Wang",
+   "Geoffrey A. Blake",
+   "Jerry W. Xuan",
+   "Yapeng Zhang",
+   "Jean-Baptiste Ruffio",
+   "Katelyn Horstman",
+   "Julianne Cronin",
+   "Ben Sappey",
+   "Yinzi Xin",
+   "Luke Finnerty",
+   "Daniel Echeverri",
+   "Dimitri Mawet",
+   "Nemanja Jovanovic",
+   "Clarissa R. Do Ó",
+   "Ashley Baker",
+   "Randall Bartos",
+   "Benjamin Calvin",
+   "Sylvain Cetre",
+   "Jacques-Robert Delorme",
+   "Gregory W. Doppmann",
+   "Michael P. Fitzgerald",
+   "Joshua Liberman",
+   "Ronald A. López",
+   "Evan Morris",
+   "Jacklyn Pezzato-Rovner",
+   "Tobias Schofield",
+   "Andrew Skemer",
+   "J. Kent Wallace",
+   "Ji Wang"
+  ],
+  "categories": [
+   "astro-ph.EP",
+   "astro-ph.SR"
+  ],
+  "comment": "Accepted to ApJ Letters; 13 pages, 3 figures",
+  "first_author": "Chih-Chun Hsu",
+  "pdf_url": "http://arxiv.org/pdf/2411.15117",
+  "primary_category": "astro-ph.EP",
+  "published": "2024-11-22",
+  "tags": [],
+  "title": "PDS 70b Shows Stellar-like Carbon-to-oxygen Ratio",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2024-12-21"
  },
  "2412.00340": {
   "abstract": "Sodium-ion batteries (SIBs) have garnered significant attention in recent years as a promising alternative to lithium-ion batteries (LIBs) due to their low cost, abundant sodium resources, and excellent cycling performance. Hard carbon materials, characterized by their high specific capacity, outstanding cycling stability, and low cost, have emerged as potential candidates for SIB anodes. However, the sodium storage mechanism in hard carbon anodes remains highly complex, especially in disordered structures, and is yet to be fully understood. To address this, we employed relative machine learning force fields (MLFFs) in conjunction with multiscale simulation techniques to systematically investigate the sodium storage behavior in hard carbon. By integrating simulations, this study provides a detailed exploration of sodium adsorption, intercalation, and filling mechanisms. High-precision, large-scale simulations reveal the dynamic behavior and distribution patterns of sodium ions in hard carbon. The findings not only deepen our understanding of sodium storage mechanisms in hard carbon anodes, but also offer a theoretical foundation for optimizing future SIB designs, while introducing novel simulation methodologies and technical frameworks to enhance battery performance.",
@@ -1002,6 +1110,29 @@
   ],
   "updated": "2024-12-19"
  },
+ "2412.15865": {
+  "abstract": "Understanding how transportation networks work is important for improving connectivity, efficiency, and safety. In Brazil, where road transport is a significant portion of freight and passenger movement, network science can provide valuable insights into the structural properties of the infrastructure, thus helping decision makers responsible for proposing improvements to the system. This paper models the federal road network as weighted networks, with the intent to unveil its topological characteristics and identify key locations (cities) that play important roles for the country through 75,000 kilometres of roads. We start with a simple network to examine basic connectivity and topology, where weights are the distance of the road segment. We then incorporate other weights representing number of incidents, population, and number of cities in-between each segment. We then focus on community detection as a way to identify clusters of cities that form cohesive groups within a network. Our findings aim to bring clarity to the overall structure of federal roads in Brazil, thus providing actionable insights for improving infrastructure planning and prioritising resources to enhance network resilience.",
+  "authors": [
+   "Julio Taveira",
+   "Fernando Buarque de Lima Neto",
+   "Ronaldo Menezes"
+  ],
+  "categories": [
+   "physics.soc-ph",
+   "cs.CY"
+  ],
+  "comment": "11 pages, 5 figures, 34 references",
+  "first_author": "Julio Taveira",
+  "pdf_url": "http://arxiv.org/pdf/2412.15865",
+  "primary_category": "physics.soc-ph",
+  "published": "2024-12-20",
+  "tags": [],
+  "title": "Understanding the Structure and Resilience of the Brazilian Federal Road Network Through Network Science",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-12-20"
+ },
  "2412.18529": {
   "abstract": "Process control and optimization have been widely used to solve decision-making problems in chemical engineering applications. However, identifying and tuning the best solution algorithm is challenging and time-consuming. Machine learning tools can be used to automate these steps by learning the behavior of a numerical solver from data. In this paper, we discuss recent advances in (i) the representation of decision-making problems for machine learning tasks, (ii) algorithm selection, and (iii) algorithm configuration for monolithic and decomposition-based algorithms. Finally, we discuss open problems related to the application of machine learning for accelerating process optimization and control.",
   "authors": [
@@ -1024,7 +1155,8 @@
   ],
   "title": "Accelerating process control and optimization via machine learning: A review",
   "topics": [
-   "Process Control & Optimization"
+   "Process Control & Optimization",
+   "via:author-whitelist:process control, networks"
   ],
   "updated": "2024-12-24"
  },
@@ -1087,6 +1219,35 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2024-12-26"
+ },
+ "2501.00506": {
+  "abstract": "Star clusters, including high-mass stars, form within hub-filament systems (HFSs). Observations of HFSs that remain unaffected by feedback from embedded stars are rare yet crucial for understanding the mass inflow process in high-mass star formation. Using the JWST NIRCAM images, Dewangan et al. 2024, reported that the high-mass protostar G11P1 is embedded in a candidate HFS (G11P1-HFS; $<0.6$ pc). Utilizing ALMA N$_{2}$H$^{+}$(1-0) data, we confirm the presence of G11P1-HFS and study the dense gas kinematics. We analyzed the position-position-velocity (PPV) map and estimated on-sky velocity gradient ($V_g$) and gravity ($\\mathcal{F}_{g}$) vectors. The spatial distribution of gas velocity and H$_2$ column density was examined. The steep $V_g$ of 5 km s$^{-1}$ pc$^{-1}$ and $-$7 km s$^{-1}$ pc$^{-1}$ toward either side of G11P1-hub, and the decreasing $V_g$ toward the hub, identify G11P1-HFS as a small-scale HFS in its nascent phase. $V_g$ and $\\mathcal{F}_{g}$ align along the filaments, indicating gravity-driven flows. This work highlights the wiggled, funnel-shaped morphology of a HFS in PPV space, suggesting the importance of subfilaments or transverse gas flows in mass transportation to the hub.",
+  "authors": [
+   "N. K. Bhadari",
+   "L. K. Dewangan",
+   "O. R. Jadhav",
+   "Ariful Hoque",
+   "L. E. Pirogov",
+   "Paul F. Goldsmith",
+   "A. K. Maity",
+   "Saurabh Sharma",
+   "A. Haj Ismail",
+   "Tapas Baug"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "10 pages, 11 figures, 1 table, Accepted for publication in A&A Letters",
+  "first_author": "N. K. Bhadari",
+  "pdf_url": "http://arxiv.org/pdf/2501.00506",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-12-31",
+  "tags": [],
+  "title": "JWST-ALMA Study of a Hub-Filament System in the Nascent Phase",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2024-12-31"
  },
  "2501.00573": {
   "abstract": "This study presents a comprehensive numerical analysis of a quantum-dot-engineered heterostructure, PbS:$Yb^{3+},Er^{3+}$/CuBiO, optimized for water splitting applications. Using density functional theory (DFT) coupled with machine learning, the study explores the electronic, optical, and catalytic properties of the material. The optimized PbS structure exhibited a direct bandgap of 1.191 eV, while co-doping with Yb and Er transitioned the material to a metallic state, enhancing charge carrier mobility and electron-hole separation. The final heterostructure displayed an indirect bandgap of 0.431 eV, favorable for visible-light absorption. Key findings include an internal electric field strength of 6.3 Debye, efficient charge transfer confirmed by Bader analysis, and strong optical absorption at 2.4 eV. Machine learning models, including DNN and LSTM, were employed to predict photon absorption rates, achieving mean squared errors as low as 0.0004. The synergistic effects of enhanced internal electric fields, optimized band structures, and strong photon absorption underscore the materials' potential for efficient hydrogen production. This study bridges advanced computational methods and machine learning, offering a framework for designing high-performance photocatalysts in renewable energy applications.",

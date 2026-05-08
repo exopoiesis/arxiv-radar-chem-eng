@@ -1,4 +1,39 @@
 {
+ "2401.06949": {
+  "abstract": "Chemistry experiments can be resource- and labor-intensive, often requiring manual tasks like polishing electrodes in electrochemistry. Traditional lab automation infrastructure faces challenges adapting to new experiments. To address this, we introduce ORGANA, an assistive robotic system that automates diverse chemistry experiments using decision-making and perception tools. It makes decisions with chemists in the loop to control robots and lab devices. ORGANA interacts with chemists using Large Language Models (LLMs) to derive experiment goals, handle disambiguation, and provide experiment logs. ORGANA plans and executes complex tasks with visual feedback, while supporting scheduling and parallel task execution. We demonstrate ORGANA's capabilities in solubility, pH measurement, recrystallization, and electrochemistry experiments. In electrochemistry, it executes a 19-step plan in parallel to characterize quinone derivatives for flow batteries. Our user study shows ORGANA reduces frustration and physical demand by over 50%, with users saving an average of 80.3% of their time when using it.",
+  "authors": [
+   "Kourosh Darvish",
+   "Marta Skreta",
+   "Yuchi Zhao",
+   "Naruki Yoshikawa",
+   "Sagnik Som",
+   "Miroslav Bogdanovic",
+   "Yang Cao",
+   "Han Hao",
+   "Haoping Xu",
+   "Alán Aspuru-Guzik",
+   "Animesh Garg",
+   "Florian Shkurti"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Kourosh Darvish",
+  "pdf_url": "http://arxiv.org/pdf/2401.06949",
+  "primary_category": "cs.RO",
+  "published": "2024-01-13",
+  "tags": [
+   "large-language-models",
+   "redox-flow-batteries"
+  ],
+  "title": "ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-01-07"
+ },
  "2405.05358": {
   "abstract": "The optimization of chemical processes is challenging due to the nonlinearities arising from process physics and discrete design decisions. In particular, optimal synthesis and design of chemical processes can be posed as a Generalized Disjunctive Programming (GDP) superstructure problem. Various solution methods are available to address these problems, such as reformulating them as Mixed-Integer Nonlinear Programming (MINLP) problems; nevertheless, algorithms explicitly designed to solve the GDP problem and potentially leverage its structure remain scarce. This paper presents the Logic-based Discrete-Steepest Descent Algorithm (LD-SDA) as a solution method for GDP problems involving ordered Boolean variables. The LD-SDA reformulates these ordered Boolean variables into integer decisions called external variables. The LD-SDA solves the reformulated GDP problem using a two-level decomposition approach where the upper-level subproblem determines external variable configurations. Subsequently, the remaining continuous and discrete variables are solved as a subproblem only involving those constraints relevant to the given external variable arrangement, effectively taking advantage of the structure of the GDP problem. The advantages of LD-SDA are illustrated through a batch processing case study, a reactor superstructure, a distillation column, and a catalytic distillation column, and its open-source implementation is available online. The results show convergence efficiency and solution quality improvements compared to conventional GDP and MINLP solvers.",
   "authors": [
@@ -115,6 +150,29 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-01-28"
+ },
+ "2406.05899": {
+  "abstract": "Revisiting the issue associated with Position-Dependent Mass (PDM), we reaffirm that the appropriate framework for addressing a generic PDM is the symmetrization proposed by BenDaniel and Duke. To accomplish this result adopts the effective mass Hamiltonian proposed by von Roos, corrected by a symmetrized kinematic term. After verifying the appropriate ordering to approach the PDM issue, one investigates a crystalline lattice with a defect described by a singular PDM. The singular mass profile proves intriguing as it yields an atom's cluster in the neighborhood of the singularity. Considering that a restoring force acts on the atoms, one notes that the confluent Heun function describes the quantum states. Furthermore, one highlights that when the effective mass distribution tends to a constant profile, we recover a system similar to the harmonic oscillator.",
+  "authors": [
+   "F. C. E. Lima",
+   "F. M. Belchior",
+   "C. A. S. Almeida"
+  ],
+  "categories": [
+   "quant-ph",
+   "hep-th"
+  ],
+  "comment": "18 pages, 5 captioned figures. To match the final version published in Physica Scripta",
+  "first_author": "F. C. E. Lima",
+  "pdf_url": "http://arxiv.org/pdf/2406.05899",
+  "primary_category": "quant-ph",
+  "published": "2024-06-09",
+  "tags": [],
+  "title": "On the singular position-dependent mass",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2025-01-08"
  },
  "2406.15223": {
   "abstract": "Chloride molten salts are increasingly used in pyroprocessing techniques for the separation of lanthanides. Understanding thermodynamic properties of these salts is essential to predict their critical characteristics and optimize the separation process. Several thermodynamic models, including the associate model, the two-sublattice ionic model, and the modified quasichemical model with quadruplet approximation (MQMQA), have been utilized in the literature to capture the complexity of molten salts. In the present work, the Bayes factor is used to guide the model selection process for thermodynamic modeling of the KCl-LaCl3 system and provide statistical comparison of various models. The results indicate that the MQMQA model is the most favorable one based on available data. The LiCl-KCl-LaCl3 system has been further modelled with uncertainty quantification (UQ) using MQMQA with the thermodynamic properties of compounds in KCl-LaCl3 predicted by the quasiharmonic approach in terms of first-principles phonon calculations as a function of temperature. The calculated phase stability shows excellent agreement with experimental data, indicating that an appropriate thermodynamic model is important for accurately predicting critical characteristics of complex molten salts.",
@@ -316,6 +374,35 @@
   ],
   "updated": "2025-01-19"
  },
+ "2411.02522": {
+  "abstract": "Solving linear systems of equations plays a fundamental role in numerous computational problems from different fields of science. The widespread use of numerical methods to solve these systems motivates investigating the feasibility of solving linear systems problems using quantum computers. In this work, we provide a survey of the main advances in quantum linear systems algorithms, together with some applications. We summarize and analyze the main ideas behind some of the algorithms for the quantum linear systems problem in the literature. The analysis begins by examining the Harrow-Hassidim-Lloyd (HHL) solver. We note its limitations and reliance on computationally expensive quantum methods, then highlight subsequent research efforts which aimed to address these limitations and optimize runtime efficiency and precision via various paradigms. We focus in particular on the post-HHL enhancements which have paved the way towards optimal lower bounds with respect to error tolerance and condition number. By doing so, we propose a taxonomy that categorizes these studies. Furthermore, by contextualizing these developments within the broader landscape of quantum computing, we explore the foundational work that have inspired and informed their development, as well as subsequent refinements. Finally, we discuss the potential applications of these algorithms in differential equations, quantum machine learning, and many-body physics.",
+  "authors": [
+   "Mauro E. S. Morales",
+   "Lirandë Pira",
+   "Philipp Schleich",
+   "Kelvin Koor",
+   "Pedro C. S. Costa",
+   "Dong An",
+   "Alán Aspuru-Guzik",
+   "Lin Lin",
+   "Patrick Rebentrost",
+   "Dominic W. Berry"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "42 pages, 7 figures",
+  "first_author": "Mauro E. S. Morales",
+  "pdf_url": "http://arxiv.org/pdf/2411.02522",
+  "primary_category": "quant-ph",
+  "published": "2024-11-04",
+  "tags": [],
+  "title": "Quantum Linear System Solvers: A Survey of Algorithms and Applications",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-01-09"
+ },
  "2411.17629": {
   "abstract": "Organic synthesis stands as a cornerstone of the chemical industry. The development of robust machine learning models to support tasks associated with organic reactions is of significant interest. However, current methods rely on hand-crafted features or direct adaptations of model architectures from other domains, which lack feasibility as data scales increase or ignore the rich chemical information inherent in reactions. To address these issues, this paper introduces RAlign, a novel chemical reaction representation learning model for various organic reaction-related tasks. By integrating atomic correspondence between reactants and products, our model discerns the molecular transformations that occur during the reaction, thereby enhancing comprehension of the reaction mechanism. We have designed an adapter structure to incorporate reaction conditions into the chemical reaction representation, allowing the model to handle various reaction conditions and to adapt to various datasets and downstream tasks. Additionally, we introduce a reaction-center-aware attention mechanism that enables the model to concentrate on key functional groups, thereby generating potent representations for chemical reactions. Our model has been evaluated on a range of downstream tasks. Experimental results indicate that our model markedly outperforms existing chemical reaction representation learning architectures on most of the datasets. We plan to open-source the code contingent upon the acceptance of the paper.",
   "authors": [
@@ -342,6 +429,54 @@
   ],
   "updated": "2025-01-03"
  },
+ "2412.12546": {
+  "abstract": "Interstellar molecules are excellent tools for studying the physical and chemical environments of massive star-forming regions. In particular, vibrationally excited HC$_3$N (HC$_3$N*) lines are the key tracers for probing hot cores environments. We present the Atacama Large Millimeter/submillimeter Array (ALMA) 3 mm observations of HC$_3$N* lines in 60 hot cores, aiming to investigate how physical conditions affect the excitation of HC$_3$N* transitions. We have used the XCLASS for line identification. Under the assumption of local thermodynamic equilibrium (LTE), we derived the rotation temperature and column density of HC$_3$N* transitions in hot cores. Additionally, we calculated the H$_2$ column density and number density, along with the abundance of HC$_3$N* relative to H$_2$, to enable a comparison of the physical properties of hot cores with different numbers of HC$_3$N* states. We have detected HC$_3$N* lines in 52 hot cores, in which 29 cores showing more than one vibrationally excited state. Hot cores with higher gas temperatures have more detections of these vibrationally excited lines. The excitation of HC$_3$N* requires dense environments, with its spatial distribution influenced by the presence of UC Hii regions. The observed column density of HC$_3$N* contributes to the number of HC$_3$N* states in hot core environments. After analyzing the various factors influencing HC$_3$N* excitation in hot cores, we conclude that the excitation of HC$_3$N* is mainly driven by mid-IR pumping, while collisional excitation is ineffective.",
+  "authors": [
+   "Li Chen",
+   "Sheng-Li Qin",
+   "Tie Liu",
+   "Paul F. Goldsmith",
+   "Xunchuan Liu",
+   "Yaping Peng",
+   "Xindi Tang",
+   "Guido Garay",
+   "Zhiping Kou",
+   "Mengyao Tang",
+   "Patricio Sanhueza",
+   "Ziyang Li",
+   "Prasanta Gorai",
+   "Swagat R. Das",
+   "Leonardo Bronfman",
+   "Lokesh Dewangan",
+   "Pablo García",
+   "Shanghuo Li",
+   "Chang Won Lee",
+   "Hong-Li Liu",
+   "L. Viktor Tóth",
+   "James O. Chibueze",
+   "Jihye Hwang",
+   "Xiaohu Li",
+   "Fengwei Xu",
+   "Jiahang Zou",
+   "Wenyu Jiao",
+   "Zhenying Zhang",
+   "Yong Zhang"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "14 pages, 9 figures",
+  "first_author": "Li Chen",
+  "pdf_url": "http://arxiv.org/pdf/2412.12546",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-12-17",
+  "tags": [],
+  "title": "The ALMA-ATOMS survey: Vibrationally excited HC$_3$N lines in hot cores",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2025-01-13"
+ },
  "2501.00967": {
   "abstract": "Bayesian optimization (BO) is an effective paradigm for the optimization of expensive-to-sample systems. Standard BO learns the performance of a system $f(x)$ by using a Gaussian Process (GP) model; this treats the system as a black-box and limits its ability to exploit available structural knowledge (e.g., physics and sparse interconnections in a complex system). Grey-box modeling, wherein the performance function is treated as a composition of known and unknown intermediate functions $f(x, y(x))$ (where $y(x)$ is a GP model) offers a solution to this limitation; however, generating an analytical probability density for $f$ from the Gaussian density of $y(x)$ is often an intractable problem (e.g., when $f$ is nonlinear). Previous work has handled this issue by using sampling techniques or by solving an auxiliary problem over an augmented space where the values of $y(x)$ are constrained by confidence intervals derived from the GP models; such solutions are computationally intensive. In this work, we provide a detailed implementation of a recently proposed grey-box BO paradigm, BOIS, that uses adaptive linearizations of $f$ to obtain analytical expressions for the statistical moments of the composite function. We show that the BOIS approach enables the exploitation of structural knowledge, such as that arising in interconnected systems as well as systems that embed multiple GP models and combinations of physics and GP models. We benchmark the effectiveness of BOIS against standard BO and existing grey-box BO algorithms using a pair of case studies focused on chemical process optimization and design. Our results indicate that BOIS performs as well as or better than existing grey-box methods, while also being less computationally intensive.",
   "authors": [
@@ -367,7 +502,8 @@
   "topics": [
    "Process Control & Optimization",
    "Process Modeling & System Identification",
-   "Uncertainty Quantification & Bayesian Methods"
+   "Uncertainty Quantification & Bayesian Methods",
+   "via:author-whitelist:MPC, infrastructure optimization"
   ],
   "updated": "2025-01-01"
  },
@@ -564,6 +700,31 @@
   ],
   "updated": "2025-01-31"
  },
+ "2501.09115": {
+  "abstract": "While national biobanks are essential for advancing medical research, their non-probability sampling designs limit their representativeness of the target population. This paper proposes a method that leverages high-quality national surveys to create synthetic sampling weights for non-probabilistic cohort studies, aiming to improve representativeness. Specifically, we focus on deriving more accurate base weights, which enhance calibration by meeting population constraints, and on automating data-supported selection of cross-tabulations for calibration. This approach combines a pseudo-design-based model with a novel Last-In-First-Out criterion, enhancing the accuracy and stability of the estimates. Extensive simulations demonstrate that our method, named RAILS, reduces bias, improves efficiency, and strengthens inference compared to existing approaches. We apply the proposed method to the All of Us Research Program, using data from the National Health Interview Survey 2020 and the American Community Survey 2022 and comparing prevalence estimates for common phenotypes against national benchmarks. The results underscore our method's ability to effectively reduce selection bias in non-probability samples, offering a valuable tool for enhancing biobank representativeness. Using the developed sampling weights for the All of Us Research Program, we can estimate the prevalence of the United States population for phenotypes and genotypes not captured by national probability studies.",
+  "authors": [
+   "Huiding Chen",
+   "Andrew Guide",
+   "Lina Sulieman",
+   "Robert M Cronin",
+   "Thomas Lumley",
+   "Qingxia Chen"
+  ],
+  "categories": [
+   "stat.ME"
+  ],
+  "comment": "36 pages, 2 figure2, 4 tables",
+  "first_author": "Huiding Chen",
+  "pdf_url": "http://arxiv.org/pdf/2501.09115",
+  "primary_category": "stat.ME",
+  "published": "2025-01-15",
+  "tags": [],
+  "title": "RAILS: A Synthetic Sampling Weights for Volunteer-Based National Biobanks -- A Case Study with the All of Us Research Program",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2025-01-15"
+ },
  "2501.09563": {
   "abstract": "Optimization problems in process engineering, including design and operation, can often pose challenges to many solvers: multi-modal, non-smooth, and discontinuous models often with large computational requirements. In such cases, the optimization problem is often treated as a black box in which only the value of the objective function is required, sometimes with some indication of the measure of the violation of the constraints. Such problems have traditionally been tackled through the use of direct search and meta-heuristic methods. The challenge, then, is to determine which of these methods or combination of methods should be considered to make most effective use of finite computational resources.   This paper presents a multi-agent system for optimization which enables a set of solvers to be applied simultaneously to an optimization problem, including different instantiations of any solver. The evaluation of the optimization problem model is controlled by a scheduler agent which facilitates cooperation and competition between optimization methods. The architecture and implementation of the agent system is described in detail, including the solver, model evaluation, and scheduler agents. A suite of direct search and meta-heuristic methods has been developed for use with this system. Case studies from process systems engineering applications are presented and the results show the potential benefits of automated cooperation between different optimization solvers and motivates the implementation of competition between solvers.",
   "authors": [
@@ -616,6 +777,28 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-01-17"
+ },
+ "2501.11614": {
+  "abstract": "We study complete spacelike hypersurfaces immersed in an open region of the de Sitter space $\\mathbb{S}^{n+1}_{1}$ which is known as the steady state space $\\mathcal{H}^{n+1}$. In this setting, under suitable constraints on the behavior of the higher order mean curvatures of these hypersurfaces, we prove that they must be spacelike hyperplanes of $\\mathcal{H}^{n+1}$. Nonexistence results concerning these spacelike hypersurfaces are also given. Our approach is based on a suitable extension of the Omori-Yau's generalized maximum principle due to Alías, Impera and Rigoli in [5].",
+  "authors": [
+   "Weiller F. C. Barboza",
+   "Henrique F. de Lima",
+   "Marco Antonio L. Velásquez"
+  ],
+  "categories": [
+   "math.DG"
+  ],
+  "comment": null,
+  "first_author": "Weiller F. C. Barboza",
+  "pdf_url": "http://arxiv.org/pdf/2501.11614",
+  "primary_category": "math.DG",
+  "published": "2025-01-20",
+  "tags": [],
+  "title": "Rigidity and nonexistence of complete spacelike hypersurfaces in the steady state space",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2025-01-20"
  },
  "2501.12288": {
   "abstract": "The microgrid concept offers high flexibility and resilience due to the possibility of switching between grid-connected and stand-alone operation. This renders microgrids an auspicious solution for rural areas and critical infrastructure. In standalone or islanded mode, the main objective is cost minimization while ensuring a safe and reliable operation. Optimal operation schemes for microgrids usually assume fixed power limits for energy storage units. This, however, is not sufficient for lithiumion energy storage systems, which often come with dynamic power limits that depend on the state of charge. These limits are especially prominent when the state of charge is close to its boundaries. In this paper, dynamic constraints for energy storages are modelled using convex polytopes and fitted to experimental data acquired from an 11.6 kWh lithium-ion energy storage system. The polytopic constraints are integrated in a model predictive control scheme that was designed for a standalone microgrid composed of a fuel cell, a photovoltaic generator and a lithium-ion energy storage system. To evaluate the advantages, a case study with two configurations is performed. The model predictive controller without polytopic constraints led to constraint violations in 11.77 % of the simulation time steps with a maximum deviation of 118 % above the power limits. The configuration with polytopic constraints in contrary led to no violations over the entire simulation horizon.",
@@ -768,6 +951,58 @@
   ],
   "updated": "2025-01-27"
  },
+ "2501.16893": {
+  "abstract": "The Hubbard model provides a test bed to investigate the complex behaviour arising from electron-electron interaction in strongly-correlated systems and naturally emerges as the foundation model for lattice density functional theory (DFT). Similarly to conventional DFT, lattice DFT computes the ground-state energy of a given Hubbard model, by minimising a universal energy functional of the on-site occupations. Here we use machine learning to construct a class of scalable `semi-local' exchange-correlation functionals with an arbitrary degree of non-locality for the one-dimensional spinfull Hubbard model. Then, by functional derivative we construct an associated Kohn-Sham potential, that is used to solve the associated Kohn-Sham equations. After having investigated how the accuracy of the semi-local approximation depends on the degree of non-locality, we use our Kohn-Sham scheme to compute the polarizability of linear chains, either homogeneous or disordered, approaching the thermodynamic limit. approaching the thermodynamic limit.",
+  "authors": [
+   "Eoghan Cronin",
+   "Rajarshi Tiwari",
+   "Stefano Sanvito"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "15 pages, 14 figures",
+  "first_author": "Eoghan Cronin",
+  "pdf_url": "http://arxiv.org/pdf/2501.16893",
+  "primary_category": "cond-mat.str-el",
+  "published": "2025-01-28",
+  "tags": [
+   "dft"
+  ],
+  "title": "Machine-learning semi-local exchange-correlation functionals for Kohn-Sham density functional theory of the Hubbard model",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2025-01-28"
+ },
+ "2501.16986": {
+  "abstract": "Quantum computing is entering a transformative phase with the emergence of logical quantum processors, which hold the potential to tackle complex problems beyond classical capabilities. While significant progress has been made, applying quantum algorithms to real-world problems remains challenging. Hybrid quantum-classical techniques have been explored to bridge this gap, but they often face limitations in expressiveness, trainability, or scalability. In this work, we introduce conditional Generative Quantum Eigensolver (conditional-GQE), a context-aware quantum circuit generator powered by an encoder-decoder Transformer. Focusing on combinatorial optimization, we train our generator for solving problems with up to 10 qubits, exhibiting nearly perfect performance on new problems. By leveraging the high expressiveness and flexibility of classical generative models, along with an efficient preference-based training scheme, conditional-GQE provides a generalizable and scalable framework for quantum circuit generation. Our approach advances hybrid quantum-classical computing and contributes to accelerate the transition toward fault-tolerant quantum computing.",
+  "authors": [
+   "Shunya Minami",
+   "Kouhei Nakaji",
+   "Yohichi Suzuki",
+   "Alán Aspuru-Guzik",
+   "Tadashi Kadowaki"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "26 pages, 12 figures",
+  "first_author": "Shunya Minami",
+  "pdf_url": "http://arxiv.org/pdf/2501.16986",
+  "primary_category": "quant-ph",
+  "published": "2025-01-28",
+  "tags": [
+   "generative-models"
+  ],
+  "title": "Generative quantum combinatorial optimization by means of a novel conditional generative quantum eigensolver",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-01-28"
+ },
  "2501.17495": {
   "abstract": "With the development of artificial intelligence, simulation-based optimization problems, which present a significant challenge in the process systems engineering community, are increasingly being addressed with the surrogate-based framework. In this work, we propose a deterministic algorithm framework based on feasible path sequential quadratic programming for optimizing differentiable machine learning models embedded problems. The proposed framework effectively addresses two key challenges: (i) achieving the computation of first- and second-order derivatives of machine learning models' outputs with respect to inputs; and (ii) by introducing the feasible path method, the massive intermediate variables resulting from the algebraic formulation of machine learning models eliminated. Surrogate models for six test functions and two process simulations were established and optimized. All six test functions were successfully optimized to the global optima, demonstrating the framework's effectiveness. The optimization time for all cases did not exceed 2s, highlighting the efficiency of the algorithm.",
   "authors": [
@@ -856,6 +1091,30 @@
   "title": "Battery State of Health Estimation Using LLM Framework",
   "topics": [
    "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-01-30"
+ },
+ "2501.18163": {
+  "abstract": "Recent advancements in machine learning (ML) for materials have demonstrated that \"simple\" materials representations (e.g., the chemical formula alone without structural information) can sometimes achieve competitive property prediction performance in common-tasks. Our physics-based intuition would suggest that such representations are \"incomplete\", which indicates a gap in our understanding. This work proposes a tomographic interpretation of structure-property relations of materials to bridge that gap by defining what is a material representation, material properties, the material and the relationships between these three concepts using ideas from information theory. We verify this framework performing an exhaustive comparison of property-augmented representations on a range of material's property prediction objectives, providing insight into how different properties can encode complementary information.",
+  "authors": [
+   "Raul Ortega-Ochoa",
+   "Alán Aspuru-Guzik",
+   "Tejs Vegge",
+   "Tonio Buonassisi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Raul Ortega-Ochoa",
+  "pdf_url": "http://arxiv.org/pdf/2501.18163",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-01-30",
+  "tags": [],
+  "title": "A tomographic interpretation of structure-property relations for materials discovery",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
   ],
   "updated": "2025-01-30"
  },

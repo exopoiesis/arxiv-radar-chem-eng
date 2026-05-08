@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -208,6 +208,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.13354">2512.13354</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13935.html">Informing Acquisition Functions via Foundation Models for Molecular Discovery</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
+<td>Qi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2512.13935">2512.13935</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10457.html">Hybrid Physics-ML Model for Forward Osmosis Flux with Complete Uncertainty Quantification</a></div><div class="paper-tags"><a href="digital-twin-all.html">digital-twin</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="mass-transfer-all.html">mass-transfer</a> · <a href="membrane-separation-all.html">membrane-separation</a> · <a href="process-design-all.html">process-design</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Shiv Ratn et al.</td>
@@ -364,6 +370,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.18853">2506.18853</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18911.html">Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling</a></div><div class="paper-tags"><a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
+<td>Zeqing Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2503.18911">2503.18911</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11031.html">Fourier Neural Operator based surrogates for $CO_2$ storage in realistic geologies</a></div><div class="paper-tags"><a href="carbon-capture-all.html">carbon-capture</a> · <a href="digital-twin-all.html">digital-twin</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Anirban Chandra et al.</td>
@@ -436,6 +448,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.12925">2410.12925</a></td>
 </tr>
 <tr class="paper">
+<td>2024-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09290.html">Ranking over Regression for Bayesian Optimization and Molecule Selection</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Gary Tom et al.</td>
+<td><a href="http://arxiv.org/abs/2410.09290">2410.09290</a></td>
+</tr>
+<tr class="paper">
 <td>2024-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01522.html">Uncertainty quantification in neutron and gamma time correlation measurements</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Paul Lartaud et al.</td>
@@ -452,6 +470,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15931.html">Multistep Criticality Search and Power Shaping in Microreactors with Reinforcement Learning</a></div><div class="paper-tags"><a href="digital-twin-all.html">digital-twin</a> · <a href="microreactors-all.html">microreactors</a> · <a href="reinforcement-learning-control-all.html">reinforcement-learning-control</a></div></td>
 <td>Majdi I. Radaideh et al.</td>
 <td><a href="http://arxiv.org/abs/2406.15931">2406.15931</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.05015.html">A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
+<td>Agustinus Kristiadi et al.</td>
+<td><a href="http://arxiv.org/abs/2402.05015">2402.05015</a></td>
 </tr>
 <tr class="paper">
 <td>2024-05-24</td>

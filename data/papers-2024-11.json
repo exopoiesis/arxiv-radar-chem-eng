@@ -23,6 +23,32 @@
   ],
   "updated": "2024-11-04"
  },
+ "2407.08938": {
+  "abstract": "We revisit two evolutionary game theory models, namely the Prisoner and the Snowdrift dilemmas, on top of small-world networks. These dynamics on networked populations (individuals occupying nodes of a graph) are mainly concerning on the competition between to cooperate or to defect, by allowing some process of revision of strategies. Cooperators avoid defectors by forming clusters in a process known as network reciprocity. This defense strategy is based on the fact that any individual interact only with its nearest neighbors. The minimum cluster, in turn, is formed by a set of three completely connected nodes and the bulk of these triplets is associated with the transitivity property of a network. Particularly, we show that the transitivity increases eventually assuming a constant behavior when observed as a function of the number of contacts of an individual. We investigate the influence of the network reciprocity on that transitivity increasing regime on the promotion of a cooperative behavior. The dynamics on small-world networks are compared with those random regular, and annealed networks, the later typically studied as the well-mixed approach. We observe that the Snowdrift Game converge to an annealed scenario as randonness and coordination number increase, whereas the Prisoner's Dilemma becomes more severe against the cooperative behavior under the regime of an increasing network reciprocity.",
+  "authors": [
+   "F. B. Pereira",
+   "R. S. Ferreira",
+   "D. S. M. Alencar",
+   "T. F. A. Alves",
+   "G. A. Alves",
+   "F. W. S. Lima",
+   "A. Macedo-Filho"
+  ],
+  "categories": [
+   "physics.soc-ph"
+  ],
+  "comment": "10 pages, 7 figures",
+  "first_author": "F. B. Pereira",
+  "pdf_url": "http://arxiv.org/pdf/2407.08938",
+  "primary_category": "physics.soc-ph",
+  "published": "2024-07-12",
+  "tags": [],
+  "title": "Social dilemmas, network reciprocity and the small-world property",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-11-12"
+ },
  "2408.00909": {
   "abstract": "A novel method, the Gaussian Integral Method (GIM), is presented for calculating void fractions in Computational Fluid Dynamics-Discrete Element Method (CFD-DEM) simulations. GIM is versatile and applicable to various grid types, including structured and unstructured polyhedral meshes, without requiring special boundary treatments. An optimization technique is introduced to make GIM independent of grid resolution and type. The method is validated against experimental data from a fluidized bed, demonstrating that GIM produces realistic simulations closely resembling experimental observations. Additionally, unstructured polyhedral grids using GIM outperform structured grids of equivalent resolution, yielding results more aligned with experimental data. The gradient of the void fraction is computed in the CFD solver and utilized in the DEM solver for precise estimation at particle locations. Overall, GIM provides an effective solution for void fraction calculations in particulate media simulations with complex geometries, enhancing the accuracy and applicability of CFD-DEM simulations in industrial applications.",
   "authors": [
@@ -71,6 +97,49 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2024-11-05"
+ },
+ "2408.04761": {
+  "abstract": "Examining the $φ^{4}$ and $φ^{8}$ models within a two-dimensional framework in the flat spacetime and embracing a theory with unconventional kinetic terms, one investigates the emergence of kinks/antikinks and double-kinks/antikinks. We devote our study to obtaining the field configurations with minimal energy, i.e., solutions possessing a Bogomol'nyi-Prasad-Sommerfield's bound. Next, to accomplish our goal, we adopt non-polynomial generalizing functions, namely, hyperbolic sine and cosine functions: the first produce BPS potentials exhibiting a minimum at $φ=0$, facilitating the emergence of genuine double-kink-type configurations. Conversely, the second promotes the rise of kink-type solutions.",
+  "authors": [
+   "F. C. E. Lima",
+   "R. Casana",
+   "C. A. S. Almeida"
+  ],
+  "categories": [
+   "hep-th"
+  ],
+  "comment": "22 pages, 12 captioned figures. To match the version accepted in European Physical Journal C",
+  "first_author": "F. C. E. Lima",
+  "pdf_url": "http://arxiv.org/pdf/2408.04761",
+  "primary_category": "hep-th",
+  "published": "2024-08-08",
+  "tags": [],
+  "title": "Kinks and double-kinks in generalized $φ^{4}$-and $φ^{8}$-models",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-11-30"
+ },
+ "2408.10325": {
+  "abstract": "We study the flavor invariants of the SM augmented by one singlet vector-like quark. Aided by the Hilbert series, we construct all the basic invariants with which any flavor invariant can be written as a polynomial. In special, this theory contains one CP odd invariant of degree six which has degree much lower than the usual Jarlskog invariant of the SM. We find the nonlinear polynomial relations (syzygies) of lowest degrees involving these basic invariants, including the expression of the square of the CP odd invariant of lowest degree in terms of CP even invariants. The $SU(3)$ identity underlying this syzygy is uncovered in terms of invariant tensors, which can be applied to rewrite any square of a CP odd invariant of the same form, involving three hermitean matrices of size three. We demonstrate by an example that there is CP violation that is not detected by the CP odd invariants proposed in the literature so far but it can be detected with the full list of CP odd invariants found here.",
+  "authors": [
+   "E. L. F. de Lima",
+   "C. C. Nishi"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": "24pp, some tables and many figure files. v2: the set of basic invariants can be extended to the case of the full U(4) weak basis transformations including the VLQ; see around eq.(59). Ap.A now includes the graded Hilbert series. Accepted for JHEP",
+  "first_author": "E. L. F. de Lima",
+  "pdf_url": "http://arxiv.org/pdf/2408.10325",
+  "primary_category": "hep-ph",
+  "published": "2024-08-19",
+  "tags": [],
+  "title": "Flavor invariants for the SM with one singlet vector-like quark",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-11-07"
  },
  "2408.15797": {
   "abstract": "The influence of hydrated cation-π interaction forces on the adsorption and filtration capabilities of graphene-based membrane materials is significant. However, the lack of interaction potential between hydrated Cs+ and graphene limits the scope of adsorption studies. Here, it is developed that a deep neural network potential function model to predict the interaction force between hydrated Cs+ and graphene. The deep potential has DFT-level accuracy, enabling accurate property prediction. This deep potential is employed to investigate the properties of the graphene surface solution, including the density distribution, mean square displacement, and vibrational power spectrum of water. Furthermore, calculations of the molecular orbital electron distributions indicate the presence of electron migration in the molecular orbitals of graphene and hydrated Cs+, resulting in a strong electrostatic interaction force. The method provides a powerful tool to study the adsorption behavior of hydrated cations on graphene surfaces and offers a new solution for handling radionuclides.",
@@ -488,7 +557,8 @@
   "topics": [
    "Catalysis & Materials for Chemical Engineering",
    "Energy, Sustainability & Electrochemical Systems",
-   "Separation Processes & Transport Phenomena"
+   "Separation Processes & Transport Phenomena",
+   "via:author-whitelist:Open Catalyst, ML for catalysis"
   ],
   "updated": "2024-11-18"
  },

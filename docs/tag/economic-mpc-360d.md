@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>economic-mpc — 360d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="economic-mpc-7d.html">7d</a> <a href="economic-mpc-30d.html">30d</a> <a href="economic-mpc-90d.html">90d</a> <strong>360d</strong> <a href="economic-mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,5 +38,11 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11823.html">Varying Horizon Learning Economic MPC With Unknown Costs of Disturbed Nonlinear Systems</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
 <td>Weiliang Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11823">2509.11823</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06700.html">Learning to control inexact Benders decomposition via reinforcement learning</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
+<td>Zhe Li et al.</td>
+<td><a href="http://arxiv.org/abs/2508.06700">2508.06700</a></td>
 </tr>
 </tbody></table>

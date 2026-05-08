@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
 <td>Jiahang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00609">2605.00609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div></td>
+<td>Yifan Song et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-15</td>
@@ -94,6 +100,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2603.06800">2603.06800</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08762.html">The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models</a></div></td>
+<td>Daniel S. Levine et al.</td>
+<td><a href="http://arxiv.org/abs/2505.08762">2505.08762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02089.html">High-quality, high-information datasets for universal atomistic machine learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Cesare Malosso et al.</td>
@@ -118,10 +130,22 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2602.22978">2602.22978</a></td>
 </tr>
 <tr class="paper">
+<td>2026-02-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20232.html">Coupled Cluster con MōLe: Molecular Orbital Learning for Neural Wavefunctions</a></div></td>
+<td>Luca Thiede et al.</td>
+<td><a href="http://arxiv.org/abs/2602.20232">2602.20232</a></td>
+</tr>
+<tr class="paper">
 <td>2026-02-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18852.html">MAD-SURF: a machine learning interatomic potential for molecular adsorption on coinage metal surfaces</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Manuel González Lastre et al.</td>
 <td><a href="http://arxiv.org/abs/2601.18852">2601.18852</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17886.html">El Agente Sólido: A New Age(nt) for Solid State Simulations</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Sai Govind Hari Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2602.17886">2602.17886</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-10</td>

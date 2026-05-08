@@ -132,6 +132,50 @@
   ],
   "updated": "2026-03-31"
  },
+ "2505.08762": {
+  "abstract": "Machine learning (ML) models hold the promise of transforming atomic simulations by delivering quantum chemical accuracy at a fraction of the computational cost. Realization of this potential would enable high-throughout, high-accuracy molecular screening campaigns to explore vast regions of chemical space and facilitate ab initio simulations at sizes and time scales that were previously inaccessible. However, a fundamental challenge to creating ML models that perform well across molecular chemistry is the lack of comprehensive data for training. Despite substantial efforts in data generation, no large-scale molecular dataset exists that combines broad chemical diversity with a high level of accuracy. To address this gap, Meta FAIR introduces Open Molecules 2025 (OMol25), a large-scale dataset composed of more than 100 million density functional theory (DFT) calculations at the $ω$B97M-V/def2-TZVPD level of theory, representing billions of CPU core-hours of compute. OMol25 uniquely blends elemental, chemical, and structural diversity including: 83 elements, a wide-range of intra- and intermolecular interactions, explicit solvation, variable charge/spin, conformers, and reactive structures. There are ~83M unique molecular systems in OMol25 covering small molecules, biomolecules, metal complexes, and electrolytes, including structures obtained from existing datasets. OMol25 also greatly expands on the size of systems typically included in DFT datasets, with systems of up to 350 atoms. In addition to the public release of the data, we provide baseline models and a comprehensive set of model evaluations to encourage community engagement in developing the next-generation ML models for molecular chemistry.",
+  "authors": [
+   "Daniel S. Levine",
+   "Muhammed Shuaibi",
+   "Evan Walter Clark Spotte-Smith",
+   "Michael G. Taylor",
+   "Muhammad R. Hasyim",
+   "Kyle Michel",
+   "Ilyes Batatia",
+   "Gábor Csányi",
+   "Misko Dzamba",
+   "Peter Eastman",
+   "Nathan C. Frey",
+   "Xiang Fu",
+   "Vahe Gharakhanyan",
+   "Aditi S. Krishnapriyan",
+   "Joshua A. Rackers",
+   "Sanjeev Raja",
+   "Ammar Rizvi",
+   "Andrew S. Rosen",
+   "Zachary Ulissi",
+   "Santiago Vargas",
+   "C. Lawrence Zitnick",
+   "Samuel M. Blau",
+   "Brandon M. Wood"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "60 pages, 8 figures",
+  "first_author": "Daniel S. Levine",
+  "pdf_url": "http://arxiv.org/pdf/2505.08762",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-05-13",
+  "tags": [
+   "dft"
+  ],
+  "title": "The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models",
+  "topics": [
+   "via:author-whitelist:Open Catalyst, ML for catalysis"
+  ],
+  "updated": "2026-03-04"
+ },
  "2505.17393": {
   "abstract": "Identifying optimal catalyst compositions and reaction conditions is central in catalysis research, yet remains challenging due to the vast multidimensional design spaces encompassing both continuous and categorical parameters. In this work, we present CatBOX, a Bayesian Optimization method for accelerated catalytic experimental design that jointly optimizes categorical and continuous experimental parameters. Our approach introduces a novel spectral mixture kernel that combines the inverse Fourier transform of Gaussian and Cauchy mixtures to provide a flexible representation of the continuous parameter space, capturing both smooth and non-smooth variations. Categorical choices, such as catalyst compositions and support types, are navigated via trust regions based on Hamming distance. For performance evaluation, CatBOX was theoretically verified based on information theory and benchmarked on a series of synthetic functions, achieving more than a 3-fold improvement relative to the best-performing baseline and a 19-fold improvement relative to random search on average across tasks. Additionally, three real-life catalytic experiments, including oxidative coupling of methane, urea-selective catalytic reduction, and direct arylation of imidazoles, were further used for in silico benchmarking, where CatBOX reliably identified top catalyst recipes and reaction conditions with the highest efficiencies in the absence of any a priori knowledge. Finally, we develop an open-source, code-free online platform to facilitate trial deployment in real experimental settings, particularly for self-driving laboratory environments.",
   "authors": [
@@ -162,6 +206,45 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-03-20"
+ },
+ "2506.23971": {
+  "abstract": "The ability to quickly and accurately compute properties from atomic simulations is critical for advancing a large number of applications in chemistry and materials science including drug discovery, energy storage, and semiconductor manufacturing. To address this need, Meta FAIR presents a family of Universal Models for Atoms (UMA), designed to push the frontier of speed, accuracy, and generalization. UMA models are trained on half a billion unique 3D atomic structures (the largest training runs to date) by compiling data across multiple chemical domains, e.g. molecules, materials, and catalysts. We develop empirical scaling laws to help understand how to increase model capacity alongside dataset size to achieve the best accuracy. The UMA small and medium models utilize a novel architectural design we refer to as mixture of linear experts that enables increasing model capacity without sacrificing speed. For example, UMA-medium has 1.4B parameters but only ~50M active parameters per atomic structure. We evaluate UMA models on a diverse set of applications across multiple domains and find that, remarkably, a single model without any fine-tuning can perform similarly or better than specialized models. We are releasing the UMA code, weights, and associated data to accelerate computational workflows and enable the community to continue to build increasingly capable AI models.",
+  "authors": [
+   "Brandon M. Wood",
+   "Misko Dzamba",
+   "Xiang Fu",
+   "Meng Gao",
+   "Muhammed Shuaibi",
+   "Luis Barroso-Luque",
+   "Kareem Abdelmaqsoud",
+   "Vahe Gharakhanyan",
+   "John R. Kitchin",
+   "Daniel S. Levine",
+   "Kyle Michel",
+   "Anuroop Sriram",
+   "Taco Cohen",
+   "Abhishek Das",
+   "Ammar Rizvi",
+   "Sushree Jagriti Sahoo",
+   "Zachary W. Ulissi",
+   "C. Lawrence Zitnick"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "33 pages, 8 figures",
+  "first_author": "Brandon M. Wood",
+  "pdf_url": "http://arxiv.org/pdf/2506.23971",
+  "primary_category": "cs.LG",
+  "published": "2025-06-30",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "UMA: A Family of Universal Models for Atoms",
+  "topics": [
+   "via:author-whitelist:Open Catalyst, ML for catalysis"
+  ],
+  "updated": "2026-03-04"
  },
  "2507.07034": {
   "abstract": "This study presents a surrogate model designed to predict the Nusselt number distribution in an enclosed impinging jet arrays, where each jet function independently and where jets can be transformed from inlets to outlets, leading to a vast number of possible flow arrangements. While computational fluid dynamics (CFD) simulations can model heat transfer with high fidelity, their cost prohibits real-time application such as model-based temperature control. To address this, we generate a CNN-based surrogate model that can predict the Nusselt distribution in real time. We train it with data from implicit large eddy computational fluid dynamics simulations (Re < 2,000). We train two distinct models, one for a five by one array of jets (83 simulations) and one for a three by three array of jets (100 simulations). We introduce a method to extrapolate predictions to higher Reynolds numbers (Re < 10,000) using a correlation-based scaling. The surrogate models achieve high accuracy, with a normalized mean average error below 2% on validation data for the five by one surrogate model and 0.6% for the three by three surrogate model. Experimental validation confirms the model's predictive capabilities. This work provides a foundation for model-based control strategies in advanced thermal management applications.",
@@ -341,6 +424,35 @@
   ],
   "updated": "2026-03-19"
  },
+ "2510.13905": {
+  "abstract": "In-Context Learning (ICL) enables transformer-based language models to adapt to new tasks by conditioning on demonstration examples. However, traditional example-driven in-context learning lacks explicit modules for knowledge retrieval and transfer at the abstraction level. Inspired by cognitive science, specifically schema theory, which holds that humans interpret new information by activating pre-existing mental frameworks (schemas) to structure understanding, we introduce Schema-Activated In-Context Learning (SA-ICL). This framework extracts the representation of the building blocks of cognition for the reasoning process instilled from prior examples, creating an abstracted schema, a lightweight, structured template of key inferential steps and their relationships, which is then used to augment a model's reasoning process when presented with a novel question. We demonstrate that a broad range of large language models (LLMs) lack the capacity to form and utilize internal schema-based learning representations implicitly, but instead benefit significantly from explicit schema-based scaffolding. Across chemistry and physics questions from the GPQA dataset, our experiments show that SA-ICL consistently boosts performance, up to 36.19 percent, when the single demonstration example is of high quality, which simultaneously reduces reliance on the number of demonstrations and enhances interpretability. Schema-Activated In-Context Learning not only bridges disparate ICL strategies ranging from pattern priming to Chain-of-Thought prompting, but also paves a new path for enhancing human-like reasoning in LLMs.",
+  "authors": [
+   "Pan Chen",
+   "Shaohong Chen",
+   "Mark Wang",
+   "Shi Xuan Leong",
+   "Priscilla Fung",
+   "Varinia Bernales",
+   "Alan Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Pan Chen",
+  "pdf_url": "http://arxiv.org/pdf/2510.13905",
+  "primary_category": "cs.CL",
+  "published": "2025-10-14",
+  "tags": [
+   "large-language-models"
+  ],
+  "title": "Schema for In-Context Learning",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2026-03-28"
+ },
  "2510.19839": {
   "abstract": "A time-dependent modeling framework for autogenous self-healing concrete that couples moisture diffusion with damage evolution was developed. Water transport follows Fick's second law with a damage-dependent diffusivity obtained by power-law interpolation between intact concrete and crack space. Healing reduces damage in proportion to the product of local moisture and a smoothed cement availability field computed via a novel Helmholtz filtering approach that models the spatial extent over which cement clinker can travel and form crystals. Two finite element variants were implemented in FEniCSx: a Crack Diffusion Model (CDM) with standard diffusion and a Crack Membrane Model (CMM) that introduces a novel threshold-based gating mechanism to control cross-crack water transport until a critical moisture threshold is reached. Key control parameters are the initial crack orientation and size, the diffusion coefficients of intact and cracked concrete, the healing rate constant, and the cement availability smoothing parameter. Simulations show that healing time varies non-monotonically with crack orientation, peaking near $45^\\circ$ and $135^\\circ$ and minimizing near $90^\\circ$. The dependence on crack width reverses with material parameters. The CMM reproduces staged moisture penetration with delayed gate activation but lengthens total healing time, whereas the CDM is efficient for parametric sweeps. Machine learning regression models were trained on finite element simulation data to predict healing times $H(σ,γ,β)$ with high accuracy ($R^2 > 0.999$), dramatically reducing computational time. SHAP analysis demonstrated that crack orientation influenced healing time the most, followed by crack width and cement availability smoothing. The modeling framework provides a versatile tool for guiding future laboratory studies and implementations of self-healing concrete.",
   "authors": [
@@ -482,6 +594,87 @@
    "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2026-03-25"
+ },
+ "2512.18847": {
+  "abstract": "Quantum simulation is central to understanding and designing quantum systems across physics and chemistry. Yet it has barriers to access from both computational complexity and computational perspectives, due to the exponential growth of Hilbert space and the complexity of modern software tools. Here we introduce{\\cinzel El Agente Cuántico}, a multi-agent AI system that automates quantum-simulation workflows by translating natural-language scientific intent into executed and validated computations across heterogeneous quantum-software frameworks. By reasoning directly over library documentation and APIs, our agentic system dynamically assembles end-to-end simulations spanning state preparation, closed- and open-system dynamics, tensor-network methods, quantum control, quantum error correction, and quantum resource estimation. The developed system unifies traditionally distinct simulation paradigms behind a single natural-language interface. Beyond reducing technical barriers, this approach opens a path toward scalable, adaptive, and increasingly autonomous quantum simulation, enabling faster exploration of physical models, rapid hypothesis testing, and closer integration between theory, simulation, and emerging quantum hardware.",
+  "authors": [
+   "Ignacio Gustin",
+   "Luis Mantilla Calderón",
+   "Juan B. Pérez-Sánchez",
+   "Jérôme F. Gonthier",
+   "Yuma Nakamura",
+   "Karthik Panicker",
+   "Manav Ramprasad",
+   "Zijian Zhang",
+   "Yunheng Zou",
+   "Varinia Bernales",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Ignacio Gustin",
+  "pdf_url": "http://arxiv.org/pdf/2512.18847",
+  "primary_category": "quant-ph",
+  "published": "2025-12-21",
+  "tags": [],
+  "title": "El Agente Cuantico: Automating quantum simulations",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2026-03-05"
+ },
+ "2601.05976": {
+  "abstract": "We present a rotational velocity (vsini) survey of 32 stellar/substellar objects and giant planets using Keck/KPIC high-resolution spectroscopy, including 6 giant planets (2-7 M$_\\mathrm{Jup}$) and 25 substellar/stellar companions (12-88 M$_\\mathrm{Jup}$). Adding companions with spin measurements from the literature, we construct a curated spin sample for 43 benchmark stellar/substellar companions and giant planets and 54 free-floating brown dwarfs and planetary mass objects. We compare their spins, parameterized as fractional breakup velocities at 10 Myr, assuming constant angular momentum evolution. We find the first clear evidence that giant planets exhibit distinct spins versus low-mass brown dwarf companions (10 to 40 M$_\\mathrm{Jup}$) at 4-4.5 $σ$ significance assuming inclinations aligned with their orbits, while under randomly oriented inclinations the significance is at 1.6-2.1 $σ$. Our findings hold when considering various assumptions about planets, and the mass ratio below 0.8% gives a clean cut for rotation between giant planets and brown dwarf companions. The higher fractional breakup velocities of planets can be interpreted as less angular momentum loss through circumplanetary disk braking during the planet formation phase. Brown dwarf companions exhibit evidence of slower rotation compared to isolated brown dwarfs, while planets and planetary mass objects show similar spins. Finally, our analysis of specific angular momentum versus age of 221 stellar/substellar objects below 0.1 M$_{\\odot}$ with spin measurements in the literature indicates that the substellar objects of 5-40 M$_\\mathrm{Jup}$ retain much higher angular momenta compared to stellar and substellar objects of 40-100 M$_\\mathrm{Jup}$ after 10 Myr, when their initial angular momenta were set.",
+  "authors": [
+   "Chih-Chun Hsu",
+   "Jason J. Wang",
+   "Jerry W. Xuan",
+   "Yapeng Zhang",
+   "Jean-Baptiste Ruffio",
+   "Dimitri Mawet",
+   "Luke Finnerty",
+   "Katelyn Horstman",
+   "Julianne Cronin",
+   "Yinzi Xin",
+   "Ben Sappey",
+   "Daniel Echeverri",
+   "Nemanja Jovanovic",
+   "Ashley D. Baker",
+   "Randy Bartos",
+   "Geoffrey A. Blake",
+   "Benjamin Calvin",
+   "Sylvain Cetre",
+   "Jacques-Robert Delorme",
+   "Greg W. Doppmann",
+   "Michael P. Fitzgerald",
+   "Quinn M. Konopacky",
+   "Joshua Liberman",
+   "Ronald A. Lopez",
+   "Evan C. Morris",
+   "Jacklyn Pezzato",
+   "Tobias Schofield",
+   "Andrew Skemer",
+   "James K. Wallace",
+   "Ji Wang"
+  ],
+  "categories": [
+   "astro-ph.EP",
+   "astro-ph.SR"
+  ],
+  "comment": "Accepted for publication in The Astronomical Journal. 40 pages, 15 figures, 5 tables",
+  "first_author": "Chih-Chun Hsu",
+  "pdf_url": "http://arxiv.org/pdf/2601.05976",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-01-09",
+  "tags": [],
+  "title": "Distinct Rotational Evolution of Giant Planets and Brown Dwarf Companions",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2026-03-26"
  },
  "2601.08104": {
   "abstract": "The accurate identification and control of spatiotemporal chaos in reaction-diffusion systems remains a grand challenge in chemical engineering, particularly when the underlying catalytic surface possesses complex, unknown topography. In the \\textit{Defect Turbulence} regime, system dynamics are governed by topological phase singularities (spiral waves) whose motion couples to manifold curvature via geometric pinning. Conventional Physics-Informed Neural Networks (PINNs) using ReLU or Tanh activations suffer from fundamental \\textit{spectral bias}, failing to resolve high-frequency gradients and causing amplitude collapse or phase drift. We propose a Multi-Scale SIREN-PINN architecture leveraging periodic sinusoidal activations with frequency-diverse initialization, embedding the appropriate inductive bias for wave-like physics directly into the network structure. This enables simultaneous resolution of macroscopic wave envelopes and microscopic defect cores. Validated on the complex Ginzburg-Landau equation evolving on latent Riemannian manifolds, our architecture achieves relative state prediction error $ε_{L_2} \\approx 1.92 \\times 10^{-2}$, outperforming standard baselines by an order of magnitude while preserving topological invariants ($|ΔN_{defects}| < 1$). We solve the ill-posed \\textit{inverse pinning problem}, reconstructing hidden Gaussian curvature fields solely from partial observations of chaotic wave dynamics (Pearson correlation $ρ= 0.965$). Training dynamics reveal a distinctive Spectral Phase Transition at epoch $\\sim 2,100$, where cooperative minimization of physics and geometry losses drives the solver to Pareto-optimal solutions. This work establishes a new paradigm for Geometric Catalyst Design, offering a mesh-free, data-driven tool for identifying surface heterogeneity and engineering passive control strategies in turbulent chemical reactors.",
@@ -672,6 +865,38 @@
   "title": "Influence of Turbulence Length Scale and Platform Surge Motion on Wake Dynamics in Tandem Floating Wind Turbines",
   "topics": [
    "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-03-02"
+ },
+ "2603.01955": {
+  "abstract": "Atomic carbon ([CI]) is a key species in the carbon chemistry of the interstellar medium (ISM). Using the Submillimeter Wave Astronomy Satellite (SWAS), we conducted a [CI]($^3$P$_1$--$^3$P$_0$) 492 GHz survey covering approximately 4 deg$^2$ of the L1688 and L1689 regions in the $ρ$ Oph molecular cloud, achieving a spatial resolution of 4.25$\\hbox{$^{\\prime}$}$. The derived [CI] column densities, N([CI]), range from 4.85 $\\times$ 10$^{14}$ cm$^{-2}$ to 6.29 $\\times$ 10$^{17}$ cm$^{-2}$, corresponding to an abundance ratio N([CI])/N($H_2$) of 2.24$\\times$ 10$^{-7}$ to 2.39$\\times$ 10$^{-4}$, with a median value of 1.8$\\times$ 10$^{-5}$. Combining observations with photodissociation region (PDR) modeling, we find that [CI] abundance varies less than CO in regions with UV intensity G$_0$ $> 16$ and N(H$_2$) $<$ 4.6 $\\times$ 10$^{21}$ cm$^{-2}$, suggesting [CI] is a more reliable tracer of molecular hydrogen in low-density, high-radiation environments where the [CI]-to-CO transition occurs. Utilizing [CI] as direct H$_2$ tracer, the CO-dark gas fraction is estimated to be 0.43 , meaning that 43% of the total cloud mass will be missed by conventional calculation based on CO observations but can be calibrated by [CI] emission. The [CI] line widths are systematically broader than those of $^{13}$CO, possibly due to contributions from atomic carbon. These findings provide key insights into Galactic [CI] emission and the carbon cycle evolution in the interstellar medium. Future high-sensitivity [CI] ($^3$P$_1$--$^3$P$_0$) surveys with the Chinese Survey Space Telescope (CSST) will significantly advance our understanding of the carbon cycle evolution.",
+  "authors": [
+   "Jifeng Xia",
+   "Ningyu Tang",
+   "Thomas G. Bisbas",
+   "Chen Wang",
+   "Gan Luo",
+   "Sihan Jiao",
+   "Xin Lv",
+   "Xuejian Jiang",
+   "Donghui Quan",
+   "Jinzeng Li",
+   "Paul F. Goldsmith",
+   "Gary A. Fuller",
+   "Di Li"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "16 pages, 12 figures. Accepted for publication in Science China Physics, Mechanics & Astronomy",
+  "first_author": "Jifeng Xia",
+  "pdf_url": "http://arxiv.org/pdf/2603.01955",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-03-02",
+  "tags": [],
+  "title": "Large scale mapping of [CI] and the [CI]-to-CO transition in $ρ$ Ophiuchus molecular cloud",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
   ],
   "updated": "2026-03-02"
  },
@@ -936,6 +1161,72 @@
   ],
   "updated": "2026-03-06"
  },
+ "2603.05308": {
+  "abstract": "Assessing whether an article supports an assertion is essential for hallucination detection and claim verification. While large language models (LLMs) have the potential to automate this task, achieving strong performance requires frontier models such as GPT-5 that are prohibitively expensive to deploy at scale. To efficiently perform biomedical evidence attribution, we present Med-V1, a family of small language models with only three billion parameters. Trained on high-quality synthetic data newly developed in this study, Med-V1 substantially outperforms (+27.0% to +71.3%) its base models on five biomedical benchmarks unified into a verification format. Despite its smaller size, Med-V1 performs comparably to frontier LLMs such as GPT-5, along with high-quality explanations for its predictions. We use Med-V1 to conduct a first-of-its-kind use case study that quantifies hallucinations in LLM-generated answers under different citation instructions. Results show that the format instruction strongly affects citation validity and hallucination, with GPT-5 generating more claims but exhibiting hallucination rates similar to GPT-4o. Additionally, we present a second use case showing that Med-V1 can automatically identify high-stakes evidence misattributions in clinical practice guidelines, revealing potentially negative public health impacts that are otherwise challenging to identify at scale. Overall, Med-V1 provides an efficient and accurate lightweight alternative to frontier LLMs for practical and real-world applications in biomedical evidence attribution and verification tasks. Med-V1 is available at https://github.com/ncbi-nlp/Med-V1.",
+  "authors": [
+   "Qiao Jin",
+   "Yin Fang",
+   "Lauren He",
+   "Yifan Yang",
+   "Guangzhi Xiong",
+   "Zhizheng Wang",
+   "Nicholas Wan",
+   "Joey Chan",
+   "Donald C. Comeau",
+   "Robert Leaman",
+   "Charalampos S. Floudas",
+   "Aidong Zhang",
+   "Michael F. Chiang",
+   "Yifan Peng",
+   "Zhiyong Lu"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Qiao Jin",
+  "pdf_url": "http://arxiv.org/pdf/2603.05308",
+  "primary_category": "cs.CL",
+  "published": "2026-03-05",
+  "tags": [
+   "large-language-models"
+  ],
+  "title": "Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution",
+  "topics": [
+   "via:author-whitelist:global optimization, PSE"
+  ],
+  "updated": "2026-03-05"
+ },
+ "2603.06567": {
+  "abstract": "Machine-learning interatomic potentials (MLIPs) have advanced rapidly, with many top models relying on strong physics-based inductive biases. However, as models scale to larger systems like biomolecules and electrolytes, they struggle to accurately capture long-range (LR) interactions, leading current approaches to rely on explicit physics-based terms or components. In this work, we propose AllScAIP, a straightforward, attention-based, and energy-conserving MLIP model that scales to O(100 million) training samples. It addresses the long-range challenge using an all-to-all node attention component that is data-driven. Extensive ablations reveal that in low-data/small-model regimes, inductive biases improve sample efficiency. However, as data and model size scale, these benefits diminish or even reverse, while all-to-all attention remains critical for capturing LR interactions. Our model achieves state-of-the-art energy/force accuracy on molecular systems, as well as a number of physics-based evaluations (OMol25), while being competitive on materials (OMat24) and catalysts (OC20). Furthermore, it enables stable, long-timescale MD simulations that accurately recover experimental observables, including density and heat of vaporization predictions.",
+  "authors": [
+   "Eric Qu",
+   "Brandon M. Wood",
+   "Aditi S. Krishnapriyan",
+   "Zachary W. Ulissi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.CE",
+   "physics.chem-ph",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Eric Qu",
+  "pdf_url": "http://arxiv.org/pdf/2603.06567",
+  "primary_category": "cs.LG",
+  "published": "2026-03-06",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention",
+  "topics": [
+   "via:author-whitelist:Open Catalyst, ML for catalysis"
+  ],
+  "updated": "2026-03-06"
+ },
  "2603.06767": {
   "abstract": "Over the past decade, Artificial Intelligence has significantly advanced, mostly driven by large-scale neural approaches. However, in the chemical process industry, where safety is critical, these methods are often unsuitable due to their brittleness, and lack of explainability and interpretability. Furthermore, open-source real-world datasets containing historical failures are scarce in this domain.   In this paper, we investigate an approach for predicting failures in chemical processes using symbolic machine learning and conduct a feasibility study in the context of an ethylene oxidation process. Our method builds on a state-of-the-art symbolic machine learning system capable of learning predictive models in the form of probabilistic rules from context-dependent noisy examples. This system is a general-purpose symbolic learner, which makes our approach independent of any specific chemical process. To address the lack of real-world failure data, we conduct our feasibility study leveraging data generated from a chemical process simulator. Experimental results show that symbolic machine learning can outperform baseline methods such as random forest and multilayer perceptron, while preserving interpretability through the generation of compact, rule-based predictive models. Finally, we explain how such learned rule-based models could be integrated into agents to assist chemical plant operators in decision-making during potential failures.",
   "authors": [
@@ -1026,6 +1317,27 @@
   ],
   "updated": "2026-03-24"
  },
+ "2603.07803": {
+  "abstract": "We investigate a generalized gauged $\\mathds{C}\\mathrm{P}^1$-Maxwell theory in which the electromagnetic sector acquires a field-dependent magnetic permeability generated dynamically through fermionic vacuum polarization. Starting from the gauged $\\mathds{C}\\mathrm{P}^1$-sigma model, whose dynamics occurs on a curved target space endowed with the Fubini-Study metric, we show that integrating out a Dirac fermion with effective mass induces, at one loop, a non-polynomial magnetic permeability, which after dimensional reduction to $(2+1)$-dimensions yields an effective Maxwell sector takes the form of a logarithmic magnetic permeability. Within this framework, one builds a generalized $\\mathds{C}\\mathrm{P}^1$-Maxwell model by admitting Bogomol'nyi-Prasad-Sommerfield (BPS) configurations. Taking this into account, we solved the self-dual equations that describe vortex-like solutions with quantized magnetic flux. Furthermore, one highlights the interactions between the target-space geometry and the induced permeability.",
+  "authors": [
+   "F. C. E. Lima"
+  ],
+  "categories": [
+   "hep-th",
+   "hep-ph"
+  ],
+  "comment": "33 pages, 10 figures",
+  "first_author": "F. C. E. Lima",
+  "pdf_url": "http://arxiv.org/pdf/2603.07803",
+  "primary_category": "hep-th",
+  "published": "2026-03-08",
+  "tags": [],
+  "title": "BPS vortex from nonpolynomial scalar QED in a $\\mathds{C}\\mathrm{P}^1$-Maxwell theory",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2026-03-08"
+ },
  "2603.07823": {
   "abstract": "Hydrogen integration into microgrids facilitates the absorption of intermittencies from renewable energy resources. However, significant challenges remain due to complex optimization problems, particularly in large-scale applications involving multiple fuel cells (FCs) and electrolyzers (ELs) with numerous binary decision variables. This paper presents a hierarchical quantum annealing (QA) model predictive control-based power allocation framework aimed at accelerating these optimization problems. First, in a day-ahead stage, the framework determines the startup and shutdown of the FCs and ELs. The short-term stage then refines the output power of the FCs and the hydrogen generation rate of the ELs. The feasibility is evaluated through a case study consisting of multiple households in Australia. Our findings demonstrate that while the traditional optimization approach performs satisfactorily in scenarios with a small number of households, the QA approach becomes more appropriate and effectively solves the problem within an acceptable range as the number of connected households increases.",
   "authors": [
@@ -1085,6 +1397,34 @@
    "Process Control & Optimization"
   ],
   "updated": "2026-03-09"
+ },
+ "2603.09788": {
+  "abstract": "Topology of polymer profoundly influences on its behavior. However, its effect on imbibition dynamics remains poorly understood. In the present work, capillary filling (during imbibition and following full imbibition) of star polymer melts was investigated by molecular dynamics simulations with a coarse-grained model. The reversal of imbibition dynamics observed for linear-chain systems was also present for star polymers. Star polymers with short arms penetrate slower than the prediction of the Lucas-Washburn equation, while systems with long arms penetrate faster. The radius of gyration increases during confined flow, indicating the orientation and disentanglement of arms. In addition, the higher the functionality of the star polymer, the more entanglement points are retained. Besides, a stiff region near the core segments of the stars is observed, which increases in size with functionality. The proportion of different configurations of the arms (e.g. loops, trains, tails) changes dramatically with the arm length and degree of confinement, but is only influenced by the functionality when the arms are short. Following full imbibition, the different decay rates of the self-correlation function of the core-to-end vector illustrate that arms take a longer time to reach the equilibrium state as the functionality, arm length, and degree of confinement increases, in agreement with recent experimental findings. Furthermore, the star topology induces a stronger effect of adsorption and friction, which becomes more pronounced with increasing functionality.",
+  "authors": [
+   "Jianwei Zhang",
+   "Jinyu Lei",
+   "Pu Feng",
+   "George Floudas",
+   "Guangzhao Zhang",
+   "Jiajia Zhou"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "45 pages, 18 figures, SI included",
+  "first_author": "Jianwei Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2603.09788",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-03-10",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Capillary filling of star polymer melts in nanopores",
+  "topics": [
+   "via:author-whitelist:global optimization, PSE"
+  ],
+  "updated": "2026-03-10"
  },
  "2603.10678": {
   "abstract": "Magnetohydrodynamic (MHD) effects play a key role in the design and operation of nuclear fusion systems, where electrically conducting fluids (such as liquid metals or molten salts in reactor blankets) interact with magnetic fields of varying intensity and orientation, which affect the resulting flow. The numerical resolution of MHD models involves highly nonlinear multiphysics systems of equations and can become computationally expensive, particularly in multi-query, parametric, or real-time contexts. This work investigates a fully data-driven framework for MHD state reconstruction that combines dimensionality reduction via Singular Value Decomposition (SVD) with the SHallow REcurrent Decoder (SHRED), a neural network architecture designed to recover the full spatio-temporal state from sparse time-series measurements of a limited number of observables. The methodology is applied to a parametric MHD test case involving compressible lead-lithium flow in a stepped channel subjected to thermal gradients and magnetic fields spanning a broad range of intensities. To improve efficiency, the full-order dataset is first compressed using SVD, yielding a reduced representation used as reference truth for training. Only temperature measurements from three sensors are provided as input, while the network reconstructs the full fields of velocity, pressure, and temperature. To assess robustness with respect to sensor placement, thirty randomly generated sensor configurations are tested in ensemble mode. Results show that SHRED accurately reconstructs the full MHD state even for magnetic field intensities not included in the training set. These findings demonstrate the potential of SHRED as a computationally efficient surrogate modeling strategy for fusion-relevant multiphysics problems, enabling low-cost state estimation with possible applications in real-time monitoring and control.",
@@ -1285,6 +1625,44 @@
   ],
   "updated": "2026-03-13"
  },
+ "2603.12859": {
+  "abstract": "Auger electron spectroscopy, a way of characterizing electronic structure through core-level decay processes, is widely used in materials characterization; however direct calculation from molecular geometry requires accurate treatment of many excited states, posing a challenge for classical methods. We present a hybrid quantum-classical workflow for calculating Auger spectra that combines the generative quantum eigensolver (GQE) for ground-state preparation, the quantum self-consistent equation-of-motion method for excited-state calculations, and the one-centre approximation for Auger transition rates. GQE uses a GPT-2 model to generate quantum circuits for ground-state optimization, allowing our workflow to benefit from HPC parallelization and GPU-acceleration for favourable scaling with system size. We demonstrate the validity of our workflow by calculating the Auger spectrum of water with the STO-3G basis set and demonstrating qualitative and quantitative agreement with spectra obtained using completely classical full configuration interaction calculations, from the computational literature, and from the experimental literature. We also find that for water, substituting the variational quantum eigensolver (VQE) for GQE results in near-identical spectra, but that the ground state estimator generated by GQE contains about half the total gate count as that generated by VQE.",
+  "authors": [
+   "Kimberlee Keithley",
+   "Shunsuke Yamamoto",
+   "Ryota Kenmoku",
+   "Ikko Hamamura",
+   "Kouhei Nakaji",
+   "Shu Kanno",
+   "Takao Kobayashi",
+   "Qi Gao",
+   "Shumpei Uno",
+   "Kohei Oshio",
+   "Naoki Watanabe",
+   "Takeshi Sato",
+   "Naoki Yamamoto",
+   "Shunya Minami",
+   "Yohichi Suzuki",
+   "Yuma Nakamura",
+   "Jorge A. Campos-Gonzalez-Angulo",
+   "Mohammad Ghazi Vakili",
+   "Alan Aspuru-Guzik"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Kimberlee Keithley",
+  "pdf_url": "http://arxiv.org/pdf/2603.12859",
+  "primary_category": "quant-ph",
+  "published": "2026-03-13",
+  "tags": [],
+  "title": "Auger Spectroscopy via Generative Quantum Eigensolver: A Quantum Approach to Molecular Excitations",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2026-03-13"
+ },
  "2603.13213": {
   "abstract": "Large language models for code have achieved strong performance across diverse software analytics tasks, yet their real-world adoption remains limited by high computational demands, slow inference speeds, significant energy consumption, and environmental impact. Knowledge distillation (KD) offers a practical solution by transferring knowledge from a large model to a smaller and more efficient model. Despite its effectiveness, recent studies show that models distilled from a single source often exhibit degraded adversarial robustness, even when robustness-aware distillation techniques are employed. These observations suggest a fundamental limitation of single-source distillation in simultaneously transferring high-quality and robust knowledge. To overcome this limitation, we propose Mixture of Experts Knowledge Distillation (MoEKD), a KD framework that leverages a Mixture of Experts (MoE) architecture to enable more effective and robust knowledge transfer from multiple specialized experts into a compact model. MoEKD decomposes the distillation process into expert and router training, aggregation of expert knowledge through a learned routing mechanism, and distillation from the aggregated knowledge. We evaluate MoEKD on the vulnerability detection task using CodeBERT and GraphCodeBERT models. Experimental results show that MoEKD not only improves adversarial robustness by up to 35.8%, but also enhances predictive performance by up to 13%, compared to state-of-the-art KD baselines, including Compressor and AVATAR. Furthermore, an ablation study demonstrates that aggregating expert knowledge enables ultra-compact models to maintain competitive performance even when their size is reduced by approximately half. Overall, these results highlight the effectiveness of multi-expert knowledge aggregation in addressing key limitations of existing single-source KD approaches.",
   "authors": [
@@ -1339,6 +1717,33 @@
   ],
   "updated": "2026-03-13"
  },
+ "2603.13527": {
+  "abstract": "Rechargeable battery electrodes have highly complex microstructures, consisting of nonuniform electrode particles, tortuous electrolyte channels, and irregular particle-electrolyte interfaces. Moreover, the electrochemical processes involve several coupled physical mechanisms, including mass transport in the electrode particles and electrolyte, current continuity in the solid and liquid, and electrochemical surface reactions. These geometric and mechanistic complexities create a challenging barrier of electrochemical simulations at the microstructural level using conventional methods. In this paper, we introduce a smoothed-boundary method (SBM) electrochemical simulation framework for modeling the electrochemical dynamics of complex battery electrode microstructures. The conventional governing equations are reformulated into SBM versions, and are solved using uniform Cartesian grids. The simulations utilize an image-based, experimentally reconstructed 3D microstructure as the input geometry, and the physical parameters acquired from experimental measurements. Two models of lithiation mechanisms, solid-solution and two-phase, are examined under potentiostatic discharging of a Li$_x$CoO$_2$ composite cathode. Detailed dynamics of the complex cathode microstructure are revealed through the simulations. The comparison between the two models indicates that modeling two-phase lithiation with Fick's diffusion will overestimate the electrode's performance. The presented simulation framework provides an innovative avenue in exploring the electrochemical dynamics at the microstructural level.",
+  "authors": [
+   "Hui-Chia Yu",
+   "Bernardo Orvananos",
+   "Scott Cronin",
+   "Martin Bazant",
+   "Scott Barnett",
+   "K. Thornton"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "need agreement from all co-authors",
+  "first_author": "Hui-Chia Yu",
+  "pdf_url": "http://arxiv.org/pdf/2603.13527",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-13",
+  "tags": [
+   "electrochemical-systems"
+  ],
+  "title": "Smoothed Boundary Method Framework for Electrochemical Simulation of Li-ion Battery Cathode with Complex Microstructure: Model, Formulation and Parameterization",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2026-03-25"
+ },
  "2603.13976": {
   "abstract": "Grid-scale battery degradation unfolds over multi-year timescales under coupled electrochemical, thermal, and operational feedbacks difficult to capture using laboratory data or proprietary field datasets. This scarcity limits the development of degradation-aware algorithms and digital twins that require long-horizon, physically consistent ground truth. Here we present SAGE (Synthetic Aging for a Grid Environment), an open-source, physics-informed simulation framework that generates hour-resolved, multi-decade operating histories and degradation trajectories for heterogeneous battery energy storage system (BESS) fleets. The framework couples stochastic environmental drivers, market-based dispatch, electro-thermal behavior, aging kinetics, and asset-level heterogeneity within a transparent, externally parameterized architecture. We validate physical consistency through hierarchical tests, including Arrhenius temperature acceleration, thermal stratification, and emergent wear-out statistics. Simulations demonstrate how intrinsic heterogeneity in thermal environments and manufacturing naturally produces dispersion in state-of-health trajectories without imposed statistical failure assumptions. SAGE serves as a benchmarking platform for optimization, state estimation, and machine learning, enabling reproducible research in grid-scale energy storage modeling.",
   "authors": [
@@ -1391,6 +1796,75 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-03-14"
+ },
+ "2603.14580": {
+  "abstract": "In three spacetime dimensions, pure Einstein gravity admits no local propagating degrees of freedom, yet nontrivial gravitational backgrounds such as the BTZ black hole provide a natural arena to probe dynamical extensions of the theory. In quadratic $f(R)$ gravity the Ricci scalar becomes a propagating degree of freedom - the scalaron. We investigate how localized Maxwell-Higgs vortices excite this scalar mode in a static BTZ black-hole background. Working in the perturbative regime $α\\ll \\ell^2$, the trace equation reduces to a massive Klein-Gordon equation for the curvature scalar sourced by the trace of the vortex energy-momentum tensor. Using the Sturm-Liouville structure of the radial operator, we construct the corresponding Green function and obtain the curvature profile generated by an arbitrary localized source. The induced excitation exhibits a universal asymptotic decay $R(r) \\sim r^{-(1+ν)}$, independent of the detailed vortex structure. The scalar excitation is linearly stable, carries finite energy, and produces parametrically suppressed backreaction, ensuring the smooth recovery of the Einstein limit. These results provide a concrete realization of how higher-curvature corrections activate the unique local gravitational degree of freedom in three dimensions and how localized sources excite this scalar mode in black-hole spacetimes.",
+  "authors": [
+   "C. A. S. Almeida",
+   "F. C. E. Lima"
+  ],
+  "categories": [
+   "gr-qc",
+   "hep-th"
+  ],
+  "comment": "21 pages, 1 figure",
+  "first_author": "C. A. S. Almeida",
+  "pdf_url": "http://arxiv.org/pdf/2603.14580",
+  "primary_category": "gr-qc",
+  "published": "2026-03-15",
+  "tags": [],
+  "title": "Scalaron excitation by topological vortices in quadratic $f(R)$ gravity on a BTZ black hole background",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2026-03-15"
+ },
+ "2603.15040": {
+  "abstract": "We present a study of the massive protocluster IRAS 15520$-$5234, which displays evidence of an explosive molecular outflow that unleashed a kinetic energy of at least 10$^{48}$ erg. The protocluster contains 16 dense cores detected in the ALMA band 6 continuum emission maps, having masses in the range from 0.2 to 11.0 M$_{\\odot}$. Our analysis of CO $(2-1)$ emission reveals 28 well collimated outflow fingers, the majority of which follow a Hubble-Lemaître velocity law. The outflow fingers show no preferred orientation in the plane of sky and emerge from a common center of origin. We estimate the total mass, momentum, and kinetic energy of the outflow fingers and find that the values are at least one order of magnitude higher than the typical bipolar outflows associated with massive protostars. The morphology and kinematics of the outflow fingers suggest that the outflow associated with IRAS 15520$-$5234 is explosive in nature. We calculate the dynamical age of the explosive event to be approximately 6550 years. Additionally, we estimate the frequency of such explosive outflows in the Galaxy, which is one event every 83 years. Finally, we speculate that the rearrangement of masses within the massive protocluster and the dynamical interaction among the massive cores may result in the formation of such an energetic event.",
+  "authors": [
+   "Ariful Hoque",
+   "Tapas Baug",
+   "Estrella Guzman",
+   "Manuel Fernandez Lopez",
+   "Tie Liu",
+   "Guido Garay",
+   "Paul F. Goldsmith",
+   "Fengwei Xu",
+   "Xindi Tang",
+   "Patricio Sanhueza",
+   "Lokesh K. Dewangan",
+   "Shivani Gupta",
+   "Sami Dib",
+   "Luis A. Zapata",
+   "Jihye Hwang",
+   "N. K. Bhadari",
+   "John Bally",
+   "Swagat Ranjan Das",
+   "Aiyuan Yang",
+   "Prasanta Gorai",
+   "Arup Kumar Maity",
+   "James O. Chibueze",
+   "Pablo García",
+   "Leonardo Bronfman",
+   "Xunchuan Liu",
+   "L. Viktor Tóth",
+   "Shehu Muhammad Usman",
+   "Kee-Tae Kim"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "19 pages, 11 figures, 2 tables, Accepted for publication in ApJ",
+  "first_author": "Ariful Hoque",
+  "pdf_url": "http://arxiv.org/pdf/2603.15040",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-03-16",
+  "tags": [],
+  "title": "The ALMA-QUARKS Survey: Evidence of an Explosive Molecular Outflow in IRAS 15520--5234",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2026-03-16"
  },
  "2603.15712": {
   "abstract": "CO2 reduction requires efficient catalysts, yet materials discovery remains bottlenecked by 10-20 year development cycles requiring deep domain expertise. This paper demonstrates how large language models can assist the catalyst discovery process by helping researchers explore chemical spaces and interpret results when augmented with retrieval-based grounding. We introduce a retrieval-augmented generation framework that enables GPT-4 to navigate chemical space by accessing a database of 50,000+ known materials, adapting general-purpose language understanding for high-throughput materials design. Our approach generated over 250 catalyst candidates with an 82% thermodynamic stability rate while addressing multi-objective constraints: 68% achieved <$100/kg cost with metallic conductivity (band gap<0.1eV) and mechanical stability (B/G>1.75). The best-performing Fe0.2Co0.2Ni0.2Ir0.1Ru0.3 achieves 0.285V limiting potential (25% improvement over IrO2), while Cr0.2Fe0.2Co0.3Ni0.2Mo0.1 optimally balances performance-cost trade-offs at $18/kg. Volcano plot analysis confirms that 78% of LLM-generated catalysts cluster near the theoretical activity optimum, while our system achieves 200x computational efficiency compared to traditional high-throughput screening. By demonstrating that retrieval-augmented generation can ground AI creativity in physical constraints without sacrificing exploration, this work demonstrates an approach where natural language interfaces can streamline materials discovery workflows, enabling researchers to explore chemical spaces more efficiently while the LLM assists in result interpretation and hypothesis generation.",
@@ -1732,6 +2206,59 @@
   "title": "Full Timescale Hierarchical MPC-MTIP Framework for Hybrid Energy Storage Management in Low-Carbon Industrial Microgrid",
   "topics": [
    "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-03-23"
+ },
+ "2603.21670": {
+  "abstract": "We identify a sample of 83 spatially resolved hot molecular cores (HMCs) in the QUARKS survey, aiming at investigating thermal feedback from massive stars. Using CH$_3$CN\\,(12--11) line emission together with 1.3\\,mm continuum data we derive the radial temperature, volume density and \\ch3cn{} abundance profiles for the 83 HMCs. Based on the envelope temperature and density profiles, we compute the luminosities of the embedded massive protostars with \\radmc{} radiation transfer model. The derived luminosities are comparable (within $\\sim1$ dex) to the bolometric luminosities of their natal clumps and show strong correlations with several core-scale properties, including the HMC mass ($Log[ M_\\mathrm{env}] = 1.01\\,Log [L_\\star] - 4.80$), the inner core radius (the flat radius of Plummer-like volume density profile) ($Log[a] = 0.46\\,Log[L_\\star] + 0.52$) and the central density $ (Log[n_c] = -0.55 Log[L_\\star] +10.47) $. These empirical relations provide useful observational constraints for physical models of protostellar objects. Importantly, we find a strong positive correlation between the massive protostellar luminosity and the local thermal Jeans mass. The derived Jeans masses, $M_\\mathrm{Jeans}$, exceed the HMC masses $M_\\mathrm{env}$, with the average $M_\\mathrm{Jeans}$ being two times larger than the average $M_\\mathrm{env}$. This provides observational evidence that thermal feedback from massive protostars can effectively suppress further fragmentation of HMCs, thereby promoting massive star formation. In addition, the positive correlation between massive protostellar luminosity and natal clump mass suggests that more massive clumps preferentially host more luminous protostars, leading to stronger thermal feedback.",
+  "authors": [
+   "Dezhao Meng",
+   "Tie Liu",
+   "Jarken Esimbek",
+   "Yisheng Qiu",
+   "Jixing Ge",
+   "Neal J. Evans",
+   "Aina Palau",
+   "Guido Garay",
+   "Paul F. Goldsmith",
+   "Fengwei Xu",
+   "Sami Dib",
+   "Jeong-Eun Lee",
+   "Amelia M. Stutz",
+   "Xindi Tang",
+   "Xiaofeng Mai",
+   "Yankun Zhang",
+   "Wenyu Jiao",
+   "Jiahang Zou",
+   "Leonardo J. Bronfman",
+   "Swagat R. Das",
+   "Prasanta Gorai",
+   "J. W. Zhou",
+   "Pablo Garc'ia",
+   "L. Viktor Toth",
+   "Sheng-Yuan Liu",
+   "Chang Won Lee",
+   "Jianjun Zhou",
+   "Gang Wu",
+   "Dalei Li",
+   "Yuxin He",
+   "Dongting Yang",
+   "James O. Chibueze",
+   "Xunchuan Liu",
+   "Lei Zhu"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "submitted to AAS journals, comments welcome",
+  "first_author": "Dezhao Meng",
+  "pdf_url": "http://arxiv.org/pdf/2603.21670",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-03-23",
+  "tags": [],
+  "title": "The ALMA-QUARKS survey: Investigating Thermal Feedback of Massive Protostars in Hot Molecular Cores",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
   ],
   "updated": "2026-03-23"
  },
@@ -2165,6 +2692,28 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2026-03-29"
+ },
+ "2603.29116": {
+  "abstract": "Anthropogenic activity threatens biodiversity through climate change, habitat fragmentation, and increasing frequency and scale of disturbance. Various theoretical studies have sought to shed light on how these factors could promote or hinder the coexistence of species. However, our understanding of the relative importance of, and interactions between, these factors remains limited. In this study, we employ a theoretical approach integrating three commonly cited coexistence mechanisms -- the competition-colonisation trade-off, the intermediate disturbance hypothesis, and spatial heterogeneity -- into a unified model. We implement a novel method to integrate habitat autocorrelation into a system of differential equations, to create a simple and flexible model that can be used to investigate coexistence of multiple species arranged in a competitive hierarchy under different disturbance and habitat structure scenarios. Using this model, we find that considering interactions between different mechanisms is crucial for explaining the coexistence of species. Biodiversity patterns alternative to the uni-peak curve predicted by the intermediate disturbance hypothesis (e.g., bimodal) emerge along disturbance gradients as habitat fragmentation increases. Furthermore, habitat loss outweighs habitat autocorrelation effects in highly disturbed scenarios, yet autocorrelation can shape species coexistence under low disturbance. These findings underscore the need to integrate spatial and temporal mechanisms in biodiversity management.",
+  "authors": [
+   "Isaac Planas-Sitjà",
+   "Ryosuke Iritani",
+   "Adam L. Cronin"
+  ],
+  "categories": [
+   "q-bio.PE"
+  ],
+  "comment": "Length: 36 pages (including main manuscript and supplementary material). Main manuscript contains 6 figures and 1 table",
+  "first_author": "Isaac Planas-Sitjà",
+  "pdf_url": "http://arxiv.org/pdf/2603.29116",
+  "primary_category": "q-bio.PE",
+  "published": "2026-03-31",
+  "tags": [],
+  "title": "Disentangling the interactive effects of anthropogenic disturbances on biodiversity",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2026-03-31"
  },
  "2604.00264": {
   "abstract": "The computational cost of stiff chemical kinetics remains a dominant bottleneck in reacting-flow simulation, yet hybrid integration strategies are typically driven by hand-tuned heuristics or supervised predictors that make myopic decisions from instantaneous local state. We introduce a constrained reinforcement learning (RL) framework that autonomously selects between an implicit BDF integrator (CVODE) and a quasi-steady-state (QSS) solver during chemistry integration. Solver selection is cast as a Markov decision process. The agent learns trajectory-aware policies that account for how present solver choices influence downstream error accumulation, while minimizing computational cost under a user-prescribed accuracy tolerance enforced through a Lagrangian reward with online multiplier adaptation. Across sampled 0D homogeneous reactor conditions, the RL-adaptive policy achieves a mean speedup of approximately $3\\times$, with speedups ranging from $1.11\\times$ to $10.58\\times$, while maintaining accurate ignition delays and species profiles for a 106-species \\textit{n}-dodecane mechanism and adding approximately $1\\%$ inference overhead. Without retraining, the 0D-trained policy transfers to 1D counterflow diffusion flames over strain rates $10$--$2000~\\mathrm{s}^{-1}$, delivering consistent $\\approx 2.2\\times$ speedup relative to CVODE while preserving near-reference temperature accuracy and selecting CVODE at only $12$--$15\\%$ of space-time points. Overall, the results demonstrate the potential of the proposed reinforcement learning framework to learn problem-specific integration strategies while respecting accuracy constraints, thereby opening a pathway toward adaptive, self-optimizing workflows for multiphysics systems with spatially heterogeneous stiffness.",

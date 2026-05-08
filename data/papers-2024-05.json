@@ -1,4 +1,134 @@
 {
+ "2401.11404": {
+  "abstract": "Datasets encountered in scientific and engineering applications appear in complex formats (e.g., images, multivariate time series, molecules, video, text strings, networks). Graph theory provides a unifying framework to model such datasets and enables the use of powerful tools that can help analyze, visualize, and extract value from data. In this work, we present PlasmoData$.$jl, an open-source, Julia framework that uses concepts of graph theory to facilitate the modeling and analysis of complex datasets. The core of our framework is a general data modeling abstraction, which we call a DataGraph. We show how the abstraction and software implementation can be used to represent diverse data objects as graphs and to enable the use of tools from topology, graph theory, and machine learning (e.g., graph neural networks) to conduct a variety of tasks. We illustrate the versatility of the framework by using real datasets: i) an image classification problem using topological data analysis to extract features from the graph model to train machine learning models; ii) a disease outbreak problem where we model multivariate time series as graphs to detect abnormal events; and iii) a technology pathway analysis problem where we highlight how we can use graphs to navigate connectivity. Our discussion also highlights how PlasmoData$.$jl leverages native Julia capabilities to enable compact syntax, scalable computations, and interfaces with diverse packages.",
+  "authors": [
+   "David L Cole",
+   "Victor M Zavala"
+  ],
+  "categories": [
+   "cs.MS",
+   "cs.LG"
+  ],
+  "comment": "62 pages, 18 figures, 8 tables",
+  "first_author": "David L Cole",
+  "pdf_url": "http://arxiv.org/pdf/2401.11404",
+  "primary_category": "cs.MS",
+  "published": "2024-01-21",
+  "tags": [
+   "graph-neural-networks"
+  ],
+  "title": "PlasmoData.jl -- A Julia Framework for Modeling and Analyzing Complex Data as Graphs",
+  "topics": [
+   "via:author-whitelist:MPC, infrastructure optimization"
+  ],
+  "updated": "2024-05-10"
+ },
+ "2402.05015": {
+  "abstract": "Automation is one of the cornerstones of contemporary material discovery. Bayesian optimization (BO) is an essential part of such workflows, enabling scientists to leverage prior domain knowledge into efficient exploration of a large molecular space. While such prior knowledge can take many forms, there has been significant fanfare around the ancillary scientific knowledge encapsulated in large language models (LLMs). However, existing work thus far has only explored LLMs for heuristic materials searches. Indeed, recent work obtains the uncertainty estimate -- an integral part of BO -- from point-estimated, non-Bayesian LLMs. In this work, we study the question of whether LLMs are actually useful to accelerate principled Bayesian optimization in the molecular space. We take a sober, dispassionate stance in answering this question. This is done by carefully (i) viewing LLMs as fixed feature extractors for standard but principled BO surrogate models and by (ii) leveraging parameter-efficient finetuning methods and Bayesian neural networks to obtain the posterior of the LLM surrogate. Our extensive experiments with real-world chemistry problems show that LLMs can be useful for BO over molecules, but only if they have been pretrained or finetuned with domain-specific data.",
+  "authors": [
+   "Agustinus Kristiadi",
+   "Felix Strieth-Kalthoff",
+   "Marta Skreta",
+   "Pascal Poupart",
+   "Alán Aspuru-Guzik",
+   "Geoff Pleiss"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "ICML 2024. Code: https://github.com/wiseodd/lapeft-bayesopt",
+  "first_author": "Agustinus Kristiadi",
+  "pdf_url": "http://arxiv.org/pdf/2402.05015",
+  "primary_category": "cs.LG",
+  "published": "2024-02-07",
+  "tags": [
+   "bayesian-inference",
+   "large-language-models",
+   "surrogate-modeling"
+  ],
+  "title": "A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2024-05-28"
+ },
+ "2404.13413": {
+  "abstract": "We study a generalized $φ^4$ model that gives rise to BPS kink/antikink configurations with compacton-like profiles. One observes that the positive parameter controlling the generalizing function promotes an infinity degenerescence of the BPS solutions. We then use the Differential Configurational Complexity technique to distinguish the degenerate configurations, which allows us to obtain the parameter values providing the most likely field profiles. Besides, the analysis of the excitation spectrum of the model shows the existence of translational and vibrational modes. Thus, the emergence of bound states of solitons (bions) and resonance phenomena is guaranteed when analyzing the scattering of kink/antikink structures. In this way, one notes that depending on the initial velocity, the collision can be inelastic or quasi-elastic, even in the case of compacton-like configurations.",
+  "authors": [
+   "F. C. E. Lima",
+   "C. A. S. Almeida",
+   "Rodolfo Casana"
+  ],
+  "categories": [
+   "hep-th"
+  ],
+  "comment": "24 pages, 16 captioned figures. Version with a new figure and reorganized text",
+  "first_author": "F. C. E. Lima",
+  "pdf_url": "http://arxiv.org/pdf/2404.13413",
+  "primary_category": "hep-th",
+  "published": "2024-04-20",
+  "tags": [],
+  "title": "Physical aspects of the deformation of $\\mathbb{Z}_2$ kinks in a generalized $φ^4$ model",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-05-31"
+ },
+ "2405.00493": {
+  "abstract": "We have investigated the physical properties of Planck Galactic Cold Clumps (PGCCs) located in the Galactic Plane, using the JCMT Plane Survey (JPS) and the SCUBA-2 Continuum Observations of Pre-protostellar Evolution (SCOPE) survey. By utilising a suite of molecular-line surveys, velocities and distances were assigned to the compact sources within the PGCCs, placing them in a Galactic context. The properties of these compact sources show no large-scale variations with Galactic environment. Investigating the star-forming content of the sample, we find that the luminosity-to-mass ratio (L/M) is an order of magnitude lower than in other Galactic studies, indicating that these objects are hosting lower levels of star formation. Finally, by comparing ATLASGAL sources that are associated or are not associated with PGCCs, we find that those associated with PGCCs are typically colder, denser, and have a lower L/M ratio, hinting that PGCCs are a distinct population of Galactic Plane sources.",
+  "authors": [
+   "D. J. Eden",
+   "Tie Liu",
+   "T. J. T. Moore",
+   "J. Di Francesco",
+   "G. Fuller",
+   "Kee-Tae Kim",
+   "Di Li",
+   "S. -Y. Liu",
+   "R. Plume",
+   "Ken'ichi Tatematsu",
+   "M. A. Thompson",
+   "Y. Wu",
+   "L. Bronfman",
+   "H. M. Butner",
+   "M. J. Currie",
+   "G. Garay",
+   "P. F. Goldsmith",
+   "N. Hirano",
+   "D. Johnstone",
+   "M. Juvela",
+   "S. -P. Lai",
+   "C. W. Lee",
+   "E. E. Mannfors",
+   "F. Olguin",
+   "K. Pattle",
+   "Geumsook Park",
+   "D. Polychroni",
+   "M. Rawlings",
+   "A. J. Rigby",
+   "P. Sanhueza",
+   "A. Traficante",
+   "J. S. Urquhart",
+   "B. Weferling",
+   "G. J. White",
+   "R. K. Yadav"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.SR"
+  ],
+  "comment": "18 pages, 14 figures, 7 tables. Accepted for publication in MNRAS",
+  "first_author": "D. J. Eden",
+  "pdf_url": "http://arxiv.org/pdf/2405.00493",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-05-01",
+  "tags": [],
+  "title": "A study of Galactic Plane Planck Galactic Cold Clumps observed by SCOPE and the JCMT Plane Survey",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2024-05-01"
+ },
  "2405.01681": {
   "abstract": "Batteries are nonlinear dynamical systems that can be modeled by Porous Electrode Theory models. The aim of optimal fast charging is to reduce the charging time while keeping battery degradation low. Most past studies assume that model parameters and ambient temperature are a fixed known value and that all PET model parameters are perfectly known. In real battery operation, however, the ambient temperature and the model parameters are uncertain. To ensure that operational constraints are satisfied at all times in the context of model-based optimal control, uncertainty quantification is required. Here, we analyze optimal fast charging for modest uncertainty in the ambient temperature and 23 model parameters. Uncertainty quantification of the battery model is carried out using non-intrusive polynomial chaos expansion and the results are verified with Monte Carlo simulations. The method is investigated for a constant current--constant voltage charging strategy for a battery for which the strategy is known to be standard for fast charging subject to operating below maximum current and charging constraints. Our results demonstrate that uncertainty in ambient temperature results in violations of constraints on the voltage and temperature. Our results identify a subset of key parameters that contribute to fast charging among the overall uncertain parameters. Additionally, it is shown that the constraints represented by voltage, temperature, and lithium-plating overpotential are violated due to uncertainties in the ambient temperature and parameters. The C-rate and charge constraints are then adjusted so that the probability of violating the degradation acceleration condition is below a pre-specified value. This approach demonstrates a computationally efficient approach for determining fast-charging protocols that take probabilistic uncertainties into account.",
   "authors": [
@@ -140,6 +270,56 @@
    "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2024-05-03"
+ },
+ "2405.03686": {
+  "abstract": "In this paper we study the filamentary substructure of 3.3 $μ$m PAH emission from JWST/NIRCam observations in the base of the M82 star-burst driven wind. We identify plume-like substructure within the PAH emission with widths of $\\sim$50 pc. Several of the plumes extend to the edge of the field-of-view, and thus are at least 200-300 pc in length. In this region of the outflow, the vast majority ($\\sim$70\\%) of PAH emission is associated with the plumes. We show that those structures contain smaller scale \"clouds\" with widths that are $\\sim$5-15 pc, and they are morphologically similar to the results of \"cloud-crushing\" simulations. We estimate the cloud-crushing time-scales of $\\sim$0.5-3 Myr, depending on assumptions. We show this time scale is consistent with a picture in which these observed PAH clouds survived break-out from the disk rather than being destroyed by the hot wind. The PAH emission in both the midplane and the outflow is shown to tightly correlate with that of Pa$α$ emission (from HST/NICMOS data), at the scale of both plumes and clouds, though the ratio of PAH-to-Pa$α$ increases at further distances from the midplane. Finally, we show that the outflow PAH emission is suppressed in regions of the M82 wind that are bright in X-ray emission. Overall, our results are broadly consistent with a picture in which cold gas in galactic outflows is launched via hierarchically structured plumes, and those small scale clouds are more likely to survive the wind environment when collected into the larger plume structure.",
+  "authors": [
+   "Deanne B. Fisher",
+   "Alberto D. Bolatto",
+   "John Chisholm",
+   "Drummond Fielding",
+   "Rebecca C. Levy",
+   "Elizabeth Tarantino",
+   "Martha L. Boyer",
+   "Serena A. Cronin",
+   "Laura A. Lopez",
+   "J. D. Smith",
+   "Danielle A. Berg",
+   "Sebastian Lopez",
+   "Sylvain Veilleux",
+   "Paul P. van der Werf",
+   "Torsten Böker",
+   "Leindert A. Boogaard",
+   "Laura Lenkić",
+   "Simon C. O. Glover",
+   "Vicente Villanueva",
+   "Divakara Mayya",
+   "Thomas S. -Y. Lai",
+   "Daniel A. Dale",
+   "Kimberly L. Emig",
+   "Fabian Walter",
+   "Monica Relaño",
+   "Ilse De Looze",
+   "Elisabeth A. C. Mills",
+   "Adam K. Leroy",
+   "David S. Meier",
+   "Rodrigo Herrera-Camus",
+   "Ralf S. Klessen"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "Submitted to MNRAS",
+  "first_author": "Deanne B. Fisher",
+  "pdf_url": "http://arxiv.org/pdf/2405.03686",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-05-06",
+  "tags": [],
+  "title": "JWST Observations of Starbursts: Cold Clouds and Plumes Launching in the M82 Outflow",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2024-05-06"
  },
  "2405.03848": {
   "abstract": "As more distributed energy resources become part of the demand-side infrastructure, it is important to quantify the energy flexibility they provide on a community scale, particularly to understand the impact of geographic, climatic, and occupant behavioral differences on their effectiveness, as well as identify the best control strategies to accelerate their real-world adoption. CityLearn provides an environment for benchmarking simple and advanced distributed energy resource control algorithms including rule-based, model-predictive, and reinforcement learning control. CityLearn v2 presented here extends CityLearn v1 by providing a simulation environment that leverages the End-Use Load Profiles for the U.S. Building Stock dataset to create virtual grid-interactive communities for resilient, multi-agent distributed energy resources and objective control with dynamic occupant feedback. This work details the v2 environment design and provides application examples that utilize reinforcement learning to manage battery energy storage system charging/discharging cycles, vehicle-to-grid control, and thermal comfort during heat pump power modulation.",
@@ -290,6 +470,30 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2024-05-10"
+ },
+ "2405.06861": {
+  "abstract": "The discovery of the quantum spin Hall effect led to the exploration of the electronic transport for spintronic devices. Here, we theoretically investigated the electronic conductance in large-gap realistic quantum spin Hall system, Pt$_2$HgSe$_3$ nanoribbons. By an ab initio approach, we found that the edge states present a penetration depth of about $0.9$\\,{nm}, which is much smaller than those predicted in other 2D topological systems. Thus, suggesting that Pt$_2$HgSe$_3$ allows the exploitation of topological transport properties in narrow ribbons. Using non-equilibrium Green's functions calculations, we have examined the electron conductivity upon the presence of Se\\,$\\leftrightarrow$\\,Hg antistructure defects randomly distributed in the Pt$_2$HgSe$_3$ scattering region. By considering scattering lengths up to $109$\\,nm, we found localization lengths that can surpass $μ$m sizes for narrow nanoribbons ($<9$\\,nm). These findings can contribute to further understanding the behavior of topological insulators under realistic conditions and their integration within electronic, spintronic devices.",
+  "authors": [
+   "Rafael L. H. Freire",
+   "F. Crasto de Lima",
+   "Roberto H. Miwa",
+   "A. Fazzio"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rafael L. H. Freire",
+  "pdf_url": "http://arxiv.org/pdf/2405.06861",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2024-05-11",
+  "tags": [],
+  "title": "Exploring Topological Transport in Pt$_2$HgSe$_3$ Nanoribbons: Insights for Spintronic Device Integration",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-05-11"
  },
  "2405.07370": {
   "abstract": "A crucial aspect in the simulation of electrochemical interfaces consists in treating the distribution of electronic charge of electrode materials that are put in contact with an electrolyte solution. Recently, it has been shown how a machine-learning method that specifically targets the electronic charge density, also known as SALTED, can be used to predict the long-range response of metal electrodes in model electrochemical cells. In this work, we provide a full integration of SALTED with MetalWalls, a program for performing classical simulations of electrochemical systems. We do so by deriving a spherical harmonics extension of the Ewald summation method, which allows us to efficiently compute the electric field originated by the predicted electrode charge distribution. We show how to use this method to drive the molecular dynamics of an aqueous electrolyte solution under the quantum electric field of a gold electrode, which is matched to the accuracy of density-functional theory. Notably, we find that the resulting atomic forces present a small error of the order of 1 meV/Å, demonstrating the great effectiveness of adopting an electron-density path in predicting the electrostatics of the system. Upon running the data-driven dynamics over about 3 ns, we observe qualitative differences in the interfacial distribution of the electrolyte with respect to the results of a classical simulation. By greatly accelerating quantum-mechanics/molecular-mechanics approaches applied to electrochemical systems, our method opens the door to nanoseconds timescales in the accurate atomistic description of the electrical double layer.",
@@ -467,6 +671,32 @@
    "Computational Fluid Dynamics & Multiphase Flow"
   ],
   "updated": "2024-05-22"
+ },
+ "2405.14634": {
+  "abstract": "We discuss the short-time behavior of the majority vote dynamics on scale-free networks at the critical threshold. We introduce a heterogeneous mean-field theory on the critical short-time behavior of the majority-vote model on scale-free networks. In addition, we also compare the heterogeneous mean-field predictions with extensive Monte Carlo simulations of the short-time dependencies of the order parameter and the susceptibility. We obtained a closed expression for the dynamical exponent $z$ and the time correlation exponent $ν_\\parallel$. Short-time scaling is compatible with a non-universal critical behavior for $5/2 < γ< 7/2$, and for $γ\\geq 7/2$, we have the mean-field Ising criticality with additional logarithmic corrections for $γ=7/2$, in the same way as the stationary scaling.",
+  "authors": [
+   "D. S. M. Alencar",
+   "J. F. S. Neto",
+   "T. F. A. Alves",
+   "F. W. S. Lima",
+   "R. S. Ferreira",
+   "G. A. Alves",
+   "A. Macedo-Filho"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "10 pages, 3 figures, 24 references",
+  "first_author": "D. S. M. Alencar",
+  "pdf_url": "http://arxiv.org/pdf/2405.14634",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-05-23",
+  "tags": [],
+  "title": "Critical Short-Time Behavior of Majority-Vote Model on Scale-Free Networks",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-05-23"
  },
  "2405.16608": {
   "abstract": "Crystallization processes at the mesoscopic scale, where faceted, dendritic growth, and multigrain formation can be observed, are of particular interest within materials science and metallurgy. These processes are highly nonlinear, stochastic, and sensitive to small perturbations of system parameters and initial conditions. Methods for the simulation of these processes have been developed using discrete numerical models, but these are computationally expensive. This work aims to scale crystal growth simulation with a machine learning emulator. Specifically, autoregressive latent variable models are well suited for modeling the joint distribution over system parameters and the crystallization trajectories. However, successfully training such models is challenging due to the stochasticity and sensitivity of the system. Existing approaches consequently fail to produce diverse and faithful crystallization trajectories. In this paper, we introduce the Crystal Growth Neural Emulator (CGNE), a probabilistic model for efficient crystal growth emulation at the mesoscopic scale that overcomes these challenges. We validate CGNE results using the morphological properties of the crystals produced by numerical simulation. CGNE delivers a factor of 11 improvement in inference time and performance gains compared with recent state-of-the-art probabilistic models for dynamical systems.",

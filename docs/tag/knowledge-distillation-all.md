@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>knowledge-distillation — all</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="knowledge-distillation-7d.html">7d</a> <a href="knowledge-distillation-30d.html">30d</a> <a href="knowledge-distillation-90d.html">90d</a> <a href="knowledge-distillation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,5 +422,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03173.html">Multi-Task Multi-Scale Contrastive Knowledge Distillation for Efficient Medical Image Segmentation</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a></div></td>
 <td>Risab Biswas</td>
 <td><a href="http://arxiv.org/abs/2406.03173">2406.03173</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.09811.html">Adapting OC20-trained EquiformerV2 Models for High-Entropy Materials</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Christian M. Clausen et al.</td>
+<td><a href="http://arxiv.org/abs/2403.09811">2403.09811</a></td>
 </tr>
 </tbody></table>

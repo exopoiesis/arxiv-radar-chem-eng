@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-06._
+_Updated 2026-05-08._
 
-**1083** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1306** ChemE-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -106,9 +106,27 @@ _Updated 2026-05-06._
 </tr>
 <tr class="paper">
 <td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
+<td>Yifan Song et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25610.html">Optimizing ground state preparation protocols with autoresearch</a></div></td>
+<td>Luis Mantilla Calderón et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25610">2604.25610</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25701.html">Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Johannes Harth-Kitzerow et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25701">2604.25701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25884.html">QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding</a></div></td>
+<td>Shuxiang Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25884">2604.25884</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-28</td>
@@ -130,6 +148,12 @@ _Updated 2026-05-06._
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.24607.html">Errors that matter: Uncertainty-aware universal machine-learning potentials calibrated on experiments</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Matthias Kellner et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24607">2604.24607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.24911.html">Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a></div></td>
 <td>Matthew Marsh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24911">2604.24911</a></td>
@@ -139,6 +163,12 @@ _Updated 2026-05-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2602.15739.html">Hierarchical Decomposition of Separable Workflow-Nets</a></div><div class="paper-tags"><a href="tag/process-modeling-30d.html">process-modeling</a></div></td>
 <td>Humam Kourani et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15739">2602.15739</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2602.22957.html">BPS lumps in the Nonminimal $CP^1$ Maxwell-Chern-Simons Model</a></div></td>
+<td>I. B. Cunha et al.</td>
+<td><a href="http://arxiv.org/abs/2602.22957">2602.22957</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-24</td>
@@ -160,38 +190,8 @@ _Updated 2026-05-06._
 </tr>
 <tr class="paper">
 <td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Srinivasan T. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.20175.html">Physics-Enhanced Deep Learning for Proactive Thermal Runaway Forecasting in Li-Ion Batteries</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
-<td>Salman Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20175">2604.20175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2407.05102.html">Towards Auto-Building of Embedded FPGA-based Soft Sensors for Wastewater Flow Estimation</a></div><div class="paper-tags"><a href="tag/soft-sensors-30d.html">soft-sensors</a></div></td>
-<td>Tianheng Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05102">2407.05102</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.19175.html">Digital twin-based hybrid framework for steam generator clogging prognostics</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Edgar Jaber et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19175">2604.19175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.19223.html">Deep-Learning based surrogate models for plasma exhaust simulations -- SOLPS-NN</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="tag/transfer-learning-30d.html">transfer-learning</a></div></td>
-<td>Stefan Dasbach et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19223">2604.19223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00863.html">Physics-informed neural networks for form-finding of unilateral membrane structures</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Luigi Sibille et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00863">2605.00863</a></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.22107.html">A Hybrid Reinforcement and Self-Supervised Learning Aided Benders Decomposition Algorithm</a></div></td>
+<td>Bernard T. Agyeman et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22107">2604.22107</a></td>
 </tr>
 </tbody></table>

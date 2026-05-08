@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-models — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="generative-models-7d.html">7d</a> <a href="generative-models-30d.html">30d</a> <a href="generative-models-90d.html">90d</a> <strong>360d</strong> <a href="generative-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Seunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13520.html">LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12607.html">Hierarchical generative modeling for the design of multi-component systems</a></div><div class="paper-tags"><a href="active-sites-360d.html">active-sites</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Rhyan Barrett et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12607">2604.12607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04849.html">El Agente Estructural: An Artificially Intelligent Molecular Editor</a></div></td>
+<td>Changhyeok Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2602.04849">2602.04849</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-19</td>
@@ -76,10 +88,22 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2511.16207">2511.16207</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14155.html">Supervised and Unsupervised Deep Learning Applied to the Majority Vote Model</a></div></td>
+<td>J. F. Silva Neto et al.</td>
+<td><a href="http://arxiv.org/abs/2509.14155">2509.14155</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.09253.html">The generative quantum eigensolver (GQE) and its application for ground state search</a></div></td>
+<td>Kouhei Nakaji et al.</td>
+<td><a href="http://arxiv.org/abs/2401.09253">2401.09253</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-29</td>
@@ -94,6 +118,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2509.25538">2509.25538</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13791.html">Scalable Autoregressive 3D Molecule Generation</a></div></td>
+<td>Austin H. Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2505.13791">2505.13791</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03278.html">Artificial Intelligence and Generative Models for Materials Discovery -- A Review</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Albertus Denny Handoko et al.</td>
@@ -106,15 +136,15 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2410.11226">2410.11226</a></td>
 </tr>
 <tr class="paper">
+<td>2025-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02819.html">Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts</a></div></td>
+<td>Marta Skreta et al.</td>
+<td><a href="http://arxiv.org/abs/2503.02819">2503.02819</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07442.html">DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07442">2505.07442</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-models — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="generative-models-7d.html">7d</a> <a href="generative-models-30d.html">30d</a> <strong>90d</strong> <a href="generative-models-360d.html">360d</a> <a href="generative-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
+<td>Seunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13520.html">LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12607.html">Hierarchical generative modeling for the design of multi-component systems</a></div><div class="paper-tags"><a href="active-sites-90d.html">active-sites</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Rhyan Barrett et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12607">2604.12607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04849.html">El Agente Estructural: An Artificially Intelligent Molecular Editor</a></div></td>
+<td>Changhyeok Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2602.04849">2602.04849</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-19</td>

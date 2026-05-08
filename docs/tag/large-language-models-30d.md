@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>large-language-models — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <strong>30d</strong> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="process-design-30d.html">process-design</a></div></td>
 <td>Karim K. Ben Hicham et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14609.html">El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation</a></div></td>
+<td>Zijian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.14609">2604.14609</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-13</td>

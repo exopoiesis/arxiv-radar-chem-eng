@@ -1,4 +1,34 @@
 {
+ "2401.09268": {
+  "abstract": "Simulating chemical systems is highly sought after and computationally challenging, as the number of degrees of freedom increases exponentially with the size of the system. Quantum computers have been proposed as a computational means to overcome this bottleneck , thanks to their capability of representing this amount of information efficiently. Most efforts so far have been centered around determining the ground states of chemical systems. However, hardness results and the lack of theoretical guarantees for efficient heuristics for initial-state generation shed doubt on the feasibility. Here, we propose a heuristically guided approach that is based on inherently efficient routines to solve chemical simulation problems, requiring quantum circuits of size scaling polynomially in relevant system parameters. If a set of assumptions can be satisfied, our approach finds good initial states for dynamics simulation by assembling them in a scattering tree. In particular, we investigate a scattering-based state preparation approach within the context of mergo-association. We discuss a variety of quantities of chemical interest that can be measured after the quantum simulation of a process, e.g., a reaction, following its corresponding initial state preparation.",
+  "authors": [
+   "Philipp Schleich",
+   "Lasse Bjørn Kristensen",
+   "Jorge A. Campos Gonzalez Angulo",
+   "Davide Avagliano",
+   "Mohsen Bagherimehrab",
+   "Abdulrahman Aldossary",
+   "Christoph Gorgulla",
+   "Joe Fitzsimons",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.CC",
+   "physics.chem-ph"
+  ],
+  "comment": "significant update, added section IV; 32 pages, 6 figures",
+  "first_author": "Philipp Schleich",
+  "pdf_url": "http://arxiv.org/pdf/2401.09268",
+  "primary_category": "quant-ph",
+  "published": "2024-01-17",
+  "tags": [],
+  "title": "Chemically Motivated Simulation Problems are Efficiently Solvable by a Quantum Computer",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-04-18"
+ },
  "2408.08577": {
   "abstract": "Nucleic acids such as mRNA have emerged as a promising therapeutic modality with the capability of addressing a wide range of diseases. Lipid nanoparticles (LNPs) as a delivery platform for nucleic acids were used in the COVID-19 vaccines and have received much attention. While modern manufacturing processes which involve rapidly mixing an organic stream containing the lipids with an aqueous stream containing the nucleic acids are conceptually straightforward, detailed understanding of LNP formation and structure is still limited and scale-up can be challenging. Mathematical and computational methods are a promising avenue for deepening scientific understanding of the LNP formation process and facilitating improved process development and control. This article describes strategies for the mechanistic modeling of LNP formation, starting with strategies to estimate and predict important physicochemical properties of the various species such as diffusivities and solubilities. Subsequently, a framework is outlined for constructing mechanistic models of reactor- and particle-scale processes. Insights gained from the various models are mapped back to product quality attributes and process insights. Lastly, the use of the models to guide development of advanced process control and optimization strategies is discussed.",
   "authors": [
@@ -567,6 +597,61 @@
   ],
   "updated": "2025-04-09"
  },
+ "2504.06802": {
+  "abstract": "Hot cores represent critical astrophysical environments for high-mass star formation, distinguished by their rich spectra of organic molecular emission lines. We aim to utilize high-angular resolution molecular line data from ALMA to identify hot cores, with a particular focus on weak-emission candidates, and to provide one of the largest samples of hot core candidates. We propose to use spectral stacking and imaging techniques of complex organic molecules (COMs) in the ALMA-ATOMS survey, including line identification & weights, segmentation of line datacubes, resampling, stacking and normalization, moment 0 maps, and data analysis, to search for hot core candidates. We classify cores with dense emission of CH3OH and at least one molecule from the other six molecules as hot core candidates. In addition to the existing sample of 60 strong hot cores from the ALMA-ATOMS survey, we have detected 40 new weak candidates through stacking. All hot core candidates display compact emission from at least one of the other six COM species. For the strong sample, the stacking method provides molecular column density estimates that are consistent with previous fitting results. For the newly identified weak candidates, all species except CH3CHO show compact emission in the stacked image, which cannot be fully resolved spatially. These weak candidates exhibit column densities of COMs that are approximately one order of magnitude lower than those of the strong sample. The entire hot core sample, including the weak candidates, reveals tight correlations between the compact emission of CH3OH and other COM species, suggesting they may share a similar chemical environment for COMs, with CH3OH potentially acting as a precursor for other COMs. The molecular line stacking technique is used to identify hot core candidates in this work, leading to the identification of 40 new hot core candidates.",
+  "authors": [
+   "Zi-Yang Li",
+   "Xunchuan Liu",
+   "Tie Liu",
+   "Sheng-Li Qin",
+   "Paul F. Goldsmith",
+   "Pablo García",
+   "Yaping Peng",
+   "Li Chen",
+   "Yunfan Jiao",
+   "Zhiping Kou",
+   "Chuanshou Li",
+   "Jiahang Zou",
+   "Mengyao Tang",
+   "Shanghuo Li",
+   "Meizhu Liu",
+   "Guido Garay",
+   "Fengwei Xu",
+   "Wenyu Jiao",
+   "Qiu-Yi Luo",
+   "Suinan Zhang",
+   "Qi-Lao Gu",
+   "Xiaofeng Mai",
+   "Yan-Kun Zhang",
+   "Jixiang Weng",
+   "Chang Won Lee",
+   "Patricio Sanhueza",
+   "Sami Dib",
+   "Swagat R. Das",
+   "Xindi Tang",
+   "Leonardo Bronfman",
+   "Prasanta Gorai",
+   "Ken'ichi Tatematsu",
+   "Hong-Li Liu",
+   "Dongting Yang",
+   "Zhenying Zhang",
+   "Xianjin Shen"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": null,
+  "first_author": "Zi-Yang Li",
+  "pdf_url": "http://arxiv.org/pdf/2504.06802",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-04-09",
+  "tags": [],
+  "title": "The ALMA-ATOMS survey: A sample of weak hot core candidates identified through line stacking",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2025-04-09"
+ },
  "2504.06818": {
   "abstract": "Shipboard carbon capture is a promising solution to help reduce carbon emissions in international shipping. In this work, we propose a data-driven dynamic modeling and economic predictive control approach within the Koopman framework. This integrated modeling and control approach is used to achieve safe and energy-efficient process operation of shipboard post-combustion carbon capture plants. Specifically, we propose a deep neural Koopman operator modeling approach, based on which a Koopman model with time-varying model parameters is established. This Koopman model predicts the overall economic operational cost and key system outputs, based on accessible partial state measurements. By leveraging this learned model, a constrained economic predictive control scheme is developed. Despite time-varying parameters involved in the formulated model, the formulated optimization problem associated with the economic predictive control design is convex, and it can be solved efficiently during online control implementations. Extensive tests are conducted on a high-fidelity simulation environment for shipboard post-combustion carbon capture processes. Four ship operational conditions are taken into account. The results show that the proposed method significantly improves the overall economic operational performance and carbon capture rate. Additionally, the proposed method guarantees safe operation by ensuring that hard constraints on the system outputs are satisfied.",
   "authors": [
@@ -698,6 +783,43 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-04-08"
+ },
+ "2504.08976": {
+  "abstract": "Recent spectroscopic observations of the [C II] 158$\\,\\mathrm{μm}$ fine-structure line of ionized carbon (C$^+$), using the Stratospheric Observatory for Infrared Astronomy (SOFIA), have revealed expanding [C II] shells in Galactic H II regions. We report the discovery of a bubble-shaped source (S144 in RCW79), associated with a compact H II region, excited by a single O7.5--9.5V/III star, which is consistent with a scenario that the bubble is still mostly ``filled'' with C$^+$. This indicates most likely a very early evolutionary state, in which the stellar wind has not yet blown material away, as it is the case for more evolved H II regions. Using the SimLine non-LTE radiative transfer code, the [C II] emission can be modeled to originate from three regions. First, a central H II region with little C$^+$ in the fully ionized phase, followed by two layers with gas density around $2500\\,\\mathrm{cm^{-3}}$ of partially photo-dissociated gas. The second layer is a slowly expanding [C II] shell with an expansion velocity of $\\sim\\,$$2.6\\,\\mathrm{km\\,s^{-1}}$. The outermost layer exhibits a temperature and velocity gradient that produces the observed self-absorption features in the optically thick [C II] line ($τ\\sim 4$) leading to an apparent deficit in [C II] emission and a low ratio of [C II] to total far-infrared (FIR) emission. We developed a procedure to approximate the missing [C II] flux and find a linear correlation between [C II] and FIR without a [C II]-deficit. This demonstrates that at least some of the [C II]-deficit found in Galactic H II bubbles can be attributed to self-absorption.",
+  "authors": [
+   "Eduard Keilmann",
+   "Simon Dannhauer",
+   "Slawa Kabanovic",
+   "Nicola Schneider",
+   "Volker Ossenkopf-Okada",
+   "Robert Simon",
+   "Lars Bonne",
+   "Paul F. Goldsmith",
+   "Rolf Güsten",
+   "Annie Zavagno",
+   "Jürgen Stutzki",
+   "Dominik Riechers",
+   "Markus Röllig",
+   "Juan L. Verbena",
+   "Alexander G. G. M. Tielens"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.HE",
+   "astro-ph.IM",
+   "hep-ph"
+  ],
+  "comment": null,
+  "first_author": "Eduard Keilmann",
+  "pdf_url": "http://arxiv.org/pdf/2504.08976",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-04-11",
+  "tags": [],
+  "title": "[C II]-deficit caused by self-absorption in an ionized carbon-filled bubble in RCW79",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2025-04-28"
  },
  "2504.10913": {
   "abstract": "A large-scale, general-purpose data assimilation (DA) platform for materials modeling, douka, was developed and applied to nonlinear materials models. The platform demonstrated its effectiveness in estimating physical properties that cannot be directly obtained from observed data. DA was successfully performed using experimental images of oxygen evolution reaction at a water electrolysis electrode, enabling the estimation of oxygen gas injection velocity and bubble contact angle. Furthermore, large-scale ensemble DA was conducted on the supercomputer Fugaku, achieving state estimation with up to 8,192 ensemble members. The results confirmed that runtime scaling for the prediction step follows the weak scaling law, ensuring computational efficiency even with increased ensemble sizes. These findings highlight the potential of douka as a new approach for data-driven materials science, integrating experimental data with numerical simulation.",
@@ -939,6 +1061,27 @@
   ],
   "updated": "2025-04-22"
  },
+ "2504.16004": {
+  "abstract": "Classical simulation of quantum circuits is a pivotal part of the quantum computing landscape, specially within the NISQ era, where the constraints imposed by available hardware are unavoidable. The Gottesman-Knill theorem further motivates this argument by accentuating the importance of Clifford circuits and their role on this topic of simulation. In this work, we propose and analyze use cases that come from quantum circuits that can be written as product between a Clifford and a Non-Clifford unitary, these ranging from fully classical emulation, hybrid quantum-classical execution or even quantum algorithm simplification. To further complement this analysis, we make use of ZX-Calculus and its assets to detect a limiting border of these circuits that would allow for a separation between a Clifford section and a Non-Clifford section. To achieve this, we present a novel procedure for parsing ZX diagrams, that not only allows for the detection of this border but also simplifies the circuit extraction process.",
+  "authors": [
+   "Fernando Lima",
+   "Arcesio Castañeda Medina"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Fernando Lima",
+  "pdf_url": "http://arxiv.org/pdf/2504.16004",
+  "primary_category": "quant-ph",
+  "published": "2025-04-22",
+  "tags": [],
+  "title": "Clifford and Non-Clifford Splitting in Quantum Circuits: Applications and ZX-Calculus Detection Procedure",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2025-04-22"
+ },
  "2504.16493": {
   "abstract": "The conversion of $\\mathrm{CO_2}$ into useful products such as methanol is a key strategy for abating climate change and our dependence on fossil fuels. Developing new catalysts for this process is costly and time-consuming and can thus benefit from computational exploration of possible active sites. However, this is complicated by the complexity of the materials and reaction networks. Here, we present a workflow for exploring transition states of elementary reaction steps at inverse catalysts, which is based on the training of a neural network-based machine learning interatomic potential. We focus on the crucial formate intermediate and its formation over nanoclusters of indium oxide supported on Cu(111). The speedup compared to an approach purely based on density functional theory allows us to probe a wide variety of active sites found at nanoclusters of different sizes and stoichiometries. Analysis of the obtained set of transition state geometries reveals different structure--activity trends at the edge or interior of the nanoclusters. Furthermore, the identified geometries allow for the breaking of linear scaling relations, which could be a key underlying reason for the excellent catalytic performance of inverse catalysts observed in experiments.",
   "authors": [
@@ -996,6 +1139,29 @@
   ],
   "updated": "2025-04-23"
  },
+ "2504.17438": {
+  "abstract": "This paper investigates advanced storage models for evolving graphs, focusing on the efficient management of historical data and the optimization of global query performance. Evolving graphs, which represent dynamic relationships between entities over time, present unique challenges in preserving their complete history while supporting complex analytical queries. We first do a fast review of the current state of the art focusing mainly on distributed historical graph databases to provide the context of our proposals. We investigate the im- plementation of an enhanced vertex-centric storage model in MongoDB that prioritizes space efficiency by leveraging in-database query mechanisms to minimize redundant data and reduce storage costs. To ensure broad applicability, we employ datasets, some of which are generated with the LDBC SNB generator, appropriately post-processed to utilize both snapshot- and interval-based representations. Our experimental results both in centralized and distributed infrastructures, demonstrate significant improvements in query performance, particularly for resource-intensive global queries that traditionally suffer from inefficiencies in entity-centric frameworks. The proposed model achieves these gains by optimizing memory usage, reducing client involvement, and exploiting the computational capabilities of MongoDB. By addressing key bottlenecks in the storage and processing of evolving graphs, this study demonstrates a step toward a robust and scalable framework for managing dynamic graph data. This work contributes to the growing field of temporal graph analytics by enabling more efficient ex- ploration of historical data and facilitating real-time insights into the evolution of complex networks.",
+  "authors": [
+   "Alexandros Spitalas",
+   "Anastasios Gounaris",
+   "Andreas Kosmatopoulos",
+   "Kostas Tsichlas"
+  ],
+  "categories": [
+   "cs.DB"
+  ],
+  "comment": null,
+  "first_author": "Alexandros Spitalas",
+  "pdf_url": "http://arxiv.org/pdf/2504.17438",
+  "primary_category": "cs.DB",
+  "published": "2025-04-24",
+  "tags": [],
+  "title": "Storing and Querying Evolving Graphs in NoSQL Storage Models",
+  "topics": [
+   "via:author-whitelist:robust optimization, scheduling"
+  ],
+  "updated": "2025-04-24"
+ },
  "2504.17896": {
   "abstract": "In this study, fluid flow and concentration distribution inside a 3D T-shaped micromixer with various fin shapes and configurations are investigated using a Flexible Physics-Informed Neural Network (FlexPINN), which includes modifications over the vanilla PINN architecture. Three types of fins (rectangular, elliptical, and triangular) are considered to evaluate the influence of fin geometry, along with four different fin configurations inside the 3D channel to examine the effect of placement. The simulations are conducted at four Reynolds numbers: 5, 20, 40, and 80, in both single-unit (four fins) and double-unit (eight fins) configurations. The goal is to assess pressure drop coefficient, mixing index, and mixing efficiency using the FlexPINN method. Given the challenges in simulating 3D problems with standard PINN, several improvements are introduced. The governing equations are injected into the network as first-order, dimensionless derivatives to enhance accuracy. Transfer learning is used to reduce computational cost, and adaptive loss weighting is applied to improve convergence compared to the vanilla PINN approach. These modifications enable a consistent and flexible architecture that can be used across numerous tested cases. Using the proposed FlexPINN method, the pressure drop coefficient and mixing index are predicted with maximum errors of 3.25% and 2.86%, respectively, compared to Computational Fluid Dynamics (CFD) results. Among all the tested cases, the rectangular fin with configuration C in the double-unit setup at Reynolds number 40 shows the highest mixing efficiency, reaching a value of 1.63. The FlexPINN framework demonstrates strong capabilities in simulating fluid flow and species transport in complex 3D geometries.",
   "authors": [
@@ -1048,6 +1214,63 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-04-25"
+ },
+ "2504.20059": {
+  "abstract": "Clinical trials are crucial for assessing new treatments; however, recruitment challenges - such as limited awareness, complex eligibility criteria, and referral barriers - hinder their success. With the growth of online platforms, patients increasingly turn to social media and health communities for support, research, and advocacy, expanding recruitment pools and established enrollment pathways. Recognizing this potential, we utilized TrialGPT, a framework that leverages a large language model (LLM) as its backbone, to match 50 online patient cases (collected from published case reports and a social media website) to clinical trials and evaluate performance against traditional keyword-based searches. Our results show that TrialGPT outperforms traditional methods by 46% in identifying eligible trials, with each patient, on average, being eligible for around 7 trials. Additionally, our outreach efforts to case authors and trial organizers regarding these patient-trial matches yielded highly positive feedback, which we present from both perspectives.",
+  "authors": [
+   "Joey Chan",
+   "Qiao Jin",
+   "Nicholas Wan",
+   "Charalampos S. Floudas",
+   "Elisabetta Xue",
+   "Zhiyong Lu"
+  ],
+  "categories": [
+   "cs.IR",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": "10 pages with 2 figures and 2 tables",
+  "first_author": "Joey Chan",
+  "pdf_url": "http://arxiv.org/pdf/2504.20059",
+  "primary_category": "cs.IR",
+  "published": "2025-04-15",
+  "tags": [
+   "large-language-models"
+  ],
+  "title": "Recommending Clinical Trials for Online Patient Cases using Artificial Intelligence",
+  "topics": [
+   "via:author-whitelist:global optimization, PSE"
+  ],
+  "updated": "2025-04-15"
+ },
+ "2504.20164": {
+  "abstract": "We report JWST MIRI/MRS observations of the H2 S(1) 17.04 micron transition in two regions in the boundary of the Taurus Molecular Cloud. The two regions, denoted Edge (near the relatively sharp boundary of the 13CO J=1-0 emission) and Peak (the location of the strongest H2 emission observed with Spitzer), have average intensities of 14.5 MJy/sr and 32.1 MJy/sr, respectively. We find small scale structures of characteristic size 1.0 to 2.5 arcseconds, corresponding to 140 AU to 350 AU, with characteristic intensity above the extended background of 10 MJy/sr, corresponding to a J = 3 column density of 1.6x1017/cm2. The most plausible explanation for the observed intensities from level 845 K above the J = 1 ortho-H2 ground state level is excitation by collisions with H2 molecules (the hydrogen in this region being predominantly molecular). Two mechanisms, turbulent dissipation and shocks, have been proposed for heating of localized regions of the ISM to temperatures ~1000 K to explain abundances of and emission from particular molecules. While we cannot determine unique values of density and kinetic temperature, the solutions in best agreement with predictions of shock models are H2 density = 370 /cm3 and kinetic temperature = 1000 K. The total H2 column density of the small-scale structures under these conditions is ~8x1017/cm2. This first direct detection of heated tiny scale structure in the quiescent molecular interstellar medium has significant implications for the physical structure of this phase of the ISM and maintaining supersonic motions within it.",
+  "authors": [
+   "Paul F. Goldsmith",
+   "Shengzhe Wang",
+   "Xin Wang",
+   "Raphael Skalidis",
+   "Gary A. Fuller",
+   "Di Li",
+   "Chao-Weo Tsai",
+   "Lile Wang",
+   "Donghui Quan"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "22 pages, 10 figures",
+  "first_author": "Paul F. Goldsmith",
+  "pdf_url": "http://arxiv.org/pdf/2504.20164",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-04-28",
+  "tags": [],
+  "title": "The H2 Glow of a Quiescent Molecular Cloud Observed with JWST",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2025-04-28"
  },
  "2506.17224": {
   "abstract": "Hydrogen's role is growing as an energy carrier, increasing the need for efficient production, with methane steam reforming being the most widely used technique. This process is crucial for applications like fuel cells, where hydrogen is converted into electricity, pushing for reactor miniaturization and optimized process control through numerical simulations. Existing models typically address either kinetic or equilibrium regimes, limiting their applicability. Here we show a surrogate model capable of unifying both regimes. An artificial neural network trained on a comprehensive dataset that includes experimental data from kinetic and equilibrium experiments, interpolated data, and theoretical data derived from theoretical models for each regime. Data augmentation and assigning appropriate weights to each data type enhanced training. After evaluating Bayesian Optimization and Random Sampling, the optimal model demonstrated high predictive accuracy for the composition of the post-reaction mixture under varying operating parameters, indicated by a mean squared error of 0.000498 and strong Pearson correlation coefficients of 0.927. The network's ability to provide continuous derivatives of its predictions makes it particularly useful for process modeling and optimization. The results confirm the surrogate model's robustness for simulating methane steam reforming in both kinetic and equilibrium regimes, making it a valuable tool for design and process optimization.",

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption-energy — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,6 +110,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03162.html">The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="dft-360d.html">dft</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Anuroop Sriram et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03162">2508.03162</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-28</td>

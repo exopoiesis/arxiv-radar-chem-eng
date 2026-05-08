@@ -1,0 +1,102 @@
+{
+ "2401.04322": {
+  "abstract": "Only a handful of massive starless core candidates have been discovered so far, but none of them have been fully confirmed. Within the MM1 clump in the filamentary infrared dark cloud G34.43+0.24 that was covered by the ALMA-ATOMS survey at Band 3 ($\\sim2\\arcsec$, 6000\\,au) and the ALMA-QUARKS survey at Band 6 ($\\sim 0.3\\arcsec$, 900\\,au), two prestellar core candidates MM1-C and E1 with masses of 71 and 20 \\solarmass~and radii of 2100--4400\\,au were discovered. The two cores show no obvious sign of star-formation activities. In particular, MM1-C is a very promising massive prestellar core candidate with a total gas mass of 71\\,\\solarmass. Within MM1-C, we detected two extremely dense substructures, C1 and C2, as characterized by their high densities of $\\rm n_{H_2}\\sim 10^{8-9} cm^{-3}$. Moreover, evidence of further fragmentation in C2 was also revealed. We have detected the primordial fragmentation in the earliest stage of massive star formation, and we speculate that MM1-C would be the birthplace of a massive multiple system. However, we cannot fully rule out the possibility that the massive prestellar core MM1-C will just form a cluster of low-mass stars if it undergoes further fragmentation.",
+  "authors": [
+   "Xiaofeng Mai",
+   "Tie Liu",
+   "Xunchuan Liu",
+   "Lei Zhu",
+   "Guido Garay",
+   "Paul F. Goldsmith",
+   "Mika Juvela",
+   "Hongli Liu",
+   "Emma Mannfors",
+   "Emma Mannfors",
+   "Anandmayee Tej",
+   "Patricio Sanhueza",
+   "Shanghuo Li",
+   "Fengwei Xu",
+   "Enrique Vazquez Semadeni",
+   "Wenyu Jiao",
+   "Yaping Peng",
+   "T. Baug",
+   "Aiyuan Yang",
+   "Lokesh Dewangan",
+   "Leonardo Bronfman",
+   "Gilberto C. Gómez",
+   "Aina Palau",
+   "Chang Won Lee",
+   "Sheng-Li Qin",
+   "Ken'ichi Tatematsu",
+   "James O. Chibueze",
+   "Dongting Yang",
+   "Xing Lu",
+   "Qiuyi Luo",
+   "Qilao Gu",
+   "Namitha Issac",
+   "Suinan Zhang",
+   "Pak-Shing Li",
+   "Bo Zhang",
+   "L. Viktor Tóth"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.SR"
+  ],
+  "comment": "12 pages, 6 figures",
+  "first_author": "Xiaofeng Mai",
+  "pdf_url": "http://arxiv.org/pdf/2401.04322",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-01-09",
+  "tags": [],
+  "title": "The ALMA-QUARKS survey: Detection of two extremely dense substructures in a massive prestellar core",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2024-01-09"
+ },
+ "2401.09960": {
+  "abstract": "Detecting complex patterns in large volumes of event logs has diverse applications in various domains, such as business processes and fraud detection. Existing systems like ELK are commonly used to tackle this challenge, but their performance deteriorates for large patterns, while they suffer from limitations in terms of expressiveness and explanatory capabilities for their responses. In this work, we propose a solution that integrates a Complex Event Processing (CEP) engine into a broader query processsor on top of a decoupled storage infrastructure containing inverted indices of log events. The results demonstrate that our system excels in scalability and robustness, particularly in handling complex queries. Notably, our proposed system delivers responses for large complex patterns within seconds, while ELK experiences timeouts after 10 minutes. It also significantly outperforms solutions relying on FlinkCEP and executing MATCH_RECOGNIZE SQL queries.",
+  "authors": [
+   "Ioannis Mavroudopoulos",
+   "Anastasios Gounaris"
+  ],
+  "categories": [
+   "cs.DB"
+  ],
+  "comment": null,
+  "first_author": "Ioannis Mavroudopoulos",
+  "pdf_url": "http://arxiv.org/pdf/2401.09960",
+  "primary_category": "cs.DB",
+  "published": "2024-01-18",
+  "tags": [],
+  "title": "A Comprehensive Scalable Framework for Cloud-Native Pattern Detection with Enhanced Expressiveness",
+  "topics": [
+   "via:author-whitelist:robust optimization, scheduling"
+  ],
+  "updated": "2024-01-18"
+ },
+ "2401.16014": {
+  "abstract": "In recent years, synthesis and experimental research of fractalized materials has evolved in a paradigmatic crossover with topological phases of matter. We present here a theoretical investigation of the helical edge transport in Sierpinski carpets (SCs), combining the Bernevig-Hughes-Zhang (BHZ) model and the Landauer approach. Starting from a pristine two-dimensional topological insulator (2DTI), according to the BHZ model, our results reveal resonant transport modes when the SC fractal generation reaches the same scale as the space discretization; these modes are analyzed within a contour plot mapping of the local spin-polarized currents, shown spanned and assisted by inner-edge channels. From such a deeply fractalized SC building block, we introduce a rich tapestry formed by superior SC hierarchies, enlightening intricate patterns and unique fingerprints that offer valuable insights into how helical edge transport occurs in these fractal dimensions.",
+  "authors": [
+   "M. A. Toloza Sandoval",
+   "A. L. Araújo",
+   "F. Crasto de Lima",
+   "A. Fazzio"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "M. A. Toloza Sandoval",
+  "pdf_url": "http://arxiv.org/pdf/2401.16014",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-01-29",
+  "tags": [],
+  "title": "Resonant helical multi-edge transport in Sierpiński carpets",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2024-01-29"
+ }
+}

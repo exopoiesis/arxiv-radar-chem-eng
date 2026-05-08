@@ -129,6 +129,31 @@
   ],
   "updated": "2026-02-21"
  },
+ "2505.20651": {
+  "abstract": "As far as we know, there is no flat-histogram algorithm to sample the stationary distribution of non-equilibrium stochastic processes. The present work addresses this gap by introducing a generalization of the Wang-Landau algorithm, applied to non-equilibrium stochastic processes with local transitions. The main idea is to sample macroscopic states using a kinetic Monte Carlo algorithm to generate trial moves, which are accepted or rejected with a probability that depends inversely on the stationary distribution. The stationary distribution is refined through the simulation by a modification factor, leading to convergence toward the true stationary distribution. A visitation histogram is also accumulated, and the modification factor is updated when the histogram satisfies a flatness condition. The stationary distribution is obtained in the limit where the modification factor reaches a threshold value close to unity. To test the algorithm, we compare simulation results for several stochastic processes with theoretically known behavior. In addition, results from the kinetic flat-histogram algorithm are compared with standard exact stochastic simulations. We show that the kinetic flat-histogram algorithm can be applied to phase transitions in stochastic processes with bistability, which describe a wide range of phenomena such as epidemic spreading, population growth, chemical reactions, and consensus formation. With some adaptations, the kinetic flat-histogram algorithm can also be applied to stochastic models on lattices and complex networks.",
+  "authors": [
+   "L. M. C. Alencar",
+   "T. F. A. Alves",
+   "G. A. Alves",
+   "F. W. S. Lima",
+   "A. Macedo-Filho",
+   "R. S. Ferreira"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "10 pages, 13 figures, 90 references",
+  "first_author": "L. M. C. Alencar",
+  "pdf_url": "http://arxiv.org/pdf/2505.20651",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2025-05-27",
+  "tags": [],
+  "title": "Kinetic Flat-Histogram Simulations of Non-Equilibrium Stochastic Processes with Continuous and Discontinuous Phase Transitions",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2026-02-26"
+ },
  "2506.12819": {
   "abstract": "Computationally cheap yet accurate dynamical models are a key requirement for real-time capable nonlinear optimization and model-based control. When given a computationally expensive high-order prediction model, a reduction to a lower-order simplified model can enable such real-time applications. Herein, we review nonlinear model order reduction methods and provide a comparison of method characteristics. Additionally, we discuss both general-purpose methods and tailored approaches for chemical process systems and we identify similarities and differences between these methods. As machine learning manifold-Galerkin approaches currently do not account for inputs in the construction of the reduced state subspace, we extend these methods to dynamical systems with inputs. In a comparative case study, we apply eight established model order reduction methods to an air separation process model: POD-Galerkin, nonlinear-POD-Galerkin, manifold-Galerkin, dynamic mode decomposition, Koopman theory, manifold learning with latent predictor, compartment modeling, and model aggregation. Herein, we do not investigate hyperreduction, i.e., reduction of floating point operations. Based on our findings, we discuss strengths and weaknesses of the model order reduction methods.",
   "authors": [
@@ -240,6 +265,58 @@
   "title": "Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning",
   "topics": [
    "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-02-11"
+ },
+ "2510.01314": {
+  "abstract": "Stellar feedback drives multiphase gas outflows from starburst galaxies, but the interpretation of dust emission in these winds remains uncertain. To investigate this, we analyze new JWST mid-infrared images tracing polycyclic aromatic hydrocarbon (PAH) emission at 7.7 and 11.3~$μ$m from the outflow of the prototypical starburst M82 out to $3.2$ kpc. We find that PAH emission shows significant correlations with CO, H$α$, and X-ray emission within the outflow, though the strengths and behaviors of these correlations vary with gas phase and distance from the starburst. PAH emission correlates strongly with cold molecular gas, with PAH--CO scaling relations in the wind nearly identical to those in galaxy disks despite the very different conditions. The H$α$--PAH correlation indicates that H$α$ traces the surfaces of PAH-bearing clouds, consistent with arising from ionized layers produced by shocks. Meanwhile the PAH--X-ray correlation disappears once distance effects are controlled for past 2~kpc, suggesting that PAHs are decoupled from the hot gas and the global correlation merely reflects the large-scale structure of the outflow. The PAH-to-neutral gas ratio remains nearly flat to 2~kpc, with variations following changes in the radiation field. This implies that the product of PAH abundance and dust-to-gas ratio does not change significantly over the inner portion of the outflow. Together, these results demonstrate that PAHs robustly trace the cold phase of M82's wind, surviving well beyond the starburst and providing a powerful, high-resolution proxy for mapping the life cycle of entrained cold material in galactic outflows.",
+  "authors": [
+   "Sebastian Lopez",
+   "Colton Ring",
+   "Adam K. Leroy",
+   "Serena A. Cronin",
+   "Alberto D. Bolatto",
+   "Laura A. Lopez",
+   "Vicente Villanueva",
+   "Deanne B. Fisher",
+   "Todd A. Thompson",
+   "Grant P. Donnelly",
+   "Lee Armus",
+   "Torsten Boeker",
+   "Leindert A. Boogaard",
+   "Martha L. Boyer",
+   "Ryan Chown",
+   "Daniel A. Dale",
+   "Keaton Donaghue",
+   "Kimberly Emig",
+   "Simon C. O. Glover",
+   "Rodrigo Herrera-Camus",
+   "Ralf S. Klessen",
+   "Thomas S. -Y. Lai",
+   "Laura Lenkic",
+   "Rebecca C. Levy",
+   "David S. Meier",
+   "Elisabeth Mills",
+   "Juergen Ott",
+   "Evan D. Skillman",
+   "J. D. T. Smith",
+   "Elizabeth J. Tarantino",
+   "Sylvain Veilleux",
+   "Fabian Walter",
+   "Paul P. van der Werf"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "15 pages, 7 figures, submitted to ApJ Letters (01 October 2025), accepted for publication ApJ Letters (10 February 2026)",
+  "first_author": "Sebastian Lopez",
+  "pdf_url": "http://arxiv.org/pdf/2510.01314",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-10-01",
+  "tags": [],
+  "title": "JWST Observations of Starbursts: PAHs Closely Trace the Cool Phase of M82's Galactic Wind",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
   ],
   "updated": "2026-02-11"
  },
@@ -406,6 +483,27 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2026-02-01"
+ },
+ "2602.02424": {
+  "abstract": "We develop the theory of translating solitons for the Mean Curvature Flow (MCF) in hyperbolic space of dimension $n+1\\ge 3$. More specifically, we establish that horospheres are dynamically stable as radial graphical solutions to MCF. To that end, we construct rotationally invariant translators analogous to the winglike solitons introduced by Clutterbuck, Schnürer and Schulze, which serve as barriers in an argument based on White's avoidance principle and the strong maximum principle for parabolic PDEs.",
+  "authors": [
+   "Ronaldo F. de Lima",
+   "Álvaro K. Ramos"
+  ],
+  "categories": [
+   "math.DG"
+  ],
+  "comment": "13 pages, 3 figures. Comments are welcome",
+  "first_author": "Ronaldo F. de Lima",
+  "pdf_url": "http://arxiv.org/pdf/2602.02424",
+  "primary_category": "math.DG",
+  "published": "2026-02-02",
+  "tags": [],
+  "title": "Dynamical Stability of Translating Solitons to Mean Curvature Flow in Hyperbolic Space",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2026-02-02"
  },
  "2602.02779": {
   "abstract": "In this study, we investigate the capability of physics-informed neural networks (PINNs) to preserve global physical structures by comparing standard PINNs with a Trefftz-based PINN (Trefftz-PINN). The target problem is the reproduction of mag-netic field-line structures in a helical fusion reactor configuration. Using identical training data sampled from exact solutions, we perform comparisons under matched mean squared error (MSE) levels. Visualization of magnetic field lines reveals that standard PINNs may exhibit structural collapse across magnetic surfaces even when the MSE is sufficiently small, whereas Trefftz-PINNs successfully preserve the global topology of magnetic field lines. Furthermore, the proposed framework is extended to computational fluid dynamics (CFD) problems, where streamline structures of veloc-ity fields are analyzed. Similar tendencies are observed, demonstrating that Trefftz-PINNs provide superior structure preservation compared to standard PINNs. These results indicate that minimizing numerical error alone does not guarantee physical consistency, and that constraining the solution space prior to learning is an effective strategy for physics-consistent surrogate modeling.",
@@ -900,6 +998,64 @@
   ],
   "updated": "2026-02-11"
  },
+ "2602.11617": {
+  "abstract": "We report the discovery of more than 323 superfine dusty filamentary structures (fibrils) inside 121 massive star forming clumps that are located in widely different Galactic environments (Galactocentric distances of $\\sim$0.5-12.7 kpc). These fibrils are identified from the 1.3~mm continuum emission in the ALMA-QUARKS survey, which has a linear resolution of $\\sim900$ AU for a source at $\\sim$3 kpc, using the \\textit{FilFinder} software. Using \\textit{RadFil} software, we find that the typical width of these fibrils is $\\sim$0.01 pc, which is about ten times narrower than that of dusty filaments in nearby clouds identified by the \\textit{Herschel} Space Observatory. The mass ($M$) versus length ($L$) relation for these fibrils follows $M\\propto L^{2}$, similar to that of Galactic filaments identified in space (e.g., \\textit{Herschel}) and ground-based single-dish (e.g., \\textit{APEX}) surveys. However, these fibrils are significantly denser ($\\mathrm{N_{H_2} = 10^{23}-10^{24}\\ cm^{-2}}$) than the filaments found in previous \\textit{Herschel} surveys ($\\mathrm{N_{H_2} = 10^{20}-10^{23}\\ cm^{-2}}$). This work contributes a large sample of superfine fibrils in massive clumps, following the identification of large 0.1-pc wide filaments and associated internal velocity coherent fibers in nearby molecular clouds, further emphasizing the crucial role played by filamentary structures in star formation at various physical scales.",
+  "authors": [
+   "Yan-Kun Zhang",
+   "Tie Liu",
+   "Wenyu Jiao",
+   "Pak-Shing Li",
+   "Jia Zeng",
+   "Chao Zhang",
+   "Pablo García",
+   "Mika Juvela",
+   "Guido Garay",
+   "Amelia M. Stutz",
+   "Sami Dib",
+   "Dezhao Meng",
+   "Jian-Cheng Feng",
+   "Dongting Yang",
+   "Fengwei Xu",
+   "Anandmayee Tej",
+   "Enrique Vázquez-Semadeni",
+   "Gilberto C. Gómez",
+   "Yong Zhang",
+   "Xindi Tang",
+   "Paul F. Goldsmith",
+   "Kee-Tae Kim",
+   "James O. Chibueze",
+   "Zhiyuan Ren",
+   "Patricio Sanhueza",
+   "Aiyuan Yang",
+   "Jihye Hwang",
+   "Shanghuo Li",
+   "Tapas Baug",
+   "Shivani Gupta",
+   "Swagat R. Das",
+   "Gang Wu",
+   "Jianjun Zhou",
+   "Chang Won Lee",
+   "Lokesh Dewangan",
+   "Prasanta Gorai",
+   "Tianning Lyu",
+   "Lei Zhu"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.SR"
+  ],
+  "comment": "Submitted to ApJL",
+  "first_author": "Yan-Kun Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2602.11617",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-02-12",
+  "tags": [],
+  "title": "The ALMA-QUARKS Survey: Discovery of Dusty Fibrils inside Massive Star-forming Clumps",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2026-02-12"
+ },
  "2602.11626": {
   "abstract": "Learning solution operators for systems with complex, varying geometries and parametric physical settings is a central challenge in scientific machine learning. In many-query regimes such as design optimization, control and inverse problems, surrogate modeling must generalize across geometries while allowing flexible evaluation at arbitrary spatial locations. In this work, we propose Arbitrary Geometry-encoded Transformer (ArGEnT), a geometry-aware attention-based architecture for operator learning on arbitrary domains. ArGEnT employs Transformer attention mechanisms to encode geometric information directly from point-cloud representations with three variants-self-attention, cross-attention, and hybrid-attention-that incorporates different strategies for incorporating geometric features. By integrating ArGEnT into DeepONet as the trunk network, we develop a surrogate modeling framework capable of learning operator mappings that depend on both geometric and non-geometric inputs without the need to explicitly parametrize geometry as a branch network input. Evaluation on benchmark problems spanning fluid dynamics, solid mechanics and electrochemical systems, we demonstrate significantly improved prediction accuracy and generalization performance compared with the standard DeepONet and other existing geometry-aware saurrogates. In particular, the cross-attention transformer variant enables accurate geometry-conditioned predictions with reduced reliance on signed distance functions. By combining flexible geometry encoding with operator-learning capabilities, ArGEnT provides a scalable surrogate modeling framework for optimization, uncertainty quantification, and data-driven modeling of complex physical systems.",
   "authors": [
@@ -1209,6 +1365,77 @@
   ],
   "updated": "2026-02-18"
  },
+ "2602.17886": {
+  "abstract": "Quantum chemistry calculations are a key component of the materials discovery process. The results from first-principles explorations enable the prediction of material properties prior to experimental validation. Despite their impact, the practical use of first-principles methods remains limited by the expertise required to design, execute, and troubleshoot complex computational workflows. Even when workflows are successfully built, they are sometimes rigid and not adaptable to different use cases. Recent advances in large language models (LLMs) and agentic systems offer a pathway to flexibly automate these processes and lower barriers to entry. Here, we introduce El Agente Sólido, a hierarchical multi-agent framework for automating solid-state quantum chemistry workflows using the open-source Quantum ESPRESSO simulation package. The framework translates high-level scientific objectives expressed in natural language into end-to-end computational pipelines that include structure generation, input file construction, workflow execution, and post-processing analysis. El Agente Sólido integrates density functional theory with phonon calculations and machine-learning interatomic potentials to enable efficient and physically consistent simulations. Extensive benchmarking and case studies demonstrate that El Agente Sólido reliably executes a wide range of solid-state calculations, highlighting its potential to improve reproducibility and accelerate computational materials discovery",
+  "authors": [
+   "Sai Govind Hari Kumar",
+   "Yunheng Zou",
+   "Andrew Wang",
+   "Jesús Valdés-Hernández",
+   "Tsz Wai Ko",
+   "Nathan Yue",
+   "Olivia Leng",
+   "Hanyong Xu",
+   "Chris Crebolder",
+   "Alán Aspuru-Guzik",
+   "Varinia Bernales"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "42 pages, 31 figures, 18 tables",
+  "first_author": "Sai Govind Hari Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2602.17886",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-19",
+  "tags": [
+   "dft",
+   "large-language-models",
+   "materials-discovery"
+  ],
+  "title": "El Agente Sólido: A New Age(nt) for Solid State Simulations",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2026-02-19"
+ },
+ "2602.17902": {
+  "abstract": "Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remains ad hoc and fragile. Current agentic approaches often rely on unstructured text to manage context and coordinate execution, generating often overwhelming volumes of information that may obscure decision provenance and hinder auditability. In this work, we present El Agente Gráfico, a single-agent framework that embeds LLM-driven decision-making within a type-safe execution environment and dynamic knowledge graphs for external persistence. Central to our approach is a structured abstraction of scientific concepts and an object-graph mapper that represents computational state as typed Python objects, stored either in memory or persisted in an external knowledge graph. This design enables context management through typed symbolic identifiers rather than raw text, thereby ensuring consistency, supporting provenance tracking, and enabling efficient tool orchestration. We evaluate the system by developing an automated benchmarking framework across a suite of university-level quantum chemistry tasks previously evaluated on a multi-agent system, demonstrating that a single agent, when coupled to a reliable execution engine, can robustly perform complex, multi-step, and parallel computations. We further extend this paradigm to two other large classes of applications: conformer ensemble generation and metal-organic framework design, where knowledge graphs serve as both memory and reasoning substrates. Together, these results illustrate how abstraction and type safety can provide a scalable foundation for agentic scientific automation beyond prompt-centric designs.",
+  "authors": [
+   "Jiaru Bai",
+   "Abdulrahman Aldossary",
+   "Thomas Swanick",
+   "Marcel Müller",
+   "Yeonghun Kang",
+   "Zijian Zhang",
+   "Jin Won Lee",
+   "Tsz Wai Ko",
+   "Mohammad Ghazi Vakili",
+   "Varinia Bernales",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.MA",
+   "cs.SE",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiaru Bai",
+  "pdf_url": "http://arxiv.org/pdf/2602.17902",
+  "primary_category": "cs.AI",
+  "published": "2026-02-19",
+  "tags": [
+   "large-language-models",
+   "metal-organic-frameworks"
+  ],
+  "title": "El Agente Gráfico: Structured Execution Graphs for Scientific Agents",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2026-02-19"
+ },
  "2602.18042": {
   "abstract": "Accurate, real-time, yet non-destructive estimation of internal states in lithium-ion batteries is critical for predicting degradation, optimizing usage strategies, and extending operational lifespan. Here, we introduce PINEAPPLE (Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter inference in Lithium-ion battery Electrodes), a novel framework that integrates physics-informed neural networks (PINNs) with an evolutionary search algorithm to enable rapid, scalable, and interpretable parameter inference with potential for application to next-generation batteries. The meta-learned PINN utilizes fundamental physics principles to achieve accurate zero-shot prediction of electrode behavior with test errors below 0.1$\\%$ while maintaining an order-of-magnitude speed-up over conventional solvers. PINEAPPLE demonstrates robust parameter inference solely from voltage-time discharge curves across multiple batteries from the open-source CALCE repository, recovering the evolution of key internal state parameters such as Li-ion diffusion coefficients across usage cycles. Notably, the inferred cycle-dependent evolution of these parameters exhibit consistent trends across different batteries without any customized degradation physics-embedded heuristic, highlighting the effective regularizing effect and robustness that can be conferred through incorporation of fundamental physics in PINEAPPLE. By enabling computationally efficient, real-time parameter estimation, PINEAPPLE offers a promising route towards the non-destructive, physics-based characterization of inter-cell and intra-cell variability of battery modules and battery packs, thereby unlocking new opportunities for downstream on-the-fly needs in next-generation battery management systems such as individual cell-scale state-of-health diagnostics.",
   "authors": [
@@ -1383,6 +1610,40 @@
   ],
   "updated": "2026-02-23"
  },
+ "2602.20232": {
+  "abstract": "Density functional theory (DFT) is the most widely used method for calculating molecular properties; however, its accuracy is often insufficient for quantitative predictions. Coupled-cluster (CC) theory is the most successful method for achieving accuracy beyond DFT and for predicting properties that closely align with experiment. It is known as the ''gold standard'' of quantum chemistry. Unfortunately, the high computational cost of CC limits its widespread applicability. In this work, we present the Molecular Orbital Learning (MōLe) architecture, an equivariant machine learning model that directly predicts CC's core mathematical objects, the excitation amplitudes, from the mean-field Hartree-Fock molecular orbitals as inputs. We test various aspects of our model and demonstrate its remarkable data efficiency and out-of-distribution generalization to larger molecules and off-equilibrium geometries, despite being trained only on small equilibrium geometries. Finally, we also examine its ability to reduce the number of cycles required to converge CC calculations. MōLe can set the foundations for high-accuracy wavefunction-based ML architectures to accelerate molecular design and complement force-field approaches.",
+  "authors": [
+   "Luca Thiede",
+   "Abdulrahman Aldossary",
+   "Andreas Burger",
+   "Jorge Arturo Campos-Gonzalez-Angulo",
+   "Ning Wang",
+   "Alexander Zook",
+   "Melisa Alkan",
+   "Kouhei Nakaji",
+   "Taylor Lee Patti",
+   "Jérôme Florian Gonthier",
+   "Mohammad Ghazi Vakili",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Luca Thiede",
+  "pdf_url": "http://arxiv.org/pdf/2602.20232",
+  "primary_category": "cs.LG",
+  "published": "2026-02-23",
+  "tags": [
+   "dft"
+  ],
+  "title": "Coupled Cluster con MōLe: Molecular Orbital Learning for Neural Wavefunctions",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2026-02-23"
+ },
  "2602.21511": {
   "abstract": "Oxygen transport membranes (OTMs), enabling catalytic reaction and gas separation, support crucial chemical engineering processes and decarbonization technologies, but their applications are hindered by limited oxygen permeation fluxes and inadequate long-term stability during operation. Here, a series of high-entropy perovskite OTMs based on La0.5Sr0.5CoO3 were designed and synthesized by the simple sol-gel method. The impact of varying doping ratios on the structure, surface morphology, oxygen permeability, and stability of these high-entropy OTMs was thoroughly examined. At 950 °C, the optimal composition, La0.25Sr0.25Gd0.2Nd0.2Pr0.1CoO3, achieved oxygen permeation fluxes of 1.62 mL min-1 cm-2 under air/He gradient and 1.46 mL min-1 cm-2 under air/CO2, respectively. Remarkably, all high-entropy OTMs demonstrated stable operation for over 100 h in a pure CO2 environment without a significant decline in performance. This finding paves a new way to enhance the structural and oxygen permeation stability of OTMs, and further promotes the application of OTMs in oxy-fuel combustion technologies aimed at improving CO2 capture and storage efficiency.",
   "authors": [
@@ -1538,6 +1799,38 @@
   ],
   "updated": "2026-02-26"
  },
+ "2603.00246": {
+  "abstract": "Thermal dust continuum polarimetry is a powerful indirect probe of magnetic field geometry in dense molecular clouds while at the same time providing information on the alignment of dust grains with the magnetic field. The leading theory of grain alignment, Radiative Torque Alignment (RAT), has been successful in explaining a variety of observations, including the loss of polarization fraction toward high column densities. One prediction of RAT is that an increase in grain alignment efficiency should be observed in the environments surrounding protostars, due to radiation from the embedded source. However, observational confirmation of this prediction remains scarce. In this study, we sought to test the theoretical prediction of enhanced grain alignment near protostars in the high-mass star forming region DR21 using 214 $μm$ SOFIA/HAWC+ observations. We investigated the correlation of the polarization fraction of dust emission, $p$, and the polarization angular dispersion, $S$, with respect to total intensity. We also probed intrinsic dust polarization properties using the product $S\\times p$ as a proxy. We detected significant polarization fractions even at the highest intensities, where strong depolarization is typically expected. The polarization fraction-intensity trend flattens at $I > 1.6^{+0.3}_{-0.3} \\times 10^4$ MJy/sr ($N_{H_2}$ $\\sim 2\\times 10^{23}$ ${cm}^{-2}$). We compared the observed trends with predictions from an analytical model of a centrally heated envelope surrounding an embedded luminous protostar. The predictions from the simple model agree well with the observed trends. Our results provide strong support for enhancement of grain alignment by local radiation from embedded sources.",
+  "authors": [
+   "S. Kumar",
+   "T. G. S. Pillai",
+   "G. V. Panopoulou",
+   "J. Kauffmann",
+   "L. N. Tram",
+   "S. Reissl",
+   "D. Clemens",
+   "V. J. M. Le Gouellec",
+   "M. Heyer",
+   "L. M. Fissel",
+   "P. F. Goldsmith",
+   "D. Seifried",
+   "G. A. P. Franco"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "18 pages, figures, submitted to A&A",
+  "first_author": "S. Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2603.00246",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-02-27",
+  "tags": [],
+  "title": "SIMPLIFI-Study of Interstellar Magnetic Polarization: A Legacy Investigation of Filaments. II. Enhancement of grain alignment near embedded protostars in the DR21 Ridge",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2026-02-27"
+ },
  "2603.05526": {
   "abstract": "Chemical reaction engineering is key to industrial might and sustainable chemistry. This will be enabled using smart, efficient catalysts or catalysis ecosystems. This is possible with advanced artificial intelligence and machine learning (AI/ML) workflows that need to be employed as agentic AI projects. The fundamentals of catalysis need to be emphasized. A strong focus on catalyst design, mechanistic studies, reaction engineering, and scale-up must use ML-driven workflows, along with high-throughput experimentation (HTE) and an autonomous, self-driving laboratory (SDL). Laboratory experience and data-driven approaches are valuable when working together to accelerate this development. Parametrize and create a virtuous circle for data-driven discovery across heterogeneous, homogeneous, and biocatalysts to enable utility in many chemical process industries as agentic AI tasks. This article builds the case for discovery science in catalysis and continuous improvement in chemical reaction engineering with this new ecosystem.",
   "authors": [
@@ -1565,5 +1858,30 @@
    "Reaction Engineering & Kinetics"
   ],
   "updated": "2026-02-26"
+ },
+ "2603.16887": {
+  "abstract": "Model predictive control offers a powerful framework for managing constrained systems, but its repeated online optimization can become computationally prohibitive. Multiparametric programming addresses this challenge by precomputing optimal solutions offline, enabling real-time control through simple function evaluation. While extensively developed for discrete-time systems, this approach suffers from combinatorial growth in solution complexity as discretization is refined. This paper presents a systematic continuous-time multiparametric framework for linear-quadratic optimal control that directly solves Pontryagin's optimality conditions without discretization artifacts. Through two illustrative examples, we demonstrate that continuous-time formulations yield solutions with substantially fewer critical regions than their discrete-time counterparts. Beyond this reduction in partition complexity, the continuous-time approach provides deeper insight into system dynamics by explicitly identifying switching times and eliminating discretization artifacts that obscure the true structure of optimal control policies. Knowledge of the switching structure also accelerates online optimization methods by providing analytical information about the solution topology. Clear step-by-step algorithms are provided for identifying switching structures, computing parametric switching times, and constructing critical regions, making the continuous-time framework accessible for practical implementation.",
+  "authors": [
+   "Lida Lamakani",
+   "Efstratios N. Pistikopoulos"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Lida Lamakani",
+  "pdf_url": "http://arxiv.org/pdf/2603.16887",
+  "primary_category": "math.OC",
+  "published": "2026-02-27",
+  "tags": [
+   "mpc",
+   "optimal-control"
+  ],
+  "title": "Multiparametric continuous-time optimal control via Pontryagin's Maximum Principle: explicit solutions and comparisons with discrete-time formulations",
+  "topics": [
+   "via:author-whitelist:PSE, parametric programming"
+  ],
+  "updated": "2026-02-27"
  }
 }

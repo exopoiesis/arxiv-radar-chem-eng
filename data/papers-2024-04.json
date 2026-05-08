@@ -1,0 +1,116 @@
+{
+ "2401.16648": {
+  "abstract": "We present new observations of the central 1 kpc of the M 82 starburst obtained with the James Webb Space Telescope (JWST) near-infrared camera (NIRCam) instrument at a resolution ~0.05\"-0.1\" (~1-2 pc). The data comprises images in three mostly continuum filters (F140M, F250M, and F360M), and filters that contain [FeII] (F164N), H2 v=1-0 (F212N), and the 3.3 um PAH feature (F335M). We find prominent plumes of PAH emission extending outward from the central starburst region, together with a network of complex filamentary substructure and edge-brightened bubble-like features. The structure of the PAH emission closely resembles that of the ionized gas, as revealed in Paschen alpha and free-free radio emission. We discuss the origin of the structure, and suggest the PAHs are embedded in a combination of neutral, molecular, and photoionized gas.",
+  "authors": [
+   "Alberto D. Bolatto",
+   "Rebecca C. Levy",
+   "Elizabeth Tarantino",
+   "Martha L. Boyer",
+   "Deanne B. Fisher",
+   "Adam K. Leroy",
+   "Serena A. Cronin",
+   "Ralf S. Klessen",
+   "J. D. Smith",
+   "Dannielle A. Berg",
+   "Torsten Boeker",
+   "Leindert A. Boogaard",
+   "Eve C. Ostriker",
+   "Todd A. Thompson",
+   "Juergen Ott",
+   "Laura Lenkic",
+   "Laura A. Lopez",
+   "Daniel A. Dale",
+   "Sylvain Veilleux",
+   "Paul P. van der Werf",
+   "Simon C. O. Glover",
+   "Karin M. Sandstrom",
+   "Evan D. Skillman",
+   "John Chisholm",
+   "Vicente Villanueva",
+   "Thomas S. -Y. Lai",
+   "Sebastian Lopez",
+   "Elisabeth A. C. Mills",
+   "Kimberly L. Emig",
+   "Lee Armus",
+   "Divakara Maya",
+   "David S. Meier",
+   "Ilse De Looze",
+   "Rodrigo Herrera-Camus",
+   "Fabian Walter",
+   "Monica Relano",
+   "Hannah B. Koziol",
+   "Joshua Marvil",
+   "Maria J. Jimenez-Donaire",
+   "Paul Martini"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "Submitted to The Astrophysical Journal",
+  "first_author": "Alberto D. Bolatto",
+  "pdf_url": "http://arxiv.org/pdf/2401.16648",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-01-30",
+  "tags": [],
+  "title": "JWST Observations of Starbursts: Polycyclic Aromatic Hydrocarbon Emission at the Base of the M 82 Galactic Wind",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2024-04-22"
+ },
+ "2404.02991": {
+  "abstract": "Soft gels, formed via the self-assembly of particulate organic materials, exhibit intricate multi-scale structures that provides them with flexibility and resilience when subjected to external stresses. This work combines molecular simulations and topological data analysis (TDA) to characterize the complex multi-scale structure of soft gels. Our TDA analysis focuses on the use of the Euler characteristic, which is an interpretable and computationally-scalable topological descriptor that is combined with filtration operations to obtain information on the geometric (local) and topological (global) structure of soft gels. We reduce the topological information obtained with TDA using principal component analysis (PCA) and show that this provides an informative low-dimensional representation of gel structure. We use the proposed computational framework to investigate the influence of gel preparation (e.g., quench rate, volume fraction) on soft gel structure and to explore dynamic deformations that emerge under oscillatory shear in various response regimes (linear, nonlinear, and flow). Our analysis identifies specific scales and extents at which hierarchical structures in soft gels are affected; moreover, correlations between structural deformations and mechanical phenomena (such as shear stiffening) are explored. In summary, we show that TDA facilitates the mathematical representation, quantification, and analysis of soft gel structures, extending traditional network analysis methods to capture both local and global organization.",
+  "authors": [
+   "Alexander Smith",
+   "Gavin J. Donley",
+   "Emanuela Del Gado",
+   "Victor M. Zavala"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Alexander Smith",
+  "pdf_url": "http://arxiv.org/pdf/2404.02991",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-04-03",
+  "tags": [
+   "molecular-simulation"
+  ],
+  "title": "Topological Data Analysis for Particulate Gels",
+  "topics": [
+   "via:author-whitelist:MPC, infrastructure optimization"
+  ],
+  "updated": "2024-04-03"
+ },
+ "2404.09676": {
+  "abstract": "The thermodynamics and transport properties of polymeric materials are essential for the design of reactors and for the development of polymer deconstruction processes. Existing property prediction tools such as correlations based on entropy scaling, kinetic gas theory, and free-volume model are inadequate for polymers. In this paper, we introduce a data-driven model for polyolefins based on data from molecular dynamics simulations that can accurately predict the transport properties of polyethylenes and their binary mixtures with higher n-alkanes across a range of temperatures, pressures, concentrations, and oligomer molecular weights.",
+  "authors": [
+   "Maria Ley-Flores",
+   "Riccardo Alessandri",
+   "Sean Najmi",
+   "Michele Valsecchi",
+   "George Jackson",
+   "Amparo Galindo",
+   "LaShanda Korley",
+   "Dionisios G. Vlachos",
+   "Juan J. de Pablo"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Maria Ley-Flores",
+  "pdf_url": "http://arxiv.org/pdf/2404.09676",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-04-15",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models",
+  "topics": [
+   "via:author-whitelist:microkinetics, multi-scale catalysis"
+  ],
+  "updated": "2024-04-15"
+ }
+}

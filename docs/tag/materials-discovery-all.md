@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="generative-models-all.html">generative-models</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a></div></td>
+<td>Seunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19943.html">Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
@@ -38,6 +44,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18880.html">Reshaping MOFs text mining with a dynamic multi-agents framework of large language model</a></div><div class="paper-tags"><a href="experimental-design-all.html">experimental-design</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a></div></td>
 <td>Zuhong Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18880">2504.18880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17886.html">El Agente Sólido: A New Age(nt) for Solid State Simulations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
+<td>Sai Govind Hari Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2602.17886">2602.17886</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
@@ -98,6 +110,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="carbon-capture-all.html">carbon-capture</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a> · <a href="porous-materials-all.html">porous-materials</a></div></td>
 <td>Jiyu Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13669.html">Quantum Algorithm for Vibronic Dynamics: Case Study on Singlet Fission Solar Cell Design</a></div></td>
+<td>Danial Motlagh et al.</td>
+<td><a href="http://arxiv.org/abs/2411.13669">2411.13669</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-29</td>
@@ -176,6 +194,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16984.html">Active Learning for Conditional Inverse Design with Crystal Generation and Foundation Atomic Models</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
 <td>Zhuoyuan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2502.16984">2502.16984</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12771.html">Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Luis Barroso-Luque et al.</td>
+<td><a href="http://arxiv.org/abs/2410.12771">2410.12771</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09290.html">Ranking over Regression for Bayesian Optimization and Molecule Selection</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Gary Tom et al.</td>
+<td><a href="http://arxiv.org/abs/2410.09290">2410.09290</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-02</td>

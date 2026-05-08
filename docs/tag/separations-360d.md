@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>separations — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="separations-7d.html">7d</a> <a href="separations-30d.html">30d</a> <a href="separations-90d.html">90d</a> <strong>360d</strong> <a href="separations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -154,6 +154,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2508.12200">2508.12200</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01455.html">Discovery of a rich population of compact hub-filament systems in a single star-forming complex</a></div></td>
+<td>L. K. Dewangan et al.</td>
+<td><a href="http://arxiv.org/abs/2512.01455">2512.01455</a></td>
+</tr>
+<tr class="paper">
 <td>2025-11-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17267.html">Numerical study of the effect of the relative mobilities of chemical components on the Non solvent induced phase separation process for membrane elaboration</a></div></td>
 <td>Abderraouf Bounjad et al.</td>
@@ -224,6 +230,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05856.html">Photometric study of hot Algol-type binaries with long cycles</a></div></td>
 <td>J. Garcés et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05856">2508.05856</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03229.html">The ALMA-QUARKS Survey: III. Clump-to-core fragmentation and search for high-mass starless cores</a></div></td>
+<td>Dongting Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03229">2508.03229</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-23</td>

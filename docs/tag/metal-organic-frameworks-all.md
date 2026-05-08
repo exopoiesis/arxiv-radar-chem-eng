@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>metal-organic-frameworks — all</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="metal-organic-frameworks-7d.html">7d</a> <a href="metal-organic-frameworks-30d.html">30d</a> <a href="metal-organic-frameworks-90d.html">90d</a> <a href="metal-organic-frameworks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09514.html">Machine Learning Based Prediction of Proton Conductivity in Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="fuel-cells-all.html">fuel-cells</a> · <a href="transfer-learning-all.html">transfer-learning</a></div></td>
 <td>Seunghee Han et al.</td>
 <td><a href="http://arxiv.org/abs/2407.09514">2407.09514</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="generative-models-all.html">generative-models</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Seunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-15</td>
@@ -44,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18880.html">Reshaping MOFs text mining with a dynamic multi-agents framework of large language model</a></div><div class="paper-tags"><a href="experimental-design-all.html">experimental-design</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Zuhong Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18880">2504.18880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17902.html">El Agente Gráfico: Structured Execution Graphs for Scientific Agents</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a></div></td>
+<td>Jiaru Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2602.17902">2602.17902</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
@@ -92,6 +104,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="carbon-capture-all.html">carbon-capture</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="porous-materials-all.html">porous-materials</a></div></td>
 <td>Jiyu Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03162.html">The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="carbon-capture-all.html">carbon-capture</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Anuroop Sriram et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03162">2508.03162</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13197.html">The Rise of Generative AI for Metal-Organic Framework Design and Synthesis</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a></div></td>
+<td>Chenru Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2508.13197">2508.13197</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-16</td>

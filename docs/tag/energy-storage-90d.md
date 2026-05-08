@@ -112,6 +112,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2603.08860">2603.08860</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23971.html">UMA: A Family of Universal Models for Atoms</a></div></td>
+<td>Brandon M. Wood et al.</td>
+<td><a href="http://arxiv.org/abs/2506.23971">2506.23971</a></td>
+</tr>
+<tr class="paper">
 <td>2026-02-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19428.html">Sizing of Battery Considering Renewable Energy Bidding Strategy with Reinforcement Learning</a></div></td>
 <td>Taiyo Mantani et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22865.html">Degradation-Aware Frequency Regulation of a Heterogeneous Battery Fleet via Reinforcement Learning</a></div></td>
 <td>Tanay Raghunandan Srinivasa et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22865">2601.22865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06365.html">Advances in Battery Energy Storage Management: Control and Economic Synergies</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="techno-economic-analysis-90d.html">techno-economic-analysis</a></div></td>
-<td>Venkata Rajesh Chundru et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06365">2602.06365</a></td>
 </tr>
 </tbody></table>

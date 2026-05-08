@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-engineering — all</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <a href="chemical-engineering-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -490,6 +490,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.07251">2502.07251</a></td>
 </tr>
 <tr class="paper">
+<td>2025-02-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02872.html">Achieving Operational Universality through a Turing Complete Chemputer</a></div></td>
+<td>Daniel Gahler et al.</td>
+<td><a href="http://arxiv.org/abs/2502.02872">2502.02872</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05358.html">Logic-Based Discrete-Steepest Descent: A Solution Method for Process Synthesis Generalized Disjunctive Programs</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="distillation-all.html">distillation</a></div></td>
 <td>Daniel Ovalle et al.</td>
@@ -668,6 +674,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15602.html">Catalysis in Extreme Field Environments: The Case of Strongly Ionized $SiO_{2}$ Nanoparticle Surfaces</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Thomas M. Linker et al.</td>
 <td><a href="http://arxiv.org/abs/2406.15602">2406.15602</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06335.html">Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
+<td>Nicole Bellonzi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06335">2406.06335</a></td>
 </tr>
 <tr class="paper">
 <td>2024-06-03</td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -100,6 +100,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.17659">2512.17659</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13935.html">Informing Acquisition Functions via Foundation Models for Molecular Discovery</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Qi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2512.13935">2512.13935</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10055.html">A Primer on Bayesian Parameter Estimation and Model Selection for Battery Simulators</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Yannick Kuhn et al.</td>
@@ -124,10 +130,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.22121">2510.22121</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14206.html">Simulation-Based Optimization over Discrete Spaces using Projection to Continuous Latent Spaces</a></div></td>
+<td>Gabriel Hernández-Morales et al.</td>
+<td><a href="http://arxiv.org/abs/2510.14206">2510.14206</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12439.html">Kinetic modelling of the CO2 capture and utilisation on NiRu-Ca/Al dual function material via parameter estimation</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="carbon-capture-all.html">carbon-capture</a> · <a href="reaction-kinetics-all.html">reaction-kinetics</a> · <a href="system-identification-all.html">system-identification</a></div></td>
 <td>Meshkat Dolat et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12439">2510.12439</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06546.html">RAISE: A self-driving laboratory for interfacial property formulation discovery</a></div></td>
+<td>Mohammad Nazeri et al.</td>
+<td><a href="http://arxiv.org/abs/2510.06546">2510.06546</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-04</td>
@@ -214,10 +232,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.17224">2506.17224</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16539.html">A Digital Twin Simulator of a Pastillation Process with Applications to Automatic Control based on Computer Vision</a></div><div class="paper-tags"><a href="soft-sensors-all.html">soft-sensors</a></div></td>
+<td>Leonardo D. González et al.</td>
+<td><a href="http://arxiv.org/abs/2503.16539">2503.16539</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02866.html">Optimal Power Management for Large-Scale Battery Energy Storage Systems via Bayesian Inference</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a> · <a href="mpc-all.html">mpc</a> · <a href="system-identification-all.html">system-identification</a></div></td>
 <td>Amir Farakhor et al.</td>
 <td><a href="http://arxiv.org/abs/2503.02866">2503.02866</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18966.html">One Set to Rule Them All: How to Obtain General Chemical Conditions via Bayesian Optimization over Curried Functions</a></div></td>
+<td>Stefan P. Schmid et al.</td>
+<td><a href="http://arxiv.org/abs/2502.18966">2502.18966</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-22</td>
@@ -262,6 +292,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.15151">2410.15151</a></td>
 </tr>
 <tr class="paper">
+<td>2024-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09290.html">Ranking over Regression for Bayesian Optimization and Molecule Selection</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Gary Tom et al.</td>
+<td><a href="http://arxiv.org/abs/2410.09290">2410.09290</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18000.html">Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel</a></div><div class="paper-tags"><a href="process-control-all.html">process-control</a></div></td>
 <td>Jialin Li et al.</td>
@@ -284,6 +320,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
 <td>Markus Grimm et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.05015.html">A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Agustinus Kristiadi et al.</td>
+<td><a href="http://arxiv.org/abs/2402.05015">2402.05015</a></td>
 </tr>
 <tr class="paper">
 <td>2024-05-17</td>

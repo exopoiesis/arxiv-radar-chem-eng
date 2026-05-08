@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrochemical-systems — all</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <a href="electrochemical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="fuel-cells-all.html">fuel-cells</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Jack Jon Hinsch et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13527.html">Smoothed Boundary Method Framework for Electrochemical Simulation of Li-ion Battery Cathode with Complex Microstructure: Model, Formulation and Parameterization</a></div></td>
+<td>Hui-Chia Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.13527">2603.13527</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-17</td>

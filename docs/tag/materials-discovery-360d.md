@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="generative-models-360d.html">generative-models</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Seunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19943.html">Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
@@ -38,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18880.html">Reshaping MOFs text mining with a dynamic multi-agents framework of large language model</a></div><div class="paper-tags"><a href="experimental-design-360d.html">experimental-design</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
 <td>Zuhong Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18880">2504.18880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17886.html">El Agente Sólido: A New Age(nt) for Solid State Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
+<td>Sai Govind Hari Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2602.17886">2602.17886</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
@@ -100,6 +112,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13669.html">Quantum Algorithm for Vibronic Dynamics: Case Study on Singlet Fission Solar Cell Design</a></div></td>
+<td>Danial Motlagh et al.</td>
+<td><a href="http://arxiv.org/abs/2411.13669">2411.13669</a></td>
+</tr>
+<tr class="paper">
 <td>2025-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18975.html">Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
 <td>Dilshod Nematov et al.</td>
@@ -146,11 +164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17427.html">3D variational autoencoder for fingerprinting microstructure volume elements</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Michael D. White et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17427">2503.17427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07442.html">DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="generative-models-360d.html">generative-models</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07442">2505.07442</a></td>
 </tr>
 </tbody></table>

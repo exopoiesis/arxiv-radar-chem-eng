@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystallization — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="crystallization-7d.html">7d</a> <a href="crystallization-30d.html">30d</a> <a href="crystallization-90d.html">90d</a> <strong>360d</strong> <a href="crystallization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09022.html">Disentangling the Effects of Simultaneous Environmental Variables on Perovskite Synthesis and Device Performance via Interpretable Machine Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Tianran Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09022">2509.09022</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04294.html">Open Gas-Cell Transmission Electron Microscopy at 50 pm Resolution</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Idan Biran et al.</td>
+<td><a href="http://arxiv.org/abs/2508.04294">2508.04294</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-25</td>

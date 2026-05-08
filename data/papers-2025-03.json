@@ -62,6 +62,44 @@
   ],
   "updated": "2025-03-01"
  },
+ "2406.16976": {
+  "abstract": "Molecular discovery, when formulated as an optimization problem, presents significant computational challenges because optimization objectives can be non-differentiable. Evolutionary Algorithms (EAs), often used to optimize black-box objectives in molecular discovery, traverse chemical space by performing random mutations and crossovers, leading to a large number of expensive objective evaluations. In this work, we ameliorate this shortcoming by incorporating chemistry-aware Large Language Models (LLMs) into EAs. Namely, we redesign crossover and mutation operations in EAs using LLMs trained on large corpora of chemical information. We perform extensive empirical studies on both commercial and open-source models on multiple tasks involving property optimization, molecular rediscovery, and structure-based drug design, demonstrating that the joint usage of LLMs with EAs yields superior performance over all baseline models across single- and multi-objective settings. We demonstrate that our algorithm improves both the quality of the final solution and convergence speed, thereby reducing the number of required objective evaluations. Our code is available at http://github.com/zoom-wang112358/MOLLEO",
+  "authors": [
+   "Haorui Wang",
+   "Marta Skreta",
+   "Cher-Tian Ser",
+   "Wenhao Gao",
+   "Lingkai Kong",
+   "Felix Strieth-Kalthoff",
+   "Chenru Duan",
+   "Yuchen Zhuang",
+   "Yue Yu",
+   "Yanqiao Zhu",
+   "Yuanqi Du",
+   "Alán Aspuru-Guzik",
+   "Kirill Neklyudov",
+   "Chao Zhang"
+  ],
+  "categories": [
+   "cs.NE",
+   "cs.AI",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "Published in ICLR 2025",
+  "first_author": "Haorui Wang",
+  "pdf_url": "http://arxiv.org/pdf/2406.16976",
+  "primary_category": "cs.NE",
+  "published": "2024-06-23",
+  "tags": [
+   "large-language-models"
+  ],
+  "title": "Efficient Evolutionary Search Over Chemical Space with Large Language Models",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-03-07"
+ },
  "2406.19761": {
   "abstract": "We present a novel approach to generate a fingerprint for crystalline materials that balances efficiency for machine processing and human interpretability, allowing its application in both machine learning inference and understanding of structure-property relationships. Our proposed material encoding has two components: one representing the crystal structure and the other characterizing the chemical composition, that we call Pettifor embedding. For the latter we construct a non-orthogonal space where each axis represents a chemical element and where the angle between the axes quantifies a measure of the similarity between them. The chemical composition is then defined by the point on the unit sphere in this non-orthogonal space. We show that the Pettifor embeddings systematically outperform other commonly used elemental embeddings in compositional machine learning models. Using the Pettifor embeddings to define a distance metric and applying dimension reduction techniques, we construct a two-dimensional global map of the space of thermodynamically stable crystalline compounds. Despite their simplicity, such maps succeed in providing a physical separation of material classes according to basic physical properties.",
   "authors": [
@@ -86,6 +124,34 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-03-20"
+ },
+ "2409.08265": {
+  "abstract": "Hamiltonian simulation using product formulas is arguably the most straightforward and practical approach for algorithmic simulation of a quantum system's dynamics on a quantum computer. Here we present corrected product formulas (CPFs), a variation of product formulas achieved by injecting auxiliary terms called correctors into standard product formulas. We establish several correctors that greatly improve the accuracy of standard product formulas for simulating Hamiltonians comprised of two partitions that can be exactly simulated, a common feature of lattice Hamiltonians, while only adding a small additive or multiplicative factor to the simulation cost. We show that correctors are particularly advantageous for perturbed systems, where one partition has a relatively small norm compared to the other, as they allow the small norm to be utilized as an additional parameter for controlling the simulation error. We demonstrate the performance of CPFs by numerical simulations for several lattice Hamiltonians. Numerical results show our theoretical error bound for CPFs matches or exceeds the empirical error of standard product formulas for these systems. We also demonstrate improvements offered by CPFs by implementation on actual quantum hardware as well as noisy and noiseless quantum simulators. CPFs could be a valuable algorithmic tool for early fault-tolerant quantum computers with limited computing resources. As for standard product formulas, CPFs could also be used for simulations on a classical computer.",
+  "authors": [
+   "Mohsen Bagherimehrab",
+   "Luis Mantilla Calderon",
+   "Dominic W. Berry",
+   "Philipp Schleich",
+   "Mohammad Ghazi Vakili",
+   "Abdulrahman Aldossary",
+   "Jorge A. Campos Gonzalez Angulo",
+   "Christoph Gorgulla",
+   "Alan Aspuru-Guzik"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "34 pages; 5 figures (added hardware implementations; provided better compilations for correctors; and improved presentation)",
+  "first_author": "Mohsen Bagherimehrab",
+  "pdf_url": "http://arxiv.org/pdf/2409.08265",
+  "primary_category": "quant-ph",
+  "published": "2024-09-12",
+  "tags": [],
+  "title": "Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-03-18"
  },
  "2410.17270": {
   "abstract": "Metal-organic frameworks (MOFs) are a class of crystalline materials with promising applications in many areas such as carbon capture and drug delivery. In this work, we introduce MOFFlow, the first deep generative model tailored for MOF structure prediction. Existing approaches, including ab initio calculations and even deep generative models, struggle with the complexity of MOF structures due to the large number of atoms in the unit cells. To address this limitation, we propose a novel Riemannian flow matching framework that reduces the dimensionality of the problem by treating the metal nodes and organic linkers as rigid bodies, capitalizing on the inherent modularity of MOFs. By operating in the $SE(3)$ space, MOFFlow effectively captures the roto-translational dynamics of these rigid components in a scalable way. Our experiment demonstrates that MOFFlow accurately predicts MOF structures containing several hundred atoms, significantly outperforming conventional methods and state-of-the-art machine learning baselines while being much faster.",
@@ -148,6 +214,53 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-03-11"
+ },
+ "2412.12540": {
+  "abstract": "Molecular structure elucidation is a fundamental step in understanding chemical phenomena, with applications in identifying molecules in natural products, lab syntheses, forensic samples, and the interstellar medium. We consider the task of predicting a molecule's all-atom 3D structure given only its molecular formula and moments of inertia, motivated by the ability of rotational spectroscopy to measure these moments. While existing generative models can conditionally sample 3D structures with approximately correct moments, this soft conditioning fails to leverage the many digits of precision afforded by experimental rotational spectroscopy. To address this, we first show that the space of $n$-atom point clouds with a fixed set of moments of inertia is embedded in the Stiefel manifold $\\mathrm{St}(n, 4)$. We then propose Stiefel Flow Matching as a generative model for elucidating 3D structure under exact moment constraints. Additionally, we learn simpler and shorter flows by finding approximate solutions for equivariant optimal transport on the Stiefel manifold. Empirically, enforcing exact moment constraints allows Stiefel Flow Matching to achieve higher success rates and faster sampling than Euclidean diffusion models, even on high-dimensional manifolds corresponding to large molecules in the GEOM dataset.",
+  "authors": [
+   "Austin Cheng",
+   "Alston Lo",
+   "Kin Long Kelvin Lee",
+   "Santiago Miret",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "ICLR 2025",
+  "first_author": "Austin Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2412.12540",
+  "primary_category": "cs.LG",
+  "published": "2024-12-17",
+  "tags": [
+   "generative-models"
+  ],
+  "title": "Stiefel Flow Matching for Moment-Constrained Structure Elucidation",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2025-03-02"
+ },
+ "2412.14192": {
+  "abstract": "We consider a two-dimensional Lorentz-invariant field model with a $φ^{4}$ potential modified by a term that introduces asymmetries at the manifold space. In this framework, the model recovers its original symmetry only when $p=0$. The asymmetry introduced in the potential suggests that, even when one of the minima diverges asymptotically, kink/antikink-like configurations emerge in the theory, shifting the critical point of the energy density away from the center of the kink-like solutions. Hence, we note that the model supports asymmetrical kink/antikink-like topological solutions. Furthermore, an analysis of the excitation spectrum of these solutions revealed the absence of vibrational modes. Finally, we examine the dynamical solutions for different values of initial velocity by allowing us to verify the effects of asymmetries on the collision properties.",
+  "authors": [
+   "F. C. E. Lima"
+  ],
+  "categories": [
+   "hep-th"
+  ],
+  "comment": "18 pages, 10 captioned figures. To match the version accepted in Europhysics Letters",
+  "first_author": "F. C. E. Lima",
+  "pdf_url": "http://arxiv.org/pdf/2412.14192",
+  "primary_category": "hep-th",
+  "published": "2024-12-11",
+  "tags": [],
+  "title": "Asymmetric domain walls in modified $φ^{4}$ theory: Excitation spectra, scattering, and decay of bions",
+  "topics": [
+   "via:author-whitelist:MPC, process safety"
+  ],
+  "updated": "2025-03-24"
  },
  "2412.18831": {
   "abstract": "This article proposes a data-driven $H_{\\infty}$ control scheme for time-domain constrained systems based on model predictive control formulation. The scheme combines $H_{\\infty}$ control and minimax model predictive control, enabling more effective handling of external disturbances and time-domain constraints. First, by leveraging input-output-disturbance data, the scheme ensures $H_{\\infty}$ performance of the closed-loop system. Then, a minimax optimization problem is converted into a more manageable minimization problem employing Lagrange duality, which reduces conservatism typically associated with ellipsoidal evaluations of time-domain constraints. The study examines key closed-loop properties, including stability, disturbance attenuation, and constraint satisfaction, achieved by the proposed data-driven moving horizon predictive control algorithm. The effectiveness and advantages of the proposed method are demonstrated through numerical simulations involving a batch reactor system, confirming its robustness and feasibility under noisy conditions.",
@@ -402,6 +515,37 @@
   ],
   "updated": "2025-03-03"
  },
+ "2503.01755": {
+  "abstract": "We extend the survey for organics in the southern hemisphere by observing two cores in the Chamaeleon complex using NASA's Deep Space Network 70-m antenna in Canberra, Australia, over the frequency range of 18 to 25 GHz. We surveyed the class 0 protostar Cha-MMS1 and the prestellar core Cha-C2, which represent two stages in the evolution of dense cores. We detect several molecules including HC$_3$N, HC$_5$N, C$_4$H, CCS, C$_3$S, NH$_3$, and c-C$_3$H$_2$. A longer cyanopolyyne, HC$_7$N, is detected with high confidence via spectral stacking analysis. While molecular column densities in the two Chamaeleon cores are typically an order of magnitude lower compared to the cynaopolyyne peak in TMC-1, the molecular abundance ratios are in general agreement with the TMC-1 values. The two exceptions are c-C$_3$H$_2$, which is enhanced by a factor of \\about 25 with respect to cyanopolyynes in the Chamaeleon cores, and ammonia, which is enhanced by a factor of ~ 125. The deuterated species c-C$_3$HD is detected in both cores, with a high D/H ratio of ~0.23 in c-C$_3$H$_2$. A rare isotopologue of ammonia, $^{15}$NH$_3$, is also detected in Cha-MMS1 suggesting a high $^{14}$N/$^{15}$N ratio of ~ 690 in ammonia. However, this ratio may be artificially enhanced due to the high optical depth of the $^{14}$NH$_3$ (1,1) line, which increases the effective source size. We use the detections of ammonia, cyanopolyynes, and far-infrared dust continuum to characterize the density and temperature in the Chamaeleon cores and calculate the molecular column densities and their relative ratios. The ring molecule benzonitrile is not detected in either Chamaeleon core. The $3 σ$ upper limits for its column density are a factor of 2 higher than the value derived for TMC-1 and the upper limits for its relative abundance with respect to HC$_5$N are a factor of 3 higher than the TMC-1 value.",
+  "authors": [
+   "Dariusz C. Lis",
+   "William D. Langer",
+   "Jorge L. Pineda",
+   "Kahaan Gandhi",
+   "Karen Willacy",
+   "Paul F. Goldsmith",
+   "Susanna Widicus Weaver",
+   "Liton Majumdar",
+   "Youngmin Seo",
+   "Shinji Horiuchi",
+   "Cheikh Bop",
+   "François Lique"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "Accepted for publication in Astronomy & Astrophysics, 15 pages, 10 figures",
+  "first_author": "Dariusz C. Lis",
+  "pdf_url": "http://arxiv.org/pdf/2503.01755",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-03-03",
+  "tags": [],
+  "title": "An 18-25 GHz spectroscopic survey of dense cores in the Chamaeleon I molecular cloud",
+  "topics": [
+   "via:author-whitelist:automated kinetic mechanism generation"
+  ],
+  "updated": "2025-03-03"
+ },
  "2503.02482": {
   "abstract": "This study aims to enhance the generalizability of Reynolds-averaged Navier-Stokes (RANS) turbulence models, which are crucial for engineering applications. Classic RANS turbulence models often struggle to predict separated flows accurately. Recently, Data-driven machine learning approaches for turbulence modeling have been explored to address this issue. However, these models are often criticized for their limited generalizability. In this study, we address this issue by incorporating non-local effects into data-driven turbulence modeling. Specifically, we introduce a transport equation for the correction term \\b{eta} of the shear stress transport (SST) model to encode non-local information along the mean streamline. The coefficients of the equation are calibrated using high-fidelity data from the NASA hump and periodic hills. The resulting model, termed the \\b{eta}-Transport model, demonstrates high accuracy across various separated flows outside the training set, including periodic hills with different geometries and Reynolds numbers, the curved backward-facing step, a two-dimensional bump, and a three-dimensional simplified car body. In all tested cases, the \\b{eta}-Transport model yields smaller or equal prediction errors compared to those from classic local data-driven turbulence models using algebraic relations for \\b{eta}. These results indicate improved generalizability for separated flows. Furthermore, the \\b{eta}-Transport model shows similar accuracy to the baseline model in basic flows including the mixing layer and the channel flow. Therefore, the non-local modeling approach presented here offers a promising pathway for developing more generalizable data-driven turbulence models.",
   "authors": [
@@ -491,6 +635,35 @@
   "topics": [
    "Catalysis & Materials for Chemical Engineering",
    "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2025-03-05"
+ },
+ "2503.03493": {
+  "abstract": "Magnetic fields have an impact on galaxy evolution at multiple scales. They are particularly important for starburst galaxies, where they play a crucial role in shaping the interstellar medium (ISM), influencing star formation processes and interacting with galactic outflows. The primary aim of this study is to obtain a parsec scale map of dust polarisation and B-field structure within the central starburst region of NGC253. This includes examining the relationship between the morphology of B-fields, galactic outflows and the spatial distribution of super star clusters (SSC), to understand their combined effects on the galaxy's star formation and ISM. We used ALMA full polarisation data in Bands 4 (145 GHz) and 7 (345 GHz) with resolution of 25 and 5 pc scale, respectively. According to our SED fitting analysis, the observed Band 4 emission is a combination of dust, synchrotron and free-free, while Band 7 traces only dust. The polarisation fraction (PF) of the synchrotron component is 2%, while that of the dust component is 0.3%. The B-fields orientation maps in both bands at common resolution show that the same B-fields structure is traced by dust and synchrotron emission at scales of 25 pc. The B-field morphology suggests a coupling with the multiphase outflow, while the distribution of PF in Band 7 showed to be correlated with the presence of SSC. We observed a significant anti-correlation between polarisation fraction and column density in both Bands 4 and 7. A negative correlation between PF and dispersion angle function was observed in Band 4 but was nearly absent in Band 7 at native resolution, suggesting that the tangling of B-field geometry along the plane of the sky is the main cause of depolarisation at 25 pc scales, while other factors play a role at 5 pc scales.",
+  "authors": [
+   "Davide Belfiori",
+   "Rosita Paladino",
+   "Annie Hughes",
+   "Jean-Philippe Bernard",
+   "Dana Alina",
+   "Ivana Bešlić",
+   "Enrique Lopez Rodriguez",
+   "Mark D. Gorski",
+   "Serena A. Cronin",
+   "Alberto D. Bolatto"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "22 pages, 13 Figures, 6 Tables. Accepted by A&A",
+  "first_author": "Davide Belfiori",
+  "pdf_url": "http://arxiv.org/pdf/2503.03493",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-03-05",
+  "tags": [],
+  "title": "The Dust Polarisation and Magnetic Field Structure in the Centre of NGC253 with ALMA",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
   ],
   "updated": "2025-03-05"
  },
@@ -640,6 +813,32 @@
   "title": "Spatial Distillation based Distribution Alignment (SDDA) for Cross-Headset EEG Classification",
   "topics": [
    "Process Modeling & System Identification"
+  ],
+  "updated": "2025-03-07"
+ },
+ "2503.05430": {
+  "abstract": "Digital inequality remains a significant barrier for many older adults, limiting their ability to navigate online spaces securely and confidently while increasing their susceptibility to cyber threats. In response, we propose a novel shedding-type card game for older adults to conceptually learn and reinforce cyber hygiene practices in educational settings. We asked digital educators to participate as players alongside older adults (n = 16), departing from their usual role as teachers, they collaborated and shared a unique learning experience. The cybersafety game addresses 4 key topics: handling scams, password management, responding to cyber attacks, and staying private. We adopted a mixed-method approach of think-aloud playtesting, semi-structured interviews, and surveys to evaluate the game's reception and impact. Participants reported highly favorable gameplay experiences and found the cybersafety advice useful. Player feedback informed game modifications, detailed in this paper, to further enhance the game's usability and educational value.",
+  "authors": [
+   "Jacob Camilleri",
+   "Ashley Sheil",
+   "Michelle O'Keeffe",
+   "Moya Cronin",
+   "Melanie Gruben",
+   "Hazel Murray"
+  ],
+  "categories": [
+   "cs.CY",
+   "cs.CR"
+  ],
+  "comment": null,
+  "first_author": "Jacob Camilleri",
+  "pdf_url": "http://arxiv.org/pdf/2503.05430",
+  "primary_category": "cs.CY",
+  "published": "2025-03-07",
+  "tags": [],
+  "title": "Cybersafety Card Game: Empowering Digital Educators to Teach Cybersafety to Older Adults",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
   ],
   "updated": "2025-03-07"
  },
@@ -1109,6 +1308,34 @@
   ],
   "updated": "2025-03-19"
  },
+ "2503.16539": {
+  "abstract": "We present a digital-twin simulator for a pastillation process. The simulation framework produces realistic thermal image data of the process that is used to train computer vision-based soft sensors based on convolutional neural networks (CNNs); the soft sensors produce output signals for temperature and product flow rate that enable real-time monitoring and feedback control. Pastillation technologies are high-throughput devices that are used in a broad range of industries; these processes face operational challenges such as real-time identification of clog locations (faults) in the rotating shell and the automatic, real-time adjustment of conveyor belt speed and operating conditions to stabilize output. The proposed simulator is able to capture this behavior and generates realistic data that can be used to benchmark different algorithms for image processing and different control architectures. We present a case study to illustrate the capabilities; the study explores behavior over a range of equipment sizes, clog locations, and clog duration. A feedback controller (tuned using Bayesian optimization) is used to adjust the conveyor belt speed based on the CNN output signal to achieve the desired process outputs.",
+  "authors": [
+   "Leonardo D. González",
+   "Joshua L. Pulsipher",
+   "Shengli Jiang",
+   "Tyler Soderstrom",
+   "Victor M. Zavala"
+  ],
+  "categories": [
+   "math.OC",
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Leonardo D. González",
+  "pdf_url": "http://arxiv.org/pdf/2503.16539",
+  "primary_category": "math.OC",
+  "published": "2025-03-18",
+  "tags": [
+   "bayesian-inference",
+   "soft-sensors"
+  ],
+  "title": "A Digital Twin Simulator of a Pastillation Process with Applications to Automatic Control based on Computer Vision",
+  "topics": [
+   "via:author-whitelist:MPC, infrastructure optimization"
+  ],
+  "updated": "2025-03-18"
+ },
  "2503.17434": {
   "abstract": "Magnetic separation has emerged as an eco-friendly and sustainable technique with applications in water purification, chemical separation, biochemical, medical, and mining. In this study, we present, a combined experimental and theoretical investigation of the transport of transition metal ions using high-gradient magnetic fields. Experiments were conducted on aqueous solutions containing either paramagnetic manganese chloride (MnCl$_$2) or diamagnetic zinc chloride (ZnCl$_$2) ions, with concentrations ranging from 1 mM to 100 mM under a non-uniform magnetic field of an electromagnet. Our results demonstrate that while paramagnetic MnCl$_$2 is captured by the mesh wool in the magnetic field, diamagnetic ZnCl$_$2 remains unaffected by the presence of magnetic field. The capture efficiency of paramagnetic MnCl$_$2 increases with both the initial ion concentration and the applied magnetic field strength. Furthermore, in binary mixtures, the capture rate of MnCl2 is reduced compared to single-ion solutions, highlighting the role of ion interactions in magnetic separation. Our theoretical modeling indicates that magnetic capture is governed by a balance between magnetic forces and viscous forces. Additionally, the magnetic separation process is enhanced by the field-induced cluster formation of paramagnetic metal ions, which are predicted to be two orders of magnitude larger than individual hydrated ion units. These findings provide insights into the mechanisms of magnetic transport of metal ions and offer potential pathways for improving separation efficiency in complex ion mixtures that contain critical materials.",
   "authors": [
@@ -1204,6 +1431,34 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-03-22"
+ },
+ "2503.18911": {
+  "abstract": "Designing a new varifocal architecture in AR glasses poses significant challenges due to the complex interplay of multiple physics disciplines, including innovated piezo-electric material, solid mechanics, electrostatics, and optics. Traditional design methods, which treat each physics separately, are insufficient for this problem as they fail to establish the intricate relationships among design parameters in such a large and sensitive space, leading to suboptimal solutions. To address this challenge, we propose a novel design pipeline, mPhDBBs (multi-Physics Differential Building Blocks), that integrates these diverse physics through a graph neural network-based surrogate model and a differentiable ray tracing model. A hybrid optimization method combining evolutionary and gradient approaches is employed to efficiently determine superior design variables that achieve desired optical objectives, such as focal length and focusing quality. Our results demonstrate the effectiveness of mPhDBBs, achieving high accuracy with minimal training data and computational resources, resulting in a speedup of at least 1000 times compared to non-gradient-based methods. This work offers a promising paradigm shift in product design, enabling rapid and accurate optimization of complex multi-physics systems, and demonstrates its adaptability to other inverse design problems.",
+  "authors": [
+   "Zeqing Jin",
+   "Zhaocheng Liu",
+   "Nagi Elabbasi",
+   "Zachary Ulissi",
+   "Grace X. Gu",
+   "Zhaoyu Nie"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "15 pages, 4 figures",
+  "first_author": "Zeqing Jin",
+  "pdf_url": "http://arxiv.org/pdf/2503.18911",
+  "primary_category": "cs.CE",
+  "published": "2025-03-24",
+  "tags": [
+   "graph-neural-networks",
+   "surrogate-modeling"
+  ],
+  "title": "Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling",
+  "topics": [
+   "via:author-whitelist:Open Catalyst, ML for catalysis"
+  ],
+  "updated": "2025-03-24"
  },
  "2503.19637": {
   "abstract": "Machine learning and high-throughput experimentation have greatly accelerated the discovery of mixed metal oxide catalysts by leveraging their compositional flexibility. However, the lack of established synthesis routes for solid-state materials remains a significant challenge in inorganic chemistry. An interpretable machine learning model is therefore essential, as it provides insights into the key factors governing phase formation. Here, we focus on the formation of single-phase Fe$_2$(ZnCo)O$_4$, synthesized via a high-throughput co-precipitation method. We combined a kernel classification model with a novel application of global SHAP analysis to pinpoint the experimental features most critical to single phase synthesizability by interpreting the contributions of each feature. Global SHAP analysis reveals that precursor and precipitating agent contributions to single-phase spinel formation align closely with established crystal growth theories. These results not only underscore the importance of interpretable machine learning in refining synthesis protocols but also establish a framework for data-informed experimental design in inorganic synthesis.",

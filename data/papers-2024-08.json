@@ -220,6 +220,53 @@
   ],
   "updated": "2024-08-07"
  },
+ "2408.04135": {
+  "abstract": "We present a near infrared (NIR) candidate star cluster catalog for the central kiloparsec of M82 based on new JWST NIRCam images. We identify star cluster candidates using the F250M filter, finding 1357 star cluster candidates with stellar masses $>10^4$ M$_\\odot$. Compared to previous optical catalogs, nearly all (87%) of the candidates we identify are new. The star cluster candidates have a median intrinsic cluster radius of $\\approx$1 pc and have stellar masses up to $10^6$ M$_\\odot$. By comparing the color-color diagram to dust-free yggdrasil stellar population models, we estimate that the star cluster candidates have A$_{\\rm V}\\sim3-24$ mag, corresponding to A$_{\\rm 2.5μm}\\sim0.3-2.1$ mag. There is still appreciable dust extinction towards these clusters into the NIR. We measure the stellar masses of the star cluster candidates, assuming ages of 0 and 8 Myr. The slope of the resulting cluster mass function is $β=1.9\\pm0.2$, in excellent agreement with studies of star clusters in other galaxies.",
+  "authors": [
+   "Rebecca C. Levy",
+   "Alberto D. Bolatto",
+   "Divakara Mayya",
+   "Bolivia Cuevas-Otahola",
+   "Elizabeth Tarantino",
+   "Martha L. Boyer",
+   "Leindert A. Boogaard",
+   "Torsten Böker",
+   "Serena A. Cronin",
+   "Daniel A. Dale",
+   "Keaton Donaghue",
+   "Kimberly L. Emig",
+   "Deanne B. Fisher",
+   "Simon C. O. Glover",
+   "Rodrigo Herrera-Camus",
+   "María J. Jiménez-Donaire",
+   "Ralf S. Klessen",
+   "Laura Lenkić",
+   "Adam K. Leroy",
+   "Ilse De Looze",
+   "David S. Meier",
+   "Elisabeth A. C. Mills",
+   "Juergen Ott",
+   "Mónica Relaño",
+   "Sylvain Veilleux",
+   "Vicente Villanueva",
+   "Fabian Walter",
+   "Paul P. van der Werf"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "Resubmitted to ApJL",
+  "first_author": "Rebecca C. Levy",
+  "pdf_url": "http://arxiv.org/pdf/2408.04135",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-08-08",
+  "tags": [],
+  "title": "JWST Observations of Starbursts: Massive Star Clusters in the Central Starburst of M82",
+  "topics": [
+   "via:author-whitelist:chemputers, autonomous synthesis"
+  ],
+  "updated": "2024-08-13"
+ },
  "2408.05551": {
   "abstract": "CO2 hydrogenation to hydrocarbon refers to an indirect pathway of CO2 utilization. Among them, the conversion of CO2 with green H2 to sustainable aviation fuel (SAF) with high energy density has gained much attention. It offers a promising way to reduce greenhouse gas emissions, address the fossil fuel crises, and transform a climate killer into valuable products. However, this low-carbon technology is intrinsically complicated. It involves the development of a catalyst, the design of a reaction system, and its operation and product refining. Hence, it is important to understand the chemical process of CO2 hydrogenation in the reactor. In this study, numerical simulations of a fixed bed catalytic reactor for CO2-to-SAF conversion are conducted by coupling CFD with heterogeneous catalytic reactions at the catalytic surface. The heat and mass transfer between the catalyst surface and surrounding fluid flow are resolved in the simulation. A detailed understanding of the reacting flow and catalytic processes is obtained from this study. The impact of operating parameters, i.e., temperature, pressure, mass flow rate, and the ratio between CO2 and H2, is also explored, which provides important insights into the catalytic reactor design and operation.",
   "authors": [
@@ -338,6 +385,28 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2024-08-14"
+ },
+ "2408.08463": {
+  "abstract": "Understanding is a crucial yet elusive concept in artificial intelligence (AI). This work proposes a framework for analyzing understanding based on the notion of composability. Given any subject (e.g., a person or an AI), we suggest characterizing its understanding of an object in terms of its ability to process (compose) relevant inputs into satisfactory outputs from the perspective of a verifier. This highly universal framework can readily apply to non-human subjects, such as AIs, non-human animals, and institutions. Further, we propose methods for analyzing the inputs that enhance output quality in compositions, which we call catalysts. We show how the structure of a subject can be revealed by analyzing its components that act as catalysts and argue that a subject's learning ability can be regarded as its ability to compose inputs into its inner catalysts. Finally we examine the importance of learning ability for AIs to attain general intelligence. Our analysis indicates that models capable of generating outputs that can function as their own catalysts, such as language models, establish a foundation for potentially overcoming existing limitations in AI understanding.",
+  "authors": [
+   "Zijian Zhang",
+   "Sara Aronowitz",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "13 pages, 3 figures",
+  "first_author": "Zijian Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2408.08463",
+  "primary_category": "cs.AI",
+  "published": "2024-08-16",
+  "tags": [],
+  "title": "A theory of understanding for artificial intelligence: composability, catalysts, and learning",
+  "topics": [
+   "via:author-whitelist:autonomous discovery, self-driving labs"
+  ],
+  "updated": "2024-08-16"
  },
  "2408.09713": {
   "abstract": "Carbon footprint accounting is crucial for quantifying greenhouse gas emissions and achieving carbon neutrality.The dynamic nature of processes, accounting rules, carbon-related policies, and energy supply structures necessitates real-time updates of CFA. Traditional life cycle assessment methods rely heavily on human expertise, making near-real-time updates challenging. This paper introduces a novel approach integrating large language models (LLMs) with retrieval-augmented generation technology to enhance the real-time, professional, and economical aspects of carbon footprint information retrieval and analysis. By leveraging LLMs' logical and language understanding abilities and RAG's efficient retrieval capabilities, the proposed method LLMs-RAG-CFA can retrieve more relevant professional information to assist LLMs, enhancing the model's generative abilities. This method offers broad professional coverage, efficient real-time carbon footprint information acquisition and accounting, and cost-effective automation without frequent LLMs' parameter updates. Experimental results across five industries(primary aluminum, lithium battery, photovoltaic, new energy vehicles, and transformers)demonstrate that the LLMs-RAG-CFA method outperforms traditional methods and other LLMs, achieving higher information retrieval rates and significantly lower information deviations and carbon footprint accounting deviations. The economically viable design utilizes RAG technology to balance real-time updates with cost-effectiveness, providing an efficient, reliable, and cost-saving solution for real-time carbon emission management, thereby enhancing environmental sustainability practices.",
@@ -489,6 +558,52 @@
   "title": "A cost-effective strategy of enhancing machine learning potentials by transfer learning from a multicomponent dataset on ænet-PyTorch",
   "topics": [
    "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2024-08-23"
+ },
+ "2408.13053": {
+  "abstract": "When computing bounds, spatial branch-and-bound algorithms often linearly outer approximate convex relaxations for non-convex expressions in order to capitalize on the efficiency and robustness of linear programming solvers. Considering that linear outer approximations sacrifice accuracy when approximating highly nonlinear functions and recognizing the recent advancements in the efficiency and robustness of available methods to solve optimization problems with quadratic objectives and constraints, we contemplate here the construction of quadratic outer approximations of twice-differentiable convex functions for use in deterministic global optimization. To this end, we present a novel cutting-plane algorithm that determines the tightest scaling parameter, $α$, in the second-order Taylor series approximation quadratic underestimator proposed by Su et al. We use a representative set of convex functions extracted from optimization benchmark libraries to showcase--qualitatively and quantitatively--the tightness of the constructed quadratic underestimators and to demonstrate the overall computational efficiency of our algorithm. Furthermore, we extend our construction procedure to generate even tighter quadratic underestimators by allowing overestimation in infeasible polyhedral regions of optimization problems, as informed by the latter's linear constraints.",
+  "authors": [
+   "William R. Strahl",
+   "Arvind U. Raghunathan",
+   "Nikolaos V. Sahinidis",
+   "Chrysanthos E. Gounaris"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "William R. Strahl",
+  "pdf_url": "http://arxiv.org/pdf/2408.13053",
+  "primary_category": "math.OC",
+  "published": "2024-08-23",
+  "tags": [],
+  "title": "Constructing Tight Quadratic Relaxations for Global Optimization: I. Outer-Approximating Twice-Differentiable Convex Functions",
+  "topics": [
+   "via:author-whitelist:robust optimization, scheduling"
+  ],
+  "updated": "2024-08-23"
+ },
+ "2408.13058": {
+  "abstract": "Recent advances in the efficiency and robustness of algorithms solving convex quadratically constrained quadratic programming (QCQP) problems motivate developing techniques for creating convex quadratic relaxations that, although more expensive to compute, provide tighter bounds than their classical linear counterparts. In the first part of this two-paper series [Strahl et al., 2024], we developed a cutting plane algorithm to construct convex quadratic underestimators for twice-differentiable convex functions, which we extend here to address the case of non-convex difference-of-convex (d.c.) functions as well. Furthermore, we generalize our approach to consider a hierarchy of quadratic forms, thereby allowing the construction of even tighter underestimators. On a set of d.c. functions extracted from benchmark libraries, we demonstrate noteworthy reduction in the hypervolume between our quadratic underestimators and linear ones constructed at the same points. Additionally, we construct convex QCQP relaxations at the root node of a spatial branch-and-bound tree for a set of systematically created d.c. optimization problems in up to four dimensions, and we show that our relaxations reduce the gap between the lower bound computed by the state-of-the-art global optimization solver BARON and the optimal solution by an excess of 90%, on average.",
+  "authors": [
+   "William R. Strahl",
+   "Arvind U. Raghunathan",
+   "Nikolaos V. Sahinidis",
+   "Chrysanthos E. Gounaris"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "William R. Strahl",
+  "pdf_url": "http://arxiv.org/pdf/2408.13058",
+  "primary_category": "math.OC",
+  "published": "2024-08-23",
+  "tags": [],
+  "title": "Constructing Tight Quadratic Relaxations for Global Optimization: II. Underestimating Difference-of-Convex (D.C.) Functions",
+  "topics": [
+   "via:author-whitelist:robust optimization, scheduling"
   ],
   "updated": "2024-08-23"
  },

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -100,6 +100,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2512.17659">2512.17659</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13935.html">Informing Acquisition Functions via Foundation Models for Molecular Discovery</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Qi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2512.13935">2512.13935</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10055.html">A Primer on Bayesian Parameter Estimation and Model Selection for Battery Simulators</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Yannick Kuhn et al.</td>
@@ -124,10 +130,22 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2510.22121">2510.22121</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14206.html">Simulation-Based Optimization over Discrete Spaces using Projection to Continuous Latent Spaces</a></div></td>
+<td>Gabriel Hernández-Morales et al.</td>
+<td><a href="http://arxiv.org/abs/2510.14206">2510.14206</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12439.html">Kinetic modelling of the CO2 capture and utilisation on NiRu-Ca/Al dual function material via parameter estimation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Meshkat Dolat et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12439">2510.12439</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06546.html">RAISE: A self-driving laboratory for interfacial property formulation discovery</a></div></td>
+<td>Mohammad Nazeri et al.</td>
+<td><a href="http://arxiv.org/abs/2510.06546">2510.06546</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-04</td>
