@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06448.html">Performance guaranteed MPC Policy Approximation via Cost Guided Learning</a></div><div class="paper-tags"><a href="mpc-7d.html">mpc</a></div></td>
+<td>Chenchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06448">2605.06448</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01377.html">Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation</a></div><div class="paper-tags"><a href="separations-7d.html">separations</a></div></td>
 <td>Arghya Kundu et al.</td>

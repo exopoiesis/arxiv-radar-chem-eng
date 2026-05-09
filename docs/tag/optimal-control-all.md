@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>optimal-control — all</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <a href="optimal-control-90d.html">90d</a> <a href="optimal-control-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06448.html">Performance guaranteed MPC Policy Approximation via Cost Guided Learning</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a></div></td>
+<td>Chenchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06448">2605.06448</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01377.html">Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation</a></div><div class="paper-tags"><a href="separations-all.html">separations</a></div></td>
