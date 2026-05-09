@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>process-modeling — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="process-modeling-7d.html">7d</a> <strong>30d</strong> <a href="process-modeling-90d.html">90d</a> <a href="process-modeling-360d.html">360d</a> <a href="process-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15739.html">Hierarchical Decomposition of Separable Workflow-Nets</a></div></td>
 <td>Humam Kourani et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15739">2602.15739</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07415.html">SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a></div></td>
-<td>Roxana Petcu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07415">2604.07415</a></td>
 </tr>
 </tbody></table>
