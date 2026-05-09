@@ -1,29 +1,4 @@
 {
- "2402.17404": {
-  "abstract": "We present a generative diffusion model specifically tailored to the discovery of surface structures. The generative model takes into account substrate registry and periodicity by including masked atoms and $z$-directional confinement. Using a rotational equivariant neural network architecture, we design a method that trains a denoiser-network for diffusion alongside a force-field for guided sampling of low-energy surface phases. An effective data-augmentation scheme for training the denoiser-network is proposed to scale generation far beyond structure sizes represented in the training data. We showcase the generative model by investigating multiple surface systems and propose an atomistic structure model for a previously unknown silver-oxide domain-boundary of unprecedented size.",
-  "authors": [
-   "Nikolaj Rønne",
-   "Alán Aspuru-Guzik",
-   "Bjørk Hammer"
-  ],
-  "categories": [
-   "physics.comp-ph",
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": null,
-  "first_author": "Nikolaj Rønne",
-  "pdf_url": "http://arxiv.org/pdf/2402.17404",
-  "primary_category": "physics.comp-ph",
-  "published": "2024-02-27",
-  "tags": [
-   "generative-models"
-  ],
-  "title": "Generative diffusion model for surface structure discovery",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2024-07-02"
- },
  "2405.12478": {
   "abstract": "Used water treatment plays a pivotal role in advancing environmental sustainability. Economic model predictive control holds the promise of enhancing the overall operational performance of the water treatment facilities. In this study, we propose a data-driven economic predictive control approach within the Koopman modeling framework. First, we propose a deep learning-enabled input-output Koopman modeling approach, which predicts the overall economic operational cost of the wastewater treatment process based on input data and available output measurements that are directly linked to the operational costs. Subsequently, by leveraging this learned input-output Koopman model, a convex economic predictive control scheme is developed. The resulting predictive control problem can be efficiently solved by leveraging quadratic programming solvers, and complex non-convex optimization problems are bypassed. The proposed method is applied to a benchmark wastewater treatment process. The proposed method significantly improves the overall economic operational performance of the water treatment process. Additionally, the computational efficiency of the proposed method is significantly enhanced as compared to benchmark control solutions.",
   "authors": [
@@ -102,48 +77,6 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2024-07-16"
- },
- "2407.01063": {
-  "abstract": "Using new continuum and molecular line data from the ALMA Three-millimeter Observations of Massive Star-forming Regions (ATOMS) survey and archival VLA, 4.86 GHz data, we present direct observational evidence of hierarchical triggering relating three epochs of massive star formation in a ring-like H II region, G24.47+0.49. We find from radio flux analysis that it is excited by a massive star(s) of spectral type O8.5V-O8V from the first epoch of star formation. The swept-up ionized ring structure shows evidence of secondary collapse, and within this ring a burst of massive star formation is observed in different evolutionary phases, which constitutes the second epoch. ATOMS spectral line (e.g., HCO$^+$(1-0)) observations reveal an outer concentric molecular gas ring expanding at a velocity of $\\sim$ 9 $\\rm km\\,s^{-1}$, constituting the direct and unambiguous detection of an expanding molecular ring. It harbors twelve dense molecular cores with surface mass density greater than 0.05 $\\rm g\\,cm^{-2}$, a threshold typical of massive star formation. Half of them are found to be subvirial, and thus in gravitational collapse, making them third epoch of potential massive star-forming sites.",
-  "authors": [
-   "Anindya Saha",
-   "Anandmayee Tej",
-   "Hong-Li Liu",
-   "Tie Liu",
-   "Guido Garay",
-   "Paul F. Goldsmith",
-   "Chang Won Lee",
-   "Jinhua He",
-   "Mika Juvela",
-   "Leonardo Bronfman",
-   "Tapas Baug",
-   "Enrique Vazquez-Semadeni",
-   "Patricio Sanhueza",
-   "Shanghuo Li",
-   "James O. Chibueze",
-   "N. K. Bhadari",
-   "Lokesh K. Dewangan",
-   "Swagat Ranjan Das",
-   "Feng-Wei Xu",
-   "Namitha Issac",
-   "Jihye Hwang",
-   "L. Viktor Toth"
-  ],
-  "categories": [
-   "astro-ph.GA",
-   "astro-ph.SR"
-  ],
-  "comment": "18 pages, 7 figures, accepted for publication in The Astrophysical Journal Letters",
-  "first_author": "Anindya Saha",
-  "pdf_url": "http://arxiv.org/pdf/2407.01063",
-  "primary_category": "astro-ph.GA",
-  "published": "2024-07-01",
-  "tags": [],
-  "title": "Direct observational evidence of multi-epoch massive star formation in G24.47+0.49",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2024-07-01"
  },
  "2407.02114": {
   "abstract": "Topotactic chemical reaction (TCR) is a chemical process that transforms one crystalline phase to another while maintaining one or more of the original structural frameworks, typically induced by the local insertion, removal, or replacement of atoms in a crystal. The utilization of TCR in atomic-layer materials and surfaces of bulk crystals leads to exotic quantum phases, as highlighted by the control of topological phases, the emergence of two-dimensional (2D) superconductivity, and the realization of 2D ferromagnetism. Advanced surface-sensitive spectroscopies such as angle-resolved photoemission spectroscopy (ARPES) and scanning tunneling microscopy (STM) are leading techniques to visualize the electronic structure of such exotic states and provide us a guide to further functionalize material properties. In this review article, we summarize the recent progress in this field, with particular emphasis on intriguing results obtained by combining spectroscopies and TCR in thin films.",
@@ -406,33 +339,6 @@
   ],
   "updated": "2024-07-10"
  },
- "2407.08175": {
-  "abstract": "We introduce the generalized diffusive epidemic process, which is a metapopulation model for an epidemic outbreak where a non-sedentary population of walkers can jump along lattice edges with diffusion rates $D_S$ or $D_I$ if they are susceptible or infected, respectively, and recovered individuals possess permanent immunity. Individuals can be contaminated with rate $μ_c$ if they share the same lattice node with an infected individual and recover with rate $μ_r$, being removed from the dynamics. Therefore, the model does not have the conservation of the active particles composed of susceptible and infected individuals. The reaction-diffusion dynamics are separated into two stages: (i) Brownian diffusion, where the particles can jump to neighboring nodes, and (ii) contamination and recovery reactions. The dynamics are mapped into a growing process by activating lattice nodes with successful contaminations where activated nodes are interpreted as infection sources. In all simulations, the epidemic starts with one infected individual in a lattice filled with susceptibles. Our results indicate a phase transition in the dynamic percolation universality class controlled by the population size, irrespective of diffusion rates $D_S$ and $D_I$ and a subexponential growth of the epidemics in the percolation threshold.",
-  "authors": [
-   "V. R. Carvalho",
-   "T. F. A. Alves",
-   "G. A. Alves",
-   "D. S. M. Alencar",
-   "F. W. S. Lima",
-   "A. Macedo-Filho",
-   "R. S. Ferreira"
-  ],
-  "categories": [
-   "cond-mat.stat-mech",
-   "physics.soc-ph"
-  ],
-  "comment": "8 pages, 4 figures",
-  "first_author": "V. R. Carvalho",
-  "pdf_url": "http://arxiv.org/pdf/2407.08175",
-  "primary_category": "cond-mat.stat-mech",
-  "published": "2024-07-11",
-  "tags": [],
-  "title": "Generalized Diffusive Epidemic Process with Permanent Immunity in Two Dimensions",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2024-07-15"
- },
  "2407.08594": {
   "abstract": "In the fiber melt spinning of semi-crystalline polymers, the degree of crystallization can be non-homogeneous over the cross-section of the fiber, affecting the properties of the end product. For simulation-based process design, the question arises as to which fiber quantities and hence model equations must be resolved in radial direction to capture all practically relevant effects and at the same time imply a model that can be computed with reasonable effort. In this paper, we present a hierarchy of viscoelastic two-phase fiber models ranging from a complex, fully resolved and highly expensive three-dimensional description to a cross-sectionally averaged, cheap-to-evaluate one-dimensional model. In particular, we propose a novel stress-averaged one-two-dimensional fiber model, which circumvents additional assumptions on the inlet profiles needed in the established stress-resolved fiber model by Doufas et al.\\ (2001). Simulation results demonstrate the performance and application regime of the dimensionally reduced models. The novel stress-averaged variant provides fast and reliable results, especially in the regime of low flow-enhanced crystallization.",
   "authors": [
@@ -598,37 +504,6 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2024-07-17"
- },
- "2407.12919": {
-  "abstract": "We combine a new Galactic plane survey of Hydrogen Radio Recombination Lines (RRLs) with far-infrared (FIR) surveys of ionized Nitrogen, N+, to determine Nitrogen abundance across Galactic radius. RRLs were observed with NASA DSS-43 70m antenna and the Green Bank Telescope in 108 lines-of-sight spanning -135 degrees < l < 60 degrees, at b=0 degrees. These positions were also observed in [N II] 122 um and 205 um lines with the Herschel Space Observatory. Combining RRL and [N II] 122 um and 205 um observations in 41 of 108 samples with high signal-to-noise ratio, we studied ionized Nitrogen abundance distribution across Galactocentric distances of 0-8 kpc. Combined with existing Solar neighborhood and Outer galaxy N/H abundance determinations, we studied this quantity's distribution within the Milky Way's inner 17 kpc for the first time. We found a Nitrogen abundance gradient extending from Galactocentric radii of 4-17 kpc in the Galactic plane, while within 0-4 kpc, the N/H distribution remained flat. The gradient observed at large Galactocentric distances supports inside-out galaxy growth with the additional steepening resulting from variable star formation efficiency and/or radial flows in the Galactic disk, while the inner 4 kpc flattening, coinciding with the Galactic bar's onset, may be linked to radial flows induced by the bar potential. Using SOFIA/FIFI-LS and Herschel/PACS, we observed the [N III] 57 um line to trace doubly ionized gas contribution in a sub-sample of sightlines. We found negligible N++ contributions along these sightlines, suggesting mostly singly ionized Nitrogen originating from low ionization H II region outskirts.",
-  "authors": [
-   "Jorge L. Pineda",
-   "Shinji Horiuchi",
-   "L. D. Anderson",
-   "Matteo Luisi",
-   "William D. Langer",
-   "Paul F. Goldsmith",
-   "Thomas B. H. Kuiper",
-   "Christian Fischer",
-   "Yan Gong",
-   "Andreas Brunthaler",
-   "Michael Rugel",
-   "Karl M. Menten"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "Accepted for publication at the Astrophysical Journal. 25 pages, 13 figures",
-  "first_author": "Jorge L. Pineda",
-  "pdf_url": "http://arxiv.org/pdf/2407.12919",
-  "primary_category": "astro-ph.GA",
-  "published": "2024-07-17",
-  "tags": [],
-  "title": "Nitrogen Abundance Distribution in the inner Milky Way",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2024-07-19"
  },
  "2407.13607": {
   "abstract": "Multi-component metal nanoparticles (NPs) are of paramount importance in the chemical industry, as most processes therein employ heterogeneous catalysts. While these multi-component systems have been shown to result in higher product yields, improved selectivities, and greater stability through catalytic cycling, the structural dynamics of these materials in response to various stimuli (e.g. temperature, adsorbates, etc.) are not understood with atomistic resolution. Here, we present a highly accurate equivariant machine-learned force field (MLFF), constructed from ab initio training data collected using Bayesian active learning, that is able to reliably simulate PdAu surfaces and NPs in response to thermal treatment as well as exposure to reactive H$_2$ atmospheres. We thus provide a single model that is able to reliably describe the full space of geometric and chemical complexity for such a heterogeneous catalytic system across single crystals, gas-phase interactions, and NPs reacting with H$_2$, including catalyst degradation and explicit reactivity. Ultimately, we provide direct atomistic evidence that verifies existing experimental hypotheses for bimetallic catalyst deactivation under reaction conditions, namely that Pd preferentially segregates into the Au bulk through aggressive catalytic cycling and that this degradation is site-selective, as well as the reactivity for hydrogen exchange as a function of Pd ensemble size. We demonstrate that understanding of the atomistic evolution of these active sites is of the utmost importance, as it allows for design and control of material structure and corresponding performance, which can be vetted in silico.",
@@ -827,27 +702,6 @@
    "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2024-07-25"
- },
- "2407.18649": {
-  "abstract": "Data Quality (DQ) describes the degree to which data characteristics meet requirements and are fit for use by humans and/or systems. There are several aspects in which DQ can be measured, called DQ dimensions (i.e. accuracy, completeness, consistency, etc.), also referred to as characteristics in literature. ISO/IEC 25012 Standard defines a data quality model with fifteen such dimensions, setting the requirements a data product should meet. In this short report, we aim to bridge the gap between lower-level functionalities offered by DQ tools and higher-level dimensions in a systematic manner, revealing the many-to-many relationships between them. To this end, we examine 6 open-source DQ tools and we emphasize on providing a mapping between the functionalities they offer and the DQ dimensions, as defined by the ISO standard. Wherever applicable, we also provide insights into the software engineering details that tools leverage, in order to address DQ challenges.",
-  "authors": [
-   "Vasileios Papastergios",
-   "Anastasios Gounaris"
-  ],
-  "categories": [
-   "cs.DB"
-  ],
-  "comment": null,
-  "first_author": "Vasileios Papastergios",
-  "pdf_url": "http://arxiv.org/pdf/2407.18649",
-  "primary_category": "cs.DB",
-  "published": "2024-07-26",
-  "tags": [],
-  "title": "A survey of open-source data quality tools: shedding light on the materialization of data quality dimensions in practice",
-  "topics": [
-   "via:author-whitelist:robust optimization, scheduling"
-  ],
-  "updated": "2024-07-26"
  },
  "2407.18852": {
   "abstract": "In this paper, we present a nonlinear model predictive control (NMPC) algorithm for systems modeled by semi-explicit stochastic differential-algebraic equations (DAEs) of index 1. The NMPC combines a continuous-discrete extended Kalman filter (CD-EKF) with an optimal control problem (OCP) for setpoint tracking. We discretize the OCP using direct multiple shooting. We apply an explicit singly diagonal implicit Runge-Kutta (ESDIRK) integration scheme to solve systems of DAEs, both for the one-step prediction in the CD-EKF and in each shooting interval of the discretized OCP. The ESDIRK methods use an iterated internal numerical differentiation approach for precise sensitivity computations. These sensitivities are used to provide accurate gradient information in the OCP and to efficiently integrate the covariance information in the CD-EKF. Subsequently, we present a simulation case study where we apply the NMPC to a simple alkaline electrolyzer stack model. We use the NMPC to track a time-varying setpoint for the stack temperature subject to input bound constraints.",

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -100,12 +100,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.17659">2512.17659</a></td>
 </tr>
 <tr class="paper">
-<td>2025-12-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13935.html">Informing Acquisition Functions via Foundation Models for Molecular Discovery</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Qi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2512.13935">2512.13935</a></td>
-</tr>
-<tr class="paper">
 <td>2025-12-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10055.html">A Primer on Bayesian Parameter Estimation and Model Selection for Battery Simulators</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Yannick Kuhn et al.</td>
@@ -128,12 +122,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22121.html">Machine Learning Enables Optimization of Diamond for Quantum Applications</a></div></td>
 <td>Dane W. deQuilettes et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22121">2510.22121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14206.html">Simulation-Based Optimization over Discrete Spaces using Projection to Continuous Latent Spaces</a></div></td>
-<td>Gabriel Hernández-Morales et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14206">2510.14206</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-14</td>
@@ -242,12 +230,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02866.html">Optimal Power Management for Large-Scale Battery Energy Storage Systems via Bayesian Inference</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a> · <a href="mpc-all.html">mpc</a> · <a href="system-identification-all.html">system-identification</a></div></td>
 <td>Amir Farakhor et al.</td>
 <td><a href="http://arxiv.org/abs/2503.02866">2503.02866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18966.html">One Set to Rule Them All: How to Obtain General Chemical Conditions via Bayesian Optimization over Curried Functions</a></div></td>
-<td>Stefan P. Schmid et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18966">2502.18966</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-22</td>

@@ -1,34 +1,4 @@
 {
- "2404.17538": {
-  "abstract": "Context. Recent studies of the optical depth comparing [12CII] and [13CII] line profiles in Galactic star-forming regions revealed strong self-absorption in [12CII] by low excitation foreground material, implying a large column density of C+ corresponding to an equivalent AV of a few, up to about 10 mag.   Aims. As the nature and origin of such a large column of cold C+ foreground gas are difficult to explain, it is essential to constrain the physical conditions of this material.   Methods. We conducted high-resolution observations of [OI] 63 um and [OI] 145 um lines in M17 SW and Mon R2. The [OI] 145 um transition traces warm PDR-material, while the [OI] 63 um line traces foreground material as manifested by absorption dips.   Results. Comparison of both [OI] line profiles with [CII] isotopic lines confirms warm PDR-origin background emission and a significant column of cold foreground material causing self-absorption visible in [12CII] and [OI] 63 um profiles. In M17 SW, the C+ and O column densities are comparable for both layers. Mon R2 exhibits larger O columns compared to C+, indicating additional material where the carbon is neutral or in molecular form. Small-scale spatial variation of the foreground absorption profiles and the large column density (around 1E18 cm-2 ) of the foreground material suggest emission from high-density regions associated with the cloud complex, not a uniform diffuse foreground cloud.   Conclusions. The analysis confirms that the previously detected intense [CII] foreground absorption is attributable to a large column of low excitation dense atomic material, where carbon is ionized, and oxygen is in neutral atomic form.",
-  "authors": [
-   "C. Guevara",
-   "J. Stutzki V. Ossenkopf-Okada",
-   "U. Graf",
-   "Y. Okada",
-   "N. Schneider",
-   "P. F. Goldsmith",
-   "J. P. Pérez-Beaupuits",
-   "S. Kabanovic",
-   "M. Mertens",
-   "N. Rothbart",
-   "R. Güsten"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "30 pages, 24 figures",
-  "first_author": "C. Guevara",
-  "pdf_url": "http://arxiv.org/pdf/2404.17538",
-  "primary_category": "astro-ph.GA",
-  "published": "2024-04-26",
-  "tags": [],
-  "title": "The [OI] fine structure line profiles in Mon R2 and M17 SW: the puzzling nature of cold foreground material identified by [12CII] self-absorption",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2024-10-18"
- },
  "2406.16741": {
   "abstract": "Neutron-Transformer Reflectometry and Advanced Computation Engine (N-TRACE ), a neural network model using transformer architecture, is introduced for neutron reflectometry data analysis. It offers fast, accurate initial parameter estimations and efficient refinements, improving efficiency and precision for real-time data analysis of lithium-mediated nitrogen reduction for electrochemical ammonia synthesis, with relevance to other chemical transformations and batteries. Despite limitations in generalizing across systems, it shows promises for the use of transformers as the basis for models that could replace trial-and-error approaches to modeling reflectometry data.",
   "authors": [
@@ -153,39 +123,6 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2024-10-17"
- },
- "2409.10304": {
-  "abstract": "Machine learning has been pervasively touching many fields of science. Chemistry and materials science are no exception. While machine learning has been making a great impact, it is still not reaching its full potential or maturity. In this perspective, we first outline current applications across a diversity of problems in chemistry. Then, we discuss how machine learning researchers view and approach problems in the field. Finally, we provide our considerations for maximizing impact when researching machine learning for chemistry.",
-  "authors": [
-   "Austin Cheng",
-   "Cher Tian Ser",
-   "Marta Skreta",
-   "Andrés Guzmán-Cordero",
-   "Luca Thiede",
-   "Andreas Burger",
-   "Abdulrahman Aldossary",
-   "Shi Xuan Leong",
-   "Sergio Pablo-García",
-   "Felix Strieth-Kalthoff",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.LG",
-   "cond-mat.mtrl-sci",
-   "cs.AI",
-   "physics.chem-ph"
-  ],
-  "comment": null,
-  "first_author": "Austin Cheng",
-  "pdf_url": "http://arxiv.org/pdf/2409.10304",
-  "primary_category": "cs.LG",
-  "published": "2024-09-16",
-  "tags": [],
-  "title": "Spiers Memorial Lecture: How to do impactful research in artificial intelligence for chemistry and materials science",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2024-10-08"
  },
  "2410.00558": {
   "abstract": "The impressive performance of proprietary LLMs like GPT4 in code generation has led to a trend to replicate these capabilities in open-source models through knowledge distillation (e.g. Code Evol-Instruct). However, these efforts often neglect the crucial aspect of response quality, relying heavily on teacher models for direct response distillation. This paradigm, especially for complex instructions, can degrade the quality of synthesized data, compromising the knowledge distillation process. To this end, our study introduces the Adaptive Modular Response Evolution (AMR-Evol) framework, which employs a two-stage process to refine response distillation. The first stage, modular decomposition, breaks down the direct response into more manageable sub-modules. The second stage, adaptive response evolution, automatically evolves the response with the related function modules. Our experiments with three popular code benchmarks (HumanEval, MBPP, and EvalPlus) attest to the superiority of the AMR-Evol framework over baseline response distillation methods. By comparing with the open-source Code LLMs trained on a similar scale of data, we observed performance enhancements: more than +3.0 points on HumanEval-Plus and +1.0 points on MBPP-Plus, which underscores the effectiveness of our framework. Our codes are available at https://github.com/ChiYeungLaw/AMR-Evol.",
@@ -349,29 +286,6 @@
   ],
   "updated": "2024-10-04"
  },
- "2410.03989": {
-  "abstract": "In machine learning datasets with symmetries, the paradigm for backward compatibility with symmetry-breaking has been to relax equivariant architectural constraints, engineering extra weights to differentiate symmetries of interest. However, this process becomes increasingly over-engineered as models are geared towards specific symmetries/asymmetries hardwired of a particular set of equivariant basis functions. In this work, we introduce symmetry-cloning, a method for inducing equivariance in machine learning models. We show that general machine learning architectures (i.e., MLPs) can learn symmetries directly as a supervised learning task from group equivariant architectures and retain/break the learned symmetry for downstream tasks. This simple formulation enables machine learning models with group-agnostic architectures to capture the inductive bias of group-equivariant architectures.",
-  "authors": [
-   "Haozhe Huang",
-   "Leo Kaixuan Cheng",
-   "Kaiwen Chen",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.LG"
-  ],
-  "comment": null,
-  "first_author": "Haozhe Huang",
-  "pdf_url": "http://arxiv.org/pdf/2410.03989",
-  "primary_category": "cs.LG",
-  "published": "2024-10-05",
-  "tags": [],
-  "title": "Symmetry From Scratch: Group Equivariance as a Supervised Learning Task",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2024-10-05"
- },
  "2410.04140": {
   "abstract": "Knowledge distillation aims to transfer knowledge from a large teacher model to a compact student counterpart, often coming with a significant performance gap between them. We find that a too-large performance gap can hamper the training process, which is also verified in recent studies. To address this, we propose a Gap Preserving Distillation (GPD) method that trains an additional dynamic teacher model from scratch along with training the student to bridge this gap. In this way, it becomes possible to maintain a reasonable performance gap between teacher and student during the whole distillation process. To further strengthen distillation from the dynamic teacher to the student, we develop a hard strategy by enforcing them to share parameters and encouraging parameter inheritance. Besides hard strategy, we also build the soft bidirectional mappings between them which are built on an Inverse Reparameterization (IR) method and a Channel-Branch Reparameterization (CBR) strategy. We highlight that our IR is able to initialize a larger dynamic teacher with an arbitrary expansion ratio, while preserving exactly the same accuracy as the given student model. In this way, it guarantees that the dynamic teacher and student start from the same point and avoid a too large gap in early stage of training. As for our CBR, with parameter-sharing, it directly extracts an effective student model from the well-learned dynamic teacher without any post-training, making our method highly flexible for model deployment. In the experiments, GPD significantly outperforms existing distillation methods on top of both CNNs and transformers architectures, achieving up to 1.58% accuracy improvement. Interestingly, GPD also generalizes well to the scenarios without a pre-trained teacher, including training from scratch and fine-tuning, yielding a large improvement of 1.80% and 0.89% on ResNet18, respectively.",
   "authors": [
@@ -451,32 +365,6 @@
   "topics": [
    "Process Control & Optimization",
    "Process Modeling & System Identification"
-  ],
-  "updated": "2024-10-08"
- },
- "2410.06384": {
-  "abstract": "Chemputation is the process of programming chemical robots to do experiments using a universal symbolic language, but the literature can be error prone and hard to read due to ambiguities. Large Language Models (LLMs) have demonstrated remarkable capabilities in various domains, including natural language processing, robotic control, and more recently, chemistry. Despite significant advancements in standardizing the reporting and collection of synthetic chemistry data, the automatic reproduction of reported syntheses remains a labour-intensive task. In this work, we introduce an LLM-based chemical research agent workflow designed for the automatic validation of synthetic literature procedures. Our workflow can autonomously extract synthetic procedures and analytical data from extensive documents, translate these procedures into universal XDL code, simulate the execution of the procedure in a hardware-specific setup, and ultimately execute the procedure on an XDL-controlled robotic system for synthetic chemistry. This demonstrates the potential of LLM-based workflows for autonomous chemical synthesis with Chemputers. Due to the abstraction of XDL this approach is safe, secure, and scalable since hallucinations will not be chemputable and the XDL can be both verified and encrypted. Unlike previous efforts, which either addressed only a limited portion of the workflow, relied on inflexible hard-coded rules, or lacked validation in physical systems, our approach provides four realistic examples of syntheses directly executed from synthetic literature. We anticipate that our workflow will significantly enhance automation in robotically driven synthetic chemistry research, streamline data extraction, improve the reproducibility, scalability, and safety of synthetic and experimental chemistry.",
-  "authors": [
-   "Sebastian Pagel",
-   "Michael Jirasek",
-   "Leroy Cronin"
-  ],
-  "categories": [
-   "cs.AI",
-   "cs.CL",
-   "cs.IR"
-  ],
-  "comment": "22 pages, 7 figures, 34 references",
-  "first_author": "Sebastian Pagel",
-  "pdf_url": "http://arxiv.org/pdf/2410.06384",
-  "primary_category": "cs.AI",
-  "published": "2024-10-08",
-  "tags": [
-   "large-language-models"
-  ],
-  "title": "Validation of the Scientific Literature via Chemputation Augmented by Large Language Models",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
   ],
   "updated": "2024-10-08"
  },
@@ -588,27 +476,6 @@
   ],
   "updated": "2024-10-10"
  },
- "2410.08300": {
-  "abstract": "Deep learning technologies, particularly deep neural networks (DNNs), have demonstrated significant success across many domains. This success has been accompanied by substantial advancements and innovations in the algorithms behind the operations required by DNNs. These enhanced algorithms hold the potential to greatly increase the performance of DNNs. However, discovering the best performing algorithm for a DNN and altering the DNN to use such algorithm is a difficult and time consuming task. To address this, we introduce an open source framework which provides easy to use fine grain algorithmic control for DNNs, enabling algorithmic exploration and selection. Along with built-in high performance implementations of common deep learning operations, the framework enables users to implement and select their own algorithms to be utilized by the DNN. The framework's built-in accelerated implementations are shown to yield outputs equivalent to and exhibit similar performance as implementations in PyTorch, a popular DNN framework. Moreover, the framework incurs no additional performance overhead, meaning that performance depends solely on the algorithms chosen by the user.",
-  "authors": [
-   "Timothy L. Cronin",
-   "Sanmukh Kuppannagari"
-  ],
-  "categories": [
-   "cs.LG"
-  ],
-  "comment": "IEEE HPEC 2024",
-  "first_author": "Timothy L. Cronin",
-  "pdf_url": "http://arxiv.org/pdf/2410.08300",
-  "primary_category": "cs.LG",
-  "published": "2024-10-10",
-  "tags": [],
-  "title": "A Framework to Enable Algorithmic Design Choice Exploration in DNNs",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2024-10-10"
- },
  "2410.09166": {
   "abstract": "Battery energy storage systems (BESS) play an increasingly vital role in integrating renewable generation into power grids due to their ability to dynamically balance supply. Grid-tied batteries typically employ power converters, where part-load efficiencies vary non-linearly. While this non-linearity can be modeled with high accuracy, it poses challenges for optimization, particularly in ensuring computational tractability. In this paper, we consider a non-linear BESS formulation based on the Energy Reservoir Model (ERM). A data-driven approach is introduced with the input-convex neural network (ICNN) to approximate the nonlinear efficiency with a convex function. The epigraph of the convex function is used to engender a convex program for battery ERM optimization. This relaxed ICNN method is applied to two battery optimization use-cases: PV smoothing and revenue maximization, and it is compared with three other ERM formulations (nonlinear, linear, and mixed-integer). Specifically, ICNN-based methods appear to be promising for future battery optimization with desirable feasibility and optimality outcomes across both use-cases.",
   "authors": [
@@ -711,39 +578,6 @@
   "topics": [
    "Computational Fluid Dynamics & Multiphase Flow",
    "Process Control & Optimization"
-  ],
-  "updated": "2024-10-16"
- },
- "2410.12771": {
-  "abstract": "The ability to discover new materials with desirable properties is critical for numerous applications from helping mitigate climate change to advances in next generation computing hardware. AI has the potential to accelerate materials discovery and design by more effectively exploring the chemical space compared to other computational methods or by trial-and-error. While substantial progress has been made on AI for materials data, benchmarks, and models, a barrier that has emerged is the lack of publicly available training data and open pre-trained models. To address this, we present a Meta FAIR release of the Open Materials 2024 (OMat24) large-scale open dataset and an accompanying set of pre-trained models. OMat24 contains over 110 million density functional theory (DFT) calculations focused on structural and compositional diversity. Our EquiformerV2 models achieve state-of-the-art performance on the Matbench Discovery leaderboard and are capable of predicting ground-state stability and formation energies to an F1 score above 0.9 and an accuracy of 20 meV/atom, respectively. We explore the impact of model size, auxiliary denoising objectives, and fine-tuning on performance across a range of datasets including OMat24, MPtraj, and Alexandria. The open release of the OMat24 dataset and models enables the research community to build upon our efforts and drive further advancements in AI-assisted materials science.",
-  "authors": [
-   "Luis Barroso-Luque",
-   "Muhammed Shuaibi",
-   "Xiang Fu",
-   "Brandon M. Wood",
-   "Misko Dzamba",
-   "Meng Gao",
-   "Ammar Rizvi",
-   "C. Lawrence Zitnick",
-   "Zachary W. Ulissi"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci",
-   "cs.AI",
-   "physics.comp-ph"
-  ],
-  "comment": "19 pages",
-  "first_author": "Luis Barroso-Luque",
-  "pdf_url": "http://arxiv.org/pdf/2410.12771",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2024-10-16",
-  "tags": [
-   "dft",
-   "materials-discovery"
-  ],
-  "title": "Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models",
-  "topics": [
-   "via:author-whitelist:Open Catalyst, ML for catalysis"
   ],
   "updated": "2024-10-16"
  },
@@ -888,87 +722,6 @@
   ],
   "updated": "2024-10-19"
  },
- "2410.15333": {
-  "abstract": "In this paper, we present a detailed analysis of the IRS 17 filament within the intermediate-mass protocluster IRAS 08448-4343 (of $\\sim\\,10^3\\,\\rm L_{\\odot}$), using ALMA data from the ATOMS 3-mm and QUARKS 1.3-mm surveys. The IRS 17 filament, which spans $\\sim$54000 au ($0.26\\,\\rm pc$) in length and $\\sim$4000 au ($0.02\\,\\rm pc$) in width, exhibits a complex, multi-component velocity field, and harbours hierarchical substructures. These substructures include three bundles of seven velocity-coherent fibers, and 29 dense ($n\\sim 10^8\\,\\rm cm^{-3}$) condensations. The fibers have a median length of $\\sim 4500\\,\\rm au$ and a median width of $\\sim 1400\\,\\rm au$. Among these fibers, four are identified as ``fertile\", each hosting at least three dense condensations, which are regarded as the ``seeds\" of star formation. While the detected cores are randomly spaced within the IRS\\,17 filament based on the 3-mm dust continuum image, periodic spacing ($\\sim1600\\,\\rm au$) of condensations is observed in the fertile fibers according to the 1.3-mm dust map, consistent with the predictions of linear isothermal cylinder fragmentation models. These findings underscore the crucial role of fibers in star formation and suggest a hierarchical fragmentation process that extends from the filament to the fibers, and ultimately, to the smallest-scale condensations.",
-  "authors": [
-   "Dongting Yang",
-   "HongLi Liu",
-   "Tie Liu",
-   "Anandmayee Tej",
-   "Xunchuan Liu",
-   "Jinhua He",
-   "Guido Garay",
-   "Amelia Stutz",
-   "Lei Zhu",
-   "Sheng-Li Qin",
-   "Fengwei Xu",
-   "Pak-Shing Li",
-   "Mika Juvela",
-   "Pablo Garcia",
-   "Paul F. Goldsmith",
-   "Siju Zhang",
-   "Xindi Tang",
-   "Patricio Sanhueza",
-   "Shanghuo Li",
-   "Chang Won Lee",
-   "Swagat Ranjan Das",
-   "Wenyu Jiao",
-   "Xiaofeng Mai",
-   "Prasanta Gorai",
-   "Yichen Zhang",
-   "Zhiyuan Ren",
-   "L. Viktor Toth",
-   "Jihye Hwang",
-   "Leonardo Bronfman",
-   "Kenichi Tatematsu",
-   "Lokesh Dewangan",
-   "James O. Chibueze",
-   "Suinan Zhang",
-   "Gang Wu",
-   "Jinjin Xie"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "19 pages, 10 figures, 4 tables, accepted by ApJ",
-  "first_author": "Dongting Yang",
-  "pdf_url": "http://arxiv.org/pdf/2410.15333",
-  "primary_category": "astro-ph.GA",
-  "published": "2024-10-20",
-  "tags": [],
-  "title": "The ALMA-QUARKS Survey: Fibers' role in star formation unveiled in an intermediate-mass protocluster region of the Vela D cloud",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2024-10-22"
- },
- "2410.15775": {
-  "abstract": "The term `Digital Divide' emerged in the mid-1990s, highlighting the gap between those with access to emerging information technologies and those without. This gap persists for older adults even in the 21st century. To address this, our study focused on how older adults in Ireland can feel safer online. We conducted a two-phase study. In Phase I, 58 participants used Dot Voting to identify top cyber-security priorities, including password management, privacy, and avoiding scams. This informed Phase II, where we held focus groups with 31 participants from rural and urban communities in Ireland. Researchers provided tailored advice through presentations and leaflets, followed by open discussions. Our findings show that, despite being highly aware of cyber-scams, older adults remain very concerned about them. Participants expressed hesitation about using online password managers and two-factor authentication but valued advice on privacy and tools that can help them feel more in control online.",
-  "authors": [
-   "Ashley Sheil",
-   "Jacob Camilleri",
-   "Moya Cronin",
-   "Melanie Gruben",
-   "Michelle O Keefe",
-   "Hazel Murray",
-   "Sanchari Das"
-  ],
-  "categories": [
-   "cs.HC",
-   "cs.CY"
-  ],
-  "comment": null,
-  "first_author": "Ashley Sheil",
-  "pdf_url": "http://arxiv.org/pdf/2410.15775",
-  "primary_category": "cs.HC",
-  "published": "2024-10-21",
-  "tags": [],
-  "title": "Enhancing Personalised Cybersecurity Guidance for Older Adults in Ireland",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2024-10-21"
- },
  "2410.16972": {
   "abstract": "Bayesian optimisation (BO) is a powerful framework for global optimisation of costly functions, using predictions from Gaussian process models (GPs). In this work, we apply BO to functions that exhibit invariance to a known group of transformations. We show that vanilla and constrained BO algorithms are inefficient when optimising such invariant objectives, and provide a method for incorporating group invariances into the kernel of the GP to produce invariance-aware algorithms that achieve significant improvements in sample efficiency. We derive a bound on the maximum information gain of these invariant kernels, and provide novel upper and lower bounds on the number of observations required for invariance-aware BO algorithms to achieve $ε$-optimality. We demonstrate our method's improved performance on a range of synthetic invariant and quasi-invariant functions. We also apply our method in the case where only some of the invariance is incorporated into the kernel, and find that these kernels achieve similar gains in sample efficiency at significantly reduced computational cost. Finally, we use invariant BO to design a current drive system for a nuclear fusion reactor, finding a high-performance solution where non-invariant methods failed.",
   "authors": [
@@ -992,45 +745,6 @@
   "topics": [
    "Process Modeling & System Identification",
    "Uncertainty Quantification & Bayesian Methods"
-  ],
-  "updated": "2024-10-22"
- },
- "2410.17455": {
-  "abstract": "Fragmentation and evolution for the molecular shells of the compact HII regions are less explored compared to their evolved counterparts. We map nine compact HII regions with a typical diameter of 0.4 pc that are surrounded by molecular shells traced by CCH. Several to a dozen dense gas fragments probed by H13CO+ are embedded in these molecular shells. These gas fragments, strongly affected by the HII region, have a higher surface density, mass, and turbulence than those outside the shells but within the same pc-scale natal clump. These features suggest that the shells swept up by the early HII regions can enhance the formation of massive dense structures that may host the birth of higher-mass stars. We examine the formation of fragments and find that fragmentation of the swept-up shell is unlikely to occur in these early HII regions, by comparing the expected time scale of shell fragmentation with the age of HII region. We propose that the appearance of gas fragments in these shells is probably the result of sweeping up pre-existing fragments into the molecular shell that has not yet fragmented. Taken together, this work provides a basis for understanding the interplay of star-forming sites with an intricate environment containing ionization feedback such as those observed in starburst regions.",
-  "authors": [
-   "Siju Zhang",
-   "Tie Liu",
-   "Ke Wang",
-   "Annie Zavagno",
-   "Guido Garay",
-   "Hongli Liu",
-   "Fengwei Xu",
-   "Xunchuan Liu",
-   "Patricio Sanhueza",
-   "Archana Soam",
-   "Jian-wen Zhou",
-   "Shanghuo Li",
-   "Paul F. Goldsmith",
-   "Yong Zhang",
-   "James O. Chibueze",
-   "Chang Won Lee",
-   "Jihye Hwang",
-   "Leonardo Bronfman",
-   "Lokesh K. Dewangan"
-  ],
-  "categories": [
-   "astro-ph.GA",
-   "astro-ph.SR"
-  ],
-  "comment": "Accepted by MNRAS, 24 pages, 14 figures",
-  "first_author": "Siju Zhang",
-  "pdf_url": "http://arxiv.org/pdf/2410.17455",
-  "primary_category": "astro-ph.GA",
-  "published": "2024-10-22",
-  "tags": [],
-  "title": "ATOMS: ALMA three-millimeter observations of massive star-forming regions -- XVIII. On the origin and evolution of dense gas fragments in molecular shells of compact HII regions",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
   ],
   "updated": "2024-10-22"
  },
@@ -1218,31 +932,6 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2024-10-30"
- },
- "2410.23940": {
-  "abstract": "The feasibility of variational quantum algorithms, the most popular correspondent of neural networks on noisy, near-term quantum hardware, is highly impacted by the circuit depth of the involved parametrized quantum circuits (PQCs). Higher depth increases expressivity, but also results in a detrimental accumulation of errors. Furthermore, the number of parameters involved in the PQC significantly influences the performance through the necessary number of measurements to evaluate gradients, which scales linearly with the number of parameters.   Motivated by this, we look at deep equilibrium models (DEQs), which mimic an infinite-depth, weight-tied network using a fraction of the memory by employing a root solver to find the fixed points of the network. In this work, we present Quantum Deep Equilibrium Models (QDEQs): a training paradigm that learns parameters of a quantum machine learning model given by a PQC using DEQs. To our knowledge, no work has yet explored the application of DEQs to QML models. We apply QDEQs to find the parameters of a quantum circuit in two settings: the first involves classifying MNIST-4 digits with 4 qubits; the second extends it to 10 classes of MNIST, FashionMNIST and CIFAR. We find that QDEQ is not only competitive with comparable existing baseline models, but also achieves higher performance than a network with 5 times more layers. This demonstrates that the QDEQ paradigm can be used to develop significantly more shallow quantum circuits for a given task, something which is essential for the utility of near-term quantum computers.   Our code is available at https://github.com/martaskrt/qdeq.",
-  "authors": [
-   "Philipp Schleich",
-   "Marta Skreta",
-   "Lasse B. Kristensen",
-   "Rodrigo A. Vargas-Hernández",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.LG",
-   "quant-ph"
-  ],
-  "comment": "To be published in NeurIPS 2024",
-  "first_author": "Philipp Schleich",
-  "pdf_url": "http://arxiv.org/pdf/2410.23940",
-  "primary_category": "cs.LG",
-  "published": "2024-10-31",
-  "tags": [],
-  "title": "Quantum Deep Equilibrium Models",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2024-10-31"
  },
  "2411.03329": {
   "abstract": "The High Temperature Reactor Code Package provides sophisticated modeling and simulation capabilities for high temperature gas cooled reactors like the HTR-200 Modul. However, HCP currently lacks integrated methods for uncertainty quantification and sensitivity analysis. This work aims to couple HCP with the DAKOTA toolkit to enable UQ workflows for quantifying how different uncertainties impact HTGR system performance. DAKOTA offers state of the art sampling and analysis methods that will be linked to the HCP time-dependent multiphysics environment. Key input parameters related to manufacturing variability, boundary and initial conditions, and material properties will be defined as uncertain in this study. Both steady state and time-dependent multiphysics simulations will be analyzed to understand the relative importance of uncertainties across different physics phenomena. Output metrics of interest can include anything measured by the HCP code. Results show the HTR-200 Modul design's robustness to input uncertainties related to inlet gas temperature, U-235 enrichment, graphite density, inlet mass flow rate, and reactor power. A pressurized loss of forced cooling transient was simulated against uncertainty in the inlet gas temperature. Results show the maximum fuel temperature is within design limits with a relatively big safety margin even when considering uncertainty in the boundary conditions of the reactor. Future work will expand the analysis to more HCP physics modules and nuclear data uncertainties. By leveraging UQ and sensitivity analysis with the linked HCP/DAKOTA environment, this work will provide valuable new insights into the expected performance variability of HTR systems during normal and off-normal conditions. The framework developed here will aid uncertainty management activities by gas-cooled reactor developers, researchers, and regulators.",

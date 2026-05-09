@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>optimal-control — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <strong>30d</strong> <a href="optimal-control-90d.html">90d</a> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11765.html">State constrained stochastic optimal control of a PV system with battery storage via Fokker-Planck and Hamilton-Jacobi-Bellman equations</a></div><div class="paper-tags"><a href="energy-storage-30d.html">energy-storage</a> · <a href="mpc-30d.html">mpc</a></div></td>
 <td>Alfredo Bermúdez et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11765">2506.11765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07693.html">On Linear Critical-Region Boundaries in Continuous-Time Multiparametric Optimal Control</a></div></td>
-<td>Lida Lamakani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07693">2604.07693</a></td>
 </tr>
 </tbody></table>

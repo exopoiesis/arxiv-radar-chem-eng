@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalyst-design — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <strong>30d</strong> <a href="catalyst-design-90d.html">90d</a> <a href="catalyst-design-360d.html">360d</a> <a href="catalyst-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11540.html">A collaborative agent with two lightweight synergistic models for autonomous crystal materials research</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="large-language-models-30d.html">large-language-models</a></div></td>
 <td>Tongyu Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11540">2604.11540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07483.html">Stability of Supported Pd-based Ethanol Oxidation Reaction Electrocatalysts in Alkaline Media</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="fuel-cells-30d.html">fuel-cells</a></div></td>
-<td>Tuani C. Gentil et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07483">2604.07483</a></td>
 </tr>
 </tbody></table>

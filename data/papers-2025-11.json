@@ -240,30 +240,6 @@
   ],
   "updated": "2025-11-03"
  },
- "2507.02752": {
-  "abstract": "The disconnect between AI-generated molecules with desirable properties and their synthetic feasibility remains a critical bottleneck in computational discovery of drugs and materials. While generative AI has accelerated the proposal of candidate molecules, many of these structures prove challenging or impossible to synthesize using established chemical reactions. Here, we introduce SynTwins, a novel retrosynthesis-guided molecule design framework that finds synthetically accessible molecular analogs by emulating expert chemists' strategies in three steps: retrosynthesis, searching similar building blocks, and virtual synthesis. Using a search algorithm instead of a stochastic data-driven generator, SynTwins outperforms state-of-the-art machine learning models at exploring synthetically accessible analogs while maintaining high structural similarity to original target molecules. Furthermore, when integrated into existing molecular property-optimization frameworks, our hybrid approach produces synthetically feasible analogs with minimal loss in property scores. Our comprehensive benchmarking across diverse molecular datasets demonstrates that SynTwins effectively bridges the gap between computational design and experimental synthesis, providing a practical solution for accelerating the discovery of synthesizable molecules with desired properties for a wide range of applications.",
-  "authors": [
-   "Shuan Chen",
-   "Gunwook Nam",
-   "Alan Aspuru-Guzik",
-   "Yousung Jung"
-  ],
-  "categories": [
-   "physics.chem-ph",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Shuan Chen",
-  "pdf_url": "http://arxiv.org/pdf/2507.02752",
-  "primary_category": "physics.chem-ph",
-  "published": "2025-07-03",
-  "tags": [],
-  "title": "SynTwins: A Retrosynthesis-Guided Framework for Synthesizable Molecular Analog Generation",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-11-22"
- },
  "2507.18320": {
   "abstract": "The rapid adoption of battery-powered vehicles and energy storage systems over the past decade has made battery health monitoring increasingly critical. Batteries play a central role in the efficiency and safety of these systems, yet they inevitably degrade over time due to repeated charge-discharge cycles. This degradation leads to reduced energy efficiency and potential overheating, posing significant safety concerns. Accurate estimation of a State of Health (SoH) of battery is therefore essential for ensuring operational reliability and safety. Several machine learning architectures, such as LSTMs, transformers, and encoder-based models, have been proposed to estimate SoH from discharge cycle data. However, these models struggle with the irregularities inherent in real-world measurements: discharge readings are often recorded at non-uniform intervals, and the lengths of discharge cycles vary significantly. To address this, most existing approaches extract features from the sequences rather than processing them in full, which introduces information loss and compromises accuracy. To overcome these challenges, we propose a novel architecture: Time-Informed Dynamic Sequence Inverted Transformer (TIDSIT). TIDSIT incorporates continuous time embeddings to effectively represent irregularly sampled data and utilizes padded sequences with temporal attention mechanisms to manage variable-length inputs without discarding sequence information. Experimental results on the NASA battery degradation dataset show that TIDSIT significantly outperforms existing models, achieving over 50% reduction in prediction error and maintaining an SoH prediction error below 0.58%. Furthermore, the architecture is generalizable and holds promise for broader applications in health monitoring tasks involving irregular time-series data.",
   "authors": [
@@ -403,31 +379,6 @@
   ],
   "updated": "2025-11-26"
  },
- "2510.06759": {
-  "abstract": "Quantum phase estimation (QPE) and Lindbladian dynamics are both foundational in quantum information science and central to quantum algorithm design. In this work, we bridge these two concepts: certain simple Lindbladian processes can be adapted to perform QPE-type tasks. However, unlike QPE, which achieves Heisenberg-limit scaling, these Lindbladian evolutions are restricted to standard quantum limit complexity. This indicates that, different from Hamiltonian dynamics, the natural dissipative evolution speed of such Lindbladians does not saturate the fundamental quantum limit, thereby suggesting the potential for quadratic fast-forwarding. We confirm this by presenting a quantum algorithm that simulates these Lindbladians for time $t$ within an error $\\varepsilon$ using $\\mathcal{O}\\left(\\sqrt{t\\log(\\varepsilon^{-1})}\\right)$ cost, whose mechanism is fundamentally different from the fast-forwarding examples of Hamiltonian dynamics. As a bonus, this fast-forwarded simulation naturally serves as a new Heisenberg-limit QPE algorithm. Therefore, our work explicitly bridges the standard quantum limit-Heisenberg limit transition to the fast-forwarding of dissipative dynamics. We also adopt our fast-forwarding algorithm for efficient Gibbs state preparation and demonstrate the counter-intuitive implication: the allowance of a quadratically accelerated decoherence effect under arbitrary Pauli noise.",
-  "authors": [
-   "Zhong-Xia Shang",
-   "Naixu Guo",
-   "Patrick Rebentrost",
-   "Alán Aspuru-Guzik",
-   "Tongyang Li",
-   "Qi Zhao"
-  ],
-  "categories": [
-   "quant-ph"
-  ],
-  "comment": "7+19 pages, 1+2 figures, comments are welcome!",
-  "first_author": "Zhong-Xia Shang",
-  "pdf_url": "http://arxiv.org/pdf/2510.06759",
-  "primary_category": "quant-ph",
-  "published": "2025-10-08",
-  "tags": [],
-  "title": "Fast-forwardable Lindbladians imply quantum phase estimation",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-11-15"
- },
  "2510.08835": {
   "abstract": "Burnup measurement is essential for monitoring and controlling pebble bed reactors (PBRs), where fuel pebbles circulate rapidly through the core. However, conventional gamma spectroscopy using high purity germanium (HPGe) detectors is difficult due to high activity levels in discharge pebbles, leading to excessive dead time and Compton scattering. This study explores the use of bent crystal diffraction (BCD) spectrometers to filter the emitted gamma spectrum and isolate key peaks for improved measurement accuracy and speed. Pebble wise depletion calculations were performed and the resulting spectra were analyzed using ray tracing (SHADOW3) and gamma response modeling (GADRAS). Key isotopes, $^{137m}$Ba/$^{137}$Cs, $^{239}$Pu, $^{144}$Ce, $^{148m}$Pm, and $^{140}$La, were found to strongly correlate with burnup, residence time, core passes, plutonium production, and fluence. Machine learning regression models applied to simulated spectra achieved a coefficient of determination ($R^2$) as high as 0.995 for burnup prediction. Among various BCD configurations, mosaic silicon crystals in the (440) orientation combined with an HPGe detector provided optimal performance for $^{137m}$Ba, while (220) and (440) configurations paired with scintillators were effective for the remaining isotopes.",
   "authors": [
@@ -513,62 +464,6 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2025-11-06"
- },
- "2511.01285": {
-  "abstract": "We present an analysis of the QUARKS survey sample, focusing on protoclusters where Hot Molecular Cores (HMCs, traced by CH3CN(12--11)) and UC HII regions (traced by H30α/H40α) coexist. Using the high-resolution, high-sensitivity 1.3 mm data from the QUARKS survey, we identify 125 Hot Molecular Fragments (HMFs), which represent the substructures of HMCs at higher resolution. From line integrated intensity maps of CH3CN(12--11) and H30α, we resolve the spatial distribution of HMFs and UC HII regions. By combining with observations of CO outflows and 1.3 mm continuum, we classify HMFs into four types: HMFs associated with jet-like outflow, with wide-angle outflow, with non-detectable outflow, and shell-like HMFs near UC HII regions. This diversity possibly indicates that the hot core could be polymorphic and long-standing phenomenon in the evolution of massive protostars. The separation between HMFs and H30α/H40αemission suggests that sequential high-mass star formation within young protoclusters is not likely related to feedback mechanisms.",
-  "authors": [
-   "Dezhao Meng",
-   "Tie Liu",
-   "Jarken Esimbek",
-   "Sheng-Li Qin",
-   "Guido Garay",
-   "Paul F. Goldsmith",
-   "Jianjun Zhou",
-   "Xindi Tang",
-   "Wenyu Jiao",
-   "Yan-Kun Zhang",
-   "Fengwei Xu",
-   "Siju Zhang",
-   "Anandmayee Tej",
-   "Leonardo Bronfman",
-   "Aiyuan Yang",
-   "Sami Dib",
-   "Swagat R. Das",
-   "Jihye Hwang",
-   "Archana Soam",
-   "Yisheng Qiu",
-   "Dalei Li",
-   "Yuxin He",
-   "Gang Wu",
-   "Lokesh Dewangan",
-   "James O. Chibueze",
-   "Pablo García",
-   "Prasanta Gorai",
-   "Naval Kishor Bhadari",
-   "Yong Zhang",
-   "Patricio Sanhueza",
-   "Yongquan Luo",
-   "Jia-Hang Zou",
-   "Kee-Tae Kim",
-   "Dongting Yang",
-   "Lei Zhu",
-   "Xunchuan Liu",
-   "Macleod Gordon"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "resubmitted to ApJ after taking into account referee's comments",
-  "first_author": "Dezhao Meng",
-  "pdf_url": "http://arxiv.org/pdf/2511.01285",
-  "primary_category": "astro-ph.GA",
-  "published": "2025-11-03",
-  "tags": [],
-  "title": "The ALMA-QUARKS survey: Hot Molecular Cores are a long-standing phenomenon in the evolution of massive protostars",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2025-11-03"
  },
  "2511.01745": {
   "abstract": "Battery safety is critical in applications ranging from consumer electronics to electric vehicles and aircraft, where undetected anomalies could trigger safety hazards or costly downtime. In this study, we present OSBAD as an open-source benchmark for anomaly detection frameworks in battery applications. By benchmarking 15 diverse algorithms encompassing statistical, distance-based, and unsupervised machine-learning methods, OSBAD enables a systematic comparison of anomaly detection methods across heterogeneous datasets. In addition, we demonstrate how a physics- and statistics-informed feature transformation workflow enhances anomaly separability by decomposing collective anomalies into point anomalies. To address a major bottleneck in unsupervised anomaly detection due to incomplete labels, we propose a Bayesian optimization pipeline that facilitates automated hyperparameter tuning based on transfer-learning and regression proxies. Through validation on datasets covering both liquid and solid-state chemistries, we further demonstrate the cross-chemistry generalization capability of OSBAD to identify irregularities across different electrochemical systems. By making benchmarking database with open-source reproducible anomaly detection workflows available to the community, OSBAD establishes a unified foundation for developing safe, scalable, and transferable anomaly detection tools in battery analytics. This research underscores the significance of physics- and statistics-informed feature engineering as well as model selection with probabilistic hyperparameter tuning, in advancing trustworthy, data-driven diagnostics for safety-critical energy systems.",
@@ -746,28 +641,6 @@
   ],
   "updated": "2025-11-01"
  },
- "2511.06340": {
-  "abstract": "Two-stage stochastic mixed-integer linear programs with mixed-integer recourse arise in many practical applications but are computationally challenging due to their large size and the presence of integer decisions in both stages. The integer L-shaped method with alternating cuts is a widely used decomposition algorithm for these problems, relying on optimality cuts generated using subproblems to iteratively refine the master problem. A key computational bottleneck in this approach is solving the mixed-integer subproblems to optimality in order to generate separating cuts. This work proposes a modification to the integer L-shaped method with alternating cuts to allow for efficient generation of no-good optimality cuts that are separating for the current master problem solutions without being supporting hyperplanes of the feasible region. These separating cuts are derived from subproblems that are terminated before the optimal solution is found or proven to be optimal, reducing the computational effort required for cut generation. Additionally, an updated optimality cut generation function is proposed to account for the various complexities introduced by this early termination strategy. The effectiveness of the proposed method is demonstrated through two case studies on industrially relevant problems from the literature, which illustrate its advantages in handling large-scale instances with complex mixed-integer subproblems. In these cases, the method achieves substantial reductions in solution time or optimality gap compared to the standard integer L-shaped method with alternating cuts, with performance improvements that increase with mixed-integer subproblem size and complexity.",
-  "authors": [
-   "Benjamin P. Riley",
-   "Prodromos Daoutidis",
-   "Qi Zhang"
-  ],
-  "categories": [
-   "math.OC"
-  ],
-  "comment": null,
-  "first_author": "Benjamin P. Riley",
-  "pdf_url": "http://arxiv.org/pdf/2511.06340",
-  "primary_category": "math.OC",
-  "published": "2025-11-09",
-  "tags": [],
-  "title": "Integer L-Shaped Method with Non-Supporting No-Good Optimality Cuts",
-  "topics": [
-   "via:author-whitelist:process control, networks"
-  ],
-  "updated": "2025-11-09"
- },
  "2511.07138": {
   "abstract": "We consider the thermal dunking problem, in which a solid body is suddenly immersed in a fluid of different temperature, and study both the temporal evolution of the solid and the associated Biot number -- a non-dimensional heat transfer coefficient characterizing heat exchange across the solid-fluid interface. We focus on the small-Biot-number regime. The problem is accurately described by the conjugate heat transfer (CHT) formulation, which couples the Navier-Stokes and energy equations in the fluid with the heat equation in the solid through interfacial continuity conditions. Because full CHT simulations are computationally expensive, simplified models are often used in practice. Starting from the coupled equations, we systematically reduce the formulation to the lumped-capacitance model, a single ordinary differential equation with a closed-form solution, based on two assumptions: time scale separation and a spatially uniform solid temperature. The total modeling error is decomposed into time homogenization and lumping contributions. We derive an asymptotic error bound for the lumping error, valid for general heterogeneous solids and spatially varying heat transfer coefficients. Building on this theoretical result, we introduce a computable upper bound expressed in measurable quantities for practical evaluation. Time scale separation is analyzed theoretically and supported by physical arguments and simulations, showing that large separation yields small time homogenization errors. In practice, the Biot number must be estimated from so-called empirical correlations, which are typically limited to specific canonical geometries. We propose a data-driven framework that extends empirical correlations to a broader range of geometries through learned characteristic length scales. All results are validated by direct numerical simulations up to Reynolds numbers of 10,000.",
   "authors": [
@@ -932,42 +805,6 @@
   ],
   "updated": "2025-11-13"
  },
- "2511.10882": {
-  "abstract": "The physical and chemical conditions within a protoplanetary disk play a crucial role in determining its chemical composition, which is subsequently inherited by any forming planets. To probe these conditions, high-resolution molecular line observations, coupled with modelling, are essential. In this study, we investigate the chemistry of the nearby, massive, and relatively line-rich protoplanetary disk around HD 163296 using high-resolution observations from ALMA across Bands 3, 4, 6, and 7. We constrain the disk-averaged and radial distributions of column density and excitation temperature for the detected molecules using the new retrieval code DRive. The disk chemistry is modelled using the astrochemical code PEGASIS, with variations in the initial elemental C/O ratio. Our modelling, informed by molecular observations of HCO+, DCO+, HCN, DCN, CS, HC3N, H2CO, CH3OH, HNCO, and NH2CHO, allows us to place strong constraints on the C/O ratio, with a best-fit value of 1.1 that is broadly consistent with previous estimates. We present the highest-resolution DCO+ emission map of this disk to date, revealing triple-ringed chemical substructures that closely align with the dust continuum rings. Additionally, our results provide the first and most stringent upper limits on the column densities of NH2CHO and HNCO in this protoplanetary disk, measured at < 7e11 cm-2 and < 1e11 cm-2, respectively. Our chemical models suggest that NH2CHO and HNCO predominantly form on grain surfaces within the disk. However, physico-chemical desorption mechanisms are inefficient at releasing these species into detectable gas-phase abundances, yet they remain promising targets for future ALMA observations.",
-  "authors": [
-   "Parashmoni Kashyap",
-   "Liton Majumdar",
-   "Edwin A. Bergin",
-   "Geoffrey A. Blake",
-   "Karen Willacy",
-   "Stéphane Guilloteau",
-   "Anne Dutrey",
-   "Sheng-Yuan Liu",
-   "Thomas Henning",
-   "Paul F. Goldsmith",
-   "Dariusz C. Lis",
-   "S. Maitrey",
-   "Neal Turner",
-   "Raghvendra Sahai",
-   "Chin-Fei Lee",
-   "Masao Saito"
-  ],
-  "categories": [
-   "astro-ph.EP",
-   "astro-ph.GA"
-  ],
-  "comment": "Accepted for publication in The Astrophysical Journal Supplement Series (ApJS). 43 pages, 21 figures, 4 tables",
-  "first_author": "Parashmoni Kashyap",
-  "pdf_url": "http://arxiv.org/pdf/2511.10882",
-  "primary_category": "astro-ph.EP",
-  "published": "2025-11-14",
-  "tags": [],
-  "title": "Unveiling the Chemical Complexity and C/O Ratio of the HD 163296 Protoplanetary Disk: Constraints from Multi-line ALMA Observations of Organics, Nitriles, Sulfur-bearing, and Deuterated Molecules",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2025-11-14"
- },
  "2511.11180": {
   "abstract": "Prognostics and Health Management is crucial for the reliability and lifetime assessment of Polymer Electrolyte Fuel Cells (PEFCs). Here, we review the current advances on this topic, focusing mainly on key degradation mechanisms and methodologies such as physics-aware, data-driven, and hybrid modeling approaches. Key open challenges are analyzed, including the need for more accurate degradation modeling, effective management of multi-stack systems, and advancements in the currently underdeveloped action phase, in which diagnostic and prognostic insights are translated into real-time system responses, such as dynamic load derating, thermal-management adjustments, or automated maintenance triggers, to prevent failures and extend PEFC life. While notable strides have been made in recent years in diagnostics and remaining useful life estimation, it remains challenging to seamlessly integrate these insights into actionable strategies. Future directions highlight the need to address data scarcity and advance interdisciplinary research. Key focus areas include sensor integration, artificial intelligence, and digital twins. Additionally material innovations play a crucial role in bridging existing gaps. This work, therefore, intends to map the further development of Prognostics and Health Management systems toward ensuring the viability of PEFCs in practical applications.",
   "authors": [
@@ -1075,31 +912,6 @@
   ],
   "updated": "2025-11-07"
  },
- "2511.11870": {
-  "abstract": "This work introduces an end-to-end graph-based agent for accelerating the computational efficiency of Benders Decomposition. The agent's policy is parameterized by a graph neural network which takes as input a bipartite graph representation of the master problem and proposes a candidate solution. The agent is trained using a two-stage approach that combines imitation (IL) and reinforcement learning (RL). IL is used to mimic a solver and obtain a warm-start policy which is then finetuned using RL with a reward signal that balances feasibility and computational efficiency. We augment the agent with a verification mechanism that checks the agent's prediction for feasibility and solution quality. The framework is evaluated in two case studies: (i) an illustrative mixed-integer nonlinear program, where it reduces the solution time by 42% without loss of solution quality, and (ii) a closed-loop irrigation scheduling problem, where it achieves a 23% time reduction without compromising water use efficiency.",
-  "authors": [
-   "Bernard T. Agyeman",
-   "Zhe Li",
-   "Ilias Mitrai",
-   "Prodromos Daoutidis"
-  ],
-  "categories": [
-   "math.OC"
-  ],
-  "comment": null,
-  "first_author": "Bernard T. Agyeman",
-  "pdf_url": "http://arxiv.org/pdf/2511.11870",
-  "primary_category": "math.OC",
-  "published": "2025-11-14",
-  "tags": [
-   "graph-neural-networks"
-  ],
-  "title": "Graph-Based Imitation and Reinforcement Learning for Efficient Benders Decomposition",
-  "topics": [
-   "via:author-whitelist:process control, networks"
-  ],
-  "updated": "2025-11-14"
- },
  "2511.12095": {
   "abstract": "Event cameras sense brightness changes and output binary asynchronous event streams, attracting increasing attention. Their bio-inspired dynamics align well with spiking neural networks (SNNs), offering a promising energy-efficient alternative to conventional vision systems. However, SNNs remain costly to train due to temporal coding, which limits their practical deployment. To alleviate the high training cost of SNNs, we introduce \\textbf{PACE} (Phase-Aligned Condensation for Events), the first dataset distillation framework to SNNs and event-based vision. PACE distills a large training dataset into a compact synthetic one that enables fast SNN training, which is achieved by two core modules: \\textbf{ST-DSM} and \\textbf{PEQ-N}. ST-DSM uses residual membrane potentials to densify spike-based features (SDR) and to perform fine-grained spatiotemporal matching of amplitude and phase (ST-SM), while PEQ-N provides a plug-and-play straight through probabilistic integer quantizer compatible with standard event-frame pipelines. Across DVS-Gesture, CIFAR10-DVS, and N-MNIST datasets, PACE outperforms existing coreset selection and dataset distillation baselines, with particularly strong gains on dynamic event streams and at low or moderate IPC. Specifically, on N-MNIST, it achieves \\(84.4\\%\\) accuracy, about \\(85\\%\\) of the full training set performance, while reducing training time by more than \\(50\\times\\) and storage cost by \\(6000\\times\\), yielding compact surrogates that enable minute-scale SNN training and efficient edge deployment.",
   "authors": [
@@ -1125,27 +937,6 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-11-20"
- },
- "2511.12527": {
-  "abstract": "Let $\\mathbb Q_{ε_i}^{n_i}$ denote the simply connected space form of dimension $n_i\\ge 2$ and constant sectional curvature $ε_i$. We prove that any connected isoparametric hypersurface of $\\mathbb Q_{ε_1}^{n_1}\\times\\mathbb Q_{ε_2}^{n_2}$ has constant angle function. We then use this property to classify the isoparametric and homogeneous hypersurfaces of $\\mathbb Q_{ε_1}^{n_1}\\times\\mathbb Q_{ε_2}^{n_2}$, $|ε_1|+|ε_2|\\ne 0$, that satisfy a one-point condition.",
-  "authors": [
-   "Ronaldo F. de Lima",
-   "Giuseppe Pipoli"
-  ],
-  "categories": [
-   "math.DG"
-  ],
-  "comment": "39 pages, 1 figure. Comments are welcome",
-  "first_author": "Ronaldo F. de Lima",
-  "pdf_url": "http://arxiv.org/pdf/2511.12527",
-  "primary_category": "math.DG",
-  "published": "2025-11-16",
-  "tags": [],
-  "title": "Isoparametric Hypersurfaces in Products of Simply Connected Space Forms",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-11-16"
  },
  "2511.12699": {
   "abstract": "Chemical transformations depend not only on the identities of the reacting species but also on the catalytic, environmental, and intermediate conditions under which they occur. Classical binary reaction formalisms usually treat such condi- tions as external annotations, which obscures the genuinely multi-state and multi- parameter character of real chemical processes. In this paper we introduce an axiomatic framework in which a chemical system is modelled by a ternary Γ-semiring. The elements of the state set represent chemical states, while the parameter set encodes catalytic and environmental conditions. A Γ- dependent ternary operation is used to describe mediated transformations, treating reactants, intermediates, and mediators as intrinsic arguments of the transformation law. We develop the algebraic axioms governing these mediated interactions and in- terpret their associativity, distributivity, and Γ-linearity in terms of multi-step path- ways, parallel processes, and controlled environmental dependence. We introduce chemical ideals and Γ-ideals as algebraic structures modelling reaction-closed sub- systems and pathway-stable domains, and study their prime and semiprime forms. Homomorphisms between TGS-chemical systems are shown to preserve reaction pathways and describe consistent changes of chemical environment. Abstract examples from catalysis, thermodynamic phase control, and field- induced quantum transitions illustrate how familiar chemical phenomena fit within this framework. The resulting theory provides a unified algebraic foundation for multi-parameter chemical behaviour and establishes the structural basis for subse- quent developments involving kinetics, geometric methods, and computational or AI-assisted models.",
@@ -1227,60 +1018,6 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-11-18"
- },
- "2511.15079": {
-  "abstract": "Although frequently reported in observations, the definitive confirmation of high-mass prestellar cores has remained elusive, presenting a persistent challenge in star formation studies. Using two-band observational data from the 3mm ATOMS and 1.3mm QUARKS surveys, we report a high-mass prestellar core candidate, C2, located on the side of the bright-rimmed cloud IRAS 18290-0924. The C2 core identified from the 3mm continuum data of the ATOMS survey ($\\sim$2 arcsecond, $\\rm\\sim 10000~au$ at 5.3 kpc) has a mass ranging from 27-68 $M_{\\odot}$ for temperatures 10-22K within a radius of $\\sim$2800 au. The highest-resolution ($\\sim$0.3 arcsecond, $\\rm\\sim 1500 au$) observations of this source presented to date from the QUARKS survey reveal no evidence of further fragmentation. Further analysis of a total $\\sim$10 GHz band width of molecular line survey does not find star-formation activity (e.g., outflows, ionized gas) associated with the core, with a few molecular lines of cold gas detected only. Additionally, virial analysis indicates the C2 core is gravitationally bound ($α_{\\rm vir} \\sim0.1-0.3$) and thus could be undergoing collapse toward star formation. These results strongly establish a candidate for a high-mass prestellar core, contributing to the very limited number of such sources known to date.",
-  "authors": [
-   "Dongting Yang",
-   "Hong-Li Liu",
-   "Shengli Qin",
-   "Tie Liu",
-   "Anandmayee Tej",
-   "Siju Zhang",
-   "Xunchuan Liu",
-   "Fengwei Xu",
-   "Guido Garay",
-   "Lei Zhu",
-   "Patricio Sanhueza",
-   "Xiaofeng Mai",
-   "Wenyu Jiao",
-   "Paul F. Goldsmith",
-   "Sami Dib",
-   "Pablo Garcıa",
-   "Di Li",
-   "Jinhua He",
-   "A. Y. Yang",
-   "Prasanta Gorai",
-   "Suinan Zhang",
-   "Yankun Zhang",
-   "Jianjun Zhou",
-   "Mika Juvela",
-   "James O. Chibueze",
-   "Chang Won Lee",
-   "Jihye Hwang",
-   "Leonardo Bronfman",
-   "Xindi Tang",
-   "Archana Soam",
-   "Tapas Baug",
-   "Yichen Zhang",
-   "Swagat Ranjan Das",
-   "L. K. Dewangan",
-   "L. Viktor Toth"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "8 pages, 3 figures, accepted for publication in ApJ",
-  "first_author": "Dongting Yang",
-  "pdf_url": "http://arxiv.org/pdf/2511.15079",
-  "primary_category": "astro-ph.GA",
-  "published": "2025-11-19",
-  "tags": [],
-  "title": "The ALMA-QUARKS survey: Evidence of a candidate high-mass prestellar core aside a bright-rimmed cloud IRAS 18290-0924",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2025-11-20"
  },
  "2511.15475": {
   "abstract": "Blind source separation (BSS) plays a pivotal role in modern astrophysics by enabling the extraction of scientifically meaningful signals from multi-frequency observations. Traditional BSS methods, such as those relying on fixed wavelet dictionaries, enforce sparsity during component separation, but may fall short when faced with the inherent complexity of real astrophysical signals. In this work, we introduce the Learnlet Component Separator (LCS), a novel BSS framework that bridges classical sparsity-based techniques with modern deep learning. LCS utilizes the Learnlet transform: a structured convolutional neural network designed to serve as a learned, wavelet-like multiscale representation. This hybrid design preserves the interpretability and sparsity, promoting properties of wavelets while gaining the adaptability and expressiveness of learned models. The LCS algorithm integrates this learned sparse representation into an iterative source separation process, enabling effective decomposition of multi-channel observations. While conceptually inspired by sparse BSS methods, LCS introduces a learned representation layer that significantly departs from classical fixed-basis assumptions. We evaluate LCS on both synthetic and real datasets, demonstrating superior separation performance compared to state-of-the-art methods (average gain of about 5 dB on toy model examples). Our results highlight the potential of hybrid approaches that combine signal processing priors with deep learning to address the challenges of next-generation cosmological experiments.",

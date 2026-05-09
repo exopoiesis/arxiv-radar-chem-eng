@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -112,12 +112,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
 </tr>
 <tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13669.html">Quantum Algorithm for Vibronic Dynamics: Case Study on Singlet Fission Solar Cell Design</a></div></td>
-<td>Danial Motlagh et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13669">2411.13669</a></td>
-</tr>
-<tr class="paper">
 <td>2025-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18975.html">Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="energy-storage-all.html">energy-storage</a> · <a href="generative-models-all.html">generative-models</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
 <td>Dilshod Nematov et al.</td>
@@ -194,12 +188,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16984.html">Active Learning for Conditional Inverse Design with Crystal Generation and Foundation Atomic Models</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
 <td>Zhuoyuan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2502.16984">2502.16984</a></td>
-</tr>
-<tr class="paper">
-<td>2024-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12771.html">Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Luis Barroso-Luque et al.</td>
-<td><a href="http://arxiv.org/abs/2410.12771">2410.12771</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-11</td>

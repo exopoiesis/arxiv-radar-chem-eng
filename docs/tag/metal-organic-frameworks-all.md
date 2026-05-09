@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>metal-organic-frameworks — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="metal-organic-frameworks-7d.html">7d</a> <a href="metal-organic-frameworks-30d.html">30d</a> <a href="metal-organic-frameworks-90d.html">90d</a> <a href="metal-organic-frameworks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,12 +104,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="carbon-capture-all.html">carbon-capture</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="porous-materials-all.html">porous-materials</a></div></td>
 <td>Jiyu Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03162.html">The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="carbon-capture-all.html">carbon-capture</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Anuroop Sriram et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03162">2508.03162</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-15</td>

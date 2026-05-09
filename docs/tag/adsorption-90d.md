@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>adsorption — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <strong>90d</strong> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -88,12 +88,6 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2507.20496">2507.20496</a></td>
 </tr>
 <tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09788.html">Capillary filling of star polymer melts in nanopores</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jianwei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09788">2603.09788</a></td>
-</tr>
-<tr class="paper">
 <td>2026-03-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01311.html">Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="co2-reduction-90d.html">co2-reduction</a> · <a href="dft-90d.html">dft</a> · <a href="graph-neural-networks-90d.html">graph-neural-networks</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Achuth Chandrasekhar et al.</td>
@@ -122,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07295.html">The impact of spurious imaginary phonon modes on thermal properties of Metal-organic Frameworks</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="dft-90d.html">dft</a> · <a href="experimental-design-90d.html">experimental-design</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
 <td>Prathami Divakar Kamath et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07295">2602.07295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07351.html">AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="generative-models-90d.html">generative-models</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
-<td>Nayoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07351">2602.07351</a></td>
 </tr>
 </tbody></table>

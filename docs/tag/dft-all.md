@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,12 +20,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Jiahang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00609">2605.00609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div></td>
-<td>Yifan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-15</td>
@@ -170,12 +164,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19076.html">C2NP: A Benchmark for Learning Scale-Dependent Geometric Invariances in 3D Materials Generation</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="generative-models-all.html">generative-models</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Can Polat et al.</td>
 <td><a href="http://arxiv.org/abs/2601.19076">2601.19076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19966.html">Global Plane Waves From Local Gaussians: Periodic Charge Densities in a Blink</a></div></td>
-<td>Jonas Elsborg et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19966">2601.19966</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-24</td>
@@ -328,12 +316,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2509.21678">2509.21678</a></td>
 </tr>
 <tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03162.html">The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="carbon-capture-all.html">carbon-capture</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a></div></td>
-<td>Anuroop Sriram et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03162">2508.03162</a></td>
-</tr>
-<tr class="paper">
 <td>2025-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17833.html">How Realistic are Idealized Copper Surfaces? A Machine Learning Study of Rough Copper-Water Interfaces</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="catalysis-all.html">catalysis</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Linus C. Erhard et al.</td>
@@ -422,12 +404,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10498.html">Modeling the Behavior of Complex Aqueous Electrolytes Using Machine Learning Interatomic Potentials: The Case of Sodium Sulfate</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>
 <td>Ademola Soyemi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10498">2507.10498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11070.html">Uncertainty-aware electronic density-functional distributions</a></div></td>
-<td>Teitur Hansen et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11070">2504.11070</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-01</td>
@@ -656,12 +632,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00142.html">Machine Learning Boosted Entropy-Engineered Synthesis of CuCo Nanometric Solid Solution Alloys for Near-100% Nitrate-to-Ammonia Selectivity</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="energy-storage-all.html">energy-storage</a></div></td>
 <td>Yao Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00142">2408.00142</a></td>
-</tr>
-<tr class="paper">
-<td>2024-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12771.html">Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Luis Barroso-Luque et al.</td>
-<td><a href="http://arxiv.org/abs/2410.12771">2410.12771</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-09</td>

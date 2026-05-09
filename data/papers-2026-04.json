@@ -80,26 +80,6 @@
   ],
   "updated": "2026-04-27"
  },
- "2501.02712": {
-  "abstract": "Modified Gravity Theories (MGTs) are extensions of General Relativity (GR) in its standard formulation. Therefore, within this framework, we will investigate a system composed of a black hole (BH) surrounded by Maxwell-Higgs vortices, forming the BH-vortex system. In the case of linear $f(R)$ gravity is adopted showing the existence of a three-dimensional ring-like BH-vortex system with quantized magnetic flux. Within this system, one notes the BH at $r=0$ and its event horizon at $r= r_0$, while the magnetic vortices are at $r \\in (r_0, \\infty)$. A remarkable result is the constancy of the Bekenstein-Hawking temperature ($T_H$), regardless of MGTs and vortex parameters. This invariance of $T_H$ suggests that the BH-vortex system reaches thermodynamic stability. Unlike the standard theory of Maxwell-Higgs vortices in flat spacetime, in $f(R)$ gravity, the vortices suffer the influence of the BH's event horizon. This interaction induces perturbations in the magnetic vortex profile, forming cosmological ring-like magnetic structures.",
-  "authors": [
-   "F. C. E. Lima"
-  ],
-  "categories": [
-   "gr-qc"
-  ],
-  "comment": "16 pages, 3 captioned figures. Version accepted in Europhysics Letters",
-  "first_author": "F. C. E. Lima",
-  "pdf_url": "http://arxiv.org/pdf/2501.02712",
-  "primary_category": "gr-qc",
-  "published": "2025-01-06",
-  "tags": [],
-  "title": "Magnetized vortex in three-dimensional $\\mathrm{f(R)}$ gravity",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2026-04-02"
- },
  "2503.16139": {
   "abstract": "In the context of building electrification, the operation of distributed energy resources integrating multiple energy carriers (electricity, heat, mobility) poses a significant challenge due to the nonlinear device dynamics, uncertainty, and computational issues. As such, energy management systems seek to decide the power dispatch in the best way possible. The objective is to minimize and balance operative costs (energy bills or asset degradation) with user requirements (mobility, heating, etc.). Current energy management uses empirical battery ageing models outside of their specific fitting conditions, resulting in inaccuracies and poor performance. Moreover, the link to thermal systems is also overlooked. This paper presents an ageing-aware nonlinear economic model predictive controller for electrified buildings that incorporates physics-based battery ageing models. The models distinguish between energy storage systems (chemistry, ageing state, etc.) and make explicit the trade-off between grid cost and battery degradation. The proposed algorithm can either cut down on grid costs or extend battery lifetime (electric vehicle or stationary battery packs). Additionally, substituting NMC cells with LFP chemistries optimizes grid performance during the summer, yielding a 10% grid cost reduction and a 20% decrease in degradation. Finally, the grid cost and degradation of the presented MPC when using aged batteries are improved with respect to the state of the art by 10% and 5% respectively, in periods with high solar generation and low thermal loads like summer.",
   "authors": [
@@ -544,30 +524,6 @@
   ],
   "updated": "2026-04-09"
  },
- "2601.00515": {
-  "abstract": "Assembly theory (AT) introduces causation as a material property and establishes a metrology for objects produced by evolution and selection. The physical scale of causation is quantified by the assembly index, defined as the minimum number of recursive steps necessary to make an object. Observing countable copies of high assembly index objects indicates a mechanism producing them is persistent, such that the object's environment constructs a memory that traps causation within a contingent chain. Copy number and assembly index together underlie a standardized metrology for detecting causation (assembly index) and contingency (copy number). These allow a precise definition of an assembly threshold that demarcates life (and its derivative agential, intelligent, and technological forms and artifacts) as structures with persistent copies in regimes of deep causal possibility. In introducing a fundamental concept of material causation to quantify and measure life, AT represents a departure from prior theories of causation, such as interventional ones, which have so far proven incompatible with fundamental physics. We discuss how AT's concept of causation provides the foundation for a theory of physics that allows precise and testable concept of \"life\", and in which novelty, contingency and the potential for open-endedness are fundamental, and determinism is emergent from selection along assembled lineages.",
-  "authors": [
-   "Leroy Cronin",
-   "Sara I. Walker"
-  ],
-  "categories": [
-   "physics.hist-ph",
-   "physics.bio-ph",
-   "q-bio.MN",
-   "q-bio.PE"
-  ],
-  "comment": "65 pages, 8 Figures, 83 references",
-  "first_author": "Leroy Cronin",
-  "pdf_url": "http://arxiv.org/pdf/2601.00515",
-  "primary_category": "physics.hist-ph",
-  "published": "2026-01-02",
-  "tags": [],
-  "title": "The Physics of Causation",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2026-04-15"
- },
  "2601.13508": {
   "abstract": "Fully automating the scientific process is a transformative ambition in materials science, yet current artificial intelligence masters isolated workflow fragments. In computational catalysis, a system autonomously navigating the entire research lifecycle from conception to a scientifically meaningful manuscript remains an open challenge. Here we present CatMaster, a catalysis-native multi-agent framework that couples project-level reasoning with the direct execution of atomistic simulations, machine-learning modelling, literature analysis, and manuscript production within a unified autonomous architecture. Across progressively demanding evaluations, CatMaster achieves perfect scores on four end-to-end short-form catalysis scenarios, reaches near-leaderboard performance on five of six MatBench tasks, performs self-discovery of reaction mechanisms grounded in literature or from scratch, and executes a fully closed-loop single-atom catalyst design problem. Together, these results show that end-to-end autonomous computational catalysis is now practical for research programmes, while highlighting that bridging the gap to genuine scientific closure requires tighter integration with reliable physical engines and domain-rigorous methodologies.",
   "authors": [
@@ -595,78 +551,6 @@
    "Reaction Engineering & Kinetics"
   ],
   "updated": "2026-04-03"
- },
- "2602.04849": {
-  "abstract": "We present El Agente Estructural, a multimodal, natural-language-driven geometry-generation and manipulation agent for autonomous chemistry and molecular modelling. Unlike molecular generation or editing via generative models, Estructural mimics how human experts directly manipulate molecular systems in three dimensions by integrating a comprehensive set of domain-informed tools and vision-language models. This design enables precise control over atomic or functional group replacements, atomic connectivity, and stereochemistry without the need to rebuild extensive core molecular frameworks. Through a series of representative case studies, we demonstrate that Estructural enables chemically meaningful geometry manipulation across a wide range of real-world scenarios. These include site-selective functionalization, ligand binding, ligand exchange, stereochemically controlled structure construction, isomer interconversion, fragment-level structural analysis, image-guided generation of structures from schematic reaction mechanisms, and mechanism-driven geometry generation and modification. These examples illustrate how multimodal reasoning, when combined with specialized geometry-aware tools, supports interactive and context-aware molecular modelling beyond structure generation. Looking forward, the integration of Estructural into El Agente Quntur, an autonomous multi-agent quantum chemistry platform, enhances its capabilities by adding sophisticated tools for the generation and editing of three-dimensional structures.",
-  "authors": [
-   "Changhyeok Choi",
-   "Yunheng Zou",
-   "Marcel Müller",
-   "Han Hao",
-   "Yeonghun Kang",
-   "Juan B. Pérez-Sánchez",
-   "Ignacio Gustin",
-   "Hanyong Xu",
-   "Andrew Wang",
-   "Mohammad Ghazi Vakili",
-   "Chris Crebolder",
-   "Alán Aspuru-Guzik",
-   "Varinia Bernales"
-  ],
-  "categories": [
-   "physics.chem-ph",
-   "cs.AI",
-   "cs.MA"
-  ],
-  "comment": null,
-  "first_author": "Changhyeok Choi",
-  "pdf_url": "http://arxiv.org/pdf/2602.04849",
-  "primary_category": "physics.chem-ph",
-  "published": "2026-02-04",
-  "tags": [
-   "generative-models"
-  ],
-  "title": "El Agente Estructural: An Artificially Intelligent Molecular Editor",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2026-04-13"
- },
- "2602.04850": {
-  "abstract": "Quantum chemistry is a foundational enabling tool for the fields of chemistry, materials science, computational biology and others. Despite of its power, the practical application of quantum chemistry simulations remains in the hands of qualified experts due to methodological complexity, software heterogeneity, and the need for informed interpretation of results. To bridge the accessibility gap for these tools and expand their reach to chemists with broader backgrounds, we introduce El Agente Quntur, a hierarchical, multi-agent AI system designed to operate not merely as an automation tool but as a research collaborator for computational quantum chemistry. Quntur was designed following three main strategies: i) elimination of hard-coded procedural policies in favour of reasoning-driven decisions, ii) construction of general and composable actions that facilitate generalization and efficiency, and iii) implementation of guided deep research to integrate abstract quantum-chemical reasoning across subdisciplines and a detailed understanding of the software's internal logic and syntax. Although instantiated in ORCA, these design principles are applicable to research agents more generally and easily expandable to additional quantum chemistry packages and beyond. Quntur supports the full range of calculations available in ORCA 6.0 and reasons over software documentation and scientific literature to plan, execute, adapt, and analyze in silico chemistry experiments following best practices. We discuss the advances and current bottlenecks in agentic systems operating at the research level in computational chemistry, and outline a roadmap toward a fully autonomous end-to-end computational chemistry research agent.",
-  "authors": [
-   "Juan B. Pérez-Sánchez",
-   "Yunheng Zou",
-   "Jorge A. Campos-Gonzalez-Angulo",
-   "Marcel Müller",
-   "Ignacio Gustin",
-   "Andrew Wang",
-   "Han Hao",
-   "Tsz Wai Ko",
-   "Changhyeok Choi",
-   "Eric S. Isbrandt",
-   "Mohammad Ghazi Vakili",
-   "Hanyong Xu",
-   "Chris Crebolder",
-   "Varinia Bernales",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "physics.chem-ph",
-   "cs.AI",
-   "cs.MA"
-  ],
-  "comment": null,
-  "first_author": "Juan B. Pérez-Sánchez",
-  "pdf_url": "http://arxiv.org/pdf/2602.04850",
-  "primary_category": "physics.chem-ph",
-  "published": "2026-02-04",
-  "tags": [],
-  "title": "El Agente Quntur: A research collaborator agent for quantum chemistry",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2026-04-14"
  },
  "2602.15739": {
   "abstract": "The Partially Ordered Workflow Language (POWL) has recently emerged as a process modeling notation, offering strong quality guarantees and high expressiveness. While early versions of POWL relied on strict block-structured operators for choices and loops, the language has recently evolved into POWL 2.0, introducing choice graphs to enable the modeling of non-block-structured decisions and cycles. To bridge the gap between the theoretical advantages of POWL and the practical need for compatibility with established notations, robust model transformations are required. This paper presents a novel algorithm for transforming safe and sound workflow nets (WF-nets) into equivalent POWL 2.0 models. The algorithm recursively identifies structural patterns within the WF-net and translates them into their POWL representation. Unlike the previous approach that required separate detection strategies for exclusive choices and loops, our new algorithm utilizes choice graphs to capture generalized decision and cyclic patterns. We formally prove the correctness of our approach, showing that the generated POWL model preserves the language of the input WF-net. Furthermore, we prove the completeness of our algorithm on the class of separable WF-nets, which corresponds to nets constructed via the hierarchical nesting of state machines and marked graphs. We evaluate our algorithm on large-scale process models to demonstrate its high scalability. Furthermore, to test its practical expressiveness, we applied it to a benchmark of 1,493 industrial and synthetic process models. Our algorithm successfully transformed all models in this benchmark, suggesting that POWL 2.0's expressive power is generally sufficient to capture the complex logic found in real-world business processes. This work paves the way for broader adoption of POWL in practical process analysis and improvement applications.",
@@ -722,29 +606,6 @@
   ],
   "updated": "2026-04-03"
  },
- "2602.22957": {
-  "abstract": "We investigate self-dual radially symmetric configurations in the $CP^1$ model coupled to a Maxwell and Chern-Simons (CS) gauge fields through nonminimal interactions. Starting from the nonlinear $O(3)$-sigma model, we explicitly construct its classical mapping to the $CP^1$ formulation, highlighting the emergence of a local $U(1)$ gauge symmetry intrinsically associated with the Fubini-Study geometry of the target space. In the static regime, the combined effects of the Chern-Simons term and the Pauli-like nonminimal coupling modify the effective gauge connection, render the electric sector unavoidable, and give rise to magnetized and electrically polarized BPS lump configurations. By implementing the Bogomolnyi procedure, we determine the self-interaction potential required for self-duality and derive the corresponding BPS equations. We show that the magnetic flux remains quantized and is completely fixed by the asymptotic behavior of the gauge field, even in the presence of the Chern-Simons and nonminimal couplings. A detailed asymptotic analysis further reveals that finite-energy solutions necessarily correspond to lump-like configurations in which the $CP^1$ scalar field vanishes at spatial infinity. Numerical solutions of the BPS equations confirm that the resulting configurations are regular, spatially localized, and free of singularities, exhibiting confined magnetic flux together with a nontrivial localized electric field. These results show that the generalized $CP^1$-Maxwell-CS model supports self-dual solitons whose internal structure is rigidly governed by the target-space geometry rather than by spontaneous symmetry breaking.",
-  "authors": [
-   "I. B. Cunha",
-   "F. C. E. Lima",
-   "Aldo Vera"
-  ],
-  "categories": [
-   "hep-th",
-   "hep-ph"
-  ],
-  "comment": "V2: Extended version featuring the analysis of dionic configurations and nonminimal interactions. References updated",
-  "first_author": "I. B. Cunha",
-  "pdf_url": "http://arxiv.org/pdf/2602.22957",
-  "primary_category": "hep-th",
-  "published": "2026-02-26",
-  "tags": [],
-  "title": "BPS lumps in the Nonminimal $CP^1$ Maxwell-Chern-Simons Model",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2026-04-24"
- },
  "2602.24252": {
   "abstract": "This work proposes a method for model-free synthesis of a state observer for nonlinear systems with manipulated inputs, where the observer is trained offline using a historical or simulation dataset of state measurements. We use the structure of the Kazantzis-Kravaris/Luenberger (KKL) observer, extended to nonautonomous systems by adding an additional input-affine term to the linear time-invariant (LTI) observer-state dynamics, which determines a nonlinear injective mapping of the true states. Both this input-affine term and the nonlinear mapping from the observer states to the system states are learned from data using fully connected feedforward multi-layer perceptron neural networks. Furthermore, we theoretically prove that trained neural networks, when given new input-output data, can be used to observe the states with a guaranteed error bound. To validate the proposed observer synthesis method, case studies are performed on a bioreactor and a Williams-Otto reactor.",
   "authors": [
@@ -766,31 +627,6 @@
    "Process Control & Optimization"
   ],
   "updated": "2026-04-17"
- },
- "2603.11086": {
-  "abstract": "This white paper introduces a framework for applying Assembly Theory (AT) to planetary atmospheres as a biosignature framework suitable for the Habitable Worlds Observatory (HWO). AT quantifies the minimum combinatorial complexity required to co-construct an observed ensemble of molecular species, providing a measure of how much selection and evolution is encoded in a planetary atmosphere's chemical space, without assuming any specific biochemistry, kinetics nor metabolism. We outline some forthcoming results applying this framework and how it can be extended to population-level exoplanet studies, validated against existing spectroscopic data, and used to directly inform HWO instrumental requirements. Rather than imposing a binary alive/dead classification, AT-based atmospheric analysis would provide a continuous measure of planetary complexity, opening a path toward detecting life-as-we-don't-know-it.",
-  "authors": [
-   "Sara Walker",
-   "Estelle Janin",
-   "Evgenya Shkolnik",
-   "Louie Slocombe",
-   "Leroy Cronin"
-  ],
-  "categories": [
-   "astro-ph.IM",
-   "astro-ph.EP"
-  ],
-  "comment": "originally submitted as a Habitable Worlds Observatory RFI",
-  "first_author": "Sara Walker",
-  "pdf_url": "http://arxiv.org/pdf/2603.11086",
-  "primary_category": "astro-ph.IM",
-  "published": "2026-03-11",
-  "tags": [],
-  "title": "Searching for Life-As-We-Don't-Know-It: Mission-relevant Application of Assembly Theory for Exoplanet Life Detection",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2026-04-05"
  },
  "2603.23299": {
   "abstract": "Neural networks are increasingly used as surrogates in optimization problems to replace computationally expensive models. However, embedding ReLU neural networks in mathematical programs introduces significant computational challenges, particularly for deep and wide networks, due to both the formulation of the ReLU disjunction and the resulting large-scale optimization problem. This work investigates how pruning techniques can accelerate the solution of optimization problems with embedded neural networks, focusing on the mechanisms underlying the computational gains. We provide theoretical insights into how both unstructured (weight) and structured (node) pruning affect the ReLU big-M formulation, showing that pruning monotonically tightens preactivation bounds. We conduct comprehensive empirical studies across multiple network architectures using an illustrative test function and a realistic chemical process flowsheet optimization case study. Our results show that pruning achieves speedups of up to three to four orders of magnitude, with computational gains attributed to three key factors: (i) reduction in problem size, (ii) decrease in the number of integer variables, and (iii) tightening of big-M bounds. Weight pruning is particularly effective for deep, narrow networks, while node pruning performs better for shallow, wide or medium-sized networks. In the chemical engineering case study, pruning enabled convergence within seconds for problems that were otherwise intractable. We recommend adopting pruning as standard practice when developing neural network surrogates for optimization, especially for engineering applications requiring repeated optimization solves.",
@@ -986,64 +822,6 @@
    "Reaction Engineering & Kinetics"
   ],
   "updated": "2026-04-03"
- },
- "2604.04501": {
-  "abstract": "Supercritical gas filaments in molecular clouds host the dense cores in which new stars form. The mechanisms governing their formation and subsequent gas accretion remain poorly understood. In this study, we conduct a statistical analysis of a large sample of sub-parsec supercritical filaments using H13COp J=1-0 data from the ALMA Three-millimeter Observations of Massive Star-forming regions (ATOMS) Survey. We identified velocity-coherent filaments in position-position-velocity (PPV) space and systematically examined velocity gradients both along and perpendicular to their skeletons. Our analysis uncovers a remarkable result: at scales of ~ 0.1-1 pc, the local velocity gradients within these supercritical filaments show no preferred alignment with the filament skeletons and exhibit no correlation with the local gravitational field. This random orientation suggests the presence of chaotic gas motions deep inside these dense structures. These findings may indicate that turbulence-rather than gravity-dominates gas dynamics and structural evolution at small scales, even in regions on the verge of star formation, challenging the paradigm of gravity-dominated structure formation within molecular clouds. This scenario should be further tested by more state-of-the-art simulations. This study offers key observational insights into the roles of turbulence and gravity in establishing the initial conditions for star formation.",
-  "authors": [
-   "Chao Zhang",
-   "Tie Liu",
-   "Mika Juvela",
-   "Paolo Padoan",
-   "Hong-Li Liu",
-   "Di Li",
-   "Guido Garay",
-   "Neal J. Evans",
-   "Fengwei Xu",
-   "Paul F. Goldsmith",
-   "Qizhou Zhang",
-   "Kee-Tae Kim",
-   "Yankun Zhang",
-   "Zhiyuan Ren",
-   "Mengke Zhao"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "This paper accepted by SCIENCE CHINA Physics, Mechanics & Astronomy",
-  "first_author": "Chao Zhang",
-  "pdf_url": "http://arxiv.org/pdf/2604.04501",
-  "primary_category": "astro-ph.GA",
-  "published": "2026-04-06",
-  "tags": [],
-  "title": "Random gas motions inside sub-parsec scale supercritical filaments",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2026-04-07"
- },
- "2604.04801": {
-  "abstract": "Mixed-integer optimization problems arise in a wide range of control applications. Benders decomposition is a widely used algorithm for solving such problems by decomposing them into a mixed-integer master problem and a continuous subproblem. A key computational bottleneck is the repeated solution of increasingly complex master problems across iterations. In this paper, we propose a feasibility-aware imitation learning framework that predicts the values of the integer variables of the master problem at each iteration while accounting for feasibility with respect to constraints governing admissible integer assignments and the accumulated Benders feasibility cuts. The agent is trained using a two-stage procedure that combines behavioral cloning with a feasibility-based logit adjustment to bias predictions toward assignments that satisfy the evolving cut set. The agent is deployed within an agent-based Benders decomposition framework that combines explicit feasibility checks with a time-limited solver computation of a valid lower bound. The proposed approach retains finite convergence properties, as the lower bound is certified at each iteration. Application to a prototypical case study shows that the proposed method improves solution time relative to existing imitation learning approaches for accelerating Benders decomposition, while preserving solution accuracy.",
-  "authors": [
-   "Bernard T. Agyeman",
-   "Zhe Li",
-   "Ilias Mitrai",
-   "Prodromos Daoutidis"
-  ],
-  "categories": [
-   "math.OC",
-   "eess.SY"
-  ],
-  "comment": null,
-  "first_author": "Bernard T. Agyeman",
-  "pdf_url": "http://arxiv.org/pdf/2604.04801",
-  "primary_category": "math.OC",
-  "published": "2026-04-06",
-  "tags": [],
-  "title": "Feasibility-Aware Imitation Learning for Benders Decomposition",
-  "topics": [
-   "via:author-whitelist:process control, networks"
-  ],
-  "updated": "2026-04-06"
  },
  "2604.04973": {
   "abstract": "This paper presents StrADiff, a Structured Source-Wise Adaptive Diffusion Framework for unsupervised blind source separation under linear and nonlinear mixing. The framework treats each latent dimension as a source branch and assigns to it an individual adaptive reverse diffusion mechanism, so that latent sources are recovered directly from observed mixtures through a single end-to-end objective, without supervised source labels or separate post-processing. Source-wise generation, structural regularization, and observation-space reconstruction are optimized jointly during training. In this instantiation, a Gaussian process (GP) prior is used as one example of a source-wise structured prior to impose temporal organization on each recovered trajectory; the framework itself is not restricted to GP priors and can in principle incorporate other structured priors. Theoretical components clarify the induced pushforward source law, the sample-level role of the structured prior, the coupling between source recovery and prior adaptation, and a conditional weak recovery statement in an idealized linear low-noise regime. Experiments on linear and nonlinear mixtures show that StrADiff can recover meaningful latent source trajectories in an unsupervised manner, with particularly stable performance in the linear case and moderate degradation under nonlinear mixing. Beyond classical signal separation, a source branch may also be interpreted as an independent, disentangled, or otherwise interpretable explanatory factor under suitable structural assumptions, suggesting a broader route toward structured latent modeling and future identifiable nonlinear representation learning.",
@@ -1312,30 +1090,6 @@
   ],
   "updated": "2026-04-08"
  },
- "2604.07693": {
-  "abstract": "When an optimal control problem is solved for all possible initial conditions at once, the initial-state space splits into critical regions, each carrying a closed-form control law that can be evaluated online without solving any optimization. This is the multiparametric approach to explicit control. In the continuous-time setting, the boundaries between these regions are determined by extrema of Lagrange multipliers and constraint functions along the optimal trajectory. Whether a boundary is a hyperplane, computable analytically, or a curved manifold that requires numerical methods has a direct effect on how the partition is built.   We show that a boundary is a hyperplane if and only if the relevant extremum is attained at either the initial time or the terminal time, regardless of the initial condition. The reason is that the costate is a linear function of the initial state at any fixed time, so when the extremum is tied to a fixed endpoint, the boundary condition is linear and the boundary normal follows directly from two matrix exponentials and a linear solve. When the extremum occurs at a time that shifts with the initial condition, such as a switching time or an interior stationary point, the boundary is generally curved.   We demonstrate the result on a third-order system, obtaining the complete three-dimensional critical-region partition analytically for the first time in this problem class. A comparison with a discrete-time formulation shows how sharply the region count grows under discretization, while the continuous-time partition remains unchanged.",
-  "authors": [
-   "Lida Lamakani",
-   "Efstratios N. Pistikopoulos"
-  ],
-  "categories": [
-   "math.OC",
-   "eess.SY"
-  ],
-  "comment": null,
-  "first_author": "Lida Lamakani",
-  "pdf_url": "http://arxiv.org/pdf/2604.07693",
-  "primary_category": "math.OC",
-  "published": "2026-04-09",
-  "tags": [
-   "optimal-control"
-  ],
-  "title": "On Linear Critical-Region Boundaries in Continuous-Time Multiparametric Optimal Control",
-  "topics": [
-   "via:author-whitelist:PSE, parametric programming"
-  ],
-  "updated": "2026-04-09"
- },
  "2604.08997": {
   "abstract": "Tomographic volumetric additive manufacturing (TVAM) requires projection patterns that achieve high in-part fidelity while suppressing unintended exposure outside the target. We present a scale-invariant projection optimization framework (SiPO) that decouples projection shape from absolute dose scaling. The method formulates projection design as a linear-fractional program based on normalized conformity and spillage metrics, which is converted into a linear program via the Charnes-Cooper transformation. Two practical deterministic cases are introduced for process control: minimizing dose spillage under strict material tolerances and maximizing target conformity under hard inhibition constraints. A matrix-free primal-dual hybrid gradient solver enables large-scale implementation. Numerical results demonstrate that the framework provides a clear trade-off between target fidelity and process separation and remains effective under 3D blur-aware forward models.",
   "authors": [
@@ -1421,33 +1175,6 @@
   "title": "Tuning Plasmonic Metasurfaces via Phase Change Material Substrates for Modulating Reactivity in Light-Driven Reactions",
   "topics": [
    "Catalysis & Materials for Chemical Engineering"
-  ],
-  "updated": "2026-04-10"
- },
- "2604.09758": {
-  "abstract": "Understanding how molecular structure gives rise to odor perception remains a long-standing challenge, with ongoing debate over whether olfaction is primarily governed by molecular shape, vibrational properties, or their interplay at the level of olfactory receptors. Here, we ask whether different odors rely on common molecular determinants or instead emerge from distinct physicochemical regimes. Using interpretable machine-learning models trained on molecular descriptors derived from first-principles calculations that span electronic, vibrational, and structural properties, we analyze feature contributions for odor categories and their associated receptors. We find that no single descriptor class universally dominates odor prediction; instead, different odors exhibit strongly odor-specific patterns of feature importance, with substantial variability across physicochemical domains. This heterogeneity is consistent across different models, suggesting that a universal encoding scheme does not capture odor perception but reflects receptor- and odor-dependent structure-odor relationships. Our results provide statistical constraints on competing olfactory theories and offer a data-driven framework for organizing odor space.",
-  "authors": [
-   "P. Zanineli",
-   "E. V. C. Lopes",
-   "G. R. Schleder",
-   "L. N. Lemos",
-   "F. Crasto de Lima",
-   "A. Fazzio"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci",
-   "physics.bio-ph",
-   "physics.chem-ph"
-  ],
-  "comment": null,
-  "first_author": "P. Zanineli",
-  "pdf_url": "http://arxiv.org/pdf/2604.09758",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2026-04-10",
-  "tags": [],
-  "title": "Heterogeneous Molecular Signatures of Human Odor Perception",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
   ],
   "updated": "2026-04-10"
  },
@@ -1614,67 +1341,6 @@
   "title": "A collaborative agent with two lightweight synergistic models for autonomous crystal materials research",
   "topics": [
    "Catalysis & Materials for Chemical Engineering"
-  ],
-  "updated": "2026-04-13"
- },
- "2604.11873": {
-  "abstract": "We present JWST MIRI and NIRCam imaging of the inner ~5 kpc of the M82 superwind at 0.05-0.375'' (~0.9-6.5 pc) resolution. Targeted filters probe emission from polycyclic aromatic hydrocarbons (PAHs; F335M, F360M, F770W, F1130W) and continuum (F250M, F360M). The images reveal a network of cool wind filaments traced by PAHs. PAH surface brightness declines with the inverse square of distance to the midplane, suggesting that the incident radiation field from the starburst drives the observed PAH intensity out to 2.5 kpc. The 3.3/11.3 and 3.3/7.7 band ratios show uniformity with distance from the starburst, though comparisons with mid-IR dust emission models indicate a modest shift toward larger PAHs. Outside the disk, 11.3/7.7 increases moderately, reflecting that PAHs become more neutral with distance from the starburst as they are exposed to a declining radiation field and ionization parameter. Overall, PAHs in the wind are consistent with standard-to-large sizes and standard-to-high ionization states. Including Spitzer and Herschel data, PAH abundance (qPAH) is set at ~1% in the starburst and remains unchanging out to 5 kpc off the disk. This flat qPAH profile suggests that PAHs are shielded from the hot wind, perhaps residing in the surface layers of cool clouds, with possible replenishment from cloud interiors and enrichment of the halo from previous bursts. In this picture, clouds are not dense enough to promote PAH growth, and they likely undergo radiative cooling and mixing with the hot phase to survive the gauntlet for at least ~20 Myr.",
-  "authors": [
-   "Serena A. Cronin",
-   "Alberto D. Bolatto",
-   "Helena M. Richie",
-   "Grant P. Donnelly",
-   "Rebecca C. Levy",
-   "Karl D. Gordon",
-   "Elizabeth Tarantino",
-   "Martha L. Boyer",
-   "Lee Armus",
-   "Patricia A. Arens",
-   "Leindert A. Boogaard",
-   "Daniel A. Dale",
-   "Keaton Donaghue",
-   "Bruce T. Draine",
-   "Sara E. Duval",
-   "Kimberly Emig",
-   "Deanne B. Fisher",
-   "Simon C. O. Glover",
-   "Brandon S. Hensley",
-   "Rodrigo Herrera-Camus",
-   "Ralf S. Klessen",
-   "Thomas S. -Y. Lai",
-   "Laura Lenkić",
-   "Adam K. Leroy",
-   "Ashley E. Lieber",
-   "Ilse De Looze",
-   "Sebastian Lopez",
-   "David S. Meier",
-   "Elisabeth A. C. Mills",
-   "Karin M. Sandstrom",
-   "Evan Schneider",
-   "Kaitlyn E. Sheriff",
-   "Utsav Siwakoti",
-   "Evan D. Skillman",
-   "J. D. T. Smith",
-   "Yu-Hsuan Teng",
-   "Todd A. Thompson",
-   "Alexander G. G. M. Tielens",
-   "Sylvain Veilleux",
-   "Vicente Villanueva",
-   "Fabian Walter",
-   "Paul P. van der Werf"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "31 pages, 12 figures, accepted to ApJ",
-  "first_author": "Serena A. Cronin",
-  "pdf_url": "http://arxiv.org/pdf/2604.11873",
-  "primary_category": "astro-ph.GA",
-  "published": "2026-04-13",
-  "tags": [],
-  "title": "JWST Observations of Starbursts: Dust Processing in the M82 Superwind",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
   ],
   "updated": "2026-04-13"
  },
@@ -1932,55 +1598,6 @@
   ],
   "updated": "2026-04-15"
  },
- "2604.13671": {
-  "abstract": "We present a detailed investigation of a multipolar episodic molecular outflow in the mini-starburst region W49N, which hosts the most luminous water maser in the Galaxy. Using high-resolution ($\\sim$0.3 arcsec) Atacama Large Millimeter/submillimeter Array (ALMA) observations of the $\\mathrm{^{12}CO}$ emission as part of the ALMA-QUARKS survey, we analyze the morphology and kinematics of the outflow. Our observations reveal four newly identified outflow lobes in addition to the previously known central bipolar jet. These lobes appear more jet-like rather than exhibiting wide opening angles. Based on the $\\mathrm{^{12}CO}$ (2--1) and $\\mathrm{^{13}CO}$ (2--1) emission, we provide a more reliable estimate of the outflow's physical parameters, confirming it as one of the most energetic outflows in the Galaxy. Notably, these newly discovered lobes exhibit chains of knots, a characteristic signature of episodic ejection. Furthermore, two of the lobes display prominent S-shaped wiggles, suggestive of a precessing jet. The discovery of these features -- commonly observed in outflows from low-mass protostars -- in such an extreme massive star-forming environment provides compelling evidence that some underlying physical mechanisms for launching outflows are conserved across a wide range of stellar masses.",
-  "authors": [
-   "Yunfan Jiao",
-   "Tie Liu",
-   "Wenyu Jiao",
-   "Fengwei Xu",
-   "Qilao Gu",
-   "Xindi Tang",
-   "Xiaofeng Mai",
-   "Qiuyi Luo",
-   "Siju Zhang",
-   "Paul F. Goldsmith",
-   "Chang Won Lee",
-   "Guido Garay",
-   "Yuhan Yang",
-   "Prasanta Gorai",
-   "Manuel Merello",
-   "Pablo Garcia",
-   "Sami Dib",
-   "Jihye Hwang",
-   "Ariful Hoque",
-   "Mika Juvela",
-   "Yankun Zhang",
-   "Patricio Sanhueza. Jixiang Weng",
-   "Kee-Tae Kim",
-   "Swagat R. Das",
-   "Archana Soam",
-   "Tapas Baug",
-   "Jianjun Zhou",
-   "Leonardo Bronfman",
-   "Aiyuan Yang",
-   "Lei Zhu"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "13 pages, 5 figures, resubmitted to AJ after revision per reviewer comments",
-  "first_author": "Yunfan Jiao",
-  "pdf_url": "http://arxiv.org/pdf/2604.13671",
-  "primary_category": "astro-ph.GA",
-  "published": "2026-04-15",
-  "tags": [],
-  "title": "The ALMA-QUARKS Survey: Multipolar episodic molecular outflow associated with W49N, the most energetic water maser source in the Milky Way",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2026-04-15"
- },
  "2604.13843": {
   "abstract": "We developed a machine learning interatomic potential (MLIP) for Ge-rich GeSbTe alloys of interest for applications in phase change memories embedded in microcontrollers. The MLIP was generated by fitting with a neural network method a large database of energies and forces computed within density functional theory of elemental, binary, stoichiometric and non-stoichiometric ternary alloys in the Ge-Sb-Te phase diagram. The MLIP is demonstrated to be highly transferable to large regions of the phase diagram around the compositions included in the dataset. The MLIP is then exploited to simulate the crystallization with phase separation of three Ge-rich alloys on the Ge-Sb$_2$Te$_3$ and Ge- Ge$_2$Sb$_2$Te$_5$ tie-lines that correspond to the set process of the memory cell. The transformation on the ns time scale and at 600 K, comparable to the operation conditions of the memory, yields crystalline cubic GeTe slightly Sb-doped and amorphous GeSb and Ge. These metastable phases differ from the thermodynamically stable products and form due to kinetics effects on the short time span of the set operation in phase change memories.",
   "authors": [
@@ -2063,35 +1680,6 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2026-04-15"
- },
- "2604.14609": {
-  "abstract": "AI for science promises to accelerate the discovery process. The advent of large language models (LLMs) and agentic workflows enables the expediting of a growing range of scientific tasks. However, most of the current generation of agentic systems depend on static, hand-curated toolsets that hinder adaptation to new domains and evolving libraries. We present El Agente Forjador, a multi-agent framework in which universal coding agents autonomously forge, validate, and reuse computational tools through a four-stage workflow of tool analysis, tool generation, task execution, and iterative solution evaluation. Evaluated across 24 tasks spanning quantum chemistry and quantum dynamics on five coding agent setups, we compare three operating modes: zero-shot generation of tools per task, reuse of a curriculum-built toolset, and direct problem-solving with the coding agents as the baseline. We find that our tool generation and reuse framework consistently improves accuracy over the baseline. We also show that reusing a toolset built by a stronger coding agent can reduce API cost and substantially raises the solution quality for weaker coding agents. Case studies further demonstrate that tools forged for different domains can be combined to solve hybrid tasks. Taken together, these results show that LLM-based agents can use their scientific knowledge and coding capabilities to autonomously build reusable scientific tools, pointing toward a paradigm in which agent capabilities are defined by the tasks they are designed to solve rather than by explicitly engineered implementations.",
-  "authors": [
-   "Zijian Zhang",
-   "Aiwei Yin",
-   "Amaan Baweja",
-   "Jiaru Bai",
-   "Ignacio Gustin",
-   "Varinia Bernales",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.AI",
-   "physics.comp-ph"
-  ],
-  "comment": null,
-  "first_author": "Zijian Zhang",
-  "pdf_url": "http://arxiv.org/pdf/2604.14609",
-  "primary_category": "cs.AI",
-  "published": "2026-04-16",
-  "tags": [
-   "large-language-models"
-  ],
-  "title": "El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2026-04-16"
  },
  "2604.14994": {
   "abstract": "Hydrogen-based zero-emission ships are a key element in the decarbonization of the maritime sector. To strengthen these their economic competitiveness, it is key to drive their costs to a minimum. Current literature mainly focuses on fuel consumption minimization, but there is a lack of explicit consideration of costs arising from cell degradation and optimization-based approaches that leverage information on future load trajectories. This work aims at minimizing the operational cost of fuel cell-battery hybrid shipboard power systems, accounting for hydrogen consumption and cell degradation as the main cost drivers. A degradation-aware predictive energy management strategy utilizing data-driven load forecasting is designed and showcased at the example of a virtually retrofitted harbor tug. This work shows that the real onboard measurements of the vessel can be utilized to make accurate load predictions over 15min. Results indicate that the degradation-aware, predictive control simultaneously reduces the hydrogen consumption by up to 5.8% and the cell degradation by up to 36.4% with an aged fuel cell system when compared to a filter-based benchmark applied to real operating data of the harbor tug. With an increased prediction horizon of 1h, further significant reductions of 3.8% and 14.0% could be shown.",
@@ -2481,29 +2069,6 @@
   ],
   "updated": "2026-04-22"
  },
- "2604.22107": {
-  "abstract": "We propose a hybrid reinforcement and self-supervised learning framework for accelerating generalized Benders decomposition (GBD). In this framework, a graph based reinforcement learning agent operates on a bipartite representation of the master problem and, together with a verification mechanism, determines the integer variable assignments that solve the master problem. These assignments are then used as inputs to a KKT informed neural network, trained via self supervision to predict primal dual solutions that approximately satisfy the Karush Kuhn Tucker conditions of the subproblem. The predicted solutions are used to construct Benders cuts directly. The framework is evaluated on a mixed integer nonlinear programming case study, where it achieves a 57.5% reduction in solution time relative to classical GBD while consistently recovering optimal solutions across all test instances.",
-  "authors": [
-   "Bernard T. Agyeman",
-   "Zhe Li",
-   "Ilias Mitrai",
-   "Prodromos Daoutidis"
-  ],
-  "categories": [
-   "eess.SY"
-  ],
-  "comment": null,
-  "first_author": "Bernard T. Agyeman",
-  "pdf_url": "http://arxiv.org/pdf/2604.22107",
-  "primary_category": "eess.SY",
-  "published": "2026-04-23",
-  "tags": [],
-  "title": "A Hybrid Reinforcement and Self-Supervised Learning Aided Benders Decomposition Algorithm",
-  "topics": [
-   "via:author-whitelist:process control, networks"
-  ],
-  "updated": "2026-04-23"
- },
  "2604.22468": {
   "abstract": "We present a modular and thermodynamically consistent modeling framework for simulating steady-state and transient behavior in fixed-bed reactors. Accurate simulation of dynamic reactor behavior is essential for enabling flexible operation in Power-to-X (P2X) applications, such as Power-to-Ammonia and Power-to-Methanol, where fluctuating renewable energy inputs demand robust and responsive process control. The proposed models integrate non-ideal thermodynamics through cubic equations of state and account for both advective and dispersive transport phenomena. We derive consistent mass and energy balances using internal energy as the energy state variable, and obtain temperature and pressure from thermodynamic constraints. Our simulation methodology provides the necessary model functions for steady-state and dynamic simulations, as well as parametric sensitivity analysis. It is applied to two fundamental fixed-bed reactor units, the fixed-bed reactor (FBR) and the direct-cooled reactor (DCR). In the context of ammonia synthesis, we simulate representative reactor variants, the adiabatic fixed-bed reactor (AFBR) and the isothermal direct-cooled reactor (IDCR). Simulations assess the impact of real and ideal thermodynamic models, transport assumptions, and steady-state approximations. Results show that real-fluid effects at elevated pressures significantly influence steady-state outlet temperatures and conversions for the IDCR, while common literature model assumptions generally provide accurate dynamic predictions. Altogether, the framework supports systematic reactor model development and analysis under variable operating conditions and model assumptions relevant to Power-to-X applications.",
   "authors": [
@@ -2587,33 +2152,6 @@
   ],
   "updated": "2026-04-23"
  },
- "2604.24607": {
-  "abstract": "Machine-learning models of atomic-scale interactions achieve the accuracy of the quantum mechanical calculations on which they are trained, but at a dramatically lower computational cost. Their predictions can be made trustworthy by uncertainty quantification techniques that estimate the residual error relative to their reference. These errors, however, do not include uncertainty contributions from the approximations inherent in the electronic structure calculations, which are often the main source of discrepancy with empirical observations. We construct an ensemble of ML potentials trained on multiple electronic-structure references and calibrate it against experimental data on cohesive energies, atomization energies, lattice constants and bulk moduli of simple materials and molecules, similar to the uncertainty-aware functional distribution approach. The resulting ensemble of models, which we call PET-UAFD, can be used to simulate matter across a wide range of compositions and thermodynamic conditions. By comparison with experimental measurements of the density and structure of liquids, we demonstrate that, even outside the static properties on which it was calibrated, PET-UAFD enables predictions that are as accurate against experiments as the best available electronic-structure reference and that the spread in the ensemble can be used to assess the reliability of such predictions. We also introduce the PET-EXP protocol that uses shallow ensembles and statistical reweighting techniques to provide accurate estimates of uncertainty relative to experimental measurements at virtually no additional cost over a simulation based on a single conventional ML potential. Ultimately, this approach provides a practical and inexpensive approach to elevate machine-learning potentials from faithful interpolators of approximate theories to genuinely predictive tools anchored in experimental reality.",
-  "authors": [
-   "Matthias Kellner",
-   "Teitur Hansen",
-   "Thomas Bligaard",
-   "Karsten Wedel Jacobsen",
-   "Michele Ceriotti"
-  ],
-  "categories": [
-   "physics.chem-ph",
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": null,
-  "first_author": "Matthias Kellner",
-  "pdf_url": "http://arxiv.org/pdf/2604.24607",
-  "primary_category": "physics.chem-ph",
-  "published": "2026-04-27",
-  "tags": [
-   "uncertainty-quantification"
-  ],
-  "title": "Errors that matter: Uncertainty-aware universal machine-learning potentials calibrated on experiments",
-  "topics": [
-   "via:author-whitelist:computational catalyst design, scaling relations"
-  ],
-  "updated": "2026-04-27"
- },
  "2604.24911": {
   "abstract": "Machine Learning is becoming more prevalent in science and engineering, but many approaches do not provide meaningful uncertainty estimates and predictions may also violate known physical knowledge. We propose a Bayesian framework to embed linear relationships across inputs and outputs into the learning process, whilst characterizing full predictive uncertainty over both the model parameters and the domain knowledge. We evaluated our method on learning the single particle battery model subject to voltage and energy balances, showing its ability to provide reduced credible intervals and constraint violations compared to standard Bayesian neural networks based on variational inference.",
   "authors": [
@@ -2638,60 +2176,6 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2026-04-27"
- },
- "2604.25097": {
-  "abstract": "Electronic band structures and the Fermi energy provide essential information for understanding the electronic properties of solids. In semiconductors, the Fermi energy level is determined by the donor and acceptor concentrations. For diamond, the relationship between the Fermi energy level and the donor-acceptor concentrations is highly nonlinear; therefore, experimental determination of the Fermi energy level is important. Here, we report a method to determine the Fermi energy of diamond based on photoluminescence (PL) measurement. The density-functional-theory (DFT) study by Deák et al.~\\cite{deak2014formation} showed the relationship between the Fermi energy and the formation energies of nitrogen-vacancy centers in the negatively charged (NV-) and neutrally charged (NV0) charge states. In the present method, we measure the relative populations of the NV- and NV0 centers from PL spectral analysis and, using these populations and the DFT result, determine the Fermi energy of the diamond samples. Moreover, we show the application of the method to study the spin coherence and the stability against the charge state conversion of the NV centers on several diamond samples. We also extend the method for the Fermi energy determination using the silicon-vacancy (SiV) center in diamond. The PL-based method is advantageous for determining the Fermi energy with high spatial and fast time resolutions, even in extreme environments, and can be extended to determine various wide band gap semiconductors.",
-  "authors": [
-   "Yifan Song",
-   "Sina Ilkhani",
-   "Leah Webb",
-   "Helen Highland",
-   "Shunki Nakamura",
-   "Stephen B. Cronin",
-   "Susumu Takahashi"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci",
-   "cond-mat.mes-hall",
-   "quant-ph"
-  ],
-  "comment": "11 pages, 6 figures",
-  "first_author": "Yifan Song",
-  "pdf_url": "http://arxiv.org/pdf/2604.25097",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2026-04-28",
-  "tags": [
-   "dft"
-  ],
-  "title": "Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2026-04-28"
- },
- "2604.25610": {
-  "abstract": "Artificial intelligent language-model based coding agents have significantly changed the way we interact with computers in our day-to-day, as it is common to use them to create, improve, and run programming scripts only using natural language. Agent code updates can be better guided when such programs can be executed and scored automatically rather than judged by human preference. In quantum computing and classical quantum simulation settings, ground-state preparation has a parallel structure: candidate protocols can be ranked by estimated energies and other proxies indicating proper quantum-state convergence. In this work, we study how autoresearch, a code optimization strategy based on coding agents, can be used to optimize hyperparameter choices of different ground-state preparation and sampling protocols, including the variational quantum eigensolver (VQE), density matrix renormalization group (DMRG), and auxiliary-field quantum Monte Carlo (AFQMC). We validate the viability and capacity of this method on simple spin models and molecular Hamiltonians. Across all three settings, the agent mutates simple baselines into complex protocols with improved energy proxies while operating under constrained space-time computational budgets. We conclude with discussions of other quantum routines that support executable scalar scoring, enabling evolutionary coding agents to automate a substantial portion of the protocol-tuning work that would otherwise be required manually.",
-  "authors": [
-   "Luis Mantilla Calderón",
-   "Jérôme F. Gonthier",
-   "Ignacio Gustin",
-   "Varinia Bernales",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "quant-ph"
-  ],
-  "comment": "18 pages, 5 figures",
-  "first_author": "Luis Mantilla Calderón",
-  "pdf_url": "http://arxiv.org/pdf/2604.25610",
-  "primary_category": "quant-ph",
-  "published": "2026-04-28",
-  "tags": [],
-  "title": "Optimizing ground state preparation protocols with autoresearch",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2026-04-28"
  },
  "2604.25701": {
   "abstract": "The RNA world hypothesis suggests a pathway of how life emerged on early earth. It assumes that life started with RNA based systems, capable of storing, transmitting and replicating information, envisioning that monomers and short RNA oligomers interact to form longer strands, eventually becoming catalytically active ribozymes. Key reactions in RNA pools are hybridization, dehybridization, templated ligation, and cleavage. Those reactions depend on many environmental parameters and the wide range of possible configurations among interacting strands. In order to scan such high dimensional parameter spaces, efficient descriptions are needed. Motif rate equations project complex strand reactor dynamics onto sequence motif space. Here we present a Bayesian inference framework to infer their parameters from ligation count data produced by strand reactor simulations. This provides a framework to match the simpler motif rate equations to more complex simulations. Additionally, it is a step towards inferring reaction rate constants directly from experimental data, including rigorous uncertainty estimation. This could be an essential procedure to connect theory and experiment, and deepen our understanding of the essential features necessary for life to emerge.",
@@ -2718,58 +2202,6 @@
   "title": "Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids",
   "topics": [
    "Uncertainty Quantification & Bayesian Methods"
-  ],
-  "updated": "2026-04-28"
- },
- "2604.25884": {
-  "abstract": "Quantum computing calibration depends on interpreting experimental data, and calibration plots provide the most universal human-readable representation for this task, yet no systematic evaluation exists of how well vision-language models (VLMs) interpret them. We introduce QCalEval, the first VLM benchmark for quantum calibration plots: 243 samples across 87 scenario types from 22 experiment families, spanning superconducting qubits and neutral atoms, evaluated on six question types in both zero-shot and in-context learning settings. The best general-purpose zero-shot model reaches a mean score of 72.3, and many open-weight models degrade under multi-image in-context learning, whereas frontier closed models improve substantially. A supervised fine-tuning ablation at the 9-billion-parameter scale shows that SFT improves zero-shot performance but cannot close the multimodal in-context learning gap. As a reference case study, we release NVIDIA Ising Calibration 1, an open-weight model based on Qwen3.5-35B-A3B that reaches 74.7 zero-shot average score.",
-  "authors": [
-   "Shuxiang Cao",
-   "Zijian Zhang",
-   "Abhishek Agarwal",
-   "Grace Bratrud",
-   "Niyaz R. Beysengulov",
-   "Daniel C. Cole",
-   "Alejandro Gómez Frieiro",
-   "Elena O. Glen",
-   "Hao Hsu",
-   "Gang Huang",
-   "Raymond Jow",
-   "Greshma Shaji",
-   "Tom Lubowe",
-   "Ligeng Zhu",
-   "Luis Mantilla Calderón",
-   "Nicola Pancotti",
-   "Joel Pendleton",
-   "Brandon Severin",
-   "Charles Etienne Staub",
-   "Sara Sussman",
-   "Antti Vepsäläinen",
-   "Neel Rajeshbhai Vora",
-   "Yilun Xu",
-   "Varinia Bernales",
-   "Daniel Bowring",
-   "Elica Kyoseva",
-   "Ivan Rungger",
-   "Giulia Semeghini",
-   "Sam Stanwyck",
-   "Timothy Costa",
-   "Alán Aspuru-Guzik",
-   "Krysta Svore"
-  ],
-  "categories": [
-   "quant-ph",
-   "cs.CV"
-  ],
-  "comment": null,
-  "first_author": "Shuxiang Cao",
-  "pdf_url": "http://arxiv.org/pdf/2604.25884",
-  "primary_category": "quant-ph",
-  "published": "2026-04-28",
-  "tags": [],
-  "title": "QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
   ],
   "updated": "2026-04-28"
  },

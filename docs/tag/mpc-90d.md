@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05035.html">Good-Enough LLM Obfuscation (GELO)</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Anatoly Belikov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05035">2603.05035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16887.html">Multiparametric continuous-time optimal control via Pontryagin&#x27;s Maximum Principle: explicit solutions and comparisons with discrete-time formulations</a></div><div class="paper-tags"><a href="optimal-control-90d.html">optimal-control</a></div></td>
-<td>Lida Lamakani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16887">2603.16887</a></td>
 </tr>
 </tbody></table>

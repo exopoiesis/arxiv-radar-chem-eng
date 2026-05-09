@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <strong>30d</strong> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05566.html">Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a></div></td>
 <td>Perceval Beja-Battais et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05566">2604.05566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07292.html">Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability</a></div><div class="paper-tags"><a href="graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="heat-transfer-30d.html">heat-transfer</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Akzhol Almukhametov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07292">2604.07292</a></td>
 </tr>
 </tbody></table>

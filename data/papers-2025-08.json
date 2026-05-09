@@ -1,53 +1,4 @@
 {
- "2403.03309": {
-  "abstract": "Visual recognition of materials and their states is essential for understanding the physical world, from identifying wet regions on surfaces or stains on fabrics to detecting infected areas on plants or minerals in rocks. Collecting data that captures this vast variability is complex due to the scattered and gradual nature of material states. Manually annotating real-world images is constrained by cost and precision, while synthetic data, although accurate and inexpensive, lacks real-world diversity. This work aims to bridge this gap by infusing patterns automatically extracted from real-world images into synthetic data. Hence, patterns collected from natural images are used to generate and map materials into synthetic scenes. This unsupervised approach captures the complexity of the real world while maintaining the precision and scalability of synthetic data. We also present the first comprehensive benchmark for zero-shot material state segmentation, utilizing real-world images across a diverse range of domains, including food, soils, construction, plants, liquids, and more, each appears in various states such as wet, dry, infected, cooked, burned, and many others. The annotation includes partial similarity between regions with similar but not identical materials and hard segmentation of only identical material states. This benchmark eluded top foundation models, exposing the limitations of existing data collection methods. Meanwhile, nets trained on the infused data performed significantly better on this and related tasks. The dataset, code, and trained model are available. We also share 300,000 extracted textures and SVBRDF/PBR materials to facilitate future datasets generation.",
-  "authors": [
-   "Sagi Eppel",
-   "Jolina Li",
-   "Manuel Drehwald",
-   "Alan Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.CV"
-  ],
-  "comment": null,
-  "first_author": "Sagi Eppel",
-  "pdf_url": "http://arxiv.org/pdf/2403.03309",
-  "primary_category": "cs.CV",
-  "published": "2024-03-05",
-  "tags": [
-   "large-language-models"
-  ],
-  "title": "Learning Zero-Shot Material States Segmentation, by Implanting Natural Image Patterns in Synthetic Data",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-08-01"
- },
- "2410.09100": {
-  "abstract": "Quantifying how hard it is to build a molecular graph matters for biosignature detection, chemical complexity, and cheminformatics. We present an exact, scalable algorithm to compute the molecular assembly index (MA) which prioritizes the largest duplicate subgraphs, represents fragmentation with an 'assembly state' array of edge-lists, reuses states via hashing/DAGs, and prunes the search using a dynamic-programming branch-and-bound guided by a conditional-addition-chain lower bound. For organic molecules in the greater than 500 Da range our approach is up to six orders of magnitude faster than prior methods and yields exact MAs where previous algorithms would have timed out. We compute MAs to convergence for ~300k COCONUT natural products with <50 bonds, profiling time and memory scaling. Finally, we exploit the speed of our algorithm to calculate joint assembly spaces and introduce the Joint Assembly Overlap (JAO), a Jaccard-like metric that emphasizes global scaffold reuse and show that the JAO yields substantially different rankings from Tanimoto similarity with ECFP fingerprints and MCS (e.g. in steroids 270-380/Da and short peptides), accounting for substructural similarity beyond local environments. Together, these advances turn the molecular assembly index into a practical tool for large-scale exploration of chemical space.",
-  "authors": [
-   "Ian Seet",
-   "Keith Y. Patarroyo",
-   "Gage Siebert",
-   "Sara I. Walker",
-   "Leroy Cronin"
-  ],
-  "categories": [
-   "cs.DS"
-  ],
-  "comment": "32 pages, 9 figures, 45 references",
-  "first_author": "Ian Seet",
-  "pdf_url": "http://arxiv.org/pdf/2410.09100",
-  "primary_category": "cs.DS",
-  "published": "2024-10-09",
-  "tags": [],
-  "title": "Rapid Exploration of Assembly Chemical Space of Molecular Graphs",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2025-08-16"
- },
  "2411.01727": {
   "abstract": "Pt-based electrocatalysts are the primary choice for fuel cells due to their superior oxygen reduction reaction (ORR) activity. To enhance ORR performance and durability, extensive studies have investigated transition metal alloying, doping, and shape control to optimize the three key governing factors for ORR: geometry, local chemistry, and strain of their surface and subsurface. However, systematic optimization remains incomplete, as it requires an atomic-scale understanding of these factors and their dynamics over potential cycling, as well as their relationship to ORR activity. Here, we implement neural network-assisted atomic electron tomography to measure the 3D atomic structural dynamics and their effects on the functional degradation of PtNi alloy catalysts. Our results reveal that PtNi catalysts undergo shape changes, surface alloying, and strain relaxation during cycling, which can be effectively mitigated by Ga doping. By combining geometry, local chemistry, and strain analysis, we calculated the changes in ORR activity over thousands of cycles and observed that Ga doping leads to higher initial activity and greater stability. These findings offer a pathway to understanding 3D atomic structural dynamics and their relation to ORR activity during cycling, paving the way for the systematic design of durable, high-efficiency nanocatalysts.",
   "authors": [
@@ -196,46 +147,6 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-08-29"
- },
- "2505.02484": {
-  "abstract": "Computational chemistry tools are widely used to study the behaviour of chemical phenomena. Yet, the complexity of these tools can make them inaccessible to non-specialists and challenging even for experts. In this work, we introduce El Agente Q, an LLM-based multi-agent system that dynamically generates and executes quantum chemistry workflows from natural language user prompts. The system is built on a novel cognitive architecture featuring a hierarchical memory framework that enables flexible task decomposition, adaptive tool selection, post-analysis, and autonomous file handling and submission. El Agente Q is benchmarked on six university-level course exercises and two case studies, demonstrating robust problem-solving performance (averaging >87% task success) and adaptive error handling through in situ debugging. It also supports longer-term, multi-step task execution for more complex workflows, while maintaining transparency through detailed action trace logs. Together, these capabilities lay the foundation for increasingly autonomous and accessible quantum chemistry.",
-  "authors": [
-   "Yunheng Zou",
-   "Austin H. Cheng",
-   "Abdulrahman Aldossary",
-   "Jiaru Bai",
-   "Shi Xuan Leong",
-   "Jorge Arturo Campos-Gonzalez-Angulo",
-   "Changhyeok Choi",
-   "Cher Tian Ser",
-   "Gary Tom",
-   "Andrew Wang",
-   "Zijian Zhang",
-   "Ilya Yakavets",
-   "Han Hao",
-   "Chris Crebolder",
-   "Varinia Bernales",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.AI",
-   "cs.LG",
-   "cs.MA",
-   "physics.chem-ph"
-  ],
-  "comment": null,
-  "first_author": "Yunheng Zou",
-  "pdf_url": "http://arxiv.org/pdf/2505.02484",
-  "primary_category": "cs.AI",
-  "published": "2025-05-05",
-  "tags": [
-   "large-language-models"
-  ],
-  "title": "El Agente: An Autonomous Agent for Quantum Chemistry",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-08-08"
  },
  "2505.24584": {
   "abstract": "Recent advances in generative AI have accelerated the discovery of novel chemicals and materials. However, scaling these discoveries to industrial production remains a major bottleneck due to the synthesis gap -- the need to develop entirely new manufacturing processes. This challenge requires detailed engineering blueprints: PFDs for equipment layouts and material/energy flows, and PIDs for process plant operations. Current AI systems cannot yet reliably generate these critical engineering schematics, creating a fundamental obstacle to manufacturing scale-up of novel discoveries. We present a closed-loop, physics-aware framework for automated generation of industrially viable PFDs and PIDs. The framework integrates three key components: (1) domain-specialized small language models (SLMs) trained for auto-generation of PFDs and PIDs, (2) a hierarchical knowledge graph containing process flow and instrumentation descriptions for 1,020+ chemicals for Graph Retrieval-Augmented Generation (GRAG), and (3) an open-source chemical process simulator for modeling, simulation, optimization, and analysis of novel chemical processes. The SLMs are trained through a multi-stage pipeline on synthetic datasets, with process simulator-in-the-loop validation ensuring feasibility. To enhance computational efficiency, the framework implements structural pruning (width and depth) guided by importance heuristics to reduce language model size while preserving accuracy, followed by advanced inference optimizations including FlashAttention, Lookahead Decoding, PagedAttention with KV-cache quantization, and Test-Time Inference Scaling. Experimental results demonstrate that our framework generates simulator-validated process descriptions with high fidelity.",
@@ -403,29 +314,6 @@
    "Process Modeling & System Identification",
    "Reaction Engineering & Kinetics",
    "Uncertainty Quantification & Bayesian Methods"
-  ],
-  "updated": "2025-08-01"
- },
- "2508.01100": {
-  "abstract": "Benders decomposition is a widely used method for solving large optimization problems, but its performance is often hindered by the repeated solution of subproblems. We propose a flexible and modular algorithmic framework for accelerating Benders decomposition by embedding multi-parametric programming (mp) surrogates for optimization subproblems. Our approach leverages the OptiGraph abstraction in Plasmo$.$jl to model and decompose graph-structured problems. By solving the subproblems associated with the graph nodes once using mp, we can extract explicit piecewise affine mappings for primal and dual variables which replace the expensive subproblem solves with efficient look-ups and function evaluations during the iterative Benders process. We formally show the equivalence between classical Benders cuts and those derived from the mp solution and implement this integration in the open-source PlasmoBenders$.$jl software package. We apply it to a two-stage stochastic programming problem, which aims to make optimal capacity expansion decisions under uncertainty in product demand/prices and availability of raw materials. We evaluate single-cut and multi-cut variants of Benders and show that the mp surrogate approach achieves substantial speedups in subproblem solve time while preserving the convergence guarantees of Benders. Furthermore, we highlight advantages in the solution analysis and interpretability that is enabled by mp critical region tracking. Our results demonstrate that combining mp programming with graph modeling offers a promising and extensible foundation for structure-exploiting decomposition. By decomposing the problem into tractable subproblems, the proposed approach also aims to overcome scalability issues of mp, and the use of mp surrogates provides a unifying modeling framework to represent heterogeneous graph subproblems as common modeling objects.",
-  "authors": [
-   "Parth Brahmbhatt",
-   "David L. Cole",
-   "Victor M. Zavala",
-   "Styliani Avraamidou"
-  ],
-  "categories": [
-   "math.OC"
-  ],
-  "comment": "49 pages, 11 figures",
-  "first_author": "Parth Brahmbhatt",
-  "pdf_url": "http://arxiv.org/pdf/2508.01100",
-  "primary_category": "math.OC",
-  "published": "2025-08-01",
-  "tags": [],
-  "title": "Benders Decomposition using Graph Modeling and Multi-Parametric Programming",
-  "topics": [
-   "via:author-whitelist:MPC, infrastructure optimization"
   ],
   "updated": "2025-08-01"
  },
@@ -617,73 +505,6 @@
   ],
   "updated": "2025-08-05"
  },
- "2508.03229": {
-  "abstract": "The Querying Underlying mechanisms of massive star formation with ALMA-Resolved gas Kinematics and Structures (QUARKS) survey observed 139 infrared-bright (IR-bright) massive protoclusters at 1.3 mm wavelength with ALMA. This study investigates clump-to-core fragmentation and searches for candidate high-mass starless cores within IR-bright clumps using combined ALMA 12-m (C-2) and Atacama Compact Array (ACA) 7-m data, providing $\\sim$ 1 arcsec ($\\sim\\rm0.02~pc$ at 3.7 kpc) resolution and $\\sim\\rm0.6\\,mJy\\,beam^{-1}$ continuum sensitivity ($\\sim 0.3~M_{\\odot}$ at 30 K). We identified 1562 compact cores from 1.3 mm continuum emission using getsf. Observed linear core separations ($λ_{\\rm obs}$) are significantly less than the thermal Jeans length ($λ_{\\rm J}$), with the $λ_{\\rm obs}/λ_{\\rm J}$ ratios peaking at $\\sim0.2$. This indicates that thermal Jeans fragmentation has taken place within the IR-bright protocluster clumps studied here. The observed low ratio of $λ_{\\rm obs}/λ_{\\rm J}\\ll 1$ could be the result of evolving core separation or hierarchical fragmentation. Based on associated signatures of star formation (e.g., outflows and ionized gas), we classified cores into three categories: 127 starless, 971 warm, and 464 evolved cores. Two starless cores have mass exceeding 16$\\,M_{\\odot}$, and represent high-mass candidates. The scarcity of such candidates suggests that competitive accretion-type models could be more applicable than turbulent core accretion-type models in high-mass star formation within these IR-bright protocluster clumps.",
-  "authors": [
-   "Dongting Yang",
-   "Hong-Li Liu",
-   "Tie Liu",
-   "Xunchuan Liu",
-   "Fengwei Xu",
-   "Sheng-Li Qin",
-   "Anandmayee Tej",
-   "Guido Garay",
-   "Lei Zhu",
-   "Xiaofeng Mai",
-   "Wenyu Jiao",
-   "Siju Zhang",
-   "Sami Dib",
-   "Amelia M. Stutz",
-   "Aina Palau",
-   "Patricio Sanhueza",
-   "Annie Zavagno",
-   "A. Y. Yang",
-   "Xindi Tang",
-   "Mengyao Tang",
-   "Yichen Zhang",
-   "Pablo Garcia",
-   "Tianwei Zhang",
-   "Anindya Saha",
-   "Shanghuo Li",
-   "Paul F. Goldsmith",
-   "Leonardo Bronfman",
-   "Chang Won Lee",
-   "Kotomi Taniguchi",
-   "Swagat Ranjan Das",
-   "Prasanta Gorai",
-   "Ariful Hoque",
-   "Li Chen",
-   "Zhiping Kou",
-   "Jianjun Zhou",
-   "Yankun Zhang",
-   "L. Viktor Toth",
-   "Tapas Baug",
-   "Xianjin Shen",
-   "Chuanshou Li",
-   "Jiahang Zou",
-   "Ankan Das",
-   "Hafiz Nazeer",
-   "L. K. Dewangan",
-   "Jihye Hwang",
-   "James O. Chibueze"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "30 pages, 16 figures, accepted by ApJS",
-  "first_author": "Dongting Yang",
-  "pdf_url": "http://arxiv.org/pdf/2508.03229",
-  "primary_category": "astro-ph.GA",
-  "published": "2025-08-05",
-  "tags": [
-   "separations"
-  ],
-  "title": "The ALMA-QUARKS Survey: III. Clump-to-core fragmentation and search for high-mass starless cores",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2025-08-05"
- },
  "2508.03278": {
   "abstract": "High throughput experimentation tools, machine learning (ML) methods, and open material databases are radically changing the way new materials are discovered. From the experimentally driven approach in the past, we are moving quickly towards the artificial intelligence (AI) driven approach, realizing the 'inverse design' capabilities that allow the discovery of new materials given the desired properties. This review aims to discuss different principles of AI-driven generative models that are applicable for materials discovery, including different materials representations available for this purpose. We will also highlight specific applications of generative models in designing new catalysts, semiconductors, polymers, or crystals while addressing challenges such as data scarcity, computational cost, interpretability, synthesizability, and dataset biases. Emerging approaches to overcome limitations and integrate AI with experimental workflows will be discussed, including multimodal models, physics informed architectures, and closed-loop discovery systems. This review aims to provide insights for researchers aiming to harness AI's transformative potential in accelerating materials discovery for sustainability, healthcare, and energy innovation.",
   "authors": [
@@ -709,41 +530,6 @@
    "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2025-08-05"
- },
- "2508.04294": {
-  "abstract": "Transmission electron microscopy (TEM) has reached ~ 50 picometer resolution in a high vacuum, enabling single-atom sensitive imaging of nanomaterials. Extending this capability to gaseous environments would allow for similar visualizations of nanomaterial dynamics under chemically reactive conditions. Here, we examine a new TEM system that maintains 50 pm resolution at pressures up to 1 mbar, demonstrated using nanocrystalline Au immersed in N2. The system features an open gas-cell with a four-stage differential pumping system, a 5th order aberration corrector for broad-beam TEM, a monochromatized electron beam, an ultra-stable microscope platform, Nelsonian low electron dose-rate illumination, and direct electron detection. Young fringe experiments and exit wave phase imaging confirm the atomic resolution and indicate location-dependent vibrational blur at surface terminations. Thus, this platform advances in situ and operando TEM studies of gas-surface interactions in diverse fields, including catalysis, corrosion, and crystal growth.",
-  "authors": [
-   "Idan Biran",
-   "Frederik Dam",
-   "Sophie Kargo Kaptain",
-   "Ruben Bueno Villoro",
-   "Maarten Wirix",
-   "Christian Kisielowski",
-   "Peter C. K. Vesborg",
-   "Jakob Kibsgaard",
-   "Thomas Bligaard",
-   "Christian D. Damsgaard",
-   "Joerg R. Jinschek",
-   "Stig Helveg"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci",
-   "physics.ins-det"
-  ],
-  "comment": null,
-  "first_author": "Idan Biran",
-  "pdf_url": "http://arxiv.org/pdf/2508.04294",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2025-08-06",
-  "tags": [
-   "catalysis",
-   "crystallization"
-  ],
-  "title": "Open Gas-Cell Transmission Electron Microscopy at 50 pm Resolution",
-  "topics": [
-   "via:author-whitelist:computational catalyst design, scaling relations"
-  ],
-  "updated": "2025-08-06"
  },
  "2508.04799": {
   "abstract": "Most recent advances in machine learning and analytics for process control pose the question of how to naturally integrate new data-driven methods with classical process models and control. We propose a process modeling framework enabling integration of data-driven algorithms through consistent topological properties and conservation of extensive quantities. Interconnections among process network units are represented through connectivity matrices and network graphs. We derive the system's natural objective function equivalent to the non-equilibrium entropy production in a steady state system as a driving force for the process dynamics. We illustrate how distributed control and optimization can be implemented into process network structures and how control laws and algorithms alter the system's natural equilibrium towards engineered objectives. The basic requirement is that the flow conditions can be expressed in terms of conic sector (passivity) conditions. Our formalism allows integration of fundamental conservation properties from topology with learned dynamic relations from data through sparse deep neural networks.   We demonstrate in a practical example of a simple inventory control system how to integrate the basic topology of a process with a neural network ordinary differential equation model. The system specific constitutive equations are left undescribed and learned by the neural ordinary differential equation algorithm using the adjoint method in combination with an adaptive ODE solver from synthetic time-series data. The resulting neural network forms a state space model for use in e.g. a model predictive control algorithm.",
@@ -1347,27 +1133,6 @@
   ],
   "updated": "2025-08-24"
  },
- "2508.19015": {
-  "abstract": "Learning is a physical process. Here, we aim to study a simple dynamical system composed of springs and sticks capable of arbitrarily approximating any continuous function. The main idea of our work is to use the sticks to mimic a piecewise-linear approximation of the given function, use the potential energy of springs to encode a desired mean squared error loss function, and converge to a minimum-energy configuration via dissipation. We apply the proposed simulation system to regression tasks and show that its performance is comparable to that of multi-layer perceptrons. In addition, we study the thermodynamic properties of the system and find a relation between the free energy change of the system and its ability to learn an underlying data distribution. We empirically find a \\emph{thermodynamic learning barrier} for the system caused by the fluctuations of the environment, whereby the system cannot learn if its change in free energy hits such a barrier. We believe this simple model can help us better understand learning systems from a physical point of view.",
-  "authors": [
-   "Luis Mantilla Calderón",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.LG"
-  ],
-  "comment": "13 pages, 6 figures",
-  "first_author": "Luis Mantilla Calderón",
-  "pdf_url": "http://arxiv.org/pdf/2508.19015",
-  "primary_category": "cs.LG",
-  "published": "2025-08-26",
-  "tags": [],
-  "title": "Learning with springs and sticks",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-08-26"
- },
  "2508.19948": {
   "abstract": "Neuron models built from experimental data have successfully predicted observed voltage oscillations within and beyond training range. A tantalising prospect is the possibility of estimating the unobserved dynamics of ion channels which is largely inaccessible to experiment, from membrane voltage recordings. The main roadblock here is our lack of knowledge of the equations governing biological neurons which forces us to rely on surrogate models and parameter estimates biassed by model error. Error correction algorithms are therefore needed to infer both observed and unobserved dynamics, and ultimately the actual parameters of a biological neuron. Here we use a recurrent neural network to correct the outputs of a surrogate Hodgkin-Huxley (HH) model. The reservoir-surrogate HH model hybrid was trained on the voltage oscillations of a reference HH model and its driving current waveform. Out of the six reservoir-surrogate model architectures investigated, we identify one that most accurately recovers the reference membrane voltage and ion channel dynamics. The reservoir was thus effective in correcting model error in an externally driven nonlinear oscillator and in reconstructing the dynamics of both observed and unobserved state variables from the reference model mimicking an actual neuron.",
   "authors": [
@@ -1526,32 +1291,6 @@
   "title": "Surface Stability Modeling with Universal Machine Learning Interatomic Potentials: A Comprehensive Cleavage Energy Benchmarking Study",
   "topics": [
    "Separation Processes & Transport Phenomena"
-  ],
-  "updated": "2025-08-29"
- },
- "2509.00240": {
-  "abstract": "As organizations face increasing pressure to understand their corporate and products' carbon footprints, artificial intelligence (AI)-assisted calculation systems for footprinting are proliferating, but with widely varying levels of rigor and transparency. Standards and guidance have not kept pace with the technology; evaluation datasets are nascent; and statistical approaches to uncertainty analysis are not yet practical to apply to scaled systems. We present a set of criteria to validate AI-assisted systems that calculate greenhouse gas (GHG) emissions for products and materials. We implement a three-step approach: (1) Identification of needs and constraints, (2) Draft criteria development and (3) Refinements through pilots. The process identifies three use cases of AI applications: Case 1 focuses on AI-assisted mapping to existing datasets for corporate GHG accounting and product hotspotting, automating repetitive manual tasks while maintaining mapping quality. Case 2 addresses AI systems that generate complete product models for corporate decision-making, which require comprehensive validation of both component tasks and end-to-end performance. We discuss the outlook for Case 3 applications, systems that generate standards-compliant models. We find that credible AI systems can be built and that they should be validated using system-level evaluations rather than line-item review, with metrics such as benchmark performance, indications of data quality and uncertainty, and transparent documentation. This approach may be used as a foundation for practitioners, auditors, and standards bodies to evaluate AI-assisted environmental assessment tools. By establishing evaluation criteria that balance scalability with credibility requirements, our approach contributes to the field's efforts to develop appropriate standards for AI-assisted carbon footprinting systems.",
-  "authors": [
-   "Shaena Ulissi",
-   "Andrew Dumit",
-   "P. James Joyce",
-   "Krishna Rao",
-   "Steven Watson",
-   "Sangwon Suh"
-  ],
-  "categories": [
-   "cs.CY",
-   "cs.AI"
-  ],
-  "comment": "16 pages, 1 figure",
-  "first_author": "Shaena Ulissi",
-  "pdf_url": "http://arxiv.org/pdf/2509.00240",
-  "primary_category": "cs.CY",
-  "published": "2025-08-29",
-  "tags": [],
-  "title": "Criteria for Credible AI-assisted Carbon Footprinting Systems: The Cases of Mapping and Lifecycle Modeling",
-  "topics": [
-   "via:author-whitelist:Open Catalyst, ML for catalysis"
   ],
   "updated": "2025-08-29"
  },

@@ -9,59 +9,51 @@
 # experimentation / self-driving labs.
 
 authors:
-
-  # --- Process systems engineering / hybrid modeling ---
-
-  - name_match: ["Pistikopoulos", "Efstratios Pistikopoulos"]
-    note: "PSE, parametric programming"
-
-  - name_match: ["Floudas", "Christodoulos Floudas"]
-    note: "global optimization, PSE"
-
-  - name_match: ["Daoutidis", "Prodromos Daoutidis"]
-    note: "process control, networks"
-
-  - name_match: ["Zavala, V", "Victor Zavala"]
-    note: "MPC, infrastructure optimization"
-
-  - name_match: ["Gounaris", "Chrysanthos Gounaris"]
-    note: "robust optimization, scheduling"
-
-  - name_match: ["Lima, F", "Fernando Lima"]
-    note: "MPC, process safety"
-
-  - name_match: ["Christofides, P", "Panagiotis Christofides"]
-    note: "process control, ML for control"
-
-  # --- Reaction engineering / microkinetics ---
-
-  - name_match: ["Vlachos, D", "Dionisios Vlachos"]
-    note: "microkinetics, multi-scale catalysis"
-
-  - name_match: ["Salciccioli, M", "Michael Salciccioli"]
-    note: "kinetic networks, microkinetics"
-
-  - name_match: ["Goldsmith, F", "Franklin Goldsmith"]
-    note: "automated kinetic mechanism generation"
-
-  # --- Self-driving labs / autonomous experimentation ---
-
-  - name_match: ["Aspuru-Guzik", "Alán Aspuru-Guzik"]
-    note: "autonomous discovery, self-driving labs"
-
-  - name_match: ["Cronin", "Lee Cronin"]
-    note: "chemputers, autonomous synthesis"
-
-  - name_match: ["Burger, B", "Benjamin Burger"]
-    note: "mobile robotic chemist"
-
-  - name_match: ["Reizman, B", "Brandon Reizman"]
-    note: "autonomous reaction optimization"
-
-  # --- ML for materials / catalysis ---
-
-  - name_match: ["Bligaard", "Thomas Bligaard"]
-    note: "computational catalyst design, scaling relations"
-
-  - name_match: ["Ulissi", "Zachary Ulissi"]
-    note: "Open Catalyst, ML for catalysis"
+- name_match:
+  - Efstratios Pistikopoulos
+  note: PSE, parametric programming
+- name_match:
+  - Christodoulos Floudas
+  note: global optimization, PSE
+- name_match:
+  - Prodromos Daoutidis
+  note: process control, networks
+- name_match:
+  - Victor Zavala
+  note: MPC, infrastructure optimization
+- name_match:
+  - Chrysanthos Gounaris
+  note: robust optimization, scheduling
+- name_match:
+  - Fernando Lima
+  note: MPC, process safety
+- name_match:
+  - Panagiotis Christofides
+  note: process control, ML for control
+- name_match:
+  - Dionisios Vlachos
+  note: microkinetics, multi-scale catalysis
+- name_match:
+  - Michael Salciccioli
+  note: kinetic networks, microkinetics
+- name_match:
+  - Franklin Goldsmith
+  note: automated kinetic mechanism generation
+- name_match:
+  - Alán Aspuru-Guzik
+  note: autonomous discovery, self-driving labs
+- name_match:
+  - Lee Cronin
+  note: chemputers, autonomous synthesis
+- name_match:
+  - Benjamin Burger
+  note: mobile robotic chemist
+- name_match:
+  - Brandon Reizman
+  note: autonomous reaction optimization
+- name_match:
+  - Thomas Bligaard
+  note: computational catalyst design, scaling relations
+- name_match:
+  - Zachary Ulissi
+  note: Open Catalyst, ML for catalysis

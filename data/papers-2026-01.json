@@ -27,31 +27,6 @@
   ],
   "updated": "2026-01-15"
  },
- "2501.02098": {
-  "abstract": "We present a graph-theoretic modeling approach for hierarchical optimization that leverages the OptiGraph abstraction implemented in the Julia package Plasmo.jl. We show that the abstraction is flexible and can effectively capture complex hierarchical connectivity that arises from decision-making over multiple spatial and temporal scales (e.g., integration of planning, scheduling, and operations in manufacturing and infrastructures). We also show that the graph abstraction facilitates the conceptualization and implementation of decomposition and approximation schemes. Specifically, we propose a graph-based Benders decomposition (gBD) framework that enables the exploitation of hierarchical (nested) structures and that uses graph aggregation/partitioning procedures to discover such structures. In addition, we provide a Julia implementation of gBD, which we call PlasmoBenders.jl. We illustrate the capabilities using examples arising in the context of energy and power systems.",
-  "authors": [
-   "David L. Cole",
-   "Filippo Pecci",
-   "Omar J. Guerra",
-   "Harsha Gangammanavar",
-   "Jesse D. Jenkins",
-   "Victor M. Zavala"
-  ],
-  "categories": [
-   "math.OC"
-  ],
-  "comment": "68 pages, 3 tables, 29 figures, updated abstract",
-  "first_author": "David L. Cole",
-  "pdf_url": "http://arxiv.org/pdf/2501.02098",
-  "primary_category": "math.OC",
-  "published": "2025-01-03",
-  "tags": [],
-  "title": "Graph-Based Modeling and Decomposition of Hierarchical Optimization Problems",
-  "topics": [
-   "via:author-whitelist:MPC, infrastructure optimization"
-  ],
-  "updated": "2026-01-16"
- },
  "2503.08305": {
   "abstract": "We present the Electronic Tensor Reconstruction Algorithm (ELECTRA) - an equivariant model for predicting electronic charge densities using floating orbitals. Floating orbitals are a long-standing concept in the quantum chemistry community that promises more compact and accurate representations by placing orbitals freely in space, as opposed to centering all orbitals at the position of atoms. Finding the ideal placement of these orbitals requires extensive domain knowledge, though, which thus far has prevented widespread adoption. We solve this in a data-driven manner by training a Cartesian tensor network to predict the orbital positions along with orbital coefficients. This is made possible through a symmetry-breaking mechanism that is used to learn position displacements with lower symmetry than the input molecule while preserving the rotation equivariance of the charge density itself. Inspired by recent successes of Gaussian Splatting in representing densities in space, we are using Gaussian orbitals and predicting their weights and covariance matrices. Our method achieves a state-of-the-art balance between computational efficiency and predictive accuracy on established benchmarks. Furthermore, ELECTRA is able to lower the compute time required to arrive at converged DFT solutions - initializing calculations using our predicted densities yields an average 50.72 % reduction in self-consistent field (SCF) iterations on unseen molecules.",
   "authors": [
@@ -1067,33 +1042,6 @@
   ],
   "updated": "2026-01-15"
  },
- "2601.10403": {
-  "abstract": "Discrete diffusion models have recently emerged as a promising alternative to the autoregressive approach for generating discrete sequences. Sample generation via gradual denoising or demasking processes allows them to capture hierarchical non-sequential interdependencies in the data. These custom processes, however, do not assume a flexible control over the distribution of generated samples. We propose Discrete Feynman-Kac Correctors, a framework that allows for controlling the generated distribution of discrete masked diffusion models at inference time. We derive Sequential Monte Carlo (SMC) algorithms that, given a trained discrete diffusion model, control the temperature of the sampled distribution (i.e. perform annealing), sample from the product of marginals of several diffusion processes (e.g. differently conditioned processes), and sample from the product of the marginal with an external reward function, producing likely samples from the target distribution that also have high reward. Notably, our framework does not require any training of additional models or fine-tuning of the original model. We illustrate the utility of our framework in several applications including: efficient sampling from the annealed Boltzmann distribution of the Ising model, improving the performance of language models for code generation and amortized learning, as well as reward-tilted protein sequence generation.",
-  "authors": [
-   "Mohsin Hasan",
-   "Viktor Ohanesian",
-   "Artem Gazizov",
-   "Yoshua Bengio",
-   "Alán Aspuru-Guzik",
-   "Roberto Bondesan",
-   "Marta Skreta",
-   "Kirill Neklyudov"
-  ],
-  "categories": [
-   "cs.LG"
-  ],
-  "comment": "Code: https://github.com/hasanmohsin/discrete_fkc",
-  "first_author": "Mohsin Hasan",
-  "pdf_url": "http://arxiv.org/pdf/2601.10403",
-  "primary_category": "cs.LG",
-  "published": "2026-01-15",
-  "tags": [],
-  "title": "Discrete Feynman-Kac Correctors",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2026-01-15"
- },
  "2601.10938": {
   "abstract": "Accelerating alkali-ion battery discovery requires accurate modeling of atomic-scale kinetics, yet the reliability of universal machine learning interatomic potentials (uMLIPs) in capturing these high-energy landscapes remains uncertain. Here, we systematically benchmark state-of-the-art uMLIPs, including M3GNet, CHGNet, MACE, SevenNet, GRACE, and Orb, against DFT baselines for cathodes and solid electrolytes. We find that the Orb-v3 family excels in static migration barrier predictions (MAE $\\approx$ 75--111 meV), driven primarily by architectural refinements. Conversely, for dynamic transport, the GRACE model trained on the OMat24 dataset demonstrates superior fidelity in reproducing ion diffusivities and structural correlations. Our results reveal that while architectural sophistication (e.g., equivariance) is beneficial, the inclusion of high-temperature, non-equilibrium training data is the dominant driver of kinetic accuracy. These findings establish that modern uMLIPs are sufficiently robust to serve as zero-shot surrogates for high-throughput kinetic screening of next-generation energy storage materials.",
   "authors": [
@@ -1146,34 +1094,6 @@
    "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2026-01-16"
- },
- "2601.12740": {
-  "abstract": "Long documents pose many challenges to current intelligent writing systems. These include maintaining consistency across sections, sustaining efficient planning and writing as documents become more complex, and effectively providing and integrating AI assistance to the user. Existing AI co-writing tools offer either inline suggestions or limited structured planning, but rarely support the entire writing process that begins with high-level ideas and ends with polished prose, in which many layers of planning and outlining are needed. Here, we introduce TreeWriter, a hierarchical writing system that represents documents as trees and integrates contextual AI support. TreeWriter allows authors to create, save, and refine document outlines at multiple levels, facilitating drafting, understanding, and iterative editing of long documents. A built-in AI agent can dynamically load relevant content, navigate the document hierarchy, and provide context-aware editing suggestions. A within-subject study (N=12) comparing TreeWriter with Google Docs + Gemini on long-document editing and creative writing tasks shows that TreeWriter improves idea exploration/development, AI helpfulness, and perceived authorial control. A two-month field deployment (N=8) further demonstrated that hierarchical organization supports collaborative writing. Our findings highlight the potential of hierarchical, tree-structured editors with integrated AI support and provide design guidelines for future AI-assisted writing tools that balance automation with user agency.",
-  "authors": [
-   "Zijian Zhang",
-   "Fangshi Du",
-   "Xingjian Liu",
-   "Pan Chen",
-   "Oliver Huang",
-   "Runlong Ye",
-   "Michael Liut",
-   "Alán Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.HC",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Zijian Zhang",
-  "pdf_url": "http://arxiv.org/pdf/2601.12740",
-  "primary_category": "cs.HC",
-  "published": "2026-01-19",
-  "tags": [],
-  "title": "TreeWriter: AI-Assisted Hierarchical Planning and Writing for Long-Form Documents",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2026-01-19"
  },
  "2601.13232": {
   "abstract": "Accelerated materials discovery is critical for addressing global challenges. However, developing new laboratory workflows relies heavily on real-world experimental trials, and this can hinder scalability because of the need for numerous physical make-and-test iterations. Here we present MATTERIX, a multiscale, graphics processing unit-accelerated robotic simulation framework designed to create high-fidelity digital twins of chemistry laboratories, thus accelerating workflow development. This multiscale digital twin simulates robotic physical manipulation, powder and liquid dynamics, device functionalities, heat transfer and basic chemical reaction kinetics. This is enabled by integrating realistic physics simulation and photorealistic rendering with a modular graphics processing unit-accelerated semantics engine, which models logical states and continuous behaviors to simulate chemistry workflows across different levels of abstraction. MATTERIX streamlines the creation of digital twin environments through open-source asset libraries and interfaces, while enabling flexible workflow design via hierarchical plan definition and a modular skill library that incorporates learning-based methods. Our approach demonstrates sim-to-real transfer in robotic chemistry setups, reducing reliance on costly real-world experiments and enabling the testing of hypothetical automated workflows in silico. The project website is available at https://accelerationconsortium.github.io/Matterix/ .",
@@ -1331,32 +1251,6 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2026-01-21"
- },
- "2601.15743": {
-  "abstract": "We propose Materealize, a multi-agent system for end-to-end inorganic materials design and synthesis that orchestrates core domain tools spanning structure generation, property prediction, synthesizability prediction, and synthesis planning within a single unified framework. Through a natural-language interface, Materealize enables non-experts to access computational materials workflows and obtain experimentally actionable outputs for material realization. Materealize provides two complementary modes. In instant mode, the system rapidly composes connected tools to solve diverse inorganic tasks-including property-conditioned synthesizable candidate design with synthesis recipes, diagnosis, and redesign of unsynthesizable structures, and synthesizable data augmentation-within a few minutes. In thinking mode, Materealize applies multi-agent debate to deliver more refined and information-rich synthesis recommendations, including reasoning- and model-driven synthesis routes and mechanistic hypotheses. The mechanistic hypotheses are validated by direct comparison with the literature for known mechanisms and further supported by physics-grounded simulations for novel synthesis pathways. By combining tool-level accuracy with reasoning-level integration, Materealize can bridge the gap between computational discovery and practical experimental realization.",
-  "authors": [
-   "Seongmin Kim",
-   "Jaehwan Choi",
-   "Kunik Jang",
-   "Junkil Park",
-   "Varinia Bernales",
-   "Alán Aspuru-Guzik",
-   "Yousung Jung"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": "30 pages main text, 8 main figures",
-  "first_author": "Seongmin Kim",
-  "pdf_url": "http://arxiv.org/pdf/2601.15743",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2026-01-22",
-  "tags": [],
-  "title": "Materealize: a multi-agent deliberation system for end-to-end material design and synthesis",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2026-01-22"
  },
  "2601.16459": {
   "abstract": "Metal-organic framework (MOF) derived materials formed through high temperature processes show great potential as catalysts. However, understanding of structure-property relationships between the initial MOF and the resulting MOF-derived catalyst is limited because the amorphous nature of the catalyst challenges standard structural characterization methods. Neural network approaches that learn interatomic potentials from density functional theory offer a promising solution. We simulated the pyrolysis of UiO-66, UiO-67 and MIP-206 using both foundational and fine-tuned machine learned interatomic potentials (MLIPs). To mimic experimental conditions, an atmosphere of CO2 and H2 was introduced and the structures were doped with 20 wt% copper to probe the effect of copper on the structural evolution of MOFs. These simulations provide atomistic insights into gas evolution, metal nanoparticle formation, and linker decomposition that were compared to available experimental data. Overall, this work demonstrates the potential of MLIPs to accurately model high temperature MOF dynamics under experimentally relevant conditions and guide the design of new catalytic materials.",
@@ -1643,36 +1537,6 @@
   "title": "iFAN Ecosystem: A Unified AI, Digital Twin, Cyber-Physical Security, and Robotics Environment for Advanced Nuclear Simulation and Operations",
   "topics": [
    "Digital Twins & Process Monitoring"
-  ],
-  "updated": "2026-01-27"
- },
- "2601.19966": {
-  "abstract": "We introduce ELECTRAFI, a fast, end-to-end differentiable model for predicting periodic charge densities in crystalline materials. ELECTRAFI constructs anisotropic Gaussians in real space and exploits their closed-form Fourier transforms to analytically evaluate plane-wave coefficients via the Poisson summation formula. This formulation delegates non-local and periodic behavior to analytic transforms, enabling reconstruction of the full periodic charge density with a single inverse FFT. By avoiding explicit real-space grid probing, periodic image summation, and spherical harmonic expansions, ELECTRAFI matches or exceeds state-of-the-art accuracy across periodic benchmarks while being up to $633 \\times$ faster than the strongest competing method, reconstructing crystal charge densities in a fraction of a second. When used to initialize DFT calculations, ELECTRAFI reduces total DFT compute cost by up to ~20%, whereas slower charge density models negate savings due to high inference times. Our results show that accuracy and inference cost jointly determine end-to-end DFT speedups, and motivate our focus on efficiency.",
-  "authors": [
-   "Jonas Elsborg",
-   "Felix Ærtebjerg",
-   "Luca Thiede",
-   "Alán Aspuru-Guzik",
-   "Tejs Vegge",
-   "Arghya Bhowmik"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci",
-   "cs.LG",
-   "physics.chem-ph",
-   "physics.comp-ph"
-  ],
-  "comment": "24 pages including appendix, 8 Figures, 5 tables",
-  "first_author": "Jonas Elsborg",
-  "pdf_url": "http://arxiv.org/pdf/2601.19966",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2026-01-27",
-  "tags": [
-   "dft"
-  ],
-  "title": "Global Plane Waves From Local Gaussians: Periodic Charge Densities in a Blink",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
   ],
   "updated": "2026-01-27"
  },

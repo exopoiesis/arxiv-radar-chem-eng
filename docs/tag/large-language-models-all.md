@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>large-language-models — all</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,12 +20,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="process-design-all.html">process-design</a></div></td>
 <td>Karim K. Ben Hicham et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14609.html">El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation</a></div></td>
-<td>Zijian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14609">2604.14609</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-13</td>
@@ -62,12 +56,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01693.html">LitMOF: An LLM Multi-Agent for Literature-Validated Metal-Organic Frameworks Database Correction and Expansion</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="carbon-capture-all.html">carbon-capture</a> · <a href="experimental-design-all.html">experimental-design</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a></div></td>
 <td>Honghui Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01693">2512.01693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13905.html">Schema for In-Context Learning</a></div></td>
-<td>Pan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13905">2510.13905</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
@@ -110,12 +98,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05035.html">Good-Enough LLM Obfuscation (GELO)</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a></div></td>
 <td>Anatoly Belikov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05035">2603.05035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05308.html">Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution</a></div></td>
-<td>Qiao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05308">2603.05308</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-01</td>
@@ -250,12 +232,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.13930">2512.13930</a></td>
 </tr>
 <tr class="paper">
-<td>2025-12-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13935.html">Informing Acquisition Functions via Foundation Models for Molecular Discovery</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Qi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2512.13935">2512.13935</a></td>
-</tr>
-<tr class="paper">
 <td>2025-12-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26898.html">Integrating Ontologies with Large Language Models for Enhanced Control Systems in Chemical Engineering</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="process-control-all.html">process-control</a></div></td>
 <td>Crystal Su et al.</td>
@@ -278,12 +254,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06265.html">Large language models as uncertainty-calibrated optimizers for experimental discovery</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Bojana Ranković et al.</td>
 <td><a href="http://arxiv.org/abs/2504.06265">2504.06265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.16714.html">Quantum Transformer: Accelerating model inference via quantum linear algebra</a></div></td>
-<td>Naixu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2402.16714">2402.16714</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-29</td>
@@ -347,33 +317,15 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02484.html">El Agente: An Autonomous Agent for Quantum Chemistry</a></div></td>
-<td>Yunheng Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02484">2505.02484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06135.html">Less is More: Selective Reflection for Compatible and Efficient Knowledge Distillation in Large Language Models</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
 <td>Lingyuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06135">2508.06135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03309.html">Learning Zero-Shot Material States Segmentation, by Implanting Natural Image Patterns in Synthetic Data</a></div></td>
-<td>Sagi Eppel et al.</td>
-<td><a href="http://arxiv.org/abs/2403.03309">2403.03309</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19340.html">Adaptive Self-Improvement for Smarter Energy Systems using Agentic Policy Search</a></div><div class="paper-tags"><a href="energy-systems-all.html">energy-systems</a></div></td>
 <td>Alexander Sommer et al.</td>
 <td><a href="http://arxiv.org/abs/2501.19340">2501.19340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18945.html">TreeReader: A Hierarchical Academic Paper Reader Powered by Language Models</a></div></td>
-<td>Zijian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18945">2507.18945</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-24</td>
@@ -448,12 +400,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.05695">2506.05695</a></td>
 </tr>
 <tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07978.html">Agents for self-driving laboratories applied to quantum computing</a></div></td>
-<td>Shuxiang Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.07978">2412.07978</a></td>
-</tr>
-<tr class="paper">
 <td>2025-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06363.html">ChemGraph: An Agentic Framework for Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="energy-storage-all.html">energy-storage</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
 <td>Thang D. Pham et al.</td>
@@ -464,12 +410,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15712.html">BatteryBERT for Realistic Battery Fault Detection Using Point-Masked Signal Modeling</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a> · <a href="fault-detection-all.html">fault-detection</a></div></td>
 <td>Songqi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15712">2506.15712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03965.html">All-atom Diffusion Transformers: Unified generative modelling of molecules and materials</a></div></td>
-<td>Chaitanya K. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03965">2503.03965</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-17</td>
@@ -508,12 +448,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.14110">2504.14110</a></td>
 </tr>
 <tr class="paper">
-<td>2025-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20059.html">Recommending Clinical Trials for Online Patient Cases using Artificial Intelligence</a></div></td>
-<td>Joey Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20059">2504.20059</a></td>
-</tr>
-<tr class="paper">
 <td>2025-03-31</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.21179.html">$Δ$-model correction of Foundation Model based on the models own understanding</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gaussian-process-all.html">gaussian-process</a></div></td>
 <td>Mads-Peter Verner Christiansen et al.</td>
@@ -530,12 +464,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16457.html">Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="energy-storage-all.html">energy-storage</a> · <a href="experimental-design-all.html">experimental-design</a></div></td>
 <td>Heegyu Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2502.16457">2502.16457</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16976.html">Efficient Evolutionary Search Over Chemical Space with Large Language Models</a></div></td>
-<td>Haorui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16976">2406.16976</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-03</td>
@@ -616,12 +544,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.06433">2410.06433</a></td>
 </tr>
 <tr class="paper">
-<td>2024-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06384.html">Validation of the Scientific Literature via Chemputation Augmented by Large Language Models</a></div></td>
-<td>Sebastian Pagel et al.</td>
-<td><a href="http://arxiv.org/abs/2410.06384">2410.06384</a></td>
-</tr>
-<tr class="paper">
 <td>2024-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00558.html">AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
 <td>Ziyang Luo et al.</td>
@@ -692,11 +614,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03989.html">A Method for Parsing and Vectorization of Semi-structured Data used in Retrieval Augmented Generation</a></div><div class="paper-tags"><a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>
 <td>Hang Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03989">2405.03989</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.04157.html">RePLan: Robotic Replanning with Perception and Language Models</a></div></td>
-<td>Marta Skreta et al.</td>
-<td><a href="http://arxiv.org/abs/2401.04157">2401.04157</a></td>
 </tr>
 </tbody></table>

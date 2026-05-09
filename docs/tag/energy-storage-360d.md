@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,12 +110,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08860.html">SEP-NMPC: Safety Enhanced Passivity-Based Nonlinear Model Predictive Control for a UAV Slung Payload System</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
 <td>Seyedreza Rezaei et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08860">2603.08860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23971.html">UMA: A Family of Universal Models for Atoms</a></div></td>
-<td>Brandon M. Wood et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23971">2506.23971</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-23</td>

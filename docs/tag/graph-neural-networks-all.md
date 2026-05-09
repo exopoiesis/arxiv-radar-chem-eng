@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>graph-neural-networks — all</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <a href="graph-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -94,18 +94,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.15228">2512.15228</a></td>
 </tr>
 <tr class="paper">
-<td>2025-12-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21624.html">Shoot from the HIP: Hessian Interatomic Potentials without derivatives</a></div></td>
-<td>Andreas Burger et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21624">2509.21624</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11870.html">Graph-Based Imitation and Reinforcement Learning for Efficient Benders Decomposition</a></div></td>
-<td>Bernard T. Agyeman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11870">2511.11870</a></td>
-</tr>
-<tr class="paper">
 <td>2025-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20236.html">Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction</a></div><div class="paper-tags"><a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
 <td>Teng Jiek See et al.</td>
@@ -190,12 +178,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2503.22737">2503.22737</a></td>
 </tr>
 <tr class="paper">
-<td>2025-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18911.html">Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Zeqing Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18911">2503.18911</a></td>
-</tr>
-<tr class="paper">
 <td>2025-02-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15190.html">Decoding lithium&#x27;s subtle phase stability with a machine learning force field</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
 <td>Yiheng Shen et al.</td>
@@ -260,11 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09227.html">Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a> · <a href="fuel-cells-all.html">fuel-cells</a></div></td>
 <td>Xiang-Long Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2405.09227">2405.09227</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.11404.html">PlasmoData.jl -- A Julia Framework for Modeling and Analyzing Complex Data as Graphs</a></div></td>
-<td>David L Cole et al.</td>
-<td><a href="http://arxiv.org/abs/2401.11404">2401.11404</a></td>
 </tr>
 </tbody></table>

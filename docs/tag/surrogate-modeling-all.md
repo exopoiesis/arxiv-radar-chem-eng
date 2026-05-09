@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -208,12 +208,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.13354">2512.13354</a></td>
 </tr>
 <tr class="paper">
-<td>2025-12-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13935.html">Informing Acquisition Functions via Foundation Models for Molecular Discovery</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Qi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2512.13935">2512.13935</a></td>
-</tr>
-<tr class="paper">
 <td>2025-12-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10457.html">Hybrid Physics-ML Model for Forward Osmosis Flux with Complete Uncertainty Quantification</a></div><div class="paper-tags"><a href="digital-twin-all.html">digital-twin</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="mass-transfer-all.html">mass-transfer</a> · <a href="membrane-separation-all.html">membrane-separation</a> · <a href="process-design-all.html">process-design</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Shiv Ratn et al.</td>
@@ -368,12 +362,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18853.html">Skeletal Reaction Models for Gasoline Surrogate Combustion</a></div><div class="paper-tags"><a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
 <td>Yinmin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18853">2506.18853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18911.html">Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling</a></div><div class="paper-tags"><a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
-<td>Zeqing Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18911">2503.18911</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-20</td>

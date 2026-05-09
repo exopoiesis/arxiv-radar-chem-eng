@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>large-language-models — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <strong>90d</strong> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,12 +20,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="process-design-90d.html">process-design</a></div></td>
 <td>Karim K. Ben Hicham et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14609.html">El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation</a></div></td>
-<td>Zijian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14609">2604.14609</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-13</td>
@@ -62,12 +56,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01693.html">LitMOF: An LLM Multi-Agent for Literature-Validated Metal-Organic Frameworks Database Correction and Expansion</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="carbon-capture-90d.html">carbon-capture</a> · <a href="experimental-design-90d.html">experimental-design</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
 <td>Honghui Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01693">2512.01693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13905.html">Schema for In-Context Learning</a></div></td>
-<td>Pan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13905">2510.13905</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
@@ -112,12 +100,6 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2603.05035">2603.05035</a></td>
 </tr>
 <tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05308.html">Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution</a></div></td>
-<td>Qiao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05308">2603.05308</a></td>
-</tr>
-<tr class="paper">
 <td>2026-03-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01311.html">Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="co2-reduction-90d.html">co2-reduction</a> · <a href="dft-90d.html">dft</a> · <a href="graph-neural-networks-90d.html">graph-neural-networks</a></div></td>
 <td>Achuth Chandrasekhar et al.</td>
@@ -158,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18479.html">AgentCAT: An LLM Agent for Extracting and Analyzing Catalytic Reaction Data from Chemical Engineering Literature</a></div><div class="paper-tags"><a href="active-sites-90d.html">active-sites</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
 <td>Wei Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18479">2602.18479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07360.html">In-Context System Identification for Nonlinear Dynamics Using Large Language Models</a></div></td>
-<td>Linyu Lin</td>
-<td><a href="http://arxiv.org/abs/2602.07360">2602.07360</a></td>
 </tr>
 </tbody></table>

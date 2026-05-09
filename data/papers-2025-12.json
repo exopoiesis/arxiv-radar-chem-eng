@@ -1,35 +1,4 @@
 {
- "2403.17381": {
-  "abstract": "In this position paper, we argue that application-driven research has been systemically under-valued in the machine learning community. As applications of machine learning proliferate, innovative algorithms inspired by specific real-world challenges have become increasingly important. Such work offers the potential for significant impact not merely in domains of application but also in machine learning itself. In this paper, we describe the paradigm of application-driven research in machine learning, contrasting it with the more standard paradigm of methods-driven research. We illustrate the benefits of application-driven machine learning and how this approach can productively synergize with methods-driven work. Despite these benefits, we find that reviewing, hiring, and teaching practices in machine learning often hold back application-driven innovation. We outline how these processes may be improved.",
-  "authors": [
-   "David Rolnick",
-   "Alan Aspuru-Guzik",
-   "Sara Beery",
-   "Bistra Dilkina",
-   "Priya L. Donti",
-   "Marzyeh Ghassemi",
-   "Hannah Kerner",
-   "Claire Monteleoni",
-   "Esther Rolf",
-   "Milind Tambe",
-   "Adam White"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": "12 pages, 3 figures",
-  "first_author": "David Rolnick",
-  "pdf_url": "http://arxiv.org/pdf/2403.17381",
-  "primary_category": "cs.LG",
-  "published": "2024-03-26",
-  "tags": [],
-  "title": "Application-Driven Innovation in Machine Learning",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-12-29"
- },
  "2408.04711": {
   "abstract": "Porous media are ubiquitous in energy storage and conversion, catalysis, biomechanics, hydrogeology, as well as many other fields. These materials possess high surface-to-volume ratios and their complex channels can restrict and guide the flow. However, optimizing design parameters for specific applications remains challenging due to the intricate structure of porous media. Pore-resolved CFD reveals the effects of their structure on flow characteristics, but is limited by the performance of mesh generation algorithms for such complex geometries. To alleviate this issue, we use a sharp immersed boundary method which enables usage of Cartesian, non-conformal grids, within a massively parallel finite element framework. This method preserves the order convergence of the scheme and allows for adaptive mesh refinement (AMR). We introduce a radial basis function-based representation of solids that allows to solve the flow through complex geometries with precision. We verify the method using the method of manufactured solutions. We validate it using pressure drop measurements through porous silicone monoliths digitized by X-ray computed microtomography, for pore Reynolds numbers up to 30. Simulations are conducted using grids of 200M cells distributed over 8k cores, which would require 16 times more cells without AMR. Results reveal that pore network structure is the principal factor describing pressure evolution and that preferential channels are dominant at this scale. In this work, we demonstrate a robust and efficient workflow for pore-resolved simulations of porous monoliths. This work bridges the gap between sub-millimetric flow and macroscopic properties, which will open the door to design and optimize processes through the usage of physics-based digital twins of complex porous media.",
   "authors": [
@@ -62,53 +31,6 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-12-03"
- },
- "2411.09131": {
-  "abstract": "Artificial intelligence (AI) advancements over the past few years have had an unprecedented and revolutionary impact across everyday application areas. Its significance also extends to technical challenges within science and engineering, including the nascent field of quantum computing (QC). The counterintuitive nature and high-dimensional mathematics of QC make it a prime candidate for AI's data-driven learning capabilities, and in fact, many of QC's biggest scaling challenges may ultimately rest on developments in AI. However, bringing leading techniques from AI to QC requires drawing on disparate expertise from arguably two of the most advanced and esoteric areas of computer science. Here we aim to encourage this cross-pollination by reviewing how state-of-the-art AI techniques are already advancing challenges across the hardware and software stack needed to develop useful QC - from device design to applications. We then close by examining its future opportunities and obstacles in this space.",
-  "authors": [
-   "Yuri Alexeev",
-   "Marwa H. Farag",
-   "Taylor L. Patti",
-   "Mark E. Wolf",
-   "Natalia Ares",
-   "Alán Aspuru-Guzik",
-   "Simon C. Benjamin",
-   "Zhenyu Cai",
-   "Shuxiang Cao",
-   "Christopher Chamberland",
-   "Zohim Chandani",
-   "Federico Fedele",
-   "Ikko Hamamura",
-   "Nicholas Harrigan",
-   "Jin-Sung Kim",
-   "Elica Kyoseva",
-   "Justin G. Lietz",
-   "Tom Lubowe",
-   "Alexander McCaskey",
-   "Roger G. Melko",
-   "Kouhei Nakaji",
-   "Alberto Peruzzo",
-   "Pooja Rao",
-   "Bruno Schmitt",
-   "Sam Stanwyck",
-   "Norm M. Tubman",
-   "Hanrui Wang",
-   "Timothy Costa"
-  ],
-  "categories": [
-   "quant-ph"
-  ],
-  "comment": "42 pages, 7 figures, 2 tables",
-  "first_author": "Yuri Alexeev",
-  "pdf_url": "http://arxiv.org/pdf/2411.09131",
-  "primary_category": "quant-ph",
-  "published": "2024-11-14",
-  "tags": [],
-  "title": "Artificial Intelligence for Quantum Computing",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-12-15"
  },
  "2503.08410": {
   "abstract": "Simulating reactive dissolution of solid minerals in porous media has many subsurface applications, including carbon capture and storage (CCS), geothermal systems and oil & gas recovery. As traditional direct numerical simulators are computationally expensive, it is of paramount importance to develop faster and more efficient alternatives. Deep-learning-based solutions, most of them built upon convolutional neural networks (CNNs), have been recently designed to tackle this problem. However, these solutions were limited to approximating one field over the domain (e.g. velocity field). In this manuscript, we present a novel deep learning approach that incorporates both temporal and spatial information to predict the future states of the dissolution process at a fixed time-step horizon, given a sequence of input states. The overall performance, in terms of speed and prediction accuracy, is demonstrated on a numerical simulation dataset, comparing its prediction results against state-of-the-art approaches, also achieving a speedup around $10^4$ over traditional numerical simulators.",
@@ -308,37 +230,6 @@
   ],
   "updated": "2025-12-10"
  },
- "2509.21624": {
-  "abstract": "Fundamental tasks in computational chemistry, from transition state search to vibrational analysis, rely on molecular Hessians, which are the second derivatives of the potential energy. Yet, Hessians are computationally expensive to calculate and scale poorly with system size, with both quantum mechanical methods and neural networks. In this work, we demonstrate that Hessians can be predicted directly from a deep learning model, without relying on automatic differentiation or finite differences. We observe that one can construct SE(3)-equivariant, symmetric Hessians from irreducible representations (irrep) features up to degree $l$=2 computed during message passing in graph neural networks. This makes HIP Hessians one to two orders of magnitude faster, more accurate, more memory efficient, easier to train, and enables more favorable scaling with system size. We validate our predictions across a wide range of downstream tasks, demonstrating consistently superior performance for transition state search, accelerated geometry optimization, zero-point energy corrections, and vibrational analysis benchmarks. We open-source the HIP codebase and model weights to enable further development of the direct prediction of Hessians at https://github.com/BurgerAndreas/hip",
-  "authors": [
-   "Andreas Burger",
-   "Luca Thiede",
-   "Nikolaj Rønne",
-   "Varinia Bernales",
-   "Nandita Vijaykumar",
-   "Tejs Vegge",
-   "Arghya Bhowmik",
-   "Alan Aspuru-Guzik"
-  ],
-  "categories": [
-   "cs.LG",
-   "physics.chem-ph",
-   "physics.comp-ph"
-  ],
-  "comment": "https://github.com/BurgerAndreas/hip",
-  "first_author": "Andreas Burger",
-  "pdf_url": "http://arxiv.org/pdf/2509.21624",
-  "primary_category": "cs.LG",
-  "published": "2025-09-25",
-  "tags": [
-   "graph-neural-networks"
-  ],
-  "title": "Shoot from the HIP: Hessian Interatomic Potentials without derivatives",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-12-14"
- },
  "2510.22938": {
   "abstract": "Large-scale datasets have enabled highly accurate machine learning interatomic potentials (MLIPs) for general-purpose heterogeneous catalysis modeling. There are, however, some limitations in what can be treated with these potentials because of gaps in the underlying training data. To extend these capabilities, we introduce AQCat25, a complementary dataset of 13.5 million density functional theory (DFT) single point calculations designed to improve the treatment of systems where spin polarization and/or higher fidelity are critical. We also investigate methodologies for integrating new datasets, such as AQCat25, with the broader Open Catalyst 2020 (OC20) dataset to create spin-aware models without sacrificing generalizability. We find that directly tuning a general model on AQCat25 leads to catastrophic forgetting of the original dataset's knowledge. Conversely, joint training strategies prove effective for improving accuracy on the new data without sacrificing general performance. This joint approach introduces a challenge, as the model must learn from a dataset containing both mixed-fidelity calculations and mixed-physics (spin-polarized vs. unpolarized). We show that explicitly conditioning the model on this system-specific metadata, for example by using Feature-wise Linear Modulation (FiLM), successfully addresses this challenge and further enhances model accuracy. Ultimately, our work establishes an effective protocol for bridging DFT fidelity domains to advance the predictive power of foundational models in catalysis.",
   "authors": [
@@ -523,35 +414,6 @@
   ],
   "updated": "2025-12-01"
  },
- "2512.01455": {
-  "abstract": "We report the discovery of 45 compact hub-filament systems (HFSs; median size $\\sim$2.4 pc) in infrared-dark clouds (IRDCs) in the W33 complex, located at the junction of the Scutum and Norma spiral arms. Using {\\it Spitzer} 8 and 24 micron, and unWISE 12 $μ$m images, HFSs are identified as regions where three or more filaments converge onto a central hub, appearing as absorption features toward IRDCs. In each IRDC, HFSs mainly lie at the intersections of elongated substructures, associated with groups of protostars and lacking radio continuum emission. Minimum Spanning Tree (MST) analysis shows that protostars are closely associated with the HFSs, with protostellar core separations of $\\leq$ 0.7 pc, indicating strong clustering within fragmented structures. The HFSs form two main groupings spanning 10--15 pc, with member separations of 1--3.3 pc. Around 65\\% are tightly clustered ($<$ 2 pc), exhibiting rich small-scale structures and emphasizing the uniqueness of the complex. MST analysis of ALMAGAL 1.38 mm continuum cores -- predominantly low-mass and embedded in ten HFSs -- reveals a median core separation of $\\sim$0.03 pc. The protostellar spacing ($\\sim$0.7 pc) significantly exceeds the thermal Jeans length ($\\sim$0.08 pc for temperature $\\sim$18 K and density $\\sim$10$^{5}$ cm$^{-3}$), whereas the core spacing is smaller than the Jeans length, suggesting that thermal fragmentation may influence core formation but alone cannot explain the larger-scale protostellar distribution. All these findings together support a picture in which fragments of clouds/filaments form clumps hosting compact HFSs that facilitate efficient and clustered star formation, often yielding massive stars.",
-  "authors": [
-   "L. K. Dewangan",
-   "Ram K. Yadav",
-   "Saurabh Sharma",
-   "O. R. Jadhav",
-   "A. K. Maity",
-   "Paul F. Goldsmith",
-   "G. Panchal"
-  ],
-  "categories": [
-   "astro-ph.GA",
-   "astro-ph.SR"
-  ],
-  "comment": "Accepted for publication in AJ. 23 pages, 10 figures, 2 tables",
-  "first_author": "L. K. Dewangan",
-  "pdf_url": "http://arxiv.org/pdf/2512.01455",
-  "primary_category": "astro-ph.GA",
-  "published": "2025-12-01",
-  "tags": [
-   "separations"
-  ],
-  "title": "Discovery of a rich population of compact hub-filament systems in a single star-forming complex",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2025-12-01"
- },
  "2512.01668": {
   "abstract": "Control Barrier Functions (CBFs) have emerged as efficient tools to address the safe navigation problem for robot applications. However, synthesizing informative and obstacle motion-aware CBFs online using real-time sensor data remains challenging, particularly in unknown and dynamic scenarios. Motived by this challenge, this paper aims to propose a novel Gaussian Process-based formulation of CBF, termed the Dynamic Log Gaussian Process Control Barrier Function (DLGP-CBF), to enable real-time construction of CBF which are both spatially informative and responsive to obstacle motion. Firstly, the DLGP-CBF leverages a logarithmic transformation of GP regression to generate smooth and informative barrier values and gradients, even in sparse-data regions. Secondly, by explicitly modeling the DLGP-CBF as a function of obstacle positions, the derived safety constraint integrates predicted obstacle velocities, allowing the controller to proactively respond to dynamic obstacles' motion. Simulation results demonstrate significant improvements in obstacle avoidance performance, including increased safety margins, smoother trajectories, and enhanced responsiveness compared to baseline methods.",
   "authors": [
@@ -714,47 +576,6 @@
   "title": "Evaluating Power-to-Heat-to-Power Storage Potential in Wind- and Solar-Dominated Energy Markets",
   "topics": [
    "Energy, Sustainability & Electrochemical Systems"
-  ],
-  "updated": "2025-12-04"
- },
- "2512.04744": {
-  "abstract": "The kinematic evolution of hypercompact H II (HC H II) regions around young high-mass stars remains poorly understood due to complex interactions with parental environs. We present ALMA QUARKS/ATOMS 1.3 mm/3 mm observations (the highest resolution $\\sim0.01$ pc) of a deeply embedded HC H II region (diameter $\\sim0.015$ pc, electron density $\\sim2\\times10^{5}$ cm$^{-3}$) exhibiting a striking $\\gtrsim20$ km s$^{-1}$ global redshift seen in optically thin H30$α$/H40$α$ recombination lines relative to its parental hot molecular core within a hub-filament system. The 1.3 mm continuum data reveal a distinct 0.1-pc arc and a perpendicular 0.04-pc tail. We propose that this morphology arises from a dynamic champagne flow: the slow expansion of HC H II region into a pre-existing filament forms the arc and associated low-velocity (few km s$^{-1}$) SiO shocks. Meanwhile, in the opposite direction ionized gas escapes along a steep density gradient traced by the tail and high-velocity (20 km s$^{-1}$) SiO emission. We reject the bow shock scenario in which ionized gas co-moves with a runaway high-mass star because shocked gas in the arc aligns with the hub velocity, contradicting the bow shock prediction. Non-LTE radiative transfer modeling further rules out infall of ionized gas as the velocity shift origin. We conclude that this exceptional HC H II region is undergoing a few-thousand-year transition phase of \"hatching out of the egg\": the ionized gas of HC H II region has just broken out of its parental hot core and now is flowing outward supersonically. This work highlights how anisotropic density distributions induce supersonically anisotropic ionized flows that govern HC H II region evolution.",
-  "authors": [
-   "Siju Zhang",
-   "Guido Garay",
-   "Fengwei Xu",
-   "Luis F. Rodríguez",
-   "Neal J. Evans",
-   "Annie Zavagno",
-   "Paul F. Goldsmith",
-   "Dongting Yang",
-   "Xunchuan Liu",
-   "Aiyuan Yang",
-   "Tie Liu",
-   "Amelia M. Stutz",
-   "Hong-Li Liu",
-   "Wenyu Jiao",
-   "Anandmayee Tej",
-   "Lei Zhu",
-   "Kee-Tae Kim",
-   "Pablo García",
-   "Thomas Peters",
-   "Thomas Möller",
-   "Shanghuo Li",
-   "Leonardo Bronfman"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "18 pages, 14 figures, accepted for publication by ApJ",
-  "first_author": "Siju Zhang",
-  "pdf_url": "http://arxiv.org/pdf/2512.04744",
-  "primary_category": "astro-ph.GA",
-  "published": "2025-12-04",
-  "tags": [],
-  "title": "ALMA-QUARKS: Few-Thousand-Year Hatching out of \"Egg\": The Supersonic Breakout of a Hypercompact H II Region from Its Parental Hot Core",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
   ],
   "updated": "2025-12-04"
  },
@@ -1210,35 +1031,6 @@
   ],
   "updated": "2025-12-15"
  },
- "2512.13935": {
-  "abstract": "Bayesian Optimization (BO) is a key methodology for accelerating molecular discovery by estimating the mapping from molecules to their properties while seeking the optimal candidate. Typically, BO iteratively updates a probabilistic surrogate model of this mapping and optimizes acquisition functions derived from the model to guide molecule selection. However, its performance is limited in low-data regimes with insufficient prior knowledge and vast candidate spaces. Large language models (LLMs) and chemistry foundation models offer rich priors to enhance BO, but high-dimensional features, costly in-context learning, and the computational burden of deep Bayesian surrogates hinder their full utilization. To address these challenges, we propose a likelihood-free BO method that bypasses explicit surrogate modeling and directly leverages priors from general LLMs and chemistry-specific foundation models to inform acquisition functions. Our method also learns a tree-structured partition of the molecular search space with local acquisition functions, enabling efficient candidate selection via Monte Carlo Tree Search. By further incorporating coarse-grained LLM-based clustering, it substantially improves scalability to large candidate sets by restricting acquisition function evaluations to clusters with statistically higher property values. We show through extensive experiments and ablations that the proposed method substantially improves scalability, robustness, and sample efficiency in LLM-guided BO for molecular discovery.",
-  "authors": [
-   "Qi Chen",
-   "Fabio Ramos",
-   "Alán Aspuru-Guzik",
-   "Florian Shkurti"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI",
-   "q-bio.QM"
-  ],
-  "comment": null,
-  "first_author": "Qi Chen",
-  "pdf_url": "http://arxiv.org/pdf/2512.13935",
-  "primary_category": "cs.LG",
-  "published": "2025-12-15",
-  "tags": [
-   "bayesian-inference",
-   "large-language-models",
-   "surrogate-modeling"
-  ],
-  "title": "Informing Acquisition Functions via Foundation Models for Molecular Discovery",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-12-15"
- },
  "2512.14305": {
   "abstract": "The efficiency of water electrolysis in a photoelectrochemical cell is largely limited by the oxygen evolution reaction (OER) at its semiconductor photoanode. Reaction rate constants are key to investigating the slow kinetics of the multistep OER, as they indicate the rate-determining step. While these rate constants are usually calculated based on first-principles simulations, this research aims to estimate them from experimental electrochemical impedance spectroscopy (EIS) data. Starting from a microkinetic model for charge transfer at the semiconductor-electrolyte interface, an expression for the impedance as a function of the rate constants is derived. At lower potentials, the order of this impedance model is reduced, thus eliminating the rate constants corresponding to the last reaction steps. Moreover, it is shown that EIS data from at least two potentials needs to be combined in order to uniquely identify the rate constants of a particular reduced order model. Therefore, this work details a sample maximum likelihood estimator that integrates not only multiple frequencies, but also multiple potentials simultaneously. Measuring multiple periods of the current density and potential signals, allows this frequency domain estimator to take measurement uncertainty into account. In addition, due to the large numerical range of the rate constants, various scaling methods are implemented to achieve numerical stability. To find suitable initial values for the highly nonlinear optimization problem, different global estimation methods are compared. The complete estimation procedure of the rate constants is illustrated on simulated EIS data of a hematite photoanode.",
   "authors": [
@@ -1552,55 +1344,6 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-12-19"
- },
- "2512.18030": {
-  "abstract": "In this paper we extend the notion of Addition Chains over Z+ to a general set S. We explain how the algebraic structure of Assembly Multi-Magma over the pairs (S,BB proper subset of S) allows to define the concept of Addition Chain over S, called Assembly Addition Chains of S with Building Blocks BB. Analogously to the Z+ case, we introduce the concept of Optimal Assembly Addition Chains over S and prove lower and upper bounds for their lengths, similar to the bounds found by Schonhage for the Z+ case. In the general case the unit 1 is in set Z+ is replaced by the subset BB and the mentioned bounds for the length of an Optimal Assembly Addition Chain of O is in set S are defined in terms of the size of O (i.e. the number of Building Blocks required to construct O). The main examples of S that we consider through this papers are (i) j-Strings (Strings with an alphabeth of j letters), (ii) Colored Connected Graphs and (iii) Colored Polyominoes.",
-  "authors": [
-   "Leroy Cronin",
-   "Juan Carlos Morales Parra",
-   "Keith Y. Patarroyo"
-  ],
-  "categories": [
-   "math.CO",
-   "cs.CC"
-  ],
-  "comment": "31 pages, 16 figures, 25 references",
-  "first_author": "Leroy Cronin",
-  "pdf_url": "http://arxiv.org/pdf/2512.18030",
-  "primary_category": "math.CO",
-  "published": "2025-12-19",
-  "tags": [],
-  "title": "Assembly Addition Chains",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2025-12-19"
- },
- "2512.18752": {
-  "abstract": "Selection is central to biological evolution, yet there has been no general experimental framework for quantifying selection in chemical systems before life. Here we demonstrate that selection in a prebiological chemical system can be directly quantified. Assembly Theory predicts that selection corresponds to a transition from undirected to directed exploration of chemical possibility space, measurable through the amount of Assembly, A, which integrates molecular assembly index with observed copy number. By analysing peptide ensembles produced under diverse polymerisation conditions, we show that undirected reactions explore sequence space almost uniformly, yielding exploration ratios of 0.85-0.95, whereas reactions influenced by evolved proteases generate markedly lower ratios (0.51-0.75) and elevated A, consistent with selective reinforcement of specific assembly pathways. Across multiple environments and amino-acid combinations, the exploration ratio and ensemble assembly A robustly distinguish directed from undirected exploration, establishing a general, experimentally tractable metric for detecting and measuring selection in chemical evolution.",
-  "authors": [
-   "Michael Jirasek",
-   "Abhishek Sharma",
-   "Mary Wong",
-   "Jennifer Munro",
-   "Leroy Cronin"
-  ],
-  "categories": [
-   "q-bio.MN",
-   "physics.bio-ph",
-   "q-bio.PE"
-  ],
-  "comment": "20 pages, 6 figures, 29 references",
-  "first_author": "Michael Jirasek",
-  "pdf_url": "http://arxiv.org/pdf/2512.18752",
-  "primary_category": "q-bio.MN",
-  "published": "2025-12-21",
-  "tags": [],
-  "title": "Quantifying the Emergence of Selection Prior to Biological Evolution",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2025-12-21"
  },
  "2512.19147": {
   "abstract": "Nowadays, industrial hybrid modeling which integrates both mechanistic modeling and machine learning-based modeling techniques has attracted increasing interest from scholars due to its high accuracy, low computational cost, and satisfactory interpretability. Nevertheless, the existing industrial hybrid modeling methods still face two main limitations. First, current research has mainly focused on applying a single machine learning method to one specific task, failing to develop a comprehensive machine learning architecture suitable for modeling tasks, which limits their ability to effectively represent complex industrial scenarios. Second, industrial datasets often contain underlying associations (e.g., monotonicity or periodicity) that are not adequately exploited by current research, which can degrade model's predictive performance. To address these limitations, this paper proposes the Recurrent Perceptron-based Channel Attention Transformer Encoder (RP-CATE), with three distinctive characteristics: 1: We developed a novel architecture by replacing the self-attention mechanism with channel attention and incorporating our proposed Recurrent Perceptron (RP) Module into Transformer, achieving enhanced effectiveness for industrial modeling tasks compared to the original Transformer. 2: We proposed a new data type called Pseudo-Image Data (PID) tailored for channel attention requirements and developed a cyclic sliding window method for generating PID. 3: We introduced the concept of Pseudo-Sequential Data (PSD) and a method for converting industrial datasets into PSD, which enables the RP Module to capture the underlying associations within industrial dataset more effectively. An experiment aimed at hybrid modeling in chemical engineering was conducted by using RP-CATE and the experimental results demonstrate that RP-CATE achieves the best performance compared to other baseline models.",

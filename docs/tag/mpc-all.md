@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mpc — all</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <a href="mpc-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,12 +104,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05035.html">Good-Enough LLM Obfuscation (GELO)</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a></div></td>
 <td>Anatoly Belikov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05035">2603.05035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16887.html">Multiparametric continuous-time optimal control via Pontryagin&#x27;s Maximum Principle: explicit solutions and comparisons with discrete-time formulations</a></div><div class="paper-tags"><a href="optimal-control-all.html">optimal-control</a></div></td>
-<td>Lida Lamakani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16887">2603.16887</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-03</td>
@@ -236,18 +230,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15192.html">Microgrid Operation Control with Adaptable Droop Gains</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a> · <a href="fuel-cells-all.html">fuel-cells</a></div></td>
 <td>E. D. Gomez Anccas et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15192">2506.15192</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14921.html">The MUSE view of the Sculptor galaxy: survey overview and the planetary nebulae luminosity function</a></div></td>
-<td>E. Congiu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14921">2506.14921</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11792.html">The Karl G. Jansky Very Large Array Local Group L-band Survey (LGLBS)</a></div></td>
-<td>Eric W. Koch et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11792">2506.11792</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-12</td>

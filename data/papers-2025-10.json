@@ -1,35 +1,4 @@
 {
- "2402.16714": {
-  "abstract": "Powerful generative artificial intelligence from large language models (LLMs) harnesses extensive computational resources for inference. In this work, we investigate the transformer architecture, a key component of these models, under the lens of fault-tolerant quantum computing. We develop quantum subroutines to construct the building blocks in the transformer, including the self-attention, residual connection with layer normalization, and feed-forward network. As an important subroutine, we show how to efficiently implement the Hadamard product and element-wise functions of matrices on quantum computers. Our algorithm prepares an amplitude encoding of the transformer output, which can be measured for prediction or use in the next layer. We find that the matrix norm of the input sequence plays a dominant role in the quantum complexity. With numerical experiments on open-source LLMs, including for bio-informatics applications, we demonstrate the potential of a quantum speedup for transformer inference in practical regimes.",
-  "authors": [
-   "Naixu Guo",
-   "Zhan Yu",
-   "Matthew Choi",
-   "Yizhan Han",
-   "Aman Agrawal",
-   "Kouhei Nakaji",
-   "Alán Aspuru-Guzik",
-   "Patrick Rebentrost"
-  ],
-  "categories": [
-   "quant-ph",
-   "cs.AI",
-   "cs.CL"
-  ],
-  "comment": "45 pages",
-  "first_author": "Naixu Guo",
-  "pdf_url": "http://arxiv.org/pdf/2402.16714",
-  "primary_category": "quant-ph",
-  "published": "2024-02-26",
-  "tags": [
-   "large-language-models"
-  ],
-  "title": "Quantum Transformer: Accelerating model inference via quantum linear algebra",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-10-29"
- },
  "2408.08280": {
   "abstract": "This paper presents an approach to enhance volume conservation in the immersed boundary (IB) method by using regularized delta functions derived from composite B-splines. The conventional IB method, while effective for fluid-structure interaction applications, has long been challenged by poor volume conservation, particularly evident in simulations of pressurized, closed membranes. We demonstrate that composite B-spline regularized delta functions significantly enhance volume conservation through two complementary properties: they provide continuously divergence-free velocity interpolants and maintain the gradient character of forces corresponding to mean pressure jumps across interfaces. By correctly representing these forces as discrete gradients, they eliminate a key source of spurious flows that typically plague immersed boundary computations. Our approach maintains the local nature of the classical IB method, avoiding the computational overhead associated with the non-local Divergence-Free Immersed Boundary (DFIB) method's construction of an explicit velocity potential which requires additional Poisson solves for interpolation and force spreading operations. We show that sufficiently regular composite B-spline kernels maintain initial volumes to within machine precision. We provide a detailed analysis of the relationship between kernel regularity and the accuracy of force spreading and velocity interpolation operations. Our findings indicate that composite B-splines of at least $C^1$ regularity produce results comparable to the DFIB method in dynamic simulations, with errors in volume conservation dominated by truncation error of the time-stepping scheme. The proposed approach requires minimal modifications to an existing IB code, making it an accessible improvement for a wide range of applications in computational fluid dynamics and fluid-structure interaction.",
   "authors": [
@@ -74,56 +43,6 @@
   "title": "A phase field model of Cahn-Hilliard type for tumour growth with mechanical effects and damage",
   "topics": [
    "Separation Processes & Transport Phenomena"
-  ],
-  "updated": "2025-10-08"
- },
- "2411.11506": {
-  "abstract": "We classify the isoparametric hypersurfaces and the homogeneous hypersurfaces of $\\mathbb H^n\\times\\mathbb R$ and $\\mathbb S^n\\times\\mathbb R$, $n\\ge 2$, by establishing that any such hypersurface has constant angle function and constant principal curvatures.",
-  "authors": [
-   "Ronaldo F. de Lima",
-   "Giuseppe Pipoli"
-  ],
-  "categories": [
-   "math.DG"
-  ],
-  "comment": "28 pages, 1 figure. To appear in Annali della Scuola Normale Superiore di Pisa",
-  "first_author": "Ronaldo F. de Lima",
-  "pdf_url": "http://arxiv.org/pdf/2411.11506",
-  "primary_category": "math.DG",
-  "published": "2024-11-18",
-  "tags": [],
-  "title": "Isoparametric Hypersurfaces of $\\mathbb H^n\\times\\mathbb R$ and $\\mathbb S^n\\times\\mathbb R$",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-10-31"
- },
- "2411.13669": {
-  "abstract": "Vibronic interactions between nuclear motion and electronic states are critical for the accurate modeling of photochemistry. However, accurate simulations of fully quantum non-adiabatic dynamics are often prohibitively expensive for classical methods beyond small systems. In this work, we present a quantum algorithm based on product formulas for simulating time evolution under a general vibronic Hamiltonian in real space, capable of handling an arbitrary number of electronic states and vibrational modes. We develop the first trotterization scheme for vibronic Hamiltonians beyond two electronic states and introduce an array of optimization techniques for the exponentiation of each fragment in the product formula, resulting in a remarkably low cost of implementation. To demonstrate practical relevance, we outline a proof-of-principle integration of our algorithm into a materials discovery pipeline for designing more efficient singlet fission-based organic solar cells. We estimate that $100$ fs of propagation using a second-order Trotter product formula for a $6$-state, $21$-mode model of exciton transport at an anthracene dimer requires $154$ qubits and $2.76 \\times 10^6$ Toffoli gates. While a $4$-state, $246$-mode model describing charge transfer at an anthracene-fullerene interface requires $1053$ qubits and $2.66 \\times 10^7$ Toffoli gates.",
-  "authors": [
-   "Danial Motlagh",
-   "Robert A. Lang",
-   "Paarth Jain",
-   "Jorge A. Campos-Gonzalez-Angulo",
-   "William Maxwell",
-   "Tao Zeng",
-   "Alan Aspuru-Guzik",
-   "Juan Miguel Arrazola"
-  ],
-  "categories": [
-   "quant-ph"
-  ],
-  "comment": null,
-  "first_author": "Danial Motlagh",
-  "pdf_url": "http://arxiv.org/pdf/2411.13669",
-  "primary_category": "quant-ph",
-  "published": "2024-11-20",
-  "tags": [
-   "materials-discovery"
-  ],
-  "title": "Quantum Algorithm for Vibronic Dynamics: Case Study on Singlet Fission Solar Cell Design",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
   ],
   "updated": "2025-10-08"
  },
@@ -305,27 +224,6 @@
   ],
   "updated": "2025-10-16"
  },
- "2507.03270": {
-  "abstract": "We consider a two-dimensional scalar field theory that modifies the standard $φ^4$ model by introducing a smooth breaking of translational invariance through a hyperbolic generalizing function. This function explicitly breaks the $\\mathbb{Z}_2$ symmetry; however, it also introduces a mechanism capable of generating new energy minima (vacua) and of localizing or delocalizing field fluctuations around these vacua. Thus, this mechanism enables the continuous transformation of the kink/antikink-like configurations into compacted asymmetric double-kink/antikink structures. Accordingly, this transformation gives rise to new classes of configurations resembling asymmetric non-topological solitons, characterized by a soft breaking of the $\\mathbb{Z}_2$ symmetry. These findings are particularly compelling, as they are consistent with results describing Su-Schrieffer-Heeger (SSH) domain walls in dimerized polymer systems.",
-  "authors": [
-   "F. C. E. Lima",
-   "C. A. S. Almeida"
-  ],
-  "categories": [
-   "hep-th"
-  ],
-  "comment": "37 pages, 19 captioned figures",
-  "first_author": "F. C. E. Lima",
-  "pdf_url": "http://arxiv.org/pdf/2507.03270",
-  "primary_category": "hep-th",
-  "published": "2025-07-04",
-  "tags": [],
-  "title": "Soft breaking of the $\\mathbb{Z}_2$ symmetry in the $φ^4$ theory",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-10-07"
- },
  "2507.21126": {
   "abstract": "Cyclic swing adsorption processes, such as pressure/vacuum swing adsorption (PVSA), are a promising technology for upgrading biogas by separating carbon dioxide (CO2) from methane (CH4). The rational design of adsorbent materials with tailored properties is important for the deployment of high-performance PVSA technology. Metal-organic frameworks (MOFs), particularly the CALF-20 isoreticular series, have attracted interest due to their high CO2 selectivity, thermal, and water stability. In this study, we report a multiscale assessment of CALF-20 and its isoreticular five derivatives by integrating molecular simulations with PVSA process optimization and techno-economic analysis. Structural and adsorption characteristics were calculated and employed to assess how each material performs in terms of energy efficiency and cost. The analysis reveals distinct differences in cost performance among the CALF-20 series, with CALF-20 showing the most favorable economics with \\gt97\\% purity CH4 production cost at \\$4.31 per kg of CH4 and energy consumption of 9.35 kWh per kg of CH4. This study demonstrates that the integrated molecular-process optimization framework can effectively guide the search for adsorbent materials for biogas upgrading.",
   "authors": [
@@ -385,41 +283,6 @@
   ],
   "updated": "2025-10-08"
  },
- "2508.19384": {
-  "abstract": "X-ray cavity quantum optics with inner-shell transitions has been hindered by the overlap between resonant and continuum states. Here, we report the first experimental demonstration of cavity-controlled co-to-core resonant inelastic x-ray scattering (RIXS). We eliminate the effects of the absorption edge by monitoring the RIXS profile, thereby resolving the resonant state from the overlapping continuum. We observe distinct cavity-induced energy shifts and cavity-enhanced decay rate in the $2p3d$ RIXS spectra of WSi$_{2}$. These effects, manifesting as stretched or shifted profiles in the RIXS planes, enable novel spectroscopic applications by cavity-controlled core-hole states. Our results establish core-to-core RIXS as a powerful tool for manipulating inner-shell dynamics in x-ray cavities, offering new avenues for integrating quanutm optical effects with x-ray spectroscopy.",
-  "authors": [
-   "S. -X. Wang",
-   "Z. -Q. Zhao",
-   "X. -Y. Wang",
-   "T. -J. Li",
-   "Y. Su",
-   "Y. Uemura",
-   "F. Alves Lima",
-   "A. Khadiev",
-   "B. -H. Wang",
-   "J. M. Ablett",
-   "J-P. Rueff",
-   "H. -C. Wang",
-   "O. J. L. Fox",
-   "W. -B. Li",
-   "L. -F. Zhu",
-   "X. -C. Huang"
-  ],
-  "categories": [
-   "physics.atom-ph"
-  ],
-  "comment": "12 pages, 13 figures",
-  "first_author": "S. -X. Wang",
-  "pdf_url": "http://arxiv.org/pdf/2508.19384",
-  "primary_category": "physics.atom-ph",
-  "published": "2025-08-26",
-  "tags": [],
-  "title": "Cavity Controls Core-to-Core Resonant Inelastic X-ray Scattering",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-10-11"
- },
  "2509.02242": {
   "abstract": "Process optimization in chemical engineering may be hindered by the limited availability of reliable thermodynamic data for fluid mixtures. Remarkable progress is being made in predicting thermodynamic mixture properties by machine learning techniques. The vast information provided by these prediction methods enables new possibilities in process optimization. This work introduces a novel modelfluid representation that is designed to seamlessly integrate these ML-predicted data directly into flowsheet optimization. Tailored for distillation, our approach is built on physically interpretable and continuous features derived from core vapor liquid equilibrium phenomena. This ensures compatibility with existing simulation tools and gradient-based optimization. We demonstrate the power and accuracy of this ML-fueled modelfluid by applying it to the problem of entrainer selection for an azeotropic separation. The results show that our framework successfully identifies optimal, thermodynamically consistent entrainers with high fidelity compared to conventional models. Ultimately, this work provides a practical pathway to incorporate large-scale property prediction into efficient process design and optimization, overcoming the limitations of both traditional thermodynamic models and complex molecular-based equations of state.",
   "authors": [
@@ -470,35 +333,6 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-10-27"
- },
- "2509.14155": {
-  "abstract": "We employ deep learning techniques to investigate the critical properties of the continuous phase transition in the majority vote model. In addition to deep learning, principal component analysis is utilized to analyze the transition. For supervised learning, dense neural networks are trained on spin configuration data generated via the kinetic Monte Carlo method. Using independently simulated configuration data, the neural network accurately identifies the critical point on both square and triangular lattices. Classical unsupervised learning with principal component analysis reproduces the magnetization and enables estimation of critical exponents, typically obtained via Monte Carlo importance sampling. Furthermore, deep unsupervised learning is performed using variational autoencoders, which reconstruct input spin configurations and generate artificial outputs. The autoencoders detect the phase transition through the loss function, quantifying the preservation of essential data features. We define a correlation function between the real and reconstructed data, and find that this correlation function is universal at the critical point. Variational autoencoders also serve as generative models, producing artificial spin configurations.",
-  "authors": [
-   "J. F. Silva Neto",
-   "D. S. M. Alencar",
-   "L. T. Brito",
-   "G. A. Alves",
-   "F. W. S. Lima",
-   "A. Macedo-Filho",
-   "R. S. Ferreira",
-   "T. F. A. Alves"
-  ],
-  "categories": [
-   "cond-mat.stat-mech"
-  ],
-  "comment": "11 pages, 9 figures",
-  "first_author": "J. F. Silva Neto",
-  "pdf_url": "http://arxiv.org/pdf/2509.14155",
-  "primary_category": "cond-mat.stat-mech",
-  "published": "2025-09-17",
-  "tags": [
-   "generative-models"
-  ],
-  "title": "Supervised and Unsupervised Deep Learning Applied to the Majority Vote Model",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-10-23"
  },
  "2509.24266": {
   "abstract": "Spiking Neural Networks (SNNs) offer an energy-efficient paradigm for machine intelligence, but their continued scaling poses challenges for resource-limited deployment. Despite recent advances in binary SNNs, the storage and computational demands remain substantial for large-scale networks. To further explore the compression and acceleration potential of SNNs, we propose Sub-bit Spiking Neural Networks (S$^2$NNs) that represent weights with less than one bit. Specifically, we first establish an S$^2$NN baseline by leveraging the clustering patterns of kernels in well-trained binary SNNs. This baseline is highly efficient but suffers from \\textit{outlier-induced codeword selection bias} during training. To mitigate this issue, we propose an \\textit{outlier-aware sub-bit weight quantization} (OS-Quant) method, which optimizes codeword selection by identifying and adaptively scaling outliers. Furthermore, we propose a \\textit{membrane potential-based feature distillation} (MPFD) method, improving the performance of highly compressed S$^2$NN via more precise guidance from a teacher model. Extensive results on vision tasks reveal that S$^2$NN outperforms existing quantized SNNs in both performance and efficiency, making it promising for edge computing applications.",
@@ -924,34 +758,6 @@
   ],
   "updated": "2025-10-09"
  },
- "2510.09446": {
-  "abstract": "We investigate the critical properties of kinetic continuous opinion dynamics using deep learning techniques. The system consists of $N$ continuous spin variables in the interval $[-1,1]$. Dense neural networks are trained on spin configuration data generated via kinetic Monte Carlo simulations, accurately identifying the critical point on both square and triangular lattices. Classical unsupervised learning with principal component analysis reproduces the magnetization and allows estimation of critical exponents. Additionally, variational autoencoders are implemented to study the phase transition through the loss function, which behaves as an order parameter. A correlation function between real and reconstructed data is defined and found to be universal at the critical point.",
-  "authors": [
-   "J. F. Silva Neto",
-   "D. S. M. Alencar",
-   "L. T. Brito",
-   "G. A. Alves",
-   "F. W. S. Lima",
-   "A. Macedo-Filho",
-   "R. S. Ferreira",
-   "T. F. A. Alves"
-  ],
-  "categories": [
-   "cond-mat.stat-mech",
-   "physics.data-an"
-  ],
-  "comment": "11 pages, 8 figures. arXiv admin note: text overlap with arXiv:2509.14155",
-  "first_author": "J. F. Silva Neto",
-  "pdf_url": "http://arxiv.org/pdf/2510.09446",
-  "primary_category": "cond-mat.stat-mech",
-  "published": "2025-10-10",
-  "tags": [],
-  "title": "Deep Learning of the Biswas-Chatterjee-Sen Model",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-10-23"
- },
  "2510.09522": {
   "abstract": "Platinum, to date, is the most widely applied electrocatalyst for hydrogen evolution reaction (HER) in acidic media. It is assumed to be a proton-blocking catalyst with only surface-limited adsorption of the reaction intermediates. Here, we critically evaluate the bulk interaction of Pt with hydrogen (H), and its heavier isotope deuterium (D), by monitoring operando mass change of the Pt electrode during galvanostatic heavy/water splitting by employing an electrochemical quartz crystal microbalance. Unexpectedly, we observe an irreversible temporal mass gain and a change in the reaction's overpotential, arising from diffusion of H/D into Pt, confirmed by atom probe tomography and thermal desorption spectroscopy. Sub-surface concentration of at least ca. 15 at. % of D in Pt was observed, diffusing down to a depth of more than 10 nm. Analytical description quantified the diffusion coefficient of D in Pt to be 3.2X10^-18 cm2Xs-1. These findings challenge the existing credence of Pt-proton interaction being limited to the surface, prompting the expansion of the catalyst design strategies to account for property-modifying bulk diffusion of H/D in the Pt matrix",
   "authors": [
@@ -1280,31 +1086,6 @@
   "title": "Neural Networks for Bayesian Inverse Problems Governed by a Nonlinear ODE",
   "topics": [
    "Uncertainty Quantification & Bayesian Methods"
-  ],
-  "updated": "2025-10-16"
- },
- "2510.14206": {
-  "abstract": "Simulation-based optimization of complex systems over discrete decision spaces is a challenging computational problem. Specifically, discrete decision spaces lead to a combinatorial explosion of possible alternatives, making it computationally prohibitive to perform simulations for all possible combinations. In this work, we present a new approach to handle these issues by transforming/projecting the discrete decision space into a continuous latent space using a probabilistic model know as Variational AutoEncoders. The transformation of the decision space facilitates the implementation of Bayesian optimization (BO), which is an efficient approach that strategically navigates the space to reduce the number of expensive simulations. Here, the key observation is that points in the latent space correspond to decisions in the original mixed-discrete space, but the latent space is much easier to navigate using BO. We illustrate the benefits of our approach through a couple of case studies that aim to design complex distillation systems: the recovery of caprylic acid from water by liquid-liquid extraction and the separation of an azeotropic mixture using a thermally couple column know as extractive dividing wall column.",
-  "authors": [
-   "Gabriel Hernández-Morales",
-   "Brenda Cansino-Loeza",
-   "Arturo Jiménez-Gutiérrez",
-   "Victor M. Zavala"
-  ],
-  "categories": [
-   "math.OC"
-  ],
-  "comment": "Working Paper",
-  "first_author": "Gabriel Hernández-Morales",
-  "pdf_url": "http://arxiv.org/pdf/2510.14206",
-  "primary_category": "math.OC",
-  "published": "2025-10-16",
-  "tags": [
-   "bayesian-inference"
-  ],
-  "title": "Simulation-Based Optimization over Discrete Spaces using Projection to Continuous Latent Spaces",
-  "topics": [
-   "via:author-whitelist:MPC, infrastructure optimization"
   ],
   "updated": "2025-10-16"
  },

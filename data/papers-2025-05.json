@@ -169,29 +169,6 @@
   ],
   "updated": "2025-05-06"
  },
- "2502.05662": {
-  "abstract": "We investigated the influence of the massive scalar field on the information degradation concerning the Unruh-DeWitt (UDW) detectors. In this conjecture, we adopted a system with a finite and large interaction time. To accomplish our purpose, one examines the quantum coherence of a uniformly accelerated qubit and the probability of finding the detector in the ground state. In this framework, we consider a quantum interferometric circuit to obtain the probability, visibility, and coherence. Naturally, these measurements provide us with wave-like information. Besides, one modifies the circuit to describe the path distinguishability and the particle-like information. These results are promising, as they allow us to understand the influence of the Unruh effect on the wave-particle duality. Thus, our findings announce that the increase in the scalar field mass induces a decrease in information degradation. Finally, we noted that the information concerning the Unruh effect remains preserved when $m \\geq Ω$. Therefore, the detector cannot absorb particles with mass equal to or greater than its energy gap. These results indicate that the scalar field mass is a protective factor against information degradation for systems under high acceleration conditions.",
-  "authors": [
-   "P. H. M. Barros",
-   "F. C. E. Lima",
-   "C. A. S. Almeida",
-   "H. A. S. Costa"
-  ],
-  "categories": [
-   "hep-th"
-  ],
-  "comment": "25 pages, 9 figures",
-  "first_author": "P. H. M. Barros",
-  "pdf_url": "http://arxiv.org/pdf/2502.05662",
-  "primary_category": "hep-th",
-  "published": "2025-02-08",
-  "tags": [],
-  "title": "Mitigating the information degradation in a massive Unruh-DeWitt theory",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-05-19"
- },
  "2502.18314": {
   "abstract": "Adversarial approaches, which intentionally challenge machine learning models by generating difficult examples, are increasingly being adopted to improve machine learning interatomic potentials (MLIPs). While already providing great practical value, little is known about the actual prediction errors of MLIPs on adversarial structures and whether these errors can be controlled. We propose the Calibrated Adversarial Geometry Optimization (CAGO) algorithm to discover adversarial structures with user-assigned errors. Through uncertainty calibration, the estimated uncertainty of MLIPs is unified with real errors. By performing geometry optimization for calibrated uncertainty, we reach adversarial structures with the user-assigned target MLIP prediction error. Integrating with active learning pipelines, we benchmark CAGO, demonstrating stable MLIPs that systematically converge structural, dynamical, and thermodynamical properties for liquid water and water adsorption in a metal-organic framework within only hundreds of training structures, where previously many thousands were typically required.",
   "authors": [
@@ -252,35 +229,6 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2025-05-05"
- },
- "2503.03965": {
-  "abstract": "Diffusion models are the standard toolkit for generative modelling of 3D atomic systems. However, for different types of atomic systems -- such as molecules and materials -- the generative processes are usually highly specific to the target system despite the underlying physics being the same. We introduce the All-atom Diffusion Transformer (ADiT), a unified latent diffusion framework for jointly generating both periodic materials and non-periodic molecular systems using the same model: (1) An autoencoder maps a unified, all-atom representations of molecules and materials to a shared latent embedding space; and (2) A diffusion model is trained to generate new latent embeddings that the autoencoder can decode to sample new molecules or materials. Experiments on MP20, QM9 and GEOM-DRUGS datasets demonstrate that jointly trained ADiT generates realistic and valid molecules as well as materials, obtaining state-of-the-art results on par with molecule and crystal-specific models. ADiT uses standard Transformers with minimal inductive biases for both the autoencoder and diffusion model, resulting in significant speedups during training and inference compared to equivariant diffusion models. Scaling ADiT up to half a billion parameters predictably improves performance, representing a step towards broadly generalizable foundation models for generative chemistry. Open source code: https://github.com/facebookresearch/all-atom-diffusion-transformer",
-  "authors": [
-   "Chaitanya K. Joshi",
-   "Xiang Fu",
-   "Yi-Lun Liao",
-   "Vahe Gharakhanyan",
-   "Benjamin Kurt Miller",
-   "Anuroop Sriram",
-   "Zachary W. Ulissi"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": "ICML 2025",
-  "first_author": "Chaitanya K. Joshi",
-  "pdf_url": "http://arxiv.org/pdf/2503.03965",
-  "primary_category": "cs.LG",
-  "published": "2025-03-05",
-  "tags": [
-   "large-language-models"
-  ],
-  "title": "All-atom Diffusion Transformers: Unified generative modelling of molecules and materials",
-  "topics": [
-   "via:author-whitelist:Open Catalyst, ML for catalysis"
-  ],
-  "updated": "2025-05-22"
  },
  "2503.18787": {
   "abstract": "Reinforcement learning (RL) can be used to tune data-driven (economic) nonlinear model predictive controllers ((e)NMPCs) for optimal performance in a specific control task by optimizing the dynamic model or parameters in the policy's objective function or constraints, such as state bounds. However, the sample efficiency of RL is crucial, and to improve it, we combine a model-based RL algorithm with our published method that turns Koopman (e)NMPCs into automatically differentiable policies. We apply our approach to an eNMPC case study of a continuous stirred-tank reactor (CSTR) model from the literature. The approach outperforms benchmark methods, i.e., data-driven eNMPCs using models based on system identification without further RL tuning of the resulting policy, and neural network controllers trained with model-based RL, by achieving superior control performance and higher sample efficiency. Furthermore, utilizing partial prior knowledge about the system dynamics via physics-informed learning further increases sample efficiency.",
@@ -474,37 +422,6 @@
   ],
   "updated": "2025-05-01"
  },
- "2505.00670": {
-  "abstract": "Background: Advances in the theory and methods of computational oncology have enabled accurate characterization and prediction of tumor growth and treatment response on a patient-specific basis. This capability can be integrated into a digital twin framework in which bi-directional data-flow between the physical tumor and the digital tumor facilitate dynamic model re-calibration, uncertainty quantification, and clinical decision-support via recommendation of optimal therapeutic interventions. However, many digital twin frameworks rely on bespoke implementations tailored to each disease site, modeling choice, and algorithmic implementation.   Findings: We present TumorTwin, a modular software framework for initializing, updating, and leveraging patient-specific cancer tumor digital twins. TumorTwin is publicly available as a Python package, with associated documentation, datasets, and tutorials. Novel contributions include the development of a patient-data structure adaptable to different disease sites, a modular architecture to enable the composition of different data, model, solver, and optimization objects, and CPU- or GPU-parallelized implementations of forward model solves and gradient computations. We demonstrate the functionality of TumorTwin via an in silico dataset of high-grade glioma growth and response to radiation therapy.   Conclusions: The TumorTwin framework enables rapid prototyping and testing of image-guided oncology digital twins. This allows researchers to systematically investigate different models, algorithms, disease sites, or treatment decisions while leveraging robust numerical and computational infrastructure.",
-  "authors": [
-   "Michael Kapteyn",
-   "Anirban Chaudhuri",
-   "Ernesto A. B. F. Lima",
-   "Graham Pash",
-   "Rafael Bravo",
-   "Karen Willcox",
-   "Thomas E. Yankeelov",
-   "David A. Hormuth"
-  ],
-  "categories": [
-   "physics.med-ph",
-   "cs.MS"
-  ],
-  "comment": null,
-  "first_author": "Michael Kapteyn",
-  "pdf_url": "http://arxiv.org/pdf/2505.00670",
-  "primary_category": "physics.med-ph",
-  "published": "2025-05-01",
-  "tags": [
-   "digital-twin",
-   "uncertainty-quantification"
-  ],
-  "title": "TumorTwin: A python framework for patient-specific digital twins in oncology",
-  "topics": [
-   "via:author-whitelist:MPC, process safety"
-  ],
-  "updated": "2025-05-01"
- },
  "2505.00915": {
   "abstract": "We study *non-adaptive* Local Computation Algorithms (LCA). A reduction of Parnas and Ron (TCS'07) turns any distributed algorithm into a non-adaptive LCA. Plugging known distributed algorithms, this leads to non-adaptive LCAs for constant approximations of maximum matching (MM) and minimum vertex cover (MVC) with complexity $Δ^{O(\\log Δ/ \\log \\log Δ)}$, where $Δ$ is the maximum degree of the graph. Allowing adaptivity, this bound can be significantly improved to $\\text{poly}(Δ)$, but is such a gap necessary or are there better non-adaptive LCAs?   Adaptivity as a resource has been studied extensively across various areas. Beyond this, we further motivate the study of non-adaptive LCAs by showing that even a modest improvement over the Parnas-Ron bound for the MVC problem would have major implications in the Massively Parallel Computation (MPC) setting; It would lead to faster truly sublinear space MPC algorithms for approximate MM, a major open problem of the area. Our main result is a lower bound that rules out this avenue for progress.   We prove that $Δ^{Ω(\\log Δ/ \\log \\log Δ)}$ queries are needed for any non-adaptive LCA computing a constant approximation of MM or MVC. This is the first separation between non-adaptive and adaptive LCAs, and already matches (up to constants in the exponent) the algorithm obtained by the black-box reduction of Parnas and Ron.   Our proof blends techniques from two separate lines of work: sublinear time lower bounds and distributed lower bounds. Particularly, we adopt techniques such as couplings over acyclic subgraphs from the recent sublinear time lower bounds of Behnezhad, Roghani, and Rubinstein (STOC'23, FOCS'23, STOC'24). We apply these techniques to a very different instance, (a modified version of) the construction of Kuhn, Moscibroda and Wattenhoffer (JACM'16) from distributed computing.",
   "authors": [
@@ -530,32 +447,6 @@
    "Process Control & Optimization"
   ],
   "updated": "2025-05-01"
- },
- "2505.01056": {
-  "abstract": "Molecular chirality is critical to biochemical function, but it is unknown when chiral selectivity first became important in the evolutionary transition from geochemistry to biochemistry during the emergence of life. Here, we identify key transitions in the selection of chiral molecules in metabolic evolution, showing how achiral molecules (lacking chiral centers) may have given rise to specific and abundant chiral molecules in the elaboration of metabolic networks from geochemically available precursor molecules. Simulated expansions of biosphere-scale metabolism suggest new hypotheses about the evolution of chiral molecules within biochemistry, including a prominent role for both achiral and chiral compounds as nucleation sites of early metabolic network growth, an increasing enrichment of molecules with more chiral centers as these networks expand, and conservation of broken chiral symmetries along reaction pathways as a general organizing principle. We also find an unexpected enrichment in large, non-polymeric achiral molecules. Leveraging metabolic data of 40,023 genomes and metagenomes, we analyzed the statistics of chiral and achiral molecules in the large-scale organization of metabolism, revealing a chiral-enriched phase of network organization evidenced by system-size dependent chiral scaling laws that differ for individuals and ecosystems. By uncovering how metabolic networks could lead to chiral selection, our findings open new avenues for bridging metabolism and genetics-first approaches to the origin of chirality, allowing tools for better timing of major transitions in molecular organization during the emergence of life, understanding the role of chirality in extant and synthetic metabolisms, and informing targets for chirality-based biosignatures.",
-  "authors": [
-   "John F. Malloy",
-   "Camerian Millsaps",
-   "Kamesh Narasimhan",
-   "Louie Slocombe",
-   "Cole Mathis",
-   "Leroy Cronin",
-   "Sara Imari Walker"
-  ],
-  "categories": [
-   "q-bio.MN"
-  ],
-  "comment": "38 pages, 5 figures",
-  "first_author": "John F. Malloy",
-  "pdf_url": "http://arxiv.org/pdf/2505.01056",
-  "primary_category": "q-bio.MN",
-  "published": "2025-05-02",
-  "tags": [],
-  "title": "The Emergence of Chirality from Metabolism",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2025-05-02"
  },
  "2505.01424": {
   "abstract": "Metal additive manufacturing enables unprecedented design freedom and the production of customized, complex components. However, the rapid melting and solidification dynamics inherent to metal AM processes generate heterogeneous, non-equilibrium microstructures that significantly impact mechanical properties and subsequent functionality. Predicting microstructure and its evolution across spatial and temporal scales remains a central challenge for process optimization and defect mitigation. While conventional experimental techniques and physics-based simulations provide a physical foundation and valuable insights, they face critical limitations. In contrast, data-driven machine learning offers an alternative prediction approach and powerful pattern recognition but often operate as black-box, lacking generalizability and physical consistency. To overcome these limitations, physics-informed machine learning, including physics-informed neural networks, has emerged as a promising paradigm by embedding governing physical laws into neural network architectures, thereby enhancing accuracy, transparency, data efficiency, and extrapolation capabilities. This work presents a comprehensive evaluation of modeling strategies for microstructure prediction in metal AM. The strengths and limitations of experimental, computational, and data-driven methods are analyzed in depth, and highlight recent advances in hybrid PIML frameworks that integrate physical knowledge with ML. Key challenges, such as data scarcity, multi-scale coupling, and uncertainty quantification, are discussed alongside future directions. Ultimately, this assessment underscores the importance of PIML-based hybrid approaches in enabling predictive, scalable, and physically consistent microstructure modeling for site-specific, microstructure-aware process control and the reliable production of high-performance AM components.",
@@ -715,53 +606,6 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2025-05-06"
- },
- "2505.04164": {
-  "abstract": "We present the first systematic study of bipolar outflows using HC$_3$N as a tracer in a sample of 146 massive star-forming regions from ALMA-ATOMS survey. Protostellar outflows arise at the initial stage of star formation as a consequence of active accretion. In general, these outflows play a pivotal role in regulating the star formation processes by injecting energetic material in the parent molecular clouds. In such process, lower velocity components of outflows contain a significant portion of the energy. However, extraction of those component is difficult as the corresponding gas is often mixed with that of the ambient cloud. In our sample, we identified 44 bipolar outflows and one explosive outflow in HC$_3$N (J=11--10). The host clumps of these outflows are found to be at different evolutionary stages, suggesting that outflows in HC$_3$N are detectable in different stages of star formation. Also, the non-correlation of HC$_3$N outflows with clump evolutionary stages suggests that HC$_3$N is an unbiased tracer of outflows. Analyses revealed that HC$_3$N performs slightly better in detecting low-velocity components of outflows than traditionally employed tracers like SiO. The derived outflow parameters (i.e outflow mass, momentum, and energy) show moderate correlations with clump mass and luminosity. Our analysis of outflow opening angles and position-velocity diagrams across the outflow lobes show that, HC$_3$N is not only a good tracer of low-velocity outflows, but can also detect high-velocity collimated outflows. Overall, this study indicates that HC$_3$N can be used as a complementary outflow tracer along with the traditionally known outflow tracers, particularly in the detection of the low-velocity components of outflows.",
-  "authors": [
-   "Ariful Hoque",
-   "Tapas Baug",
-   "Lokesh K. Dewangan",
-   "Mika Juvela",
-   "Anandmayee Tej",
-   "Paul F. Goldsmith",
-   "Pablo García",
-   "Amelia M. Stutz",
-   "Tie Liu",
-   "Chang Won Lee",
-   "Fengwei Xu",
-   "Patricio Sanhueza",
-   "N. K. Bhadari",
-   "K. Tatematsu",
-   "Xunchuan Liu",
-   "Hong-Li Liu",
-   "Yong Zhang",
-   "Xindi Tang",
-   "Guido Garay",
-   "Ke Wang",
-   "Siju Zhang",
-   "L. Viktor Tóth",
-   "Hafiz Nazeer",
-   "Jihye Hwang",
-   "Prasanta Gorai",
-   "Leonardo Bronfman",
-   "Swagat Ranjan Das",
-   "Tirthendu Sinha"
-  ],
-  "categories": [
-   "astro-ph.GA"
-  ],
-  "comment": "26 pages, 12 figures, 4 tables, Accepted for publication in ApJ",
-  "first_author": "Ariful Hoque",
-  "pdf_url": "http://arxiv.org/pdf/2505.04164",
-  "primary_category": "astro-ph.GA",
-  "published": "2025-05-07",
-  "tags": [],
-  "title": "The ALMA-ATOMS Survey: Exploring Protostellar Outflows in HC$_3$N",
-  "topics": [
-   "via:author-whitelist:automated kinetic mechanism generation"
-  ],
-  "updated": "2025-05-07"
  },
  "2505.04904": {
   "abstract": "This paper presents a novel learning economic model predictive control scheme for uncertain nonlinear systems subject to input and state constraints and unknown dynamics. We design a fast and accurate Lipschitz regression method using input and output data that combines clustering and kernel regression to learn the unknown dynamics. In each cluster, the parallel convex optimization problems are solved to estimate the kernel weights and reduce the Lipschitz constant of the predictor, hence limiting the error propagation in the prediction horizon. We derive the two different bounds of learning errors in deterministic and probabilistic forms and customize a new robust constraint-tightening strategy for the discontinuous predictor. Then, the learning economic model predictive control algorithm is formulated by introducing a stabilized optimization problem to construct a Lyapunov function. Sufficient conditions are derived to ensure the recursive feasibility and input-to-state stability of the closed-loop system. The effectiveness of the proposed algorithm is verified by simulations of a numerical example and a continuously stirred tank reactor.",
@@ -1016,36 +860,6 @@
   ],
   "updated": "2025-05-15"
  },
- "2505.13477": {
-  "abstract": "Liquid crystal polymers with exceptional optical properties are highly promising for next-generation virtual, augmented, and mixed reality (VR/AR/MR) technologies, serving as high-performance, compact, lightweight, and cost-effective optical components. However, the growing demands for optical transparency and high refractive index in advanced optical devices present a challenge for material discovery. In this study, we develop a novel approach that integrates first-principles calculations with genetic algorithms to accelerate the discovery of liquid crystal polymers with low visible absorption and high refractive index. By iterating within a predefined space of molecular building blocks, our approach rapidly identifies reactive mesogens that meet target specifications. Additionally, it provides valuable insights into the relationships between molecular structure and properties. This strategy not only accelerates material screening but also uncovers key molecular design principles, offering a systematic and scalable alternative to traditional trial-and-error methods.",
-  "authors": [
-   "Jianing Zhou",
-   "Yuge Huang",
-   "Arman Boromand",
-   "Keian Noori",
-   "Lafe Purvis",
-   "Chulwoo Oh",
-   "Lu Lu",
-   "Zachary W. Ulissi",
-   "Vahe Gharakhanyan",
-   "Xinyue Zhang"
-  ],
-  "categories": [
-   "cond-mat.soft",
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": null,
-  "first_author": "Jianing Zhou",
-  "pdf_url": "http://arxiv.org/pdf/2505.13477",
-  "primary_category": "cond-mat.soft",
-  "published": "2025-05-09",
-  "tags": [],
-  "title": "Genetic Algorithm-Accelerated Computational Discovery of Liquid Crystal Polymers with Enhanced Optical Properties",
-  "topics": [
-   "via:author-whitelist:Open Catalyst, ML for catalysis"
-  ],
-  "updated": "2025-05-09"
- },
  "2505.13786": {
   "abstract": "Spin states are pivotal in modulating the electrocatalytic activity of transition-metal (TM)-based compounds, yet quantitatively evaluating the activity-spin state correlation remains a formidable challenge. Here, we propose an 'activity index n' as a descriptor, to assess the activity of the spin states for the hydrogen evolution reaction (HER). n descriptor integrates three key electronic parameters: the proportion (P), broadening range (R) and center cc of active spin state, which collectively account for the electronic structure modulation induced by both the intrinsic active site and its local coordination environment. Using 1T-phase ZrSe2-anchored TM atoms (TM=Sc to Ni) as prototypes, we reveal that the correlation between Gibbs free energy and the n value follows a linear relation, namely, the vGH reduces as the n decreases. Notably, ZrSe2-Mn exhibits the optimal n value (-0.56), corresponding the best HER activity with a vGH of 0.04 eV closer to the thermoneutral ideal value (0 eV) than even Pt (vGH = -0.09 eV). This relationship suggests that n is the effective descriptor of active spin state for HER of TM-based catalysts. Our study brings fundamental insights into the HER activity-spin state correlation, offering new strategies for HER catalyst design.",
   "authors": [
@@ -1108,34 +922,6 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2025-05-12"
- },
- "2505.14941": {
-  "abstract": "Automating biological experimentation remains challenging due to the need for millimeter-scale precision, long and multi-step experiments, and the dynamic nature of living systems. Current liquid handlers only partially automate workflows, requiring human intervention for plate loading, tip replacement, and calibration. Industrial solutions offer more automation but are costly and lack the flexibility needed in research settings. Meanwhile, research in autonomous robotics has yet to bridge the gap for long-duration, failure-sensitive biological experiments. We introduce RoboCulture, a cost-effective and flexible platform that uses a general-purpose robotic manipulator to automate key biological tasks. RoboCulture performs liquid handling, interacts with lab equipment, and leverages computer vision for real-time decisions using optical density-based growth monitoring. We demonstrate a fully autonomous 15-hour yeast culture experiment where RoboCulture uses vision and force feedback and a modular behavior tree framework to robustly execute, monitor, and manage experiments. Video demonstrations of RoboCulture can be found at https://ac-rad.github.io/roboculture.",
-  "authors": [
-   "Kevin Angers",
-   "Kourosh Darvish",
-   "Naruki Yoshikawa",
-   "Sargol Okhovatian",
-   "Dawn Bannerman",
-   "Ilya Yakavets",
-   "Florian Shkurti",
-   "Alán Aspuru-Guzik",
-   "Milica Radisic"
-  ],
-  "categories": [
-   "cs.RO"
-  ],
-  "comment": null,
-  "first_author": "Kevin Angers",
-  "pdf_url": "http://arxiv.org/pdf/2505.14941",
-  "primary_category": "cs.RO",
-  "published": "2025-05-20",
-  "tags": [],
-  "title": "RoboCulture: A Robotics Platform for Automated Biological Experimentation",
-  "topics": [
-   "via:author-whitelist:autonomous discovery, self-driving labs"
-  ],
-  "updated": "2025-05-24"
  },
  "2505.16060": {
   "abstract": "We introduce Model Feedback Learning (MFL), a novel test-time optimization framework for optimizing inputs to pre-trained AI models or deployed hardware systems without requiring any retraining of the models or modifications to the hardware. In contrast to existing methods that rely on adjusting model parameters, MFL leverages a lightweight reverse model to iteratively search for optimal inputs, enabling efficient adaptation to new objectives under deployment constraints. This framework is particularly advantageous in real-world settings, such as semiconductor manufacturing recipe generation, where modifying deployed systems is often infeasible or cost-prohibitive. We validate MFL on semiconductor plasma etching tasks, where it achieves target recipe generation in just five iterations, significantly outperforming both Bayesian optimization and human experts. Beyond semiconductor applications, MFL also demonstrates strong performance in chemical processes (e.g., chemical vapor deposition) and electronic systems (e.g., wire bonding), highlighting its broad applicability. Additionally, MFL incorporates stability-aware optimization, enhancing robustness to process variations and surpassing conventional supervised learning and random search methods in high-dimensional control settings. By enabling few-shot adaptation, MFL provides a scalable and efficient paradigm for deploying intelligent control in real-world environments.",
@@ -1220,37 +1006,6 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2025-05-22"
- },
- "2505.17502": {
-  "abstract": "Quantum key distribution (QKD), one of the latest cryptographic techniques, founded on the laws of quantum mechanics rather than mathematical complexity, promises for the first time unconditional secure remote communications. Integrating this technology into the next generation nuclear systems - designed for universal data collection and real-time sharing as well as cutting-edge instrumentation and increased dependency on digital technologies - could provide significant benefits enabling secure, unattended, and autonomous operation in remote areas, e.g., microreactors and fission batteries. However, any practical implementation on a critical reactor system must meet strict requirements on latency, control system compatibility, stability, and performance under operational transients. Here, we report the complete end-to-end demonstration of a phase-encoding decoy-state BB84 protocol QKD system under prototypic conditions on Purdue's fully digital nuclear reactor, PUR-1. The system was installed in PUR-1 successfully executing real-time encryption and decryption of 2,000 signals over optic fiber distances up to 82 km using OTP-based encryption and up to 140 km with AES-based encryption. For a core of 68 signals, OTP-secure communication was achieved for up to 135 km. The QKD system maintained a stable secret key rate of 320 kbps and a quantum bit error of 3.8% at 54 km. Our results demonstrate that OTP-based encryption introduces minimal latency while the more key-efficient AES and ASCON encryption schemes can significantly increase the number of signals encrypted without latency penalties. Additionally, implementation of a dynamic key pool ensures several hours of secure key availability during potential system downtimes. This work shows the potential of quantum-based secure remote communications for future digitally driven nuclear reactor technologies.",
-  "authors": [
-   "Konstantinos Gkouliaras",
-   "Vasileios Theos",
-   "True Miller",
-   "Brian Jowers",
-   "George Kennedy",
-   "Andy Grant",
-   "Terry Cronin",
-   "Philip G. Evans",
-   "Stylianos Chatzidakis"
-  ],
-  "categories": [
-   "quant-ph",
-   "cs.CR"
-  ],
-  "comment": "42 pages, 19 figures",
-  "first_author": "Konstantinos Gkouliaras",
-  "pdf_url": "http://arxiv.org/pdf/2505.17502",
-  "primary_category": "quant-ph",
-  "published": "2025-05-23",
-  "tags": [
-   "microreactors"
-  ],
-  "title": "Demonstration of Quantum-Secure Communications in a Nuclear Reactor",
-  "topics": [
-   "via:author-whitelist:chemputers, autonomous synthesis"
-  ],
-  "updated": "2025-05-29"
  },
  "2505.18147": {
   "abstract": "Dissociative chemisorption is a key process in hydrogen-metal surface chemistry, where nonadiabatic effects due to low-lying electron-hole-pair excitations may affect reaction outcomes. Molecular dynamics with electronic friction simulations can capture weak nonadiabatic effects at metal surfaces, but require as input energy landscapes and electronic friction tensors. Here, we present full-dimensional machine learning surrogate models of the electronic friction tensor to study reactive hydrogen chemistry at the low-index surface facets Cu(100), Cu(110), Cu(111), and Cu(211). We combine these surrogate models with machine learning interatomic potentials to simulate quantum-state-resolved H$_2$ reactive scattering on pristine copper surfaces. The predicted sticking coefficient and survival probabilities are in excellent agreement with experiment. Comparison between adiabatic and nonadiabatic simulations reveals that the influence of electron-hole pair excitations on the scattering dynamics is weak and that the probability for dissociative adsorption is dominated by the shape of the underlying potential energy surface and the initial vibrational quantum state. Nonadiabatic effects only lead to subtle changes in rovibrationally inelastic state-to-state scattering probabilities. The differences between jellium-based isotropic local density friction and full ab-initio response-theory-based orbital-dependent friction are even more subtle. The presented machine learning models represent the most accurate publicly available, full-dimensional models for H$_2$ on copper to date.",
