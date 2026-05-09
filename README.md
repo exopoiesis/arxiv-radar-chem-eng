@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 1107 papers across 29 months.
+**Total corpus:** 1112 papers across 29 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-06**|**Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes**|Becky Langdon et al.|[2605.05382](http://arxiv.org/abs/2605.05382)|[md](abstracts/2605.05382.md)|
 |**2026-05-05**|**A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant**|Jan Lorenz Svensen et al.|[2605.03489](http://arxiv.org/abs/2605.03489)|[md](abstracts/2605.03489.md)|
 |**2026-05-04**|**Low-dimensional geometry learning for turbulence prediction in optimized stellarators**|Xishuo Wei et al.|[2603.17366](http://arxiv.org/abs/2603.17366)|[md](abstracts/2603.17366.md)|
 |**2026-05-04**|**Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites**|Chady Ghnatios et al.|[2605.03186](http://arxiv.org/abs/2605.03186)|[md](abstracts/2605.03186.md)|
@@ -78,7 +79,6 @@
 |**2026-03-02**|**Interface Fluctuations in a Turbulent Binary Fluid using Data-Driven Methods**|Samuel Z Khiangte et al.|[2603.02341](http://arxiv.org/abs/2603.02341)|[md](abstracts/2603.02341.md)|
 |**2026-03-02**|**Using the SEKF to Transfer NN Models of Dynamical Systems with Limited Data**|Joshua E. Hammond et al.|[2603.02439](http://arxiv.org/abs/2603.02439)|[md](abstracts/2603.02439.md)|
 |**2026-03-01**|**Surrogate-based multilevel Monte Carlo methods for uncertainty quantification in the Grad-Shafranov free boundary problem**|Howard Elman et al.|[2501.08482](http://arxiv.org/abs/2501.08482)|[md](abstracts/2501.08482.md)|
-|**2026-02-25**|**Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux**|Michele Cazzola et al.|[2602.21701](http://arxiv.org/abs/2602.21701)|[md](abstracts/2602.21701.md)|
 
 <p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
@@ -86,6 +86,9 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-07**|**Performance guaranteed MPC Policy Approximation via Cost Guided Learning**|Chenchen Zhou et al.|[2605.06448](http://arxiv.org/abs/2605.06448)|[md](abstracts/2605.06448.md)|
+|**2026-05-07**|**SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation**|Dmitri Goloubentsev et al.|[2605.06570](http://arxiv.org/abs/2605.06570)|[md](abstracts/2605.06570.md)|
+|**2026-05-05**|**Safety by Invariance, Liveness through Refinement: Heterogeneous Contract Framework for Co-Design of Layered Control**|Yoshinari Takayama et al.|[2605.04222](http://arxiv.org/abs/2605.04222)|[md](abstracts/2605.04222.md)|
 |**2026-05-02**|**Coordination Architecture Shapes Continuous Demand Response Outcomes in Building Districts**|Ava Mohammadi et al.|[2605.01362](http://arxiv.org/abs/2605.01362)|[md](abstracts/2605.01362.md)|
 |**2026-05-02**|**Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation**|Arghya Kundu et al.|[2605.01377](http://arxiv.org/abs/2605.01377)|[md](abstracts/2605.01377.md)|
 |**2026-04-29**|**Compartment Modelling of Multiphase Reactors using Unsupervised Clustering**|Michael Mitterlindner et al.|[2604.26695](http://arxiv.org/abs/2604.26695)|[md](abstracts/2604.26695.md)|
@@ -133,9 +136,6 @@
 |**2025-12-12**|**Integrating Ontologies with Large Language Models for Enhanced Control Systems in Chemical Engineering**|Crystal Su et al.|[2510.26898](http://arxiv.org/abs/2510.26898)|[md](abstracts/2510.26898.md)|
 |**2025-12-12**|**A Robust Model Predictive Control Method for Networked Control Systems**|Severin Beger et al.|[2512.11481](http://arxiv.org/abs/2512.11481)|[md](abstracts/2512.11481.md)|
 |**2025-12-11**|**Hybrid Physics-ML Model for Forward Osmosis Flux with Complete Uncertainty Quantification**|Shiv Ratn et al.|[2512.10457](http://arxiv.org/abs/2512.10457)|[md](abstracts/2512.10457.md)|
-|**2025-12-06**|**Integrating Macrostate Probability Distributions with Swing Adsorption Modeling for Binary/Ternary Gas Separation**|Sunghyun Yoon et al.|[2508.12200](http://arxiv.org/abs/2508.12200)|[md](abstracts/2508.12200.md)|
-|**2025-12-03**|**FPGA-Accelerated Real-Time Beam Emission Spectroscopy Diagnostics at DIII-D Using the SLAC Neural Network Library for ML Inference**|Abhilasha Dave et al.|[2511.21924](http://arxiv.org/abs/2511.21924)|[md](abstracts/2511.21924.md)|
-|**2025-12-03**|**Learning From Limited Data and Feedback for Cell Culture Process Monitoring: A Comparative Study**|Johnny Peng et al.|[2512.03460](http://arxiv.org/abs/2512.03460)|[md](abstracts/2512.03460.md)|
 
 <p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
@@ -428,6 +428,8 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-07**|**Confidence is the key: how conformal prediction enhances the generative design of permeable peptides**|Laura van Weesep et al.|[2605.05770](http://arxiv.org/abs/2605.05770)|[md](abstracts/2605.05770.md)|
+|**2026-05-06**|**Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes**|Becky Langdon et al.|[2605.05382](http://arxiv.org/abs/2605.05382)|[md](abstracts/2605.05382.md)|
 |**2026-05-04**|**Bayesian Neural Network Surrogates for Bayesian Optimization of Carbon Capture and Storage Operations**|Sofianos Panagiotis Fotias et al.|[2507.21803](http://arxiv.org/abs/2507.21803)|[md](abstracts/2507.21803.md)|
 |**2026-05-04**|**Inducing Permutation Invariant Priors in Bayesian Optimization for Carbon Capture and Storage Applications**|Sofianos Panagiotis Fotias et al.|[2605.02409](http://arxiv.org/abs/2605.02409)|[md](abstracts/2605.02409.md)|
 |**2026-04-28**|**StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation**|Yuan-Hao Wei|[2604.04973](http://arxiv.org/abs/2604.04973)|[md](abstracts/2604.04973.md)|
@@ -476,8 +478,6 @@
 |**2026-01-07**|**Material exploration through active learning -- METAL**|Joakim Brorsson et al.|[2601.03933](http://arxiv.org/abs/2601.03933)|[md](abstracts/2601.03933.md)|
 |**2026-01-05**|**DeFecT-FF: Accelerated Modeling of Defects in Cd-Zn--Te-Se-S Compounds Combining High-Throughput DFT and Machine Learning Force Fields**|Md Habibur Rahman et al.|[2510.23514](http://arxiv.org/abs/2510.23514)|[md](abstracts/2510.23514.md)|
 |**2025-12-29**|**Physically-Constrained Autoencoder-Assisted Bayesian Optimization for Refinement of High-Dimensional Defect-Sensitive Single Crystalline Structure**|Joseph Oche Agada et al.|[2601.00855](http://arxiv.org/abs/2601.00855)|[md](abstracts/2601.00855.md)|
-|**2025-12-25**|**Antisolvent-Assisted Growth of Centimeter-Scale CsPbBr$_3$ Perovskite Single Crystals: A Theory-Guided Approach**|I. O. Simonenko et al.|[2511.05354](http://arxiv.org/abs/2511.05354)|[md](abstracts/2511.05354.md)|
-|**2025-12-25**|**Hierarchical Stacking Optimization Using Dirichlet's Process (SoDip): Towards Accelerated Design for Graft Polymerization**|Amgad Ahmed Ali Ibrahim et al.|[2512.22279](http://arxiv.org/abs/2512.22279)|[md](abstracts/2512.22279.md)|
 
 <p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
@@ -485,6 +485,7 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-05**|**Safety by Invariance, Liveness through Refinement: Heterogeneous Contract Framework for Co-Design of Layered Control**|Yoshinari Takayama et al.|[2605.04222](http://arxiv.org/abs/2605.04222)|[md](abstracts/2605.04222.md)|
 |**2026-05-04**|**Bayesian Neural Network Surrogates for Bayesian Optimization of Carbon Capture and Storage Operations**|Sofianos Panagiotis Fotias et al.|[2507.21803](http://arxiv.org/abs/2507.21803)|[md](abstracts/2507.21803.md)|
 |**2026-05-04**|**Inducing Permutation Invariant Priors in Bayesian Optimization for Carbon Capture and Storage Applications**|Sofianos Panagiotis Fotias et al.|[2605.02409](http://arxiv.org/abs/2605.02409)|[md](abstracts/2605.02409.md)|
 |**2026-05-02**|**Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life**|Jingyuan Xue et al.|[2503.13558](http://arxiv.org/abs/2503.13558)|[md](abstracts/2503.13558.md)|
@@ -534,7 +535,6 @@
 |**2026-02-23**|**Sizing of Battery Considering Renewable Energy Bidding Strategy with Reinforcement Learning**|Taiyo Mantani et al.|[2602.19428](http://arxiv.org/abs/2602.19428)|[md](abstracts/2602.19428.md)|
 |**2026-02-20**|**PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes**|Karkulali Pugalenthi et al.|[2602.18042](http://arxiv.org/abs/2602.18042)|[md](abstracts/2602.18042.md)|
 |**2026-02-18**|**Nonparametric Kernel Regression for Coordinated Energy Storage Peak Shaving with Stacked Services**|Emily Logan et al.|[2602.16586](http://arxiv.org/abs/2602.16586)|[md](abstracts/2602.16586.md)|
-|**2026-02-17**|**Identification of Solid-Electrolyte Interphase Species by Joint Characterization of Li-ion Battery Chemistry by Mass Spectrometry and Electro-Chemical Reaction Networks**|Mona Abdelgaid et al.|[2602.17722](http://arxiv.org/abs/2602.17722)|[md](abstracts/2602.17722.md)|
 
 <p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
