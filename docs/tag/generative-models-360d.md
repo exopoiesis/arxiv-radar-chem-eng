@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-models — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="generative-models-7d.html">7d</a> <a href="generative-models-30d.html">30d</a> <a href="generative-models-90d.html">90d</a> <strong>360d</strong> <a href="generative-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11226.html">MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Peter Eckmann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11226">2410.11226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
-<td>Xiao-Qi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
 </tr>
 </tbody></table>

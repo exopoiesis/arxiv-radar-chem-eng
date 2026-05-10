@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,11 +392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11752.html">Towards Foundation Model for Chemical Reactor Modeling: Meta-Learning with Physics-Informed Adaptation</a></div><div class="paper-tags"><a href="flow-reactors-360d.html">flow-reactors</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Zihao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.11752">2405.11752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17632.html">Least Squares and Marginal Log-Likelihood Model Predictive Control using Normalizing Flows</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
-<td>Eike Cramer</td>
-<td><a href="http://arxiv.org/abs/2409.17632">2409.17632</a></td>
 </tr>
 </tbody></table>

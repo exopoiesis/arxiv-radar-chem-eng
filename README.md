@@ -1,4 +1,4 @@
-## Updated on 2026.05.09
+## Updated on 2026.05.10
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
@@ -80,7 +80,7 @@
 |**2026-03-02**|**Using the SEKF to Transfer NN Models of Dynamical Systems with Limited Data**|Joshua E. Hammond et al.|[2603.02439](http://arxiv.org/abs/2603.02439)|[md](abstracts/2603.02439.md)|
 |**2026-03-01**|**Surrogate-based multilevel Monte Carlo methods for uncertainty quantification in the Grad-Shafranov free boundary problem**|Howard Elman et al.|[2501.08482](http://arxiv.org/abs/2501.08482)|[md](abstracts/2501.08482.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Process Control & Optimization
 
@@ -137,7 +137,7 @@
 |**2025-12-12**|**A Robust Model Predictive Control Method for Networked Control Systems**|Severin Beger et al.|[2512.11481](http://arxiv.org/abs/2512.11481)|[md](abstracts/2512.11481.md)|
 |**2025-12-11**|**Hybrid Physics-ML Model for Forward Osmosis Flux with Complete Uncertainty Quantification**|Shiv Ratn et al.|[2512.10457](http://arxiv.org/abs/2512.10457)|[md](abstracts/2512.10457.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Reaction Engineering & Kinetics
 
@@ -194,7 +194,7 @@
 |**2025-05-15**|**Towards Foundation Model for Chemical Reactor Modeling: Meta-Learning with Physics-Informed Adaptation**|Zihao Wang et al.|[2405.11752](http://arxiv.org/abs/2405.11752)|[md](abstracts/2405.11752.md)|
 |**2025-05-10**|**FMEnets: Flow, Material, and Energy networks for non-ideal plug flow reactor design**|Chenxi Wu et al.|[2505.20300](http://arxiv.org/abs/2505.20300)|[md](abstracts/2505.20300.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Separation Processes & Transport Phenomena
 
@@ -251,7 +251,7 @@
 |**2026-01-29**|**Conditional Generative Framework with Peak-Aware Attention for Robust Chemical Detection under Interferences**|Namkyung Yoon et al.|[2601.21246](http://arxiv.org/abs/2601.21246)|[md](abstracts/2601.21246.md)|
 |**2026-01-27**|**C2NP: A Benchmark for Learning Scale-Dependent Geometric Invariances in 3D Materials Generation**|Can Polat et al.|[2601.19076](http://arxiv.org/abs/2601.19076)|[md](abstracts/2601.19076.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Catalysis & Materials for Chemical Engineering
 
@@ -308,7 +308,7 @@
 |**2026-01-20**|**Automated Analysis of DFT Output Files for Molecular Descriptor Extraction and Reactivity Modeling**|Yu-Chien Huang et al.|[2601.14203](http://arxiv.org/abs/2601.14203)|[md](abstracts/2601.14203.md)|
 |**2026-01-16**|**Benchmarking foundation potentials against quantum chemistry methods for predicting molecular redox potentials**|Yicheng Chen et al.|[2510.24063](http://arxiv.org/abs/2510.24063)|[md](abstracts/2510.24063.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Computational Fluid Dynamics & Multiphase Flow
 
@@ -365,7 +365,7 @@
 |**2025-06-26**|**Flow and thermal modelling of the argon volume in the DarkSide-20k TPC**|DarkSide-20k Collaboration et al.|[2503.08468](http://arxiv.org/abs/2503.08468)|[md](abstracts/2503.08468.md)|
 |**2025-06-25**|**A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers**|Marco Laudato|[2506.20341](http://arxiv.org/abs/2506.20341)|[md](abstracts/2506.20341.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Digital Twins & Process Monitoring
 
@@ -422,7 +422,7 @@
 |**2025-05-31**|**AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection**|Peng Wu et al.|[2504.04495](http://arxiv.org/abs/2504.04495)|[md](abstracts/2504.04495.md)|
 |**2025-05-27**|**Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning**|Runze Lin et al.|[2505.21026](http://arxiv.org/abs/2505.21026)|[md](abstracts/2505.21026.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Uncertainty Quantification & Bayesian Methods
 
@@ -479,7 +479,7 @@
 |**2026-01-05**|**DeFecT-FF: Accelerated Modeling of Defects in Cd-Zn--Te-Se-S Compounds Combining High-Throughput DFT and Machine Learning Force Fields**|Md Habibur Rahman et al.|[2510.23514](http://arxiv.org/abs/2510.23514)|[md](abstracts/2510.23514.md)|
 |**2025-12-29**|**Physically-Constrained Autoencoder-Assisted Bayesian Optimization for Refinement of High-Dimensional Defect-Sensitive Single Crystalline Structure**|Joseph Oche Agada et al.|[2601.00855](http://arxiv.org/abs/2601.00855)|[md](abstracts/2601.00855.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Energy, Sustainability & Electrochemical Systems
 
@@ -536,7 +536,7 @@
 |**2026-02-20**|**PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes**|Karkulali Pugalenthi et al.|[2602.18042](http://arxiv.org/abs/2602.18042)|[md](abstracts/2602.18042.md)|
 |**2026-02-18**|**Nonparametric Kernel Regression for Coordinated Energy Storage Peak Shaving with Stacked Services**|Emily Logan et al.|[2602.16586](http://arxiv.org/abs/2602.16586)|[md](abstracts/2602.16586.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## via:author-whitelist:Open Catalyst, ML for catalysis
 
@@ -552,7 +552,7 @@
 |**2024-06-11**|**CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks**|Brook Wander et al.|[2405.02078](http://arxiv.org/abs/2405.02078)|[md](abstracts/2405.02078.md)|
 |**2024-03-14**|**Adapting OC20-trained EquiformerV2 Models for High-Entropy Materials**|Christian M. Clausen et al.|[2403.09811](http://arxiv.org/abs/2403.09811)|[md](abstracts/2403.09811.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## via:author-whitelist:microkinetics, multi-scale catalysis
 
@@ -560,7 +560,7 @@
 |---|---|---|---|---|
 |**2024-04-15**|**Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models**|Maria Ley-Flores et al.|[2404.09676](http://arxiv.org/abs/2404.09676)|[md](abstracts/2404.09676.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## via:author-whitelist:autonomous discovery, self-driving labs
 
@@ -581,7 +581,7 @@
 |**2024-06-10**|**Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers**|Nicole Bellonzi et al.|[2406.06335](http://arxiv.org/abs/2406.06335)|[md](abstracts/2406.06335.md)|
 |**2024-05-28**|**A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?**|Agustinus Kristiadi et al.|[2402.05015](http://arxiv.org/abs/2402.05015)|[md](abstracts/2402.05015.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## via:author-whitelist:process control, networks
 
@@ -590,7 +590,7 @@
 |**2025-08-08**|**Learning to control inexact Benders decomposition via reinforcement learning**|Zhe Li et al.|[2508.06700](http://arxiv.org/abs/2508.06700)|[md](abstracts/2508.06700.md)|
 |**2024-12-24**|**Accelerating process control and optimization via machine learning: A review**|Ilias Mitrai et al.|[2412.18529](http://arxiv.org/abs/2412.18529)|[md](abstracts/2412.18529.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## via:author-whitelist:MPC, infrastructure optimization
 
@@ -600,7 +600,7 @@
 |**2025-03-18**|**A Digital Twin Simulator of a Pastillation Process with Applications to Automatic Control based on Computer Vision**|Leonardo D. González et al.|[2503.16539](http://arxiv.org/abs/2503.16539)|[md](abstracts/2503.16539.md)|
 |**2025-01-01**|**On the Implementation of a Bayesian Optimization Framework for Interconnected Systems**|Leonardo D. González et al.|[2501.00967](http://arxiv.org/abs/2501.00967)|[md](abstracts/2501.00967.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## via:author-whitelist:chemputers, autonomous synthesis
 
@@ -610,4 +610,4 @@
 |**2025-02-05**|**Achieving Operational Universality through a Turing Complete Chemputer**|Daniel Gahler et al.|[2502.02872](http://arxiv.org/abs/2502.02872)|[md](abstracts/2502.02872.md)|
 |**2025-01-28**|**Machine-learning semi-local exchange-correlation functionals for Kohn-Sham density functional theory of the Hubbard model**|Eoghan Cronin et al.|[2501.16893](http://arxiv.org/abs/2501.16893)|[md](abstracts/2501.16893.md)|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>

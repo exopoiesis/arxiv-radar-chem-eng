@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>energy-storage — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <strong>30d</strong> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09823.html">Agentic Workflows for Resolving Conflict Over Shared Resources: A Power Grid Application</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a></div></td>
 <td>Shiva Poudel et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09823">2604.09823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09427.html">Adversarially and Distributionally Robust Virtual Energy Storage Systems via the Scenario Approach</a></div></td>
-<td>Georgios Pantazis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09427">2511.09427</a></td>
 </tr>
 </tbody></table>
