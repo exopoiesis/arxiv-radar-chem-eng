@@ -432,5 +432,99 @@
    "Process Control & Optimization"
   ],
   "updated": "2026-05-07"
+ },
+ "2605.07047": {
+  "abstract": "This paper introduces the MAESTRO workflow, that enables the coupling of the PORTALS framework [P. Rodriguez-Fernandez et al, Nucl. Fusion 2024] with external solvers for the plasma equilibrium, pedestal physics, divertor constraints and heating. The surrogate-based optimization nature of the transport solver is ideally suited for external coupling, allowing efficient steady-state predictions of plasma profiles with full physics models. Improvements in the surrogate modeling of quasilinear transport models with PORTALS are presented, which enable the efficient handling of discontinuities in the transport fluxes that can arise from numerical issues or physical instabilities with extreme stiffness. The combination of physics-informed methods and advanced numerical techniques allows the MAESTRO workflow to provide accurate and efficient predictions of steady-state plasma profiles, which are critical for fusion reactor design and optimization.",
+  "authors": [
+   "P. Rodriguez-Fernandez",
+   "N. T. Howard",
+   "J. Hall",
+   "A. Saltzman",
+   "A. Martin-Sanabria",
+   "A. Ho",
+   "G. Snoep",
+   "J. Pimentel-Aldaz",
+   "C. Holland",
+   "M. Muraca",
+   "P. de Lara Montoya",
+   "K. Yanna",
+   "A. E. White",
+   "T. Body",
+   "A. J. Creely",
+   "J. C. Hillesheim",
+   "P. B. Snyder"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "P. Rodriguez-Fernandez",
+  "pdf_url": "http://arxiv.org/pdf/2605.07047",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-05-07",
+  "tags": [
+   "reactor-design",
+   "surrogate-modeling"
+  ],
+  "title": "Accelerating integrated modeling with surrogate-based optimization: the MAESTRO workflow",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-05-07"
+ },
+ "2605.07670": {
+  "abstract": "Disorder and defective coordination in the catalytic plane are crucial for enhancing the Hydrogen Evolution Reaction (HER) on two-dimensional catalysts. Amorphous materials are disordered, making them catalytically adaptive for many reactions. In this work, the HER capabilities of Monolayer Amorphous Carbon (MAC) were studied in comparison with crystalline carbon derivatives, such as pristine graphene (GE) and graphyne derivatives. MAC generated from melt-quench simulations revealed a diverse framework of predominantly sp2 and sp3 carbons with numerous 5-, 6-, and 7-membered rings. Density Functional Theory (DFT) calculations investigated free-energy variations in hydrogen adsorption for each material. According to Sabatier's principle, optimum activity is achieved when the Gibbs free energy (Delta GH) change approaches zero. Crystalline carbon materials possess limited active sites, with beta-graphyne showing the best Delta GH value of +0.34 eV. The adsorption study for MAC was conducted in 30 distinct local environments, where core structural properties were analyzed against varying radii. Calculations showed a Delta GH distribution for MAC ranging from -0.02 eV to +1.35 eV. To evaluate activity across the entire MAC surface, a MACE MLIP foundation model was finetuned, achieving optimal energy and force fitting of 1.67 meV/atom and 29.15 meV/A, respectively. The MLIP predicted Delta GH values from -0.91 eV to +1.70 eV, with approximately 15% of sites exhibiting values below +0.25 eV. Feature analysis revealed that 7-membered rings, curvature, and ripple height enhance HER activity. Our findings suggest that, with careful optimization of local features, MAC can be tuned to compete with noble metal catalysts.",
+  "authors": [
+   "Sreehari M S",
+   "Ashutosh Krishna Amaram",
+   "Raghavan Ranganathan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sreehari M S",
+  "pdf_url": "http://arxiv.org/pdf/2605.07670",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-08",
+  "tags": [
+   "active-sites",
+   "adsorption",
+   "catalysis",
+   "dft",
+   "hydrogen-evolution"
+  ],
+  "title": "Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-05-08"
+ },
+ "2605.07880": {
+  "abstract": "In power systems, the risk of wildfire ignition has increased significantly in recent years. The impact and severity of these events on energy dispatch, as well as their societal ramifications, make wildfire prevention critical for power system planning and operation. A common intervention by system operators is to de-energize transmission lines to mitigate the risk of fire caused by equipment failures. With the growing integration of variable renewable generation, managing and preparing the system to de-energization under wildfire risk has become even more challenging. In this context, mitigation decisions such as installing battery energy storage systems and undergrounding transmission lines can reduce the risk and adverse effects associated with de-energization and renewable generation variability. This paper presents a robust optimization model to determine the optimal location of battery storage and undergrounding of transmission line investment, utilizing representative weeks and uncertainty sets to capture the temporal relationship of uncertain variables. Specifically, this paper addresses: (i) the worst-case realization of ignition risk leading to the de-energization of transmission lines, combined with the worst-case realization of renewable energy availability, and (ii) the optimal investment decisions for energy storage capacity and undergrounding of transmission lines that are exposed to ignition risk. The proposed model is formulated as a mixed-integer linear programming (MILP) problem, employing duality theory and binary decomposition to address nonlinearities, and is solved using a column-and-constraint generation algorithm. The proposed framework is evaluated on a model of the San Diego power system, demonstrating its practical effectiveness in improving the resilience to wildfire risk.",
+  "authors": [
+   "Tomás Tapia",
+   "Ryan Piansky",
+   "Yury Dvorkin",
+   "Jean-Paul Watson"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Tomás Tapia",
+  "pdf_url": "http://arxiv.org/pdf/2605.07880",
+  "primary_category": "math.OC",
+  "published": "2026-05-08",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Robust Capacity Expansion under Wildfire Ignition Risk and High Renewable Penetration",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-05-08"
  }
 }

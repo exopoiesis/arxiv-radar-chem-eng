@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>transfer-learning — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="transfer-learning-7d.html">7d</a> <a href="transfer-learning-30d.html">30d</a> <a href="transfer-learning-90d.html">90d</a> <strong>360d</strong> <a href="transfer-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22865.html">ReasonBridge: Efficient Reasoning Transfer from Closed to Open-Source Language Models</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Ziqi Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22865">2506.22865</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11752.html">Towards Foundation Model for Chemical Reactor Modeling: Meta-Learning with Physics-Informed Adaptation</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="flow-reactors-360d.html">flow-reactors</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
-<td>Zihao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11752">2405.11752</a></td>
 </tr>
 </tbody></table>

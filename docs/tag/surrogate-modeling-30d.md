@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07047.html">Accelerating integrated modeling with surrogate-based optimization: the MAESTRO workflow</a></div><div class="paper-tags"><a href="reactor-design-30d.html">reactor-design</a></div></td>
+<td>P. Rodriguez-Fernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07047">2605.07047</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05382.html">Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Becky Langdon et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13316.html">Beyond Uniform Sampling: Synergistic Active Learning and Input Denoising for Robust Neural Operators</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="digital-twin-30d.html">digital-twin</a> · <a href="energy-systems-30d.html">energy-systems</a></div></td>
 <td>Samrendra Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13316">2604.13316</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09932.html">A Hybrid Intelligent Framework for Uncertainty-Aware Condition Monitoring of Industrial Systems</a></div><div class="paper-tags"><a href="process-monitoring-30d.html">process-monitoring</a></div></td>
-<td>Maryam Ahang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09932">2604.09932</a></td>
 </tr>
 </tbody></table>

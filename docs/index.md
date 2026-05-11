@@ -5,15 +5,27 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-10._
+_Updated 2026-05-11._
 
-**1112** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1115** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="tag/active-sites-30d.html">active-sites</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a></div></td>
+<td>Sreehari M S et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.07880.html">Robust Capacity Expansion under Wildfire Ignition Risk and High Renewable Penetration</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
+<td>Tomás Tapia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07880">2605.07880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -31,6 +43,12 @@ _Updated 2026-05-10._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06570.html">SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation</a></div></td>
 <td>Dmitri Goloubentsev et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06570">2605.06570</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.07047.html">Accelerating integrated modeling with surrogate-based optimization: the MAESTRO workflow</a></div><div class="paper-tags"><a href="tag/reactor-design-30d.html">reactor-design</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>P. Rodriguez-Fernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07047">2605.07047</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -175,23 +193,5 @@ _Updated 2026-05-10._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.18953.html">FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
 <td>Xiaowen Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18953">2604.18953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.22468.html">A Systematic Modeling Framework for Dynamic Simulation of Fixed-Bed Reactors</a></div><div class="paper-tags"><a href="tag/ammonia-synthesis-30d.html">ammonia-synthesis</a> · <a href="tag/fixed-bed-30d.html">fixed-bed</a> · <a href="tag/fixed-bed-reactors-30d.html">fixed-bed-reactors</a> · <a href="tag/process-control-30d.html">process-control</a> · <a href="tag/transport-phenomena-30d.html">transport-phenomena</a></div></td>
-<td>Marcus Johan Schytt et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22468">2604.22468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.22672.html">Iterative Model-Learning Scheme via Gaussian Processes for Nonlinear Model Predictive Control of (Semi-)Batch Processes</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Tai Xuan Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22672">2604.22672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Srinivasan T. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
 </tr>
 </tbody></table>

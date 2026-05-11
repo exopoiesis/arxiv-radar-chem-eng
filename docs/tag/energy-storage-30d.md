@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07880.html">Robust Capacity Expansion under Wildfire Ignition Risk and High Renewable Penetration</a></div></td>
+<td>Tomás Tapia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07880">2605.07880</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04222.html">Safety by Invariance, Liveness through Refinement: Heterogeneous Contract Framework for Co-Design of Layered Control</a></div><div class="paper-tags"><a href="life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="mpc-30d.html">mpc</a></div></td>
 <td>Yoshinari Takayama et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11765.html">State constrained stochastic optimal control of a PV system with battery storage via Fokker-Planck and Hamilton-Jacobi-Bellman equations</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a> · <a href="optimal-control-30d.html">optimal-control</a></div></td>
 <td>Alfredo Bermúdez et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11765">2506.11765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09823.html">Agentic Workflows for Resolving Conflict Over Shared Resources: A Power Grid Application</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a></div></td>
-<td>Shiva Poudel et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09823">2604.09823</a></td>
 </tr>
 </tbody></table>

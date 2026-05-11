@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-kinetics — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="reaction-kinetics-7d.html">7d</a> <a href="reaction-kinetics-30d.html">30d</a> <a href="reaction-kinetics-90d.html">90d</a> <strong>360d</strong> <a href="reaction-kinetics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18889.html">CFD Modelling and Sensitivity-Guided Design of Silicon Filament CVD Reactors</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="transport-phenomena-360d.html">transport-phenomena</a></div></td>
 <td>G. P. Gakis et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18889">2506.18889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11752.html">Towards Foundation Model for Chemical Reactor Modeling: Meta-Learning with Physics-Informed Adaptation</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="flow-reactors-360d.html">flow-reactors</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
-<td>Zihao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11752">2405.11752</a></td>
 </tr>
 </tbody></table>
