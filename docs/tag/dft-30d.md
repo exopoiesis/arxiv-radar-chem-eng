@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12861.html">Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates Under Pressure: Guest Effects and Properties</a></div><div class="paper-tags"><a href="carbon-capture-30d.html">carbon-capture</a> · <a href="separations-30d.html">separations</a></div></td>
 <td>Samuel Mathews et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12861">2604.12861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10173.html">Continuous PT-Symmetry Breaking as a Design Variable for Giant Altermagnetic Spin Splitting</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Kichan Chun et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10173">2604.10173</a></td>
 </tr>
 </tbody></table>

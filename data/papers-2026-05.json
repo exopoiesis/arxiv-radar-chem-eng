@@ -526,5 +526,121 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2026-05-08"
+ },
+ "2605.08307": {
+  "abstract": "Triplet formation and its regulation have always been of central interest in understanding the photophysical behavior of living systems. In organic systems, excessive triplet formation poses significant challenges, as it can promote photochemical damage and reduce the efficiency of charge separation processes, making its regulation critically important.Here, we present a theoretical investigation of the intrinsic quantum spin dynamics governing triplet formation in the heliobacterial reaction center, a system that operates without any internal magnetic field. Using an open quantum systems approach based on the Lindblad formalism, we simulate the spin-correlated radical pair dynamics occurring during charge separation in the heliobacterial reaction center. The study systematically examines how triplet formation is regulated by variations in two key parameters, hyperfine coupling strengths and recombination rates, and how this regulation is further influenced by the inclusion of chirality-induced spin selectivity (CISS) in conjunction with the radical pair mechanism (RPM). Our results demonstrate that the CISS effect significantly suppresses triplet formation across the parameter space relevant to the heliobacterial molecular environment, revealing an intrinsic quantum protective mechanism operating through spin control in heliobacterial photosynthesis.",
+  "authors": [
+   "Parul Raghuvanshi",
+   "Vishvendra Singh Poonia"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Parul Raghuvanshi",
+  "pdf_url": "http://arxiv.org/pdf/2605.08307",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-05-08",
+  "tags": [
+   "separations"
+  ],
+  "title": "Chiral-Induced Spin Selectivity Regulates Triplet formation in Heliobacterial Photosynthesis",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-08"
+ },
+ "2605.08653": {
+  "abstract": "Accurate state-of-charge (SOC) estimation is critical for the safe and efficient operation of lithium-ion batteries in battery management systems (BMS). Although data-driven approaches can effectively capture nonlinear battery dynamics, many existing methods rely on long historical input sequences, resulting in high computational cost and introducing padding-induced positional bias at the beginning of drive cycles. To address these limitations, we propose C2L-Net, a novel context-to-latest data-driven framework for realistic online SOC estimation using only a short historical window (20 s). Unlike existing short-receptive-field or long-history models, the proposed framework explicitly separates contextual encoding from latest-measurement updating, enabling both efficient temporal modeling and rapid adaptation to dynamic battery states. The proposed model incorporates a chunk-based feature extraction mechanism that combines Theta Attention Pooling with a Fourier-based Seasonality Basis to capture local temporal patterns while reducing sequence length. A causal context encoder, integrating a gated recurrent unit (GRU) with Causal Cosine Attention, models temporal dependencies without information leakage. Furthermore, a latest-measurement decoder, inspired by recursive filtering, updates the contextual state using the most recent measurement, enhancing responsiveness to dynamic operating conditions. Extensive experiments on a public lithium-ion battery drive-cycle dataset under multiple fixed-temperature conditions demonstrate that the proposed method achieves state-of-the-art or competitive accuracy while significantly improving computational efficiency. In particular, C2L-Net achieves up to 60 times faster inference and requires fewer parameters than recent data-driven baselines, while maintaining robust performance across unseen driving profiles.",
+  "authors": [
+   "Khoa Tran",
+   "T. Nguyen-Thoi",
+   "Vin Nguyen-Thai",
+   "Duong Tran Anh",
+   "Hung-Cuong Trinh",
+   "Tri Le"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Khoa Tran",
+  "pdf_url": "http://arxiv.org/pdf/2605.08653",
+  "primary_category": "cs.AI",
+  "published": "2026-05-09",
+  "tags": [
+   "battery-modeling"
+  ],
+  "title": "C2L-Net: A Data-Driven Model for State-of-Charge Estimation of Lithium-Ion Batteries During Discharge",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-05-09"
+ },
+ "2605.08994": {
+  "abstract": "The current catalyst discovery and development pipeline for energy-intensive applications like methane conversion remains bottlenecked by expensive trial-and-error experimentation, irreproducible chemical intuition, and a lack of frameworks linking complex catalytic design spaces to performance. This work presents an interpretable machine learning framework that integrates SHAP-based feature importance analysis (Explainable AI) with tree-based ensembles (Random Forest and Bayesian-optimized CatBoost) to characterize Fe-zeolite and oxide-supported catalysts for the partial oxidation of methane (POM). Despite limited data, the framework decodes complex structure-performance relationships by identifying and ranking thermodynamic, structural, and geometric microdescriptors that influence the electronic band gap and govern macroscale performance metrics such as selectivity, activity, and stability. This work explicitly demonstrates that thermodynamic lattice stability and geometric factors are the primary drivers of electronic band gap (a critical proxy for redox reactivity) rather than bulk stoichiometry. Non-linear models achieve an R2 of 0.61 - 0.77, significantly outperforming traditional linear baselines (R2 = 0.32). This workflow provides both a light-weight generalizable methodology and a prioritized list of physical features for accelerated catalyst screening - and these features can subsequently be integrated into microkinetic and reaction engineering models to create digital twins of complex reactor systems and to enable predictive optimization in autonomous R&D laboratories.",
+  "authors": [
+   "Oyinkansola Romiluyi"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "27 pages, 10 figures",
+  "first_author": "Oyinkansola Romiluyi",
+  "pdf_url": "http://arxiv.org/pdf/2605.08994",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-09",
+  "tags": [
+   "catalysis",
+   "catalyst-design",
+   "digital-twin",
+   "reaction-engineering",
+   "zeolites"
+  ],
+  "title": "Beyond the Black Box: An Interpretable Machine Learning Framework for Predicting Electronic Structure Microdescriptors and Structure-Performance Relationships in Fe-based Catalytic Systems",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Digital Twins & Process Monitoring",
+   "Separation Processes & Transport Phenomena",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-09"
+ },
+ "2605.09394": {
+  "abstract": "Once trained, machine-learned interatomic potentials (MLIPs) provide a fast and accurate way to study catalytic reaction pathways, but their performance strongly depends on the training set. Here, we compare nine MLIPs trained with different data sets and strategies, including from-scratch (FS) training and fine-tuning (FT) of large foundation models. The models are evaluated on reaction energies, $E_{r}$, and reaction energy barriers, $E_{a}$, for 141 reactions, including CO$_2$ reduction to C$_2$ and C$_3$ products, propane dehydrogenation, hydrogen intercalation on Pd, and out-of-distribution oxygen evolution reaction (OER) on metal oxides. FS models trained with 5%--10% perturbed high-energy configurations from molecular dynamics or contour exploration reduce the error by more than twofold compared with models trained only on relaxation trajectories. In contrast, FT MLIPs are less sensitive to sampling and transfer well to out-of-distribution reactions. An MLIP fine-tuned on metallic catalysts achieves a 0.30 eV MAE for OER on iridium oxide polymorphs, outperforming out-of-the-box MACE-MH-1 by 0.08 eV and the best FS model by 0.14 eV. A model fine-tuned to O and OH adsorption on metal oxides gives a 0.19 eV reaction-barrier MAE for out-of-distribution CO$_2$RR on Cu, comparable to an FS model trained on in-distribution C--C bond-breaking reactions. Finally, a large MLIP fine-tuned on 49,860 configurations gives the best overall performance across metallic and metal-oxide catalysts and was used to screen a large left-out set of bimetallic alloys, achieving a 0.15 eV MAE for $E_{r}$, even for adsorbates on unseen Miller-index surfaces such as (532). This work identifies the training configurations needed for accurate FS and FT MLIPs for catalytic reaction modeling.",
+  "authors": [
+   "Nima Karimitari",
+   "Jacob Clary",
+   "Derek Vigil-Fowler",
+   "Ravishankar Sundararaman",
+   "Gábor Csányi",
+   "Christopher Sutton"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nima Karimitari",
+  "pdf_url": "http://arxiv.org/pdf/2605.09394",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-10",
+  "tags": [
+   "adsorption",
+   "catalysis",
+   "large-language-models",
+   "molecular-dynamics",
+   "oxygen-evolution"
+  ],
+  "title": "Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Reaction Engineering & Kinetics",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-10"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02779.html">Comparison of Trefftz-Based PINNs and Standard PINNs Focusing on Structure Preservation</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Koji Koyamada</td>
 <td><a href="http://arxiv.org/abs/2602.02779">2602.02779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09750.html">Comprehensive Study of 3D Liquid Flow Fields in Additive Manufactured Structures for SMART Reactors Using Large-Scale Vertical Magnetic Resonance Imaging and Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="porous-materials-90d.html">porous-materials</a></div></td>
-<td>Timo Merbach et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09750">2602.09750</a></td>
 </tr>
 </tbody></table>

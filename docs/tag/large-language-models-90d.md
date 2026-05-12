@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
+<td>Nima Karimitari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09394">2605.09394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="process-design-90d.html">process-design</a></div></td>
 <td>Karim K. Ben Hicham et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12172.html">Pedagogically-Inspired Data Synthesis for Language Model Knowledge Distillation</a></div><div class="paper-tags"><a href="distillation-90d.html">distillation</a> · <a href="knowledge-distillation-90d.html">knowledge-distillation</a></div></td>
 <td>Bowei He et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12172">2602.12172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18479.html">AgentCAT: An LLM Agent for Extracting and Analyzing Catalytic Reaction Data from Chemical Engineering Literature</a></div><div class="paper-tags"><a href="active-sites-90d.html">active-sites</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
-<td>Wei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18479">2602.18479</a></td>
 </tr>
 </tbody></table>

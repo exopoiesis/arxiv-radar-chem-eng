@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>energy-storage — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <strong>30d</strong> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15360.html">Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a></div></td>
 <td>Jaime de Miguel Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15360">2604.15360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11765.html">State constrained stochastic optimal control of a PV system with battery storage via Fokker-Planck and Hamilton-Jacobi-Bellman equations</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a> · <a href="optimal-control-30d.html">optimal-control</a></div></td>
-<td>Alfredo Bermúdez et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11765">2506.11765</a></td>
 </tr>
 </tbody></table>

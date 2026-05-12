@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>zeolites — all</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="zeolites-7d.html">7d</a> <a href="zeolites-30d.html">30d</a> <a href="zeolites-90d.html">90d</a> <a href="zeolites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08994.html">Beyond the Black Box: An Interpretable Machine Learning Framework for Predicting Electronic Structure Microdescriptors and Structure-Performance Relationships in Fe-based Catalytic Systems</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="digital-twin-all.html">digital-twin</a> · <a href="reaction-engineering-all.html">reaction-engineering</a></div></td>
+<td>Oyinkansola Romiluyi</td>
+<td><a href="http://arxiv.org/abs/2605.08994">2605.08994</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25062.html">A Computational Fluid Dynamics MacroModel for the Design of Bed Adsorbers</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="carbon-capture-all.html">carbon-capture</a> · <a href="cfd-all.html">cfd</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="gas-separation-all.html">gas-separation</a> · <a href="separations-all.html">separations</a></div></td>

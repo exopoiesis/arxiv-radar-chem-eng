@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-engineering — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <strong>90d</strong> <a href="chemical-engineering-360d.html">360d</a> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,17 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16341.html">Explainability for Fault Detection System in Chemical Processes</a></div><div class="paper-tags"><a href="fault-detection-90d.html">fault-detection</a></div></td>
 <td>Georgios Gravanis et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16341">2602.16341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09750.html">Comprehensive Study of 3D Liquid Flow Fields in Additive Manufactured Structures for SMART Reactors Using Large-Scale Vertical Magnetic Resonance Imaging and Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="porous-materials-90d.html">porous-materials</a></div></td>
-<td>Timo Merbach et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09750">2602.09750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18479.html">AgentCAT: An LLM Agent for Extracting and Analyzing Catalytic Reaction Data from Chemical Engineering Literature</a></div><div class="paper-tags"><a href="active-sites-90d.html">active-sites</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Wei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18479">2602.18479</a></td>
 </tr>
 </tbody></table>

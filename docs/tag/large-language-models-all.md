@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>large-language-models — all</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
+<td>Nima Karimitari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09394">2605.09394</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="process-design-all.html">process-design</a></div></td>

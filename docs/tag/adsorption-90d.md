@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
+<td>Nima Karimitari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09394">2605.09394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="active-sites-90d.html">active-sites</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a></div></td>
 <td>Sreehari M S et al.</td>
@@ -116,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11050.html">Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces</a></div><div class="paper-tags"><a href="graph-neural-networks-90d.html">graph-neural-networks</a></div></td>
 <td>Anant Vaishnav et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11050">2602.11050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07295.html">The impact of spurious imaginary phonon modes on thermal properties of Metal-organic Frameworks</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="dft-90d.html">dft</a> · <a href="experimental-design-90d.html">experimental-design</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
-<td>Prathami Divakar Kamath et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07295">2602.07295</a></td>
 </tr>
 </tbody></table>
