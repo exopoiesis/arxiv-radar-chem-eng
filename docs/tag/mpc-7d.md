@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10928.html">Mitigating residual foregrounds and systematic errors in SKA1-Low AA* EoR observations via Bayesian Gaussian Process Regression</a></div><div class="paper-tags"><a href="gaussian-process-7d.html">gaussian-process</a></div></td>
+<td>Samit Kumar Pal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10928">2605.10928</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06448.html">Performance guaranteed MPC Policy Approximation via Cost Guided Learning</a></div><div class="paper-tags"><a href="optimal-control-7d.html">optimal-control</a></div></td>
 <td>Chenchen Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06448">2605.06448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04222.html">Safety by Invariance, Liveness through Refinement: Heterogeneous Contract Framework for Co-Design of Layered Control</a></div><div class="paper-tags"><a href="energy-storage-7d.html">energy-storage</a> · <a href="life-cycle-assessment-7d.html">life-cycle-assessment</a></div></td>
-<td>Yoshinari Takayama et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04222">2605.04222</a></td>
 </tr>
 </tbody></table>

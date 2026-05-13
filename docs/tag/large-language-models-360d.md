@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15712.html">BatteryBERT for Realistic Battery Fault Detection Using Point-Masked Signal Modeling</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="fault-detection-360d.html">fault-detection</a></div></td>
 <td>Songqi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15712">2506.15712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06964.html">Bridging AI and Carbon Capture: A Dataset for LLMs in Ionic Liquids and CBE Research</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a> · <a href="ionic-liquids-360d.html">ionic-liquids</a></div></td>
-<td>Gaurab Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06964">2505.06964</a></td>
 </tr>
 </tbody></table>

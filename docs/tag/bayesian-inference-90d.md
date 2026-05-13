@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14478.html">Constrained and Composite Sampling via Proximal Sampler</a></div></td>
 <td>Thanh Dang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.14478">2602.14478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10634.html">Constraining cross sections for unstable $^{153,159}$Gd$(n,γ)$ and their astrophysical implications</a></div></td>
-<td>Shu-Tong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10634">2602.10634</a></td>
 </tr>
 </tbody></table>

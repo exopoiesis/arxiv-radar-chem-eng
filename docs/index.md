@@ -5,15 +5,27 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-12._
+_Updated 2026-05-13._
 
-**1119** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1121** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.11896.html">A Volume of Fluid Immersed Boundary Method for Industrial Polymer Mixing</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
+<td>Emilia Capuano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11896">2605.11896</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.10928.html">Mitigating residual foregrounds and systematic errors in SKA1-Low AA* EoR observations via Bayesian Gaussian Process Regression</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Samit Kumar Pal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10928">2605.10928</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-05-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25701.html">Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Johannes Harth-Kitzerow et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25701">2604.25701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26073.html">Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-modeling-30d.html">process-modeling</a></div></td>
-<td>Teetat Pipattaratonchai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26073">2604.26073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00898.html">A Deep Learning Model for Battery State Prediction towards Intelligent Energy Management</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
-<td>Athanasios Koukosiasa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00898">2605.00898</a></td>
 </tr>
 </tbody></table>

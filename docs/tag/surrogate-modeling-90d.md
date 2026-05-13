@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11626.html">ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning</a></div><div class="paper-tags"><a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="process-modeling-90d.html">process-modeling</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Wenqian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11626">2602.11626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11006.html">Noise-balanced multilevel on-the-fly sparse grid surrogates for coupling Monte Carlo models into continuum models with application to heterogeneous catalysis</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a></div></td>
-<td>Tobias Hülser et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11006">2602.11006</a></td>
 </tr>
 </tbody></table>

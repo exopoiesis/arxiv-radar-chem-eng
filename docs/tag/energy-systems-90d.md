@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-systems — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="energy-systems-7d.html">7d</a> <a href="energy-systems-30d.html">30d</a> <strong>90d</strong> <a href="energy-systems-360d.html">360d</a> <a href="energy-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01587.html">Battery Discharge Modeling for Electric Vehicles: A Hybrid Physics-based Residual Learning Approach</a></div></td>
 <td>Praharshitha Aryasomayajula et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01587">2603.01587</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14600.html">Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning</a></div></td>
-<td>Xudong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14600">2508.14600</a></td>
 </tr>
 </tbody></table>

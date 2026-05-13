@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10928.html">Mitigating residual foregrounds and systematic errors in SKA1-Low AA* EoR observations via Bayesian Gaussian Process Regression</a></div><div class="paper-tags"><a href="gaussian-process-30d.html">gaussian-process</a></div></td>
+<td>Samit Kumar Pal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10928">2605.10928</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06448.html">Performance guaranteed MPC Policy Approximation via Cost Guided Learning</a></div><div class="paper-tags"><a href="optimal-control-30d.html">optimal-control</a></div></td>
 <td>Chenchen Zhou et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21300.html">Simultaneous improvement of control and estimation for battery management systems</a></div><div class="paper-tags"><a href="energy-storage-30d.html">energy-storage</a></div></td>
 <td>Mohammad S. Ramadan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21300">2507.21300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15360.html">Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons</a></div><div class="paper-tags"><a href="energy-storage-30d.html">energy-storage</a></div></td>
-<td>Jaime de Miguel Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15360">2604.15360</a></td>
 </tr>
 </tbody></table>
