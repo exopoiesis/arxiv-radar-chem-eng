@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-13._
+_Updated 2026-05-14._
 
-**1121** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1122** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -19,6 +19,12 @@ _Updated 2026-05-13._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.11896.html">A Volume of Fluid Immersed Boundary Method for Industrial Polymer Mixing</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
 <td>Emilia Capuano et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11896">2605.11896</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.10624.html">Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Ramesh Arvind Naagarajan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10624">2605.10624</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -187,11 +193,5 @@ _Updated 2026-05-13._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.04973.html">StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Yuan-Hao Wei</td>
 <td><a href="http://arxiv.org/abs/2604.04973">2604.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25701.html">Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Johannes Harth-Kitzerow et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25701">2604.25701</a></td>
 </tr>
 </tbody></table>

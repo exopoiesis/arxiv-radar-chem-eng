@@ -11,14 +11,18 @@
   count: 8
   total: 52
   group: methods
+- name: mpc
+  count: 8
+  total: 69
+  group: control
 - name: catalysis
-  count: 7
+  count: 6
   total: 149
   group: reactions
-- name: mpc
-  count: 7
-  total: 68
-  group: control
+- name: chemical-engineering
+  count: 6
+  total: 116
+  group: domain
 - name: separations
   count: 6
   total: 65
@@ -27,10 +31,6 @@
   count: 5
   total: 84
   group: fluids
-- name: chemical-engineering
-  count: 5
-  total: 115
-  group: domain
 - name: adsorption
   count: 4
   total: 81
@@ -83,10 +83,6 @@
   count: 3
   total: 42
   group: energy
-- name: large-language-models
-  count: 3
-  total: 101
-  group: architectures
 - name: metal-organic-frameworks
   count: 3
   total: 28
@@ -98,10 +94,6 @@
 - name: active-sites
   count: 2
   total: 13
-  group: reactions
-- name: catalyst-design
-  count: 2
-  total: 31
   group: reactions
 - name: electrochemical-systems
   count: 2
@@ -119,6 +111,10 @@
   count: 2
   total: 15
   group: reactions
+- name: large-language-models
+  count: 2
+  total: 101
+  group: architectures
 - name: oxygen-evolution
   count: 2
   total: 12
@@ -147,6 +143,10 @@
   count: 1
   total: 19
   group: monitoring
+- name: catalyst-design
+  count: 1
+  total: 31
+  group: reactions
 - name: experimental-design
   count: 1
   total: 20
