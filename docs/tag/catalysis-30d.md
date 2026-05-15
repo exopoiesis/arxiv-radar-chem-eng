@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="large-language-models-30d.html">large-language-models</a> · <a href="process-design-30d.html">process-design</a></div></td>
 <td>Karim K. Ben Hicham et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12607.html">Hierarchical generative modeling for the design of multi-component systems</a></div><div class="paper-tags"><a href="active-sites-30d.html">active-sites</a> · <a href="generative-models-30d.html">generative-models</a></div></td>
-<td>Rhyan Barrett et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12607">2604.12607</a></td>
 </tr>
 </tbody></table>

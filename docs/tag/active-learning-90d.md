@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03545.html">Predicting Spin-Crossover Behavior in Metal-Organic Frameworks from Limited and Noisy Data Using Quantile Active Learning</a></div><div class="paper-tags"><a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
 <td>Ashna Jose et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03545">2603.03545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17576.html">Atomistic modeling of uranium monocarbide with a machine learning interatomic potential</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Lorena Alzate-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17576">2507.17576</a></td>
 </tr>
 </tbody></table>
