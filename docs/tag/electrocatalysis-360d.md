@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10548.html">Machine learning accelerated finite-field simulations for electrochemical interfaces</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Chaoqiang Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10548">2506.10548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="active-sites-360d.html">active-sites</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Yu Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
 </tr>
 </tbody></table>

@@ -5,7 +5,7 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-15._
+_Updated 2026-05-16._
 
 **1122** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 

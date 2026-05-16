@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>catalysis — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08994.html">Beyond the Black Box: An Interpretable Machine Learning Framework for Predicting Electronic Structure Microdescriptors and Structure-Performance Relationships in Fe-based Catalytic Systems</a></div><div class="paper-tags"><a href="catalyst-design-7d.html">catalyst-design</a> · <a href="digital-twin-7d.html">digital-twin</a> · <a href="reaction-engineering-7d.html">reaction-engineering</a> · <a href="zeolites-7d.html">zeolites</a></div></td>
 <td>Oyinkansola Romiluyi</td>
 <td><a href="http://arxiv.org/abs/2605.08994">2605.08994</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="active-sites-7d.html">active-sites</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="dft-7d.html">dft</a> · <a href="hydrogen-evolution-7d.html">hydrogen-evolution</a></div></td>
-<td>Sreehari M S et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
 </tr>
 </tbody></table>
