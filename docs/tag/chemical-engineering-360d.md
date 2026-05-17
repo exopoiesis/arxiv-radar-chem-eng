@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18525.html">Federated Learning from Molecules to Processes: A Perspective</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Jan G. Rittig et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18525">2506.18525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16060.html">Few-Shot Test-Time Optimization Without Retraining for Semiconductor Recipe Generation and Beyond</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Shangding Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16060">2505.16060</a></td>
 </tr>
 </tbody></table>
