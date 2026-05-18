@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-systems — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="energy-systems-7d.html">7d</a> <a href="energy-systems-30d.html">30d</a> <a href="energy-systems-90d.html">90d</a> <strong>360d</strong> <a href="energy-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06484.html">The Economic Dispatch of Power-to-Gas Systems with Deep Reinforcement Learning:Tackling the Challenge of Delayed Rewards with Long-Term Energy Storage</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Manuel Sage et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06484">2506.06484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17321.html">Control of Renewable Energy Communities using AI and Real-World Data</a></div></td>
-<td>Tiago Fonseca et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17321">2505.17321</a></td>
 </tr>
 </tbody></table>

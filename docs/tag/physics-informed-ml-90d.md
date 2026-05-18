@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-ml — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="physics-informed-ml-7d.html">7d</a> <a href="physics-informed-ml-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-ml-360d.html">360d</a> <a href="physics-informed-ml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18042.html">PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes</a></div><div class="paper-tags"><a href="battery-modeling-90d.html">battery-modeling</a> · <a href="system-identification-90d.html">system-identification</a></div></td>
 <td>Karkulali Pugalenthi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18042">2602.18042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02779.html">Comparison of Trefftz-Based PINNs and Standard PINNs Focusing on Structure Preservation</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Koji Koyamada</td>
-<td><a href="http://arxiv.org/abs/2602.02779">2602.02779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14554.html">Forked Physics Informed Neural Networks for Coupled Systems of Differential equations</a></div><div class="paper-tags"><a href="reaction-kinetics-90d.html">reaction-kinetics</a></div></td>
-<td>Zhao-Wei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14554">2602.14554</a></td>
 </tr>
 </tbody></table>
