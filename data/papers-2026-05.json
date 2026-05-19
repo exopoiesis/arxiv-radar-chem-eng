@@ -724,5 +724,187 @@
    "Computational Fluid Dynamics & Multiphase Flow"
   ],
   "updated": "2026-05-12"
+ },
+ "2605.15254": {
+  "abstract": "Physics-Informed Neural Networks (PINNs) combine deep learning with physical constraints for solving partial differential equations (PDEs), and are widely applied in fluid mechanics, heat transfer, and solid mechanics. However, PINN training still suffers from high-dimensional non-convex loss landscapes, imbalanced multiobjective constraints, and ineffective information propagation. Existing curriculum learning and causality-guided strategies improve training stability, but mainly focus on temporal or parametric progression, lacking explicit treatment of spatial information propagation and inter-region consistency. Moreover, they are not directly applicable to boundary value problems (BVPs) with strong spatial coupling. To address this issue, we propose a spatially correlated curriculum learning framework for PINNs. To the best of our knowledge, this is the first work to address PINN training difficulties from the perspective of spatial coupling among subregions. First, spatial causal weights guide information from near-boundary regions inward, reducing optimization failures and spurious convergence. Second, a low-frequency information bridge enforces pseudo-label-based consistency across spatially separated regions, suppressing global low-frequency drift. Third, a region-adaptive reweighting strategy adjusts subregion losses to reduce local residuals and recover high-frequency details. Experiments on PDE benchmarks show that, under comparable computational cost, the proposed method alleviates training failures and improves solution accuracy. The code is available at https://github.com/pigofmomo/CurriculumLearningPINN.",
+  "authors": [
+   "Xujia Chen",
+   "Xinyue Hu",
+   "Letian Chen",
+   "Daming Shi",
+   "Wenhui Fan"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "37 pages, 14 figures, 9 tables",
+  "first_author": "Xujia Chen",
+  "pdf_url": "http://arxiv.org/pdf/2605.15254",
+  "primary_category": "cs.LG",
+  "published": "2026-05-14",
+  "tags": [
+   "heat-transfer",
+   "physics-informed-ml"
+  ],
+  "title": "Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.15549": {
+  "abstract": "The demand for clean energy is ever increasing, with new nuclear technologies presenting a complementary solution to renewable energies. However, designing and operating these systems is exceptionally difficult, given the complexity of the physical phenomena that interact to form the system dynamics. While high-fidelity simulations help to understand the non-linear, multi-physics interactions within a reactor, they are computationally expensive and rarely suitable for real-time applications. Furthermore, model-based approaches are inherently sensitive to simplifying assumptions required to derive their governing equations and parameters, leading to inevitable discrepancies with real-world measurements. In contrast, Machine Learning (ML) methods have the potential to generate reliable surrogate models which may be able to quickly predict the system's behaviour. However, the number of data-driven methods that can potentially be used for this task is large and diverse. In a safety-critical setting such as nuclear engineering, a fair comparison of different ML methods, and a clear understanding of their advantages and limitations, is of paramount importance. To address this, we introduce a Common Task Framework (CTF) for ML in nuclear engineering, building upon previous efforts in dynamical systems and seismology. This CTF considers a curated set of datasets from different nuclear and nuclear-adjacent systems. The CTF evaluates the performance of a method on 12 established metrics, alongside a new paradigm focused on system monitoring from sparse measurements only. We illustrate the framework by benchmarking standard ML baselines against these datasets, revealing current method limitations. Our vision is to replace ad hoc comparisons with standardized evaluations on hidden test sets, raising the bar for rigour and reproducibility in scientific ML for the nuclear industry.",
+  "authors": [
+   "Stefano Riva",
+   "Carolina Introini",
+   "Antonio Cammi",
+   "Dean Price",
+   "Alexey Yermakov",
+   "Yue Zhao",
+   "Philippe M. Wyder",
+   "Judah Goldfeder",
+   "Jan Williams",
+   "Amy Sara Rude",
+   "Matteo Tomasetto",
+   "Joe Germany",
+   "Joseph Bakarji",
+   "Georg Maierhofer",
+   "Miles Cranmer",
+   "J. Nathan Kutz"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Stefano Riva",
+  "pdf_url": "http://arxiv.org/pdf/2605.15549",
+  "primary_category": "cs.LG",
+  "published": "2026-05-15",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-05-15"
+ },
+ "2605.17147": {
+  "abstract": "The dominant paradigm in computational materials discovery relies on heavily parameterized deep architectures, including message-passing graph networks and equivariant models, that require millions of DFT-labeled training structures and produce non-convex latent representations that complicate continuous optimization for inverse design. These architectures are impractical in data-scarce regimes, which is the typical case in molecular screening, and exhibit well-documented limitations in capturing chemically disordered configurations and chiral geometries. This review presents feature engineering based on spatial statistics as a physically rigorous and immediately deployable alternative. Molecular structures are encoded as voxelized scalar fields, and two-point auto- and cross-correlations are evaluated deterministically via Fast Fourier Transforms, explicitly transferring the burden of spatial pattern recognition from the learning algorithm to a closed-form, physics-informed operation. Principal component analysis of the resulting correlation maps yields low-dimensional, strictly convex representations that support lean neural networks (<100k trainable parameters) and non-parametric surrogate models, achieving sub-2% prediction error with as few as 10 training samples. Demonstrated across periodic crystals, chemically disordered high-entropy alloys, and non-periodic organic molecules, this framework enables Bayesian active learning and zero-shot extrapolation on commodity hardware, which current large-scale architectures cannot replicate at equivalent data budgets.",
+  "authors": [
+   "Pranoy Ray",
+   "Surya R. Kalidindi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Pranoy Ray",
+  "pdf_url": "http://arxiv.org/pdf/2605.17147",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-16",
+  "tags": [
+   "active-learning",
+   "dft",
+   "materials-discovery",
+   "surrogate-modeling"
+  ],
+  "title": "Spatial statistics for screening molecular structures",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-16"
+ },
+ "2605.17207": {
+  "abstract": "Molten iron chlorides are central to emerging energy technologies, including electrochemical iron production and redox flow batteries. Optimizing their electrochemical performance and transport properties requires atomic-scale structural understanding, yet detailed data for molten FeCl2 and its differences from FeCl3 remain scarce. Here, we determined the structures of molten FeCl2 and FeCl3 using High Energy X-ray diffraction (HEXRD), Empirical Potential Structure Refinement (EPSR), and molecular dynamics (MD) simulations with machine learning interatomic potentials (MLIPs). HEXRD measurements provided structure factors and total radial distribution functions (RDFs), which were quantitatively reproduced through EPSR refinement directly constrained by experimental data. MD simulations using MACE foundation and fine-tuned models reproduced experimental structure factors as well as total and partial RDFs, capturing key structural differences between the melts. The models resolved the octahedral to tetrahedral coordination transition of Fe upon melting in FeCl3 and predicted a similar transition in FeCl2. Analysis of MD trajectories quantified coordination environments, bridging Cl populations, bond-angle distributions, and connectivity patterns, revealing distinct degrees of polymerization and local geometry. Polymer chain statistics further showed that, contrary to prior reports, both liquids predominantly consist of extended chains containing six or more Fe centers rather than discrete Fe2Cl6 units. Finally, diffusion coefficients of the two melts calculated from the MACE-MD simulations were compared. Together, these results establish atomic-scale structural benchmarks for molten FeCl2 and FeCl3 and demonstrate the reliability of MACE-based MLIPs for predictive modeling of high-temperature molten salts, while providing practical guidance for MLIP development in complex ionic liquids.",
+  "authors": [
+   "Fakhrul Hasan Bhuiyan",
+   "Jicheng Guo",
+   "Christopher James Benmore",
+   "Avery Blockmon",
+   "Denis Johnson",
+   "Alvaro Vazquez Mayagoitia"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "26 total pages, 11 main figures, 6 supplementary figures",
+  "first_author": "Fakhrul Hasan Bhuiyan",
+  "pdf_url": "http://arxiv.org/pdf/2605.17207",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-17",
+  "tags": [
+   "electrochemical-systems",
+   "ionic-liquids",
+   "molecular-dynamics",
+   "redox-flow-batteries"
+  ],
+  "title": "Structure of Molten FeCl2 and FeCl3",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-05-17"
+ },
+ "2605.18033": {
+  "abstract": "Autonomous labs enable the integration of automated experiment execution, data analysis and decision making. The main challenge remains the integration of diverse data streams from multiple instruments, where the data is often heterogeneous and unsynchronized. The standard learning process of undetermined synthesis-process-structure-property relationships (SPSPR) usually relies on post-experiment analysis after data is fully collected, not during live experiments, and decision making is carried out independently across characterization equipment. Here, we demonstrate the Multi-instrument Autonomous Discovery (MAD) framework -- combining structural property mapping and functional property optimization simultaneously in a closed-loop manner. As an example, we applied MAD to phase change memory (PCM) materials, and, in particular on the Mn-Sb-Te ternary, a previously unexplored materials system for PCM. A multi-output model is employed to merge data from x-ray diffraction (XRD) and electrical resistance measurements simultaneously through a co-regionalization kernel that models the relationship between them. The output probabilistic posterior and uncertainty quantification facilitate decision making with shared knowledge, while the goals are different across tasks. We aimed to maximize the knowledge of crystal structure distribution using non-negative matrix factorization (NMF), while in parallel, we find the composition with the maximum resistance value, an important figure of merit for PCM. Leveraging MAD, we found promising electrical PCMs and identified the SPSPR within 25 closed-loop iterations, corresponding to a seven-fold speed-up. The framework opens a new path of study in large-scale autonomous facilities, where future experiments can be run in parallel together, not independently.",
+  "authors": [
+   "Chih-Yu Lee",
+   "Haotong Liang",
+   "Ryan Kim",
+   "Austin McDannald",
+   "Carlos A Rios Ocampo",
+   "A. Gilad Kusne",
+   "Ichiro Takeuchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.app-ph"
+  ],
+  "comment": "25 pages, 5 figures",
+  "first_author": "Chih-Yu Lee",
+  "pdf_url": "http://arxiv.org/pdf/2605.18033",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-18",
+  "tags": [
+   "materials-discovery",
+   "uncertainty-quantification"
+  ],
+  "title": "Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.18082": {
+  "abstract": "pyforce is a Python package implementing Data-Driven Reduced Order Modelling techniques for applications to multi-physics problems, mainly set in the Nuclear Engineering world. The package is part of the ROSE (Reduced Order modelling with data-driven techniques for multi-phySics problEms): mathematical algorithms aimed at reducing the complexity of multi-physics models (for nuclear reactors applications), at searching for optimal sensor positions and at integrating real measures to improve the knowledge on the physical systems. With respect to the previous original implementation based on dolfinx package (v0.6.0), version 1.0.0 of pyforce has been completely re-written using pyvista as backend for mesh importing, computing integrals, and visualisation of results; in addition, functions are stored as numpy arrays, improving the ease of use of the package. This choice allows to use pyforce with any software solver able to export results in VTK format.",
+  "authors": [
+   "Stefano Riva",
+   "Yantao Luo",
+   "Carolina Introini",
+   "Antonio Cammi"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Github Repo: https://github.com/ERMETE-Lab/ROSE-pyforce",
+  "first_author": "Stefano Riva",
+  "pdf_url": "http://arxiv.org/pdf/2605.18082",
+  "primary_category": "cs.LG",
+  "published": "2026-05-18",
+  "tags": [],
+  "title": "pyforce-1.0.0: Python Framework for data-driven model Order Reduction of multi-physiCs problEms",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-05-18"
  }
 }

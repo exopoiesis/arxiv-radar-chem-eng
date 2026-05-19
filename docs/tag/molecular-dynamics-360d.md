@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="ionic-liquids-360d.html">ionic-liquids</a> · <a href="redox-flow-batteries-360d.html">redox-flow-batteries</a></div></td>
+<td>Fakhrul Hasan Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Nima Karimitari et al.</td>
@@ -242,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11226.html">MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Peter Eckmann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11226">2410.11226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18147.html">Nonadiabatic reactive scattering of hydrogen on different surface facets of copper</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Wojciech G. Stark et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18147">2505.18147</a></td>
 </tr>
 </tbody></table>

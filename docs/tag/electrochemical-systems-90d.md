@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="ionic-liquids-90d.html">ionic-liquids</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="redox-flow-batteries-90d.html">redox-flow-batteries</a></div></td>
+<td>Fakhrul Hasan Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00898.html">A Deep Learning Model for Battery State Prediction towards Intelligent Energy Management</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a></div></td>
 <td>Athanasios Koukosiasa et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Lucas B. T. de Kam et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17722.html">Identification of Solid-Electrolyte Interphase Species by Joint Characterization of Li-ion Battery Chemistry by Mass Spectrometry and Electro-Chemical Reaction Networks</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a></div></td>
-<td>Mona Abdelgaid et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17722">2602.17722</a></td>
 </tr>
 </tbody></table>

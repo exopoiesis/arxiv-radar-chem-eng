@@ -5,15 +5,51 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-18._
+_Updated 2026-05-19._
 
-**1122** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1128** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18033.html">Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Chih-Yu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18033">2605.18033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18082.html">pyforce-1.0.0: Python Framework for data-driven model Order Reduction of multi-physiCs problEms</a></div></td>
+<td>Stefano Riva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18082">2605.18082</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/ionic-liquids-30d.html">ionic-liquids</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/redox-flow-batteries-30d.html">redox-flow-batteries</a></div></td>
+<td>Fakhrul Hasan Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17147.html">Spatial statistics for screening molecular structures</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Pranoy Ray et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17147">2605.17147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15549.html">CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Stefano Riva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15549">2605.15549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.11896.html">A Volume of Fluid Immersed Boundary Method for Industrial Polymer Mixing</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
@@ -157,41 +193,5 @@ _Updated 2026-05-18._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00544.html">An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Performance Prediction of Ferroelectric Hf0.5Zr0.5O2 Thin Film Capacitors</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a></div></td>
 <td>Anika Anu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00544">2605.00544</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
-<td>Jiahang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00609">2605.00609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00653.html">Dispersion of multiple charged species in an axially symmetric slowly varying channel</a></div><div class="paper-tags"><a href="tag/separations-30d.html">separations</a></div></td>
-<td>Thakurdas Mahata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00653">2605.00653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2511.01887.html">Modeling formation and transport of clusters at high temperature and pressure gradients by implying partial chemical equilibrium</a></div><div class="paper-tags"><a href="tag/process-modeling-30d.html">process-modeling</a></div></td>
-<td>Eugene V. Stepanov et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01887">2511.01887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27432.html">Modeling of Wastewater Treatment Processes with HydroSludge</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
-<td>S. Iserte et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27432">2604.27432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26695.html">Compartment Modelling of Multiphase Reactors using Unsupervised Clustering</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/flow-reactors-30d.html">flow-reactors</a> · <a href="tag/mass-transfer-30d.html">mass-transfer</a> · <a href="tag/multiphase-flow-30d.html">multiphase-flow</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
-<td>Michael Mitterlindner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26695">2604.26695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.04973.html">StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Yuan-Hao Wei</td>
-<td><a href="http://arxiv.org/abs/2604.04973">2604.04973</a></td>
 </tr>
 </tbody></table>

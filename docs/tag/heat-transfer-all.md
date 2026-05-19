@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>heat-transfer — all</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <a href="heat-transfer-30d.html">30d</a> <a href="heat-transfer-90d.html">90d</a> <a href="heat-transfer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="physics-informed-ml-all.html">physics-informed-ml</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20175.html">Physics-Enhanced Deep Learning for Proactive Thermal Runaway Forecasting in Li-Ion Batteries</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="energy-storage-all.html">energy-storage</a></div></td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>redox-flow-batteries — all</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="redox-flow-batteries-7d.html">7d</a> <a href="redox-flow-batteries-30d.html">30d</a> <a href="redox-flow-batteries-90d.html">90d</a> <a href="redox-flow-batteries-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="ionic-liquids-all.html">ionic-liquids</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Fakhrul Hasan Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
+</tr>
 <tr class="paper">
 <td>2025-12-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17659.html">Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="energy-storage-all.html">energy-storage</a> · <a href="generative-models-all.html">generative-models</a></div></td>
