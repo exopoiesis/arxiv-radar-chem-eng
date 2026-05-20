@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrochemical-systems — all</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <a href="electrochemical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19107.html">Performance Monitoring of Proton Exchange Membrane Water Electrolyzer by Transformers-Based Machine Learning Model</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a> · <a href="hydrogen-production-all.html">hydrogen-production</a></div></td>
+<td>Bingqing Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19107">2605.19107</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="ionic-liquids-all.html">ionic-liquids</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="redox-flow-batteries-all.html">redox-flow-batteries</a></div></td>

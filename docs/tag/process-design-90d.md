@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>process-design — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <strong>90d</strong> <a href="process-design-360d.html">360d</a> <a href="process-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
+<td>Dongxiao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19704">2605.19704</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26073.html">Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="process-modeling-90d.html">process-modeling</a></div></td>

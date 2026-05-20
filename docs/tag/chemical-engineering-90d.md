@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a> · <a href="process-design-90d.html">process-design</a></div></td>
+<td>Dongxiao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19704">2605.19704</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10624.html">Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a></div></td>
 <td>Ramesh Arvind Naagarajan et al.</td>
@@ -170,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15318.html">On Computing and Pricing of Adjustable Robust Chemical Process Designs</a></div><div class="paper-tags"><a href="process-simulation-90d.html">process-simulation</a></div></td>
 <td>Jan Schwientek et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15318">2512.15318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16341.html">Explainability for Fault Detection System in Chemical Processes</a></div><div class="paper-tags"><a href="fault-detection-90d.html">fault-detection</a></div></td>
-<td>Georgios Gravanis et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16341">2602.16341</a></td>
 </tr>
 </tbody></table>

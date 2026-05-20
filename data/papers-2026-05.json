@@ -906,5 +906,164 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2026-05-18"
+ },
+ "2605.18463": {
+  "abstract": "Advanced regulatory control (ARC), also known as advanced PID architectures, is a simple and robust way of controlling processes with changing and possibly conflicting constraints, where it previously was believed - at least in academia - that model-based solutions, such as MPC, were the only effective solution. To illustrate this, ARC is applied in two case studies. The first is a gas-liquid separation process, in which selectors and split-parallel control are combined to achieve bidirectional inventory control in which the throughput manipulator moves automatically to the most optimal position. The second case study is on keeping acceptable air quality (CO2-level) and temperature in a room (in this case, a barn for cows). The CO2 and temperature constraints can be conflicting, leading to a hierarchical switching network of PID controllers.   Note: this is an extended version (with simulations) of paper at IFAC World Congress, August 2026, Korea.",
+  "authors": [
+   "Sigurd Skogestad"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Sigurd Skogestad",
+  "pdf_url": "http://arxiv.org/pdf/2605.18463",
+  "primary_category": "eess.SY",
+  "published": "2026-05-18",
+  "tags": [
+   "mpc",
+   "separations"
+  ],
+  "title": "Advanced PID architectures for tracking changing active constraints",
+  "topics": [
+   "Process Control & Optimization",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.19107": {
+  "abstract": "Green hydrogen plays an essential role in decarbonization, with capacity projected to scale to 560 GW by 2030 (vs. 1.39 GW in 2023) in net-zero settings. Proton exchange membrane (PEM) electrolysis is one of the most promising technology routes to green hydrogen production, and real-time system health monitoring of PEM electrolyzers is essential for their scalable deployment. In lab settings, performance degradation can be characterized through electrochemical testing protocols by periodic pauses of normal operation. Such interruption is not practical for full-scale stack deployments, limiting system operators' ability to make real-time assessments of state-of-health (SoH). We present a machine learning (ML) framework that performs virtual electrochemical characterization during normal operation. The method uses an encoder-decoder transformer, conditioned on operational data, to reconstruct characterization outputs, focusing here on polarization curves. Inspired by patch-based sequence tokenization, we segment the inputs into patches and encode them to form meaningful tokens, which substantially improves learning efficiency. Across four longitudinal runs, lasting up to 478 hours on different test cells and loading cycles, the model accurately reconstructed polarization curves and achieved 10x reduction in mean squared error (MSE) compared to a vanilla transformer. This proof-of-concept demonstrates that ML models can enable continuous performance monitoring for PEM electrolyzers and that the encoder captures meaningful latent representations of SoH, opening up opportunities to derive interpretable indicators in future work.",
+  "authors": [
+   "Bingqing Chen",
+   "Ivan Batalov",
+   "Qiu Chen",
+   "Weiqi Ji",
+   "Lei Cheng"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Bingqing Chen",
+  "pdf_url": "http://arxiv.org/pdf/2605.19107",
+  "primary_category": "cs.LG",
+  "published": "2026-05-18",
+  "tags": [
+   "electrochemical-systems",
+   "electrolysis",
+   "hydrogen-production"
+  ],
+  "title": "Performance Monitoring of Proton Exchange Membrane Water Electrolyzer by Transformers-Based Machine Learning Model",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.19231": {
+  "abstract": "We introduce DeRegiME -- Deep Regime Mixture of Experts -- a direct multi-horizon probabilistic forecaster that separates latent uncertainty regimes from the underlying signal and softly assigns each forecast location to learned recurring regimes using a sparse variational Gaussian process (GP) whose nonstationary regime-mixing kernel and Student-t likelihood combine per-regime sub-kernels and noise processes via a shared gate. This yields a single sparse-GP posterior, not a mixture of GP experts. DeRegiME addresses a key limitation of neural forecasters: point forecasts discard residual uncertainty, and probabilistic heads -- whether single marginals, uninterpreted mixtures, quantile sets, or diffusion samples -- rarely expose the regime structure of the residual. Yet distribution shift in noisy heteroskedastic time series may be abrupt, gradual, or horizon-dependent and often appears in residual uncertainty rather than the conditional mean. DeRegiME yields an interpretable mean-residual-noise decomposition with a direct-sum feature-space representation that anchors regimes as clusters of residual similarity whose transitions surface as implicit changepoints. The effective number of regimes is pruned by the stick-breaking gate. We prove kernel validity and predictive-density propriety, and across ten benchmarks and three encoder grids DeRegiME improves negative log predictive density (NLPD) by 20.3% over the strongest encoder-matched baseline, a DeepAR/GluonTS-style dynamic Student-t head, with parallel gains on CRPS (3.0%) and MSE (4.7%). Improvements are consistent across all datasets, which span abrupt, gradual, and seasonal shifts.",
+  "authors": [
+   "Kieran Wood",
+   "Stefan Zohren",
+   "Stephen J. Roberts"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Kieran Wood",
+  "pdf_url": "http://arxiv.org/pdf/2605.19231",
+  "primary_category": "cs.LG",
+  "published": "2026-05-19",
+  "tags": [
+   "gaussian-process"
+  ],
+  "title": "DeRegiME: Deep Regime Mixtures for Probabilistic Forecasting under Distribution Shift",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.19704": {
+  "abstract": "Applying LLMs to complex industrial processes remains challenging due to the semantic gap between natural language design intents and the rigorous physical logic of engineering. In the field of petroleum refining engineering, a critical bottleneck is the automated synthesis of Unit-level Process Diagrams (UPDs), which serve as the topological bridge connecting abstract requirements to concrete unit operations. In this paper, we propose RefineGPT, a domain-specialized agent for autonomous refinery design.RefineGPT adopts a hierarchical architecture in which a supervised fine-tuned small language model is responsible for selecting units that satisfy design requirements, while a large language model is used to connect these units to generate the final topology. To enable supervised training, we develop a pipeline that extracts latent process motifs from noisy, unstructured legacy topologies and synthesizes high-quality rationale-based Chain-of-Thought (CoT) training data. Empirical validation demonstrates that RefineGPT achieves substantial improvements in topological consistency and chemical engineering feasibility, establishing a high-fidelity pathway for AI-augmented industrial process synthesis.",
+  "authors": [
+   "Dongxiao Liu",
+   "Yuwen Ding",
+   "Xinghai Wei",
+   "Jiacheng Ji",
+   "Lei Li",
+   "Linghui Li",
+   "Xiaoyong Li"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "9 pages, 4 figures, 4 tables",
+  "first_author": "Dongxiao Liu",
+  "pdf_url": "http://arxiv.org/pdf/2605.19704",
+  "primary_category": "cs.CE",
+  "published": "2026-05-19",
+  "tags": [
+   "chemical-engineering",
+   "large-language-models",
+   "process-design"
+  ],
+  "title": "RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.19826": {
+  "abstract": "Operators of safety-critical industrial processes increasingly rely on digital twins to screen control interventions, but such simulators rarely carry certified safety guarantees. Wastewater treatment plants exemplify the gap: operators face a daily safety-efficiency trade-off where aerating too little risks effluent violations and nitrous-oxide (N2O) spikes, and aerating too much wastes energy. We develop an explainable digital twin for aeration and dosing setpoints. CCSS-IX, the simulator, is a bank of interpretable locally linear state-space \"experts\" adaptively mixed by a context-aware gating network, building on a continuous-time regime-switching scaffold. A runtime decision layer applies conformal risk control to abstain, reopen, or return a falsifying temporal witness for any operator-proposed action that cannot be statistically certified. The artificial-intelligence contribution is twofold: an identifiable, context-conditioned structured surrogate that retains operator-readable dynamics, and a self-falsifying decision rule with finite-sample coverage guarantees. The engineering contribution is a validated, end-to-end decision-support pipeline, tested on a 1000-step slice of the Avedøre full-scale plant (42.6% sensor missingness, 2-minute sampling), the Agtrup/BlueKolding full-scale plant in Denmark, and the Benchmark Simulation Model No. 2 (BSM2) international benchmark, under a matched ten-seed protocol. The static structured ensemble lies within 0.78% root-mean-square error of an unconstrained black-box reference, and the adaptive variant within 1.08%. The calibrated reopen rule cuts aggregate two-plant regret by 43.6% at an unsafe-action cost weight of 4 and eliminates unsafe chosen actions on the BSM2 main slice. Event-aligned temporal witnesses prevent 93 of 187 false-safe N2O approvals, about 4.65x the dyadic baseline (paired McNemar p < 1e-21).",
+  "authors": [
+   "Gary Simethy",
+   "Daniel Ortiz Arroyo",
+   "Petar Durdevic"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "17 pages, 7 figures, 6 tables, 2 algorithms. Supplementary material (7 pages) included as ancillary file",
+  "first_author": "Gary Simethy",
+  "pdf_url": "http://arxiv.org/pdf/2605.19826",
+  "primary_category": "cs.AI",
+  "published": "2026-05-19",
+  "tags": [
+   "digital-twin",
+   "wastewater-treatment"
+  ],
+  "title": "Explainable Wastewater Digital Twins: Adaptive Context-Conditioned Structured Simulators with Self-Falsifying Decision Support",
+  "topics": [
+   "Digital Twins & Process Monitoring",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.19994": {
+  "abstract": "This study has presented a comprehensive computational fluid dynamics (CFD) analysis of combustion flow in a realistic can combustor, evaluating the influence of various turbulence models on flow, thermal, and species fields. The non-premixed combustion modeling is performed using a presumed (beta) PDF approach in conjunction with a steady laminar flamelet model employing the San Diego reaction mechanism, and the turbulence is modeled using the RANS approach. The influence of turbulence models (standard $k-ε$, realizable $k-ε$, SST $k-ω$, LPS-RSM) on the velocity field, such as the mean axial velocity, mean transverse velocity, turbulent kinetic energy (TKE) and shear stress, is analyzed, besides their influence on temperature and species (\\ce{C3H8}, \\ce{CO2}, and \\ce{CO}) concentration. Analysis showed that despite the shortcomings of the isotropic turbulent viscosity formulation of the SST $k-ω$ model being evident, it predicted the mean axial velocity, mean transverse velocity, turbulent kinetic energy and shear stress more accurately. Additionally, it predicted the flow features expected in a can combustor, such as the central recirculation zone (CRZ) and central vortex core (CVC), more accurately than other models. Besides, the model predicted a higher temperature in the primary zone, which is supported by a lower prediction of \\ce{C3H8}, and elevated TKE, both of which support strong mixing and efficient heat release. Furthermore, the SST $k-ω$ model predicted the most compact stoichiometric mixture fraction bubble, encompassing CRZ and shear layers, indicating that the majority of the combustion occurs in the primary zone. The corresponding progress variables also indicated high values in the primary zone and shear layers, confirming near completion of the reaction, supported by negligible prediction of \\ce{C3H8} and \\ce{CO} at the outlet.",
+  "authors": [
+   "Aishvarya Kumar",
+   "Ram Prakash Bharti"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Aishvarya Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2605.19994",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-05-19",
+  "tags": [
+   "cfd",
+   "turbulence-modeling"
+  ],
+  "title": "Performance Evaluation of RANS-Based Turbulence Models in Predicting Turbulent Non-Premixed Swirling Combustion within a Realistic Can Combustor",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-05-19"
  }
 }

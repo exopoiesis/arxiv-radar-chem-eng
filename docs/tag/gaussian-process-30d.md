@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19231.html">DeRegiME: Deep Regime Mixtures for Probabilistic Forecasting under Distribution Shift</a></div></td>
+<td>Kieran Wood et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19231">2605.19231</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10928.html">Mitigating residual foregrounds and systematic errors in SKA1-Low AA* EoR observations via Bayesian Gaussian Process Regression</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a></div></td>
 <td>Samit Kumar Pal et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22672.html">Iterative Model-Learning Scheme via Gaussian Processes for Nonlinear Model Predictive Control of (Semi-)Batch Processes</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Tai Xuan Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22672">2604.22672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17381.html">StrEBM: A Structured Latent Energy-Based Model for Blind Source Separation</a></div></td>
-<td>Yuan-Hao Wei</td>
-<td><a href="http://arxiv.org/abs/2604.17381">2604.17381</a></td>
 </tr>
 </tbody></table>
