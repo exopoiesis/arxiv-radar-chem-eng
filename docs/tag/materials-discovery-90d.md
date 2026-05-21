@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a></div></td>
+<td>D. -M. Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18033.html">Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Chih-Yu Lee et al.</td>
@@ -56,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18880.html">Reshaping MOFs text mining with a dynamic multi-agents framework of large language model</a></div><div class="paper-tags"><a href="experimental-design-90d.html">experimental-design</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
 <td>Zuhong Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18880">2504.18880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17886.html">El Agente Sólido: A New Age(nt) for Solid State Simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Sai Govind Hari Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17886">2602.17886</a></td>
 </tr>
 </tbody></table>

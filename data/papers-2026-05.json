@@ -1065,5 +1065,219 @@
    "Computational Fluid Dynamics & Multiphase Flow"
   ],
   "updated": "2026-05-19"
+ },
+ "2605.20358": {
+  "abstract": "Polymer-derived ceramics combine the thermal stability of ceramics with the versatile properties of carbon domains, but modeling their atomic-scale evolution during processing remains elusive due to the limitations of traditional computational methods. To address this issue, here we develop and apply a machine learning interatomic potential for silicon carbonitride-based (Si-C-N-H) systems, trained on a diversified database of over 9000 configurations -including amorphous models, high-temperature states, surfaces, and crystal structure predictions - to capture the full complexity of these materials. This potential enables large-scale molecular dynamics simulations of 8000-atom systems revealing the atomic-scale evolution of the polymer-derived ceramic during thermal treatment. A key result of this work is the occurrence of a phase separation where carbon domains progressively nucleate from the amorphous SiCN matrix during thermal processing, forming distinct graphene-like sheets while preserving the integrity of the ceramic network. The resulting models reproduce the experimental atomic pair distribution functions with exceptional fidelity, validating our approach and providing microscopic explanations for the material unique combination of ceramic and graphitic properties. In this process, defective 5- and/or 7-member carbon rings, mediate the transformation to stable 6-member aromatic structures. These findings offer new atomic-scale insights into the thermal stability and structural transformation pathways of polymer-derived ceramics, while our methodology opens avenues for studying complex amorphous systems with first-principles accuracy at experimentally relevant scales.",
+  "authors": [
+   "Fabien Mortier",
+   "Sylvian Cadars",
+   "Olivier Masson",
+   "Mauro Boero",
+   "Guido Ori",
+   "Yun Wang",
+   "Samuel Bernard",
+   "Assil Bouzid"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Fabien Mortier",
+  "pdf_url": "http://arxiv.org/pdf/2605.20358",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-19",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.20456": {
+  "abstract": "Agentic AI coding systems can inspect repositories, plan implementation steps, edit files, call tools, run tests, and submit pull requests. These capabilities make software and hardware development faster in some settings, but current evidence does not support the simple claim that autonomous code generation automatically improves engineering outcomes. Controlled studies report productivity gains in some enterprise tasks, slowdowns in mature open-source work, moderate but heterogeneous meta-analytic effects, and persistent failures in repository setup, dependency handling, permission gating, and hardware verification. This paper argues that the central problem is no longer prompt engineering; it is engineering process control. It synthesizes evidence from agentic software engineering, GitHub-scale adoption studies, repository-level agent configuration, productivity trials, issue-resolution benchmarks, and hardware/RTL verification research. It proposes Agentic Agile-V, a process framework that uses Agile-V as the lifecycle backbone and a task-level SCOPE-V loop - Specify, Constrain, Orchestrate, Prove, Evolve, and Verify - to convert conversational intent into structured engineering artifacts and acceptance evidence. The paper contributes: (i) a taxonomy of minimum input artifacts for agentic software, firmware, and hardware work; (ii) a conversation-to-contract gate that separates exploratory dialogue from implementation; (iii) risk-adaptive feature, bug-fix, testing, and hardware workflows; and (iv) an evidence-bundle acceptance model for agent-generated artifacts. The paper concludes that agentic AI does not eliminate engineering discipline; it increases the value of requirements, constraints, traceability, independent verification, and human approval.",
+  "authors": [
+   "Christopher Koch"
+  ],
+  "categories": [
+   "cs.SE",
+   "cs.AI",
+   "cs.MA"
+  ],
+  "comment": "7 pages, 1 figure",
+  "first_author": "Christopher Koch",
+  "pdf_url": "http://arxiv.org/pdf/2605.20456",
+  "primary_category": "cs.SE",
+  "published": "2026-05-19",
+  "tags": [
+   "process-control"
+  ],
+  "title": "Agentic Agile-V: From Vibe Coding to Verified Engineering in Software and Hardware Development",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.20631": {
+  "abstract": "The coherent lattice vibrations significantly impact physical and chemical processes in solids, such as heat transfer, displacive phase transitions, and thermal conductivity. Thus, probing lattice dynamics in real-space and real-time is essential for understanding ubiquitous phenomena in solids. High-harmonic spectroscopy (HHS) has emerged as a preferred technique for investigating static and dynamic properties of solids on ultrafast timescales. Yet, despite these accomplishments, the applicability of HHS to probe the influence of coherent lattice vibrations on electronic responses has remained unexplored.   In this thesis, we explore the impact of coherent lattice dynamics on attosecond electronic responses in solids using HHS. We observe that coherent excitation of the in-plane phonon mode in graphene results in sidebands in the harmonic spectrum, separated by the frequency of the excited phonon mode. Additionally, we demonstrate the capability of HHS to characterize energy, polarization, phase difference, and the \"chirality\" of phonon modes. This thesis offers an avenue to probe phonon-driven processes in solids with sub-cycle temporal resolution.   In the later segment, our focus shifts toward probing coherent lattice dynamics in real-space and real-time. We demonstrate that inelastic scattering techniques, combined with theoretical analysis, yield comparable results to those from time-resolved diffraction and imaging measurements within pump-probe configurations. Our findings exhibit excellent agreement with results from a time-resolved diffuse x-ray scattering experiment. Our proposed method serves as an alternative to time-resolved diffraction and imaging methods for probing lattice dynamics in real-space and real-time with atomic-scale spatiotemporal resolution.",
+  "authors": [
+   "Navdeep Rana"
+  ],
+  "categories": [
+   "physics.optics",
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "PhD thesis, IIT Bombay, 2023. 142 pages. Supervisor: Prof. Gopal Dixit",
+  "first_author": "Navdeep Rana",
+  "pdf_url": "http://arxiv.org/pdf/2605.20631",
+  "primary_category": "physics.optics",
+  "published": "2026-05-20",
+  "tags": [
+   "chemical-engineering",
+   "heat-transfer"
+  ],
+  "title": "Probing Lattice Dynamics in Real-Space and Real-Time",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21083": {
+  "abstract": "Materials discovery and biomedical translation increasingly require models that can reason across composition, processing, structure, biological response, manufacturability, safety, and governance constraints. Existing materials and biomedical data ecosystems are powerful but remain poorly coupled for AI-guided discovery. Here we present AIMBio, a conceptual framework for an AI-native, FAIR, and governance-aware decision layer that links materials provenance, biomedical context, knowledge graphs, uncertainty-aware machine learning, and human-in-the-loop active learning. The framework formulates biomedical-materials discovery as constrained multi-objective optimization under uncertainty and introduces practical requirements for metadata, model documentation, risk-tiered governance, evaluation metrics, and phased implementation. To make the roadmap testable, we add a minimum viable prototype specification and a worked pilot for AI-guided nanomaterials for drug delivery. AIMBio is positioned as exploratory and preclinical discovery infrastructure, not as clinical decision-support software; any clinical or regulated-device use would require separate validation, change control, and regulatory review. The central contribution is a publishable platform blueprint for converting fragmented materials and biomedical records into auditable, experimentally actionable, and translationally responsible discovery workflows.",
+  "authors": [
+   "D. -M. Mei",
+   "K. Acharya",
+   "C. M. Adhikari",
+   "M. Adhikari",
+   "S. Aryal",
+   "B. V. Benson",
+   "K. Bhatta",
+   "S. Bhattarai",
+   "N. Budhathoki",
+   "A. M. Castillo",
+   "D. Chakraborty",
+   "S. Chhetri",
+   "S. Choudhury",
+   "T. A. Chowdhury",
+   "R. D. Cruz",
+   "B. Cui",
+   "S. Dhital",
+   "K. -M. Dong",
+   "R. Gapuz",
+   "A. Ghasemi",
+   "E. Z. Gnimpieba",
+   "B. D. S. Gurung",
+   "H. A. Hashim",
+   "R. I. Harry",
+   "K. -E. Hasin",
+   "M. K. Hassanzadeh",
+   "M. K. Jha",
+   "D. Kim",
+   "K. -C. Kong",
+   "B. Lama",
+   "A. Mahat",
+   "N. Maharjan",
+   "A. Majeed",
+   "J. Mammo",
+   "M. M. Masud",
+   "K. S. Moore",
+   "A. Nawaz",
+   "H. Oli",
+   "S. A. Panamaldeniya",
+   "L. Pandey",
+   "R. Pandey",
+   "Z. Peng",
+   "A. Prem",
+   "M. M. Rana",
+   "K. Rana Magar",
+   "R. Rizk",
+   "C. S. Tadi",
+   "L. -W. Wang",
+   "Y. Yang",
+   "G. -L. Yin",
+   "C. -X. Yu",
+   "D. Zeng",
+   "M. Zhou",
+   "Q. Zhou"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cs.LG",
+   "physics.bio-ph",
+   "physics.med-ph"
+  ],
+  "comment": "35 pages, 4 figures, and 12 tables",
+  "first_author": "D. -M. Mei",
+  "pdf_url": "http://arxiv.org/pdf/2605.21083",
+  "primary_category": "physics.app-ph",
+  "published": "2026-05-20",
+  "tags": [
+   "active-learning",
+   "materials-discovery"
+  ],
+  "title": "AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21211": {
+  "abstract": "In this work we present an efficient and practically implementable approach for the application of reinforcement learning (RL)-based control in chemical process systems. This is an area that has yet to widely adopt RL-based control largely due to inherent challenges in trusting RL algorithms and the time-consuming process of training reliable agents. To address these challenges, we leverage a class of RL algorithms termed Y-wise Affine Neural Network (YANN)- RL, which we have developed in our prior work (Braniff and Tian, 2025a). By strategically initializing actor and critic networks YANN-RL algorithms provide confident and interpretable starting points within control schemes. We apply this RL-based control approach to three different process engineering case studies publicly available on the PC-Gym library (Bloor et al., 2026): (i) a continuous stirred tank reactor (CSTR), (ii) a four-tank system, and (iii) a multistage extraction column. Our approach is compared to several popular RL algorithms (PPO, SAC, DDPG, and TD3) and is benchmarked against nonlinear model predictive control (NMPC). These case studies demonstrate that YANN-RL can greatly reduce the training time and data needed, can be deployed with confidence for chemical process systems, and can approach the performance of NMPC without the knowledge of a full nonlinear model.",
+  "authors": [
+   "Austin Braniff",
+   "Yuhe Tian"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.LG",
+   "math.OC"
+  ],
+  "comment": "Accepted for publication at the 23rd IFAC World Congress, 2026",
+  "first_author": "Austin Braniff",
+  "pdf_url": "http://arxiv.org/pdf/2605.21211",
+  "primary_category": "eess.SY",
+  "published": "2026-05-20",
+  "tags": [
+   "chemical-engineering",
+   "mpc",
+   "process-systems-engineering"
+  ],
+  "title": "Reinforcement Learning-based Control via Y-wise Affine Neural Networks: Comparative Case Studies for Chemical Processes",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21213": {
+  "abstract": "In this work, we present quantum reinforcement learning (RL) as a solution strategy for process synthesis problems. Building on our prior work, we develop a generalized framework that formally poses process synthesis as a Markov decision process and introduces quantum-enhanced RL algorithms to solve it with improved scalability. Earlier implementations of quantum-based RL for process synthesis were limited by qubit requirements, which scaled poorly with problem complexity. This work overcomes this challenge by introducing state encoding algorithms to decouple qubit requirements from problem size. A classical RL-based solution strategy is used as a baseline to benchmark the quantum algorithms under identical training conditions. All algorithms are evaluated across a flowsheet synthesis problem of increasing unit counts to analyze their performance and scalability. Results show that all approaches are capable of identifying the optimal flowsheet designs in small design spaces. For moderate-scale unit counts, quantum approaches demonstrate competitive performance on a per-episode basis and improved efficiency on a per-parameter basis versus the classical RL benchmark. This work provides a foundation for future quantum computing applications within process systems engineering, establishes a controlled benchmark for comparing classical and quantum algorithms, and shows that the proposed quantum variants remain competitive for the process synthesis problem examined in this work.",
+  "authors": [
+   "Austin Braniff",
+   "Fengqi You",
+   "Yuhe Tian"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.AI",
+   "cs.LG",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Austin Braniff",
+  "pdf_url": "http://arxiv.org/pdf/2605.21213",
+  "primary_category": "quant-ph",
+  "published": "2026-05-20",
+  "tags": [
+   "process-design",
+   "process-systems-engineering"
+  ],
+  "title": "Enhanced Reinforcement Learning-based Process Synthesis via Quantum Computing",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-20"
  }
 }

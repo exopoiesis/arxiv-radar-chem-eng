@@ -5,15 +5,39 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-20._
+_Updated 2026-05-21._
 
-**1134** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1140** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20631.html">Probing Lattice Dynamics in Real-Space and Real-Time</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
+<td>Navdeep Rana</td>
+<td><a href="http://arxiv.org/abs/2605.20631">2605.20631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>D. -M. Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21211.html">Reinforcement Learning-based Control via Y-wise Affine Neural Networks: Comparative Case Studies for Chemical Processes</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
+<td>Austin Braniff et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21211">2605.21211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21213.html">Enhanced Reinforcement Learning-based Process Synthesis via Quantum Computing</a></div><div class="paper-tags"><a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
+<td>Austin Braniff et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21213">2605.21213</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19231.html">DeRegiME: Deep Regime Mixtures for Probabilistic Forecasting under Distribution Shift</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
@@ -37,6 +61,18 @@ _Updated 2026-05-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19994.html">Performance Evaluation of RANS-Based Turbulence Models in Predicting Turbulent Non-Premixed Swirling Combustion within a Realistic Can Combustor</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
 <td>Aishvarya Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19994">2605.19994</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Fabien Mortier et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20456.html">Agentic Agile-V: From Vibe Coding to Verified Engineering in Software and Hardware Development</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Christopher Koch</td>
+<td><a href="http://arxiv.org/abs/2605.20456">2605.20456</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -157,41 +193,5 @@ _Updated 2026-05-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06570.html">SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation</a></div></td>
 <td>Dmitri Goloubentsev et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06570">2605.06570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.07047.html">Accelerating integrated modeling with surrogate-based optimization: the MAESTRO workflow</a></div><div class="paper-tags"><a href="tag/reactor-design-30d.html">reactor-design</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>P. Rodriguez-Fernandez et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07047">2605.07047</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05382.html">Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Becky Langdon et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05382">2605.05382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.03489.html">A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
-<td>Jan Lorenz Svensen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03489">2605.03489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04222.html">Safety by Invariance, Liveness through Refinement: Heterogeneous Contract Framework for Co-Design of Layered Control</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Yoshinari Takayama et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04222">2605.04222</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2507.21803.html">Bayesian Neural Network Surrogates for Bayesian Optimization of Carbon Capture and Storage Operations</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/carbon-capture-30d.html">carbon-capture</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Sofianos Panagiotis Fotias et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21803">2507.21803</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2603.17366.html">Low-dimensional geometry learning for turbulence prediction in optimized stellarators</a></div><div class="paper-tags"><a href="tag/reactor-design-30d.html">reactor-design</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Xishuo Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17366">2603.17366</a></td>
 </tr>
 </tbody></table>

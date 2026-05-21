@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21213.html">Enhanced Reinforcement Learning-based Process Synthesis via Quantum Computing</a></div><div class="paper-tags"><a href="process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
+<td>Austin Braniff et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21213">2605.21213</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="large-language-models-30d.html">large-language-models</a></div></td>
 <td>Dongxiao Liu et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26073.html">Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization</a></div><div class="paper-tags"><a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="process-modeling-30d.html">process-modeling</a></div></td>
 <td>Teetat Pipattaratonchai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26073">2604.26073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="large-language-models-30d.html">large-language-models</a></div></td>
-<td>Karim K. Ben Hicham et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>process-design — all</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <a href="process-design-90d.html">90d</a> <a href="process-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21213.html">Enhanced Reinforcement Learning-based Process Synthesis via Quantum Computing</a></div><div class="paper-tags"><a href="process-systems-engineering-all.html">process-systems-engineering</a></div></td>
+<td>Austin Braniff et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21213">2605.21213</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>

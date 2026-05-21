@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20631.html">Probing Lattice Dynamics in Real-Space and Real-Time</a></div><div class="paper-tags"><a href="heat-transfer-90d.html">heat-transfer</a></div></td>
+<td>Navdeep Rana</td>
+<td><a href="http://arxiv.org/abs/2605.20631">2605.20631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21211.html">Reinforcement Learning-based Control via Y-wise Affine Neural Networks: Comparative Case Studies for Chemical Processes</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a> · <a href="process-systems-engineering-90d.html">process-systems-engineering</a></div></td>
+<td>Austin Braniff et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21211">2605.21211</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a> · <a href="process-design-90d.html">process-design</a></div></td>
 <td>Dongxiao Liu et al.</td>
@@ -164,17 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18313.html">Clapeyron Neural Networks for Single-Species Vapor-Liquid Equilibria</a></div><div class="paper-tags"><a href="graph-neural-networks-90d.html">graph-neural-networks</a> · <a href="process-design-90d.html">process-design</a></div></td>
 <td>Jan Pavšek et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18313">2602.18313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12819.html">Nonlinear Model Order Reduction of Dynamical Systems in Process Engineering: Review and Comparison</a></div><div class="paper-tags"><a href="process-systems-engineering-90d.html">process-systems-engineering</a> · <a href="separations-90d.html">separations</a></div></td>
-<td>Jan C. Schulze et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12819">2506.12819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15318.html">On Computing and Pricing of Adjustable Robust Chemical Process Designs</a></div><div class="paper-tags"><a href="process-simulation-90d.html">process-simulation</a></div></td>
-<td>Jan Schwientek et al.</td>
-<td><a href="http://arxiv.org/abs/2512.15318">2512.15318</a></td>
 </tr>
 </tbody></table>
