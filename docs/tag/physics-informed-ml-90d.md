@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-ml — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="physics-informed-ml-7d.html">7d</a> <a href="physics-informed-ml-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-ml-360d.html">360d</a> <a href="physics-informed-ml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05879.html">Hard-constraint physics-residual networks enable robust extrapolation for hydrogen crossover prediction in PEM water electrolyzers</a></div><div class="paper-tags"><a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="electrolysis-90d.html">electrolysis</a> · <a href="energy-systems-90d.html">energy-systems</a> · <a href="hydrogen-production-90d.html">hydrogen-production</a></div></td>
 <td>Yong-Woon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05879">2511.05879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18042.html">PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes</a></div><div class="paper-tags"><a href="battery-modeling-90d.html">battery-modeling</a> · <a href="system-identification-90d.html">system-identification</a></div></td>
-<td>Karkulali Pugalenthi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18042">2602.18042</a></td>
 </tr>
 </tbody></table>

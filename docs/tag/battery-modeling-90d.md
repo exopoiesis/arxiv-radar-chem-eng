@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>battery-modeling — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="battery-modeling-7d.html">7d</a> <a href="battery-modeling-30d.html">30d</a> <strong>90d</strong> <a href="battery-modeling-360d.html">360d</a> <a href="battery-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21545.html">Auction-Based Task Allocation with Energy-Conscientious Trajectory Optimization for AMR Fleets</a></div><div class="paper-tags"><a href="optimal-control-90d.html">optimal-control</a></div></td>
 <td>Jiachen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21545">2603.21545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18042.html">PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="system-identification-90d.html">system-identification</a></div></td>
-<td>Karkulali Pugalenthi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18042">2602.18042</a></td>
 </tr>
 </tbody></table>

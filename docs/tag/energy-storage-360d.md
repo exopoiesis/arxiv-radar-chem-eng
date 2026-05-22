@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,11 +548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15712.html">BatteryBERT for Realistic Battery Fault Detection Using Point-Masked Signal Modeling</a></div><div class="paper-tags"><a href="fault-detection-360d.html">fault-detection</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Songqi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15712">2506.15712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05924.html">A Control-Oriented Simplified Single Particle Model with Grouped Parameter and Sensitivity Analysis for Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="system-identification-360d.html">system-identification</a></div></td>
-<td>Feng Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05924">2504.05924</a></td>
 </tr>
 </tbody></table>

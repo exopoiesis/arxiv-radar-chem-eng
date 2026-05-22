@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-engineering — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <strong>90d</strong> <a href="chemical-engineering-360d.html">360d</a> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21511.html">Oxygen permeability and stability in the entropy-stabilized Co-based Perovskite oxygen permeable membranes</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="gas-separation-90d.html">gas-separation</a></div></td>
 <td>Zaichen Xiang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21511">2602.21511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05114.html">SpecTUS: Spectral Translator for Unknown Structures annotation from EI-MS spectra</a></div><div class="paper-tags"><a href="chromatography-90d.html">chromatography</a></div></td>
-<td>Adam Hájek et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05114">2502.05114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18313.html">Clapeyron Neural Networks for Single-Species Vapor-Liquid Equilibria</a></div><div class="paper-tags"><a href="graph-neural-networks-90d.html">graph-neural-networks</a> · <a href="process-design-90d.html">process-design</a></div></td>
-<td>Jan Pavšek et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18313">2602.18313</a></td>
 </tr>
 </tbody></table>
