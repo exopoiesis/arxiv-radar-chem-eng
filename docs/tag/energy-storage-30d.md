@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>energy-storage — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <strong>30d</strong> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00898.html">A Deep Learning Model for Battery State Prediction towards Intelligent Energy Management</a></div><div class="paper-tags"><a href="electrochemical-systems-30d.html">electrochemical-systems</a></div></td>
 <td>Athanasios Koukosiasa et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00898">2605.00898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20175.html">Physics-Enhanced Deep Learning for Proactive Thermal Runaway Forecasting in Li-Ion Batteries</a></div><div class="paper-tags"><a href="battery-modeling-30d.html">battery-modeling</a> · <a href="heat-transfer-30d.html">heat-transfer</a></div></td>
-<td>Salman Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20175">2604.20175</a></td>
 </tr>
 </tbody></table>

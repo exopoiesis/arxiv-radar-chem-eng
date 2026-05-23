@@ -19,10 +19,6 @@
   count: 5
   total: 85
   group: fluids
-- name: energy-storage
-  count: 5
-  total: 142
-  group: energy
 - name: bayesian-inference
   count: 4
   total: 51
@@ -31,6 +27,10 @@
   count: 4
   total: 149
   group: reactions
+- name: energy-storage
+  count: 4
+  total: 142
+  group: energy
 - name: process-control
   count: 4
   total: 41
@@ -51,10 +51,6 @@
   count: 3
   total: 81
   group: separations
-- name: battery-modeling
-  count: 3
-  total: 32
-  group: energy
 - name: dft
   count: 3
   total: 120
@@ -63,10 +59,6 @@
   count: 3
   total: 63
   group: energy
-- name: heat-transfer
-  count: 3
-  total: 43
-  group: transport
 - name: materials-discovery
   count: 3
   total: 38
@@ -87,6 +79,10 @@
   count: 2
   total: 51
   group: methods
+- name: battery-modeling
+  count: 2
+  total: 32
+  group: energy
 - name: carbon-capture
   count: 2
   total: 45
@@ -99,6 +95,10 @@
   count: 2
   total: 44
   group: monitoring
+- name: heat-transfer
+  count: 2
+  total: 43
+  group: transport
 - name: hydrogen-evolution
   count: 2
   total: 15

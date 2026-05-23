@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-control — 360d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="process-control-7d.html">7d</a> <a href="process-control-30d.html">30d</a> <a href="process-control-90d.html">90d</a> <strong>360d</strong> <a href="process-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07115.html">Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="digital-twin-360d.html">digital-twin</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Javal Vyas et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07115">2507.07115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21026.html">Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
-<td>Runze Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21026">2505.21026</a></td>
 </tr>
 </tbody></table>
