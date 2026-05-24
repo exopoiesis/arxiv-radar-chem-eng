@@ -111,10 +111,6 @@
   count: 2
   total: 12
   group: reactions
-- name: physics-informed-ml
-  count: 2
-  total: 43
-  group: methods
 - name: process-systems-engineering
   count: 2
   total: 15
@@ -179,6 +175,10 @@
   count: 1
   total: 12
   group: fluids
+- name: physics-informed-ml
+  count: 1
+  total: 43
+  group: methods
 - name: reaction-engineering
   count: 1
   total: 3
