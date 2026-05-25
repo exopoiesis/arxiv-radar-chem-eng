@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gaussian-process — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <strong>30d</strong> <a href="gaussian-process-90d.html">90d</a> <a href="gaussian-process-360d.html">360d</a> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04973.html">StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation</a></div></td>
 <td>Yuan-Hao Wei</td>
 <td><a href="http://arxiv.org/abs/2604.04973">2604.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22672.html">Iterative Model-Learning Scheme via Gaussian Processes for Nonlinear Model Predictive Control of (Semi-)Batch Processes</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Tai Xuan Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22672">2604.22672</a></td>
 </tr>
 </tbody></table>
