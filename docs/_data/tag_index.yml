@@ -3,6 +3,10 @@
   count: 7
   total: 71
   group: control
+- name: surrogate-modeling
+  count: 7
+  total: 81
+  group: modeling
 - name: chemical-engineering
   count: 6
   total: 119
@@ -11,9 +15,17 @@
   count: 6
   total: 53
   group: methods
-- name: surrogate-modeling
-  count: 6
-  total: 80
+- name: cfd
+  count: 5
+  total: 86
+  group: fluids
+- name: process-control
+  count: 5
+  total: 43
+  group: control
+- name: process-modeling
+  count: 5
+  total: 27
   group: modeling
 - name: bayesian-inference
   count: 4
@@ -23,10 +35,6 @@
   count: 4
   total: 149
   group: reactions
-- name: cfd
-  count: 4
-  total: 85
-  group: fluids
 - name: energy-storage
   count: 4
   total: 142
@@ -59,18 +67,10 @@
   count: 3
   total: 35
   group: control
-- name: process-control
-  count: 3
-  total: 41
-  group: control
 - name: process-design
   count: 3
   total: 37
   group: control
-- name: process-modeling
-  count: 3
-  total: 25
-  group: modeling
 - name: uncertainty-quantification
   count: 3
   total: 53
@@ -175,6 +175,10 @@
   count: 1
   total: 4
   group: energy
+- name: system-identification
+  count: 1
+  total: 28
+  group: modeling
 - name: turbulence-modeling
   count: 1
   total: 11
@@ -355,10 +359,6 @@
   count: 0
   total: 0
   group: separations
-- name: system-identification
-  count: 0
-  total: 27
-  group: modeling
 - name: techno-economic-analysis
   count: 0
   total: 3

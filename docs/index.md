@@ -5,15 +5,33 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-05-26._
+_Updated 2026-05-27._
 
-**1140** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1143** ChemE-relevant papers across **27** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24763.html">High-fidelity Modeling of Full-scale Pressurized Water Reactor Flow Fields for Machine Learning Applications</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/process-modeling-30d.html">process-modeling</a></div></td>
+<td>Logan A. Burnett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24763">2605.24763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23151.html">Convex Hybrid Modeling: An Operator-Based Approach</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Wentao Tang</td>
+<td><a href="http://arxiv.org/abs/2605.23151">2605.23151</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24250.html">Dynamic Coherent Diffractive Imaging Using Only a Support Constraint in the Complex Plane</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
+<td>Yaocheng Tian et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24250">2605.24250</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20631.html">Probing Lattice Dynamics in Real-Space and Real-Time</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-05-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.08307.html">Chiral-Induced Spin Selectivity Regulates Triplet formation in Heliobacterial Photosynthesis</a></div><div class="paper-tags"><a href="tag/separations-30d.html">separations</a></div></td>
 <td>Parul Raghuvanshi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08307">2605.08307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Laura van Weesep et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06448.html">Performance guaranteed MPC Policy Approximation via Cost Guided Learning</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
-<td>Chenchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06448">2605.06448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06570.html">SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation</a></div></td>
-<td>Dmitri Goloubentsev et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06570">2605.06570</a></td>
 </tr>
 </tbody></table>

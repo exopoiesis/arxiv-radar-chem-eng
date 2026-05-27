@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fault-detection — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="fault-detection-7d.html">7d</a> <a href="fault-detection-30d.html">30d</a> <a href="fault-detection-90d.html">90d</a> <strong>360d</strong> <a href="fault-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08676.html">Linguistic Ordered Weighted Averaging based deep learning pooling for fault diagnosis in a wastewater treatment plant</a></div><div class="paper-tags"><a href="wastewater-treatment-360d.html">wastewater-treatment</a></div></td>
 <td>Alicia Beneyto-Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08676">2506.08676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15712.html">BatteryBERT for Realistic Battery Fault Detection Using Point-Masked Signal Modeling</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Songqi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15712">2506.15712</a></td>
 </tr>
 </tbody></table>

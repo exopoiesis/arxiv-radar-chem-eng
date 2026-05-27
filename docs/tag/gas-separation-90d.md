@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gas-separation — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="gas-separation-7d.html">7d</a> <a href="gas-separation-30d.html">30d</a> <strong>90d</strong> <a href="gas-separation-360d.html">360d</a> <a href="gas-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20496.html">Orbital-interaction-aware deep learning model for efficient surface chemistry simulations</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="energy-storage-90d.html">energy-storage</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a></div></td>
 <td>Zhihao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20496">2507.20496</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21511.html">Oxygen permeability and stability in the entropy-stabilized Co-based Perovskite oxygen permeable membranes</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
-<td>Zaichen Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21511">2602.21511</a></td>
 </tr>
 </tbody></table>

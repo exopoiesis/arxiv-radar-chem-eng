@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08949.html">Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Xinyue Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2412.08949">2412.08949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04495.html">AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a></div></td>
-<td>Peng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04495">2504.04495</a></td>
 </tr>
 </tbody></table>
