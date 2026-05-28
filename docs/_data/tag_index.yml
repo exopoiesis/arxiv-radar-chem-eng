@@ -19,10 +19,6 @@
   count: 5
   total: 86
   group: fluids
-- name: process-control
-  count: 5
-  total: 43
-  group: control
 - name: process-modeling
   count: 5
   total: 27
@@ -39,6 +35,10 @@
   count: 4
   total: 142
   group: energy
+- name: process-control
+  count: 4
+  total: 43
+  group: control
 - name: separations
   count: 4
   total: 66
@@ -79,10 +79,6 @@
   count: 2
   total: 51
   group: methods
-- name: battery-modeling
-  count: 2
-  total: 32
-  group: energy
 - name: carbon-capture
   count: 2
   total: 45
@@ -127,6 +123,10 @@
   count: 1
   total: 13
   group: reactions
+- name: battery-modeling
+  count: 1
+  total: 32
+  group: energy
 - name: catalyst-design
   count: 1
   total: 31

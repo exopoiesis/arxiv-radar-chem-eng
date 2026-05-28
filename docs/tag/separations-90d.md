@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>separations — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="separations-7d.html">7d</a> <a href="separations-30d.html">30d</a> <strong>90d</strong> <a href="separations-360d.html">360d</a> <a href="separations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10923.html">Long-time dynamics of a bulk-surface convective Cahn--Hilliard system: Pullback attractors and convergence to equilibrium</a></div></td>
 <td>Patrik Knopf et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10923">2603.10923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.21758.html">Upper bounds on the colloid separation efficiency of diffusiophoresis</a></div><div class="paper-tags"><a href="reaction-kinetics-90d.html">reaction-kinetics</a></div></td>
-<td>Fernando Temprano-Coleto et al.</td>
-<td><a href="http://arxiv.org/abs/2512.21758">2512.21758</a></td>
 </tr>
 </tbody></table>

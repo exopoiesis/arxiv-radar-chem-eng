@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,23 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01311.html">Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="co2-reduction-90d.html">co2-reduction</a> · <a href="dft-90d.html">dft</a> · <a href="graph-neural-networks-90d.html">graph-neural-networks</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Achuth Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01311">2603.01311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Lucas B. T. de Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22978.html">Chalcogen Impurity Barriers in 2D Systems via Semi-Empirical/Machine Learning Modeling: A Survey over 4000 Materials</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>M. L. Pereira Junior et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22978">2602.22978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05526.html">Chemical Reaction Engineering and Catalysis: AI/ML Workflows and Self-Driving Laboratories</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="reaction-engineering-90d.html">reaction-engineering</a></div></td>
-<td>Rigoberto Advincula et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05526">2603.05526</a></td>
 </tr>
 </tbody></table>
