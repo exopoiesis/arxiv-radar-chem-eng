@@ -7,38 +7,30 @@
   count: 7
   total: 81
   group: modeling
-- name: chemical-engineering
-  count: 6
-  total: 119
-  group: domain
-- name: gaussian-process
-  count: 6
-  total: 53
-  group: methods
 - name: cfd
   count: 5
   total: 86
   group: fluids
-- name: process-modeling
+- name: chemical-engineering
   count: 5
-  total: 27
-  group: modeling
-- name: bayesian-inference
-  count: 4
-  total: 51
+  total: 119
+  group: domain
+- name: gaussian-process
+  count: 5
+  total: 53
   group: methods
 - name: catalysis
   count: 4
   total: 149
   group: reactions
-- name: energy-storage
-  count: 4
-  total: 142
-  group: energy
 - name: process-control
   count: 4
   total: 43
   group: control
+- name: process-modeling
+  count: 4
+  total: 27
+  group: modeling
 - name: separations
   count: 4
   total: 66
@@ -47,13 +39,17 @@
   count: 3
   total: 81
   group: separations
+- name: bayesian-inference
+  count: 3
+  total: 51
+  group: methods
 - name: dft
   count: 3
   total: 120
   group: materials
-- name: electrochemical-systems
+- name: energy-storage
   count: 3
-  total: 63
+  total: 142
   group: energy
 - name: materials-discovery
   count: 3
@@ -66,10 +62,6 @@
 - name: optimal-control
   count: 3
   total: 35
-  group: control
-- name: process-design
-  count: 3
-  total: 37
   group: control
 - name: uncertainty-quantification
   count: 3
@@ -91,6 +83,10 @@
   count: 2
   total: 44
   group: monitoring
+- name: electrochemical-systems
+  count: 2
+  total: 63
+  group: energy
 - name: heat-transfer
   count: 2
   total: 43
@@ -107,6 +103,10 @@
   count: 2
   total: 12
   group: reactions
+- name: process-design
+  count: 2
+  total: 37
+  group: control
 - name: process-systems-engineering
   count: 2
   total: 15
