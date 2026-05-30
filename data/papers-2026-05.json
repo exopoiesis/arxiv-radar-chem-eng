@@ -1301,9 +1301,88 @@
   ],
   "title": "Convex Hybrid Modeling: An Operator-Based Approach",
   "topics": [
+   "Process Control & Optimization",
    "Process Modeling & System Identification"
   ],
   "updated": "2026-05-22"
+ },
+ "2605.23964": {
+  "abstract": "The growing share of Renewable Energy Sources (RES) in modern power systems increases both grid imbalances and frequency deviations, reinforcing the need for ancillary services such as Frequency Containment Reserve (FCR) and passive balancing. Battery Energy Storage Systems (BESS) are well-suited for these services, but prior research typically relies on uniform FCR bids that remain constant throughout the control period. Such static bids fail to fully exploit BESS flexibility, as they do not balance the trade-off between reserving energy for FCR delivery and using it for imbalance arbitrage, limiting the achievable value in value-stacking settings. To address this limitation, we propose a two-stage control framework for the European context that introduces non-uniform FCR bids. In the first stage, we derive a time-varying bid sequence using data-driven Monte Carlo (MC) optimization. In the second stage, a Deep Reinforcement Learning (DRL) agent leverages the residual flexibility for real-time imbalance trading while proactively managing the State of Energy (SoE) to ensure compliance with FCR requirements. The framework is presented as a proof of concept, highlighting the potential benefits of time-varying bidding strategies. By incorporating daily cycle budgets and time-varying reserve commitments, our approach achieves a 7.56% profit increase compared to uniform baselines. These results show that non-uniform bidding can unlock additional value by more effectively aligning reserve obligations with rapidly changing imbalance opportunities.",
+  "authors": [
+   "Celle Hendrickx",
+   "Fabio Pavirani",
+   "Chris Develder"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI"
+  ],
+  "comment": "5 pages, 2 figures. Presented at ACM Sustainability Week 2026 (ACM Sustainability Week Companion 26), June 22-25, 2026, Banff, AB, Canada",
+  "first_author": "Celle Hendrickx",
+  "pdf_url": "http://arxiv.org/pdf/2605.23964",
+  "primary_category": "eess.SY",
+  "published": "2026-05-12",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Multi-market value-stacking: Battery control for combined imbalance participation and non-uniform FCR bidding",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-05-12"
+ },
+ "2605.24002": {
+  "abstract": "Computational materials science and chemistry span vast knowledge domains and fractured software ecosystems. Although large language models (LLMs) have demonstrated research capabilities, scaling monolithic agents to manage the rigor and complexity of atomistic research remains a challenge. Here, we introduce AtomisticSkills, an open-source harness framework that empowers general-purpose AI coding agents to conduct atomistic research across materials science, chemistry, and drug discovery. By hierarchically decomposing scientific workflows into agent skills and tools, AtomisticSkills provides agents with modular, extensible, and plug-and-play research capabilities. The framework integrates more than 100 human-curated multidisciplinary skills, including database access, thermodynamics and kinetics modeling, and diverse simulation engines employing machine learning interatomic potentials (MLIPs) and density functional theory (DFT). We validate its functional coverage against scientific literature and demonstrate robust orchestration capabilities across diverse scientific campaigns: generative design of Li-ion solid-state electrolytes, high-throughput screening of metal-organic frameworks for CO2 capture, autonomous MLIP benchmarking and fine-tuning, multi-stage structure-based virtual screening for drug design, multimodal X-ray diffraction pattern analysis, and screening of Fe-oxide catalysts for oxygen evolution reaction. AtomisticSkills provides a critical agent infrastructure towards building fully autonomous AI scientists.",
+  "authors": [
+   "Bowen Deng",
+   "Bohan Li",
+   "Matthew Cox",
+   "Hoje Chun",
+   "Juno Nam",
+   "Artur Lyssenko",
+   "Sathya Edamadaka",
+   "Jurgis Ruza",
+   "Xiaochen Du",
+   "Nofit Segal",
+   "Jesus Diaz Sanchez",
+   "Mingrou Xie",
+   "Ty Perez",
+   "Yu Yao",
+   "Miguel Steiner",
+   "Sauradeep Majumdar",
+   "Charles B. Musgrave",
+   "Anirban Chandra",
+   "Abhirup Patra",
+   "Detlef Hohl",
+   "Connor W. Coley",
+   "Ju Li",
+   "Rafael Gómez-Bombarelli"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Bowen Deng",
+  "pdf_url": "http://arxiv.org/pdf/2605.24002",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-18",
+  "tags": [
+   "carbon-capture",
+   "dft",
+   "large-language-models",
+   "metal-organic-frameworks",
+   "oxygen-evolution"
+  ],
+  "title": "Harnessing AtomisticSkills for Agentic Atomistic Research",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-18"
  },
  "2605.24250": {
   "abstract": "We show that a bounded temporal increment prior on the sample dynamics is sufficient to reconstruct a time-varying phase object from a near-field diffraction movie, under the thin-film approximation. The time evolution of the field is parameterized by a multiplicative inter-frame update factor, and a bound on its complex-plane support enforces a bounded phase increment and a passive amplitude constraint. Reconstruction of the dynamic field is thereby converted into a feasibility problem with two projection operators: a measurement-domain modulus projection and an object-domain circular-sector projection. We validate the approach experimentally using a spatial light modulator as a calibrated dynamic sample in two cases: a reaction--diffusion phase pattern with spatially expanding extent, and a growing phase pattern whose accumulated phase reaches $10π$. In both cases the reconstructed phase trajectory agrees well with the ground truth. We then apply the same framework, without modification, to in-situ monitoring of a photo-polymer 3D printing process, recovering the spatiotemporal phase induced by polymerization under a spatially patterned blue light. The reconstructed phase trajectory provides an observable for photo-chemical system identification and process control.",
@@ -1360,8 +1439,332 @@
   ],
   "title": "High-fidelity Modeling of Full-scale Pressurized Water Reactor Flow Fields for Machine Learning Applications",
   "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
    "Process Modeling & System Identification"
   ],
   "updated": "2026-05-23"
+ },
+ "2605.25011": {
+  "abstract": "We consider the challenge of developing agents that efficiently interact with high-dimensional, evolving environments, towards a view of practical reinforcement learning (RL) agents interacting with open worlds, of which they witness and affect only a small part. We argue that canonical fluid mechanics problems, and their simulations, present a compelling testbed for the development of such methods. These problems arise in nonlinear instabilities, where small disturbances can grow to transform the dynamics of a system. Nonlinear instabilities represent several open scientific challenges with industrial applications -- the droplet breakup of a liquid jet, mixing at an interface between two fluids, and the appearance of unusually tall rogue waves in the ocean. In these settings, agents may leverage preserved representations across the changing dynamics to learn efficiently.   We present two problem descriptions of agents interacting with a fluid mechanical environment, and describe the state and action spaces, and reward functions, for these agents. For these examples, we specify the aspects of the environment which are nonstationary and the preserved invariances. We note Dedalus and JAX-CFD as open-source simulators that can be used for the development of reinforcement learning methods (Burns et al., 2016; Kochkov et al., 2021)) We demonstrate the use of Dedalus for environment generation by creating RL agents that learn to navigate in a stationary environment that is simulated using Dedalus. This sets the stage for future development of RL agents that learn to meaningfully interact with simulated environments that represent scientific challenges in natural and industrial flows.",
+  "authors": [
+   "Shruti Mishra",
+   "Michael Chang",
+   "Vamsi Spandan",
+   "Shmuel M. Rubinstein"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Shruti Mishra",
+  "pdf_url": "http://arxiv.org/pdf/2605.25011",
+  "primary_category": "cs.LG",
+  "published": "2026-05-24",
+  "tags": [
+   "cfd"
+  ],
+  "title": "A perspective on fluid mechanical environments for challenges in reinforcement learning",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-05-24"
+ },
+ "2605.25351": {
+  "abstract": "Vacancy formation energetics fundamentally govern the structural integrity and catalytic behavior of metal surfaces. Contrary to conventional coordination-dependent broken-bond models, we identify an anomalous thermodynamic inversion on close-packed surfaces across Ir, Pt, Au with face-centered cubic (FCC) lattice and Be, Zn, Cd with hexagonal close-packed (HCP) lattice, where subsurface vacancies are intrinsically more stable than surface ones. Using high-throughput DFT calculations and machine learning force fields, we demonstrate that the physical origins of this anomaly are fundamentally decoupled between the two crystal systems. For the FCC trio, pronounced surface relaxation and a profound real-space electronic localization induce directional, covalent-like intralayer bonding, materializing a \"geometry-electronic decoupling\" mechanism. Crucially, this unconventional thermodynamic hierarchy enables a dynamic \"self-healing\" mechanism on Pt(111) that preserves an intact topmost layer and prevents catalytic degradation during hydrogen evolution and oxygen reduction reactions. It also successfully decoding the critical defect threshold (~8%) for lifting the Au(100) surface reconstruction. Our work challenges classical scalar defect models and provides a fresh paradigm for engineering catalyst surface integrity.",
+  "authors": [
+   "Yiming Tan",
+   "Pai Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 5 figures",
+  "first_author": "Yiming Tan",
+  "pdf_url": "http://arxiv.org/pdf/2605.25351",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-25",
+  "tags": [
+   "catalysis",
+   "dft",
+   "hydrogen-evolution"
+  ],
+  "title": "Anomalous Subsurface Vacancy Stabilization Dictated by Geometry-Electronic Decoupling on Metal Surfaces",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-05-25"
+ },
+ "2605.26029": {
+  "abstract": "We introduce CausaLab, a scalable environment for evaluating interactive causal discovery by LLM agents. Unlike prior evaluations, CausaLab evaluates both whether an agent can solve a problem using causal evidence and whether its answer is grounded in a faithful recovered causal mechanism. Each episode places an agent in a synthetic laboratory: it receives prior measurement records, intervenes on a manipulator crystal, and predicts the resonance frequency of a held-out reactor crystal governed by the same mechanism. The hidden data-generating process is a randomly sampled structural causal model (SCM), so success requires recovering both a causal graph and structural equations rather than recalling prior knowledge.   Experiments show a persistent gap between prediction and mechanism recovery: in the purely observational 6-node setting, GPT-5.2-high reaches 92% task accuracy but only 0.471 all-edge $F_1$. Mixed observation-intervention strategies improve structural fidelity, while pure intervention remains difficult even for strong agents. We identify premature stopping as a major weakness and show that consistency verification mitigates it. CausaLab therefore separates predictive success from causal understanding and exposes current LLM agents' limits as experimental causal reasoners.",
+  "authors": [
+   "Junlin Yang",
+   "Dylan Zhang",
+   "Xiangchen Song",
+   "Qirun Dai",
+   "Xiao Liu",
+   "Yuen Chen",
+   "Aniket Vashishtha",
+   "Jing Shi",
+   "Chenhao Tan",
+   "Hao Peng"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Junlin Yang",
+  "pdf_url": "http://arxiv.org/pdf/2605.26029",
+  "primary_category": "cs.AI",
+  "published": "2026-05-25",
+  "tags": [
+   "large-language-models"
+  ],
+  "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.26392": {
+  "abstract": "Decarbonizing electricity generation, heating, and transportation simultaneously requires integrated planning tools that can coordinate multiple energy production sources and demand points while remaining reliable under uncertainty. This paper develops a carbon-aware and uncertainty-resilient optimization framework for a grid-connected multiple source hub that co-optimizes electricity, heating, cooling, and transport energy services with an explicit hydrogen sub-hub. The proposed model is formulated as an MILP over a 25-year planning horizon (2025-2050). The hub integrates renewable electricity (Photovoltaic and wind), dispatchable resources (including natural-gas-based conversion), storage systems, demand response, and a hydrogen subsystem comprising an electrolyzer and hydrogen storage to supply hydrogen-vehicle demand and provide temporal flexibility. Two policy archetypes are examined: a Carbon Tax (price instrument), and a Net-Zero pathway (quantity instrument). To hedge feasibility-critical operational uncertainty, the deterministic model is extended using budgeted robust optimization and a tunable uncertainty budget. The developed scheme is applied to the province of Ontario, Canada; the results indicate substantial long-term hydrogen expansion, with the electrolyzer capacity increasing from 300~MW (2025) to 3,800~MW (2050) and hydrogen storage from 2,000~MWh to 37,000~MWh (2050), accompanied by sharply higher hydrogen production. Compared with deterministic solutions, robust solutions preserve feasibility under adverse realizations but incur a moderate robustness premium of approximately 6.6-9.0\\% in total cost across the policy cases studied, while slightly reducing hydrogen utilization and renewable share and increasing reliance on dispatchable balancing.",
+  "authors": [
+   "Hossein Mirzaee",
+   "Mostafa Mostafavi Sani",
+   "Hamed Samarghandi"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": "42 pages, 10 figures",
+  "first_author": "Hossein Mirzaee",
+  "pdf_url": "http://arxiv.org/pdf/2605.26392",
+  "primary_category": "math.OC",
+  "published": "2026-05-25",
+  "tags": [
+   "electrolysis",
+   "hydrogen-production"
+  ],
+  "title": "Integrating Hydrogen into Ontario's Energy Hub: A Robust, Carbon-Aware Framework for Power-Heat-Transport",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-05-25"
+ },
+ "2605.26897": {
+  "abstract": "Explicit incorporation of magnetic degrees of freedom in machine-learning interatomic potentials (magnetic MLIPs) plays a crucial role in the correct description of magnetic materials and their properties. An important ingredient for fitting of magnetic MLIPs is spin-polarized density functional theory (DFT) calculations with non-equilibrium magnetic moments, i.e. DFT calculations with constraints on magnetic moments. In this study, we present a workflow for active learning of magnetic Moment Tensor Potential (mMTP) during molecular dynamics (MD) simulations. Magnetic MTP and its active learning algorithm were implemented in the open-source spin-MLIP code, DFT soft-constrained spin-polarized calculations were performed with the VASP code, and MD simulations were conducted in the open-source LAMMPS code. We test our workflow on the Fe-Pd crystal. The dependencies of magnetization and density of states (DOSs) on the volume of a supercell (or, pressure) are in good agreement with those calculated with DFT. Furthermore, the calculated DOSs correspond to the experimental ones.",
+  "authors": [
+   "Arseniy Burov",
+   "Alexey S. Kotykhov",
+   "Dmitry A. Aksyonov",
+   "Ivan S. Novikov",
+   "Vladimir V. Ladygin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.atom-ph"
+  ],
+  "comment": null,
+  "first_author": "Arseniy Burov",
+  "pdf_url": "http://arxiv.org/pdf/2605.26897",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-26",
+  "tags": [
+   "active-learning",
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-05-26"
+ },
+ "2605.27722": {
+  "abstract": "Two-phase boiling enables heat transfer rates an order of magnitude higher than single-phase cooling, but it remains difficult to model due to the strong coupling between phase change, turbulence, and transport, as well as extreme sensitivity to fluid properties and thermodynamic conditions. Existing learning-based surrogates are either condition- or fluid-specific, limiting generalization and requiring separate models. We present NUCLEUS, a mixture-of-experts model for pool boiling that replaces collections of specialized surrogates with a single architecture. NUCLEUS combines neighborhood attention, signed distance field reinitialization for interface consistency, and expert routing that exhibits emergent specialization across distinct boiling dynamics.   Trained on high-fidelity simulations of pool boiling, NUCLEUS jointly models saturated and subcooled boiling across three fluid classes (dielectrics, refrigerants, and cryogens), resolving failure modes of prior models on extreme fluids. We show that expert routing exhibits coherent spatial structure and specialization without explicit supervision. Quantitatively, NUCLEUS matches or exceeds baselines while maintaining physical consistency across heterogeneous boiling configurations. We also show zero-shot and few-shot generalization capabilities on downstream tasks such as a new fluid (Opteon 2P50 developed for immersion cooling). These results demonstrate that mixture-of-experts models are a scalable pathway toward unified surrogate modeling of boiling dynamics and lay the groundwork for broader generalization across scientific ML.",
+  "authors": [
+   "Arthur Feeney",
+   "Xianwei Zou",
+   "Sheikh Md Shakeel Hassan",
+   "Siddhartha Rachabathuni",
+   "Aparna Chandramowlishwaran"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "12 pages, 9 figurs, KDD AI for Science",
+  "first_author": "Arthur Feeney",
+  "pdf_url": "http://arxiv.org/pdf/2605.27722",
+  "primary_category": "cs.LG",
+  "published": "2026-05-26",
+  "tags": [
+   "heat-transfer",
+   "surrogate-modeling"
+  ],
+  "title": "NUCLEUS-MoE: Unified Model of Pool Boiling for Liquid Cooling",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-26"
+ },
+ "2605.28340": {
+  "abstract": "The use of residential photovoltaics has increased dramatically in recent years. With battery systems becoming more affordable, the optimal operation of a photovoltaic-battery system can bring significant savings to households. Optimal control requires correct forecasts of underlying parameters, such as photovoltaic power generation, to schedule the battery. While forecasting models have become increasingly accurate due to algorithmic advances and data availability, accuracy is typically measured in generic metrics which might not align with the downstream application. This study proposes a decision-focused learning framework that integrates optimization and prediction by training a Long Short-Term Memory photovoltaic energy forecaster on the downstream optimal scheduling of a battery system. The proposed methodology is compared against a standard two-phase approach. Across a 14-month evaluation period, the decision-focused method reduced average electricity costs across twenty buildings by 3.6% when normalized against performance bounds defined by a perfect forecast and a baseline of no optimization. Critically, this financial improvement was achieved despite the model exhibiting a root mean squared error of 19.9%, significantly higher than the decoupled model's 8.2%. Warm-starting the decision-focused model further improves results, lowering average cost by approximately 8%, while also mitigating the negative impact on statistical accuracy (root mean squared error of 13.7%). The findings are statistically significant at the 0.001 level across the twenty households and for each household individually. These results demonstrate that aligning forecast models with optimization goals is key for achieving cost advantages in PV-battery systems. Future research should replicate these findings on other datasets, alternate forecasting models and alternate optimization algorithms.",
+  "authors": [
+   "Joris Depoortere",
+   "Hussain Kazmi",
+   "Johan Driesen"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Joris Depoortere",
+  "pdf_url": "http://arxiv.org/pdf/2605.28340",
+  "primary_category": "stat.ML",
+  "published": "2026-05-27",
+  "tags": [
+   "optimal-control"
+  ],
+  "title": "Decision-focused learning for optimal PV-Battery scheduling",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.28905": {
+  "abstract": "We present an evaluation of CSP-MACE-Å, a machine learning interatomic potential intended to replace DFT in crystal structure prediction (CSP). We decompose the total energy into separate intramolecular and intermolecular components. For the intramolecular component, we adopt the MACE-POLAR architecture and train it on the OMol25 dataset. The intermolecular component combines three terms: an intermolecular contribution from the MACE-POLAR model, a long-range dispersion term with the functional form of the XDM correction, and a learned delta model trained to reproduce B86bPBE-XDM intermolecular energies. The learned delta model is trained on residual intermolecular targets derived from 50,000 B86bPBE-XDM calculations on molecular crystal structures. On an evaluation set composed of 19 compounds, including a salt, selected from AstraZeneca's previous CSP publications, CSP-MACE-Å achieves performance comparable to PBE DFT with the Neumann-Perrin dispersion correction. On a second evaluation set composed of 28 compounds, including cocrystals and salts, collated from the seven CSP blind tests, CSP-MACE-Å achieves performance close to B86bPBE-XDM DFT. In both evaluation sets, reranking with harmonic free energies substantially improves performance relative to ranking by energy alone. Across our evaluation suite, CSP-MACE-Å is shown to outperform the MACE-POLAR-1 and UMA-OMC foundation models. Lastly, on a set of five compounds, CSP-MACE-Å is shown to capture temperature-dependent trends in the relative stability of polymorphs through estimation of the free energy under the harmonic approximation. By running multiple orders of magnitude faster than DFT, CSP-MACE-Å enables energy and free energy evaluation of far more candidate structures, providing greater confidence when derisking solid forms.",
+  "authors": [
+   "Laurence I. Midgley",
+   "Chen Lin",
+   "J. Harry Moore",
+   "Flaviano Della Pia",
+   "Javier Antorán",
+   "Sten O. Nilsson Lill",
+   "Emma S. E. Eriksson",
+   "Felix A. Faber",
+   "Lars Tornberg",
+   "Anders Broo",
+   "Gábor Csányi"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Laurence I. Midgley",
+  "pdf_url": "http://arxiv.org/pdf/2605.28905",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-27",
+  "tags": [
+   "dft",
+   "large-language-models"
+  ],
+  "title": "DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.29179": {
+  "abstract": "Metal-organic frameworks (MOFs) are excellent candidates for water harvesting due to their tunable pore environments, which can be precisely engineered to capture and release water in arid conditions. Integrating artificial intelligence (AI) into MOF discovery can further accelerate the design of high-performance sorbents by identifying structural features that enhance atmospheric water harvesting (AWH), stability, and cycling efficiency. In this Perspective, we examine key MOF design principles, including cooperative adsorption, operational relative humidity (RH), uptake capacity, hysteresis, and scalability. We highlight recent design advancements such as multivariate strategies and long-arm linker extension, and examine how these principles tune pore capacity and hydrophilicity, while preserving stability and crystallinity. Furthermore, we discuss how AI, large language models (LLMs), and data mining can accelerate the discovery process through predictive synthesis, inverse design, and elucidating synthesis-structure-property relationships for the next generation of MOF water harvesters.",
+  "authors": [
+   "Reid A. Coyle",
+   "Shyam Chand Pal",
+   "Peter Walther",
+   "Saeun Park",
+   "Bin Feng",
+   "Zhiling Zheng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "10 pages of main text, 26 total pages. 3 Figures and 1 Table of Content Graphic",
+  "first_author": "Reid A. Coyle",
+  "pdf_url": "http://arxiv.org/pdf/2605.29179",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-27",
+  "tags": [
+   "adsorption",
+   "large-language-models",
+   "materials-discovery",
+   "metal-organic-frameworks"
+  ],
+  "title": "Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.29821": {
+  "abstract": "The hydrogen evolution reaction (HER) is central to sustainable hydrogen production, and nitrogen coordinated dual atom catalysts (DACs) offer a promising route to noble metal activity at low cost. Yet their vast compositional and coordination design space remains underexplored, as density functional theory (DFT) screening at scale is prohibitive. Here, we map the HER landscape of graphene supported TM2@Nx-Gr DACs, screening 23 transition metals across 20 nitrogen coordination motifs using a machine learning potential (MLP) benchmarked against DFT. Intermediate coordination (2N to 4N) consistently yields near-optimal ΔGH*, with Ti2@2Na, Mn2@2Na, Fe2@2Na, Cu2@2Na, Rh2@2Na, Zr2@2Na, Zr2@2Nb, Zr2@2Nc, Nb2@2Nc, Zr2@2Nd, Mn2@2Ne, Mn2@2Nf, Ti2@3Na, Au2@3Na, Fe2@3Na, Pd2@3Nb, Rh2@3Nc, Rh2@3Nd, Au2@3Nd, V2@4Na, Ti2@4Nb, Pd2@4Nb, Ti2@4Nc, Cr2@4Nd, Ni2@4Nd, Cu2@4Nd emerging as standout, synthesizable candidates, most exhibiting metallic or narrow gap (<0.25 eV) character. The MLP reaches near-DFT accuracy, with a mean absolute error of 80 meV for Gibbs binding free energies at orders of magnitude lower computational cost, establishing MLP driven screening as a practical engine for next-generation catalyst discovery.",
+  "authors": [
+   "Yanmei Zang",
+   "Hyun Gyu Park",
+   "Gi Beom Sim",
+   "Tae Hyeon Park",
+   "Ho Jin Lee",
+   "Xiaorong Zou",
+   "D. ChangMo Yang",
+   "Soohaeng Yoo Willow",
+   "Hye Jung Kim",
+   "Chang Woo Myung"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Research article, 32 pages, 18 figures",
+  "first_author": "Yanmei Zang",
+  "pdf_url": "http://arxiv.org/pdf/2605.29821",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-28",
+  "tags": [
+   "catalysis",
+   "catalyst-design",
+   "dft",
+   "hydrogen-evolution",
+   "hydrogen-production"
+  ],
+  "title": "Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.30277": {
+  "abstract": "Real-time thermal-hydraulic simulation is essential for digital twin (DT) technology that supports the safe and efficient operation of small modular reactors (SMRs). Computational fluid dynamics (CFD) provides high-fidelity flow analysis, but its computational cost prevents direct use in DT applications. AI-based surrogate modeling has been actively investigated to address this limitation, yet neural operator--based surrogates for CFD-level transient analysis of SMR-specific geometries have not been reported. This study presents an integrated framework that combines a reduced-order model (ROM) with neural operators, applied to the helical coil steam generator (HCSG) of the System-integrated Modular Advanced Reactor (SMART). Two ROM strategies tailored to each CFD data type were compared, an MLP-based autoencoder (AE) for unstructured mesh data and a convolutional autoencoder (CAE) for structured mesh data, and each was coupled with the deep operator network (DeepONet) to construct the latent DeepONet (L-DeepONet). The Fourier neural operator (FNO) was additionally adopted for comparison. A multi-scale technique was incorporated into both frameworks to mitigate spectral bias and improve the prediction of Kármán vortex streets developing inside the HCSG. The multi-scale L-DeepONet captured the instantaneous periodic vortex dynamics in both velocity and pressure fields, while the FNO and its multi-scale variant predicted the time-averaged mean flow and provided reliable pressure drop estimates. These complementary characteristics provide a practical model-selection guideline that links each architecture to specific DT objectives based on CFD data type and the required level of flow resolution.",
+  "authors": [
+   "Minseo Lee",
+   "Seongmin Oh",
+   "Chaehyeon Song",
+   "Bumjin Cho",
+   "Shilaj Baral",
+   "Sangam Khanal",
+   "Minseop Song",
+   "Joongoo Jeon"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Minseo Lee",
+  "pdf_url": "http://arxiv.org/pdf/2605.30277",
+  "primary_category": "cs.LG",
+  "published": "2026-05-28",
+  "tags": [
+   "cfd",
+   "digital-twin",
+   "reduced-order-modeling",
+   "surrogate-modeling"
+  ],
+  "title": "Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
+   "Digital Twins & Process Monitoring",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-05-28"
  }
 }

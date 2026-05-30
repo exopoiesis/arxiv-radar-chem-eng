@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23964.html">Multi-market value-stacking: Battery control for combined imbalance participation and non-uniform FCR bidding</a></div></td>
+<td>Celle Hendrickx et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23964">2605.23964</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07880.html">Robust Capacity Expansion under Wildfire Ignition Risk and High Renewable Penetration</a></div></td>
 <td>Tomás Tapia et al.</td>
@@ -536,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03439.html">Optimizing Software Defined Battery Systems for Transformer Protection</a></div></td>
 <td>Sonia Martin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03439">2506.03439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06363.html">ChemGraph: An Agentic Framework for Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Thang D. Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06363">2506.06363</a></td>
 </tr>
 </tbody></table>

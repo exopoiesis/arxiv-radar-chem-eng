@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>graph-neural-networks — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="graph-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18525.html">Federated Learning from Molecules to Processes: A Perspective</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="distillation-360d.html">distillation</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Jan G. Rittig et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18525">2506.18525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06363.html">ChemGraph: An Agentic Framework for Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Thang D. Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06363">2506.06363</a></td>
 </tr>
 </tbody></table>

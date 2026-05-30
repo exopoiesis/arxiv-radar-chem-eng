@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26029.html">CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists</a></div></td>
+<td>Junlin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26029">2605.26029</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Laurence I. Midgley et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29179.html">Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Reid A. Coyle et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29179">2605.29179</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="process-design-360d.html">process-design</a></div></td>
 <td>Dongxiao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19704">2605.19704</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a> · <a href="dft-360d.html">dft</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td>Bowen Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-10</td>
@@ -410,11 +434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05695.html">Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Lingyuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05695">2506.05695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06363.html">ChemGraph: An Agentic Framework for Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
-<td>Thang D. Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06363">2506.06363</a></td>
 </tr>
 </tbody></table>
