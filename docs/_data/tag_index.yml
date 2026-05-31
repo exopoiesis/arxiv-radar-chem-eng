@@ -15,14 +15,14 @@
   count: 6
   total: 151
   group: reactions
-- name: cfd
-  count: 6
-  total: 88
-  group: fluids
 - name: large-language-models
   count: 6
   total: 106
   group: architectures
+- name: cfd
+  count: 5
+  total: 88
+  group: fluids
 - name: chemical-engineering
   count: 5
   total: 119
@@ -55,10 +55,6 @@
   count: 4
   total: 43
   group: control
-- name: process-modeling
-  count: 4
-  total: 27
-  group: modeling
 - name: separations
   count: 4
   total: 66
@@ -95,6 +91,10 @@
   count: 3
   total: 13
   group: reactions
+- name: process-modeling
+  count: 3
+  total: 27
+  group: modeling
 - name: uncertainty-quantification
   count: 3
   total: 53
@@ -131,10 +131,6 @@
   count: 2
   total: 14
   group: reactions
-- name: wastewater-treatment
-  count: 2
-  total: 25
-  group: separations
 - name: active-sites
   count: 1
   total: 13
@@ -179,6 +175,10 @@
   count: 1
   total: 11
   group: fluids
+- name: wastewater-treatment
+  count: 1
+  total: 25
+  group: separations
 - name: zeolites
   count: 1
   total: 5

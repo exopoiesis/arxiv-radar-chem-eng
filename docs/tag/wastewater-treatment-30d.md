@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>wastewater-treatment — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="wastewater-treatment-7d.html">7d</a> <strong>30d</strong> <a href="wastewater-treatment-90d.html">90d</a> <a href="wastewater-treatment-360d.html">360d</a> <a href="wastewater-treatment-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19826.html">Explainable Wastewater Digital Twins: Adaptive Context-Conditioned Structured Simulators with Self-Falsifying Decision Support</a></div><div class="paper-tags"><a href="digital-twin-30d.html">digital-twin</a></div></td>
 <td>Gary Simethy et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19826">2605.19826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27432.html">Modeling of Wastewater Treatment Processes with HydroSludge</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
-<td>S. Iserte et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27432">2604.27432</a></td>
 </tr>
 </tbody></table>
