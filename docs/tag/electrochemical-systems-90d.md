@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <strong>90d</strong> <a href="electrochemical-systems-360d.html">360d</a> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13976.html">SAGE: Synthetic Aging for a Grid Environment</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="energy-storage-90d.html">energy-storage</a></div></td>
 <td>Paolo Esquivel et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13976">2603.13976</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05879.html">Hard-constraint physics-residual networks enable robust extrapolation for hydrogen crossover prediction in PEM water electrolyzers</a></div><div class="paper-tags"><a href="electrolysis-90d.html">electrolysis</a> · <a href="energy-systems-90d.html">energy-systems</a> · <a href="hydrogen-production-90d.html">hydrogen-production</a> · <a href="physics-informed-ml-90d.html">physics-informed-ml</a></div></td>
-<td>Yong-Woon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05879">2511.05879</a></td>
 </tr>
 </tbody></table>

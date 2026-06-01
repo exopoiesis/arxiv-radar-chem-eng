@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-systems — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="energy-systems-7d.html">7d</a> <a href="energy-systems-30d.html">30d</a> <strong>90d</strong> <a href="energy-systems-360d.html">360d</a> <a href="energy-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19223.html">Characterizing MARL for Energy Control: A Multi-KPI Benchmark on the CityLearn Environment</a></div></td>
 <td>Aymen Khouja et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19223">2602.19223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05879.html">Hard-constraint physics-residual networks enable robust extrapolation for hydrogen crossover prediction in PEM water electrolyzers</a></div><div class="paper-tags"><a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="electrolysis-90d.html">electrolysis</a> · <a href="hydrogen-production-90d.html">hydrogen-production</a> · <a href="physics-informed-ml-90d.html">physics-informed-ml</a></div></td>
-<td>Yong-Woon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05879">2511.05879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01587.html">Battery Discharge Modeling for Electric Vehicles: A Hybrid Physics-based Residual Learning Approach</a></div></td>
-<td>Praharshitha Aryasomayajula et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01587">2603.01587</a></td>
 </tr>
 </tbody></table>

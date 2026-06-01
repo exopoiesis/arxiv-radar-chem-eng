@@ -4,21 +4,21 @@
   total: 83
   group: modeling
 - name: dft
-  count: 8
+  count: 7
   total: 125
   group: materials
 - name: mpc
   count: 7
   total: 71
   group: control
-- name: catalysis
-  count: 6
-  total: 151
-  group: reactions
 - name: large-language-models
   count: 6
   total: 106
   group: architectures
+- name: catalysis
+  count: 5
+  total: 151
+  group: reactions
 - name: cfd
   count: 5
   total: 88
@@ -31,18 +31,10 @@
   count: 5
   total: 53
   group: methods
-- name: adsorption
-  count: 4
-  total: 82
-  group: separations
 - name: energy-storage
   count: 4
   total: 143
   group: energy
-- name: hydrogen-evolution
-  count: 4
-  total: 17
-  group: reactions
 - name: materials-discovery
   count: 4
   total: 39
@@ -55,14 +47,14 @@
   count: 4
   total: 43
   group: control
-- name: separations
-  count: 4
-  total: 66
-  group: separations
 - name: active-learning
   count: 3
   total: 52
   group: methods
+- name: adsorption
+  count: 3
+  total: 82
+  group: separations
 - name: bayesian-inference
   count: 3
   total: 51
@@ -79,6 +71,10 @@
   count: 3
   total: 44
   group: transport
+- name: hydrogen-evolution
+  count: 3
+  total: 17
+  group: reactions
 - name: hydrogen-production
   count: 3
   total: 15
@@ -87,14 +83,14 @@
   count: 3
   total: 36
   group: control
-- name: oxygen-evolution
-  count: 3
-  total: 13
-  group: reactions
 - name: process-modeling
   count: 3
   total: 27
   group: modeling
+- name: separations
+  count: 3
+  total: 66
+  group: separations
 - name: uncertainty-quantification
   count: 3
   total: 53
@@ -103,10 +99,6 @@
   count: 2
   total: 32
   group: reactions
-- name: crystallization
-  count: 2
-  total: 19
-  group: separations
 - name: electrochemical-systems
   count: 2
   total: 63
@@ -119,6 +111,10 @@
   count: 2
   total: 30
   group: separations
+- name: oxygen-evolution
+  count: 2
+  total: 13
+  group: reactions
 - name: process-design
   count: 2
   total: 37
@@ -139,6 +135,10 @@
   count: 1
   total: 32
   group: energy
+- name: crystallization
+  count: 1
+  total: 19
+  group: separations
 - name: generative-models
   count: 1
   total: 27
