@@ -5,19 +5,19 @@
   group: modeling
 - name: dft
   count: 7
-  total: 125
+  total: 124
   group: materials
-- name: mpc
-  count: 7
-  total: 71
-  group: control
 - name: large-language-models
   count: 6
   total: 106
   group: architectures
+- name: mpc
+  count: 6
+  total: 71
+  group: control
 - name: catalysis
   count: 5
-  total: 151
+  total: 150
   group: reactions
 - name: cfd
   count: 5
@@ -31,17 +31,13 @@
   count: 5
   total: 53
   group: methods
-- name: energy-storage
-  count: 4
-  total: 143
-  group: energy
 - name: materials-discovery
   count: 4
   total: 39
   group: materials
 - name: molecular-dynamics
   count: 4
-  total: 68
+  total: 67
   group: materials
 - name: process-control
   count: 4
@@ -53,7 +49,7 @@
   group: methods
 - name: adsorption
   count: 3
-  total: 82
+  total: 81
   group: separations
 - name: bayesian-inference
   count: 3
@@ -67,6 +63,10 @@
   count: 3
   total: 45
   group: monitoring
+- name: energy-storage
+  count: 3
+  total: 143
+  group: energy
 - name: heat-transfer
   count: 3
   total: 44
@@ -79,22 +79,10 @@
   count: 3
   total: 15
   group: energy
-- name: optimal-control
-  count: 3
-  total: 36
-  group: control
 - name: process-modeling
   count: 3
   total: 27
   group: modeling
-- name: separations
-  count: 3
-  total: 66
-  group: separations
-- name: uncertainty-quantification
-  count: 3
-  total: 53
-  group: methods
 - name: catalyst-design
   count: 2
   total: 32
@@ -111,6 +99,10 @@
   count: 2
   total: 30
   group: separations
+- name: optimal-control
+  count: 2
+  total: 36
+  group: control
 - name: oxygen-evolution
   count: 2
   total: 13
@@ -127,6 +119,14 @@
   count: 2
   total: 14
   group: reactions
+- name: separations
+  count: 2
+  total: 66
+  group: separations
+- name: uncertainty-quantification
+  count: 2
+  total: 53
+  group: methods
 - name: active-sites
   count: 1
   total: 13
@@ -185,7 +185,7 @@
   group: separations
 - name: adsorption-energy
   count: 0
-  total: 24
+  total: 23
   group: reactions
 - name: adsorption-isotherms
   count: 0
@@ -269,7 +269,7 @@
   group: reactions
 - name: knowledge-distillation
   count: 0
-  total: 69
+  total: 68
   group: architectures
 - name: mass-transfer
   count: 0

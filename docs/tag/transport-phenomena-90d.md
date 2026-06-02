@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>transport-phenomena — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="transport-phenomena-7d.html">7d</a> <a href="transport-phenomena-30d.html">30d</a> <strong>90d</strong> <a href="transport-phenomena-360d.html">360d</a> <a href="transport-phenomena-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25751.html">Physics-informed tritium fuel cycle modelling workflow for fusion reactors</a></div><div class="paper-tags"><a href="bubble-column-90d.html">bubble-column</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Rémi Delaporte-Mathurin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25751">2603.25751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03259.html">Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a></div></td>
-<td>Süleyman Cengizci et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03259">2603.03259</a></td>
 </tr>
 </tbody></table>

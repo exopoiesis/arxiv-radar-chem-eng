@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,11 +914,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04654.html">Metabolism, information, and viability in a simulated physically-plausible protocell</a></div><div class="paper-tags"><a href="experimental-design-all.html">experimental-design</a></div></td>
 <td>Kristoffer R. Thomsen et al.</td>
 <td><a href="http://arxiv.org/abs/2405.04654">2405.04654</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.09811.html">Adapting OC20-trained EquiformerV2 Models for High-Entropy Materials</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="dft-all.html">dft</a> · <a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
-<td>Christian M. Clausen et al.</td>
-<td><a href="http://arxiv.org/abs/2403.09811">2403.09811</a></td>
 </tr>
 </tbody></table>

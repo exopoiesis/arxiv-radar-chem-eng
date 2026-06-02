@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>process-control — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="process-control-7d.html">7d</a> <a href="process-control-30d.html">30d</a> <strong>90d</strong> <a href="process-control-360d.html">360d</a> <a href="process-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18589.html">CentaurTA Studio: A Self-Improving Human-Agent Collaboration System for Thematic Analysis</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Lei Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18589">2604.18589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02485.html">A Decision Analysis Framework for High-fidelity and Low-fidelity Systems with Applications in Manufacturing Processes</a></div><div class="paper-tags"><a href="gaussian-process-90d.html">gaussian-process</a></div></td>
-<td>Fan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02485">2603.02485</a></td>
 </tr>
 </tbody></table>

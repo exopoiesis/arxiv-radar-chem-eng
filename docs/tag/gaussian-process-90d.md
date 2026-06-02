@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gaussian-process — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <strong>90d</strong> <a href="gaussian-process-360d.html">360d</a> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16925.html">Gaussian Process Regression-based Knowledge Distillation Framework for Simultaneous Prediction of Physical and Mechanical Properties of Epoxy Polymers</a></div><div class="paper-tags"><a href="knowledge-distillation-90d.html">knowledge-distillation</a></div></td>
 <td>Sindu B. S. et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16925">2603.16925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02485.html">A Decision Analysis Framework for High-fidelity and Low-fidelity Systems with Applications in Manufacturing Processes</a></div><div class="paper-tags"><a href="process-control-90d.html">process-control</a></div></td>
-<td>Fan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02485">2603.02485</a></td>
 </tr>
 </tbody></table>
