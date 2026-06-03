@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17268.html">Optimal Operating Strategy for PV-BESS Households: Balancing Self-Consumption and Self-Sufficiency</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
 <td>Jun Wook Heo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17268">2506.17268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00833.html">Deep Kernel Bayesian Optimisation for Closed-Loop Electrode Microstructure Design with User-Defined Properties based on GANs</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="gaussian-process-360d.html">gaussian-process</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Andrea Gayon-Lombardo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00833">2508.00833</a></td>
 </tr>
 </tbody></table>

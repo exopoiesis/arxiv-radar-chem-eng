@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06800.html">From Accurate Quantum Chemistry to Converged Thermodynamics for Ion Pairing in Solution</a></div></td>
 <td>Niamh O&#x27;Neill et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06800">2603.06800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08762.html">The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models</a></div></td>
-<td>Daniel S. Levine et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08762">2505.08762</a></td>
 </tr>
 </tbody></table>
