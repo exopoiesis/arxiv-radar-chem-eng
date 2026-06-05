@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20341.html">A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
 <td>Marco Laudato</td>
 <td><a href="http://arxiv.org/abs/2506.20341">2506.20341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08272.html">Universal Differential Equations for Scientific Machine Learning of Node-Wise Battery Dynamics in Smart Grids</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a></div></td>
-<td>Tarushri N. S.</td>
-<td><a href="http://arxiv.org/abs/2506.08272">2506.08272</a></td>
 </tr>
 </tbody></table>

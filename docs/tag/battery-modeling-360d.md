@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-modeling — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="battery-modeling-7d.html">7d</a> <a href="battery-modeling-30d.html">30d</a> <a href="battery-modeling-90d.html">90d</a> <strong>360d</strong> <a href="battery-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01047.html">Variational Digital Twins</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="digital-twin-360d.html">digital-twin</a> · <a href="energy-systems-360d.html">energy-systems</a></div></td>
 <td>Logan A. Burnett et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01047">2507.01047</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08272.html">Universal Differential Equations for Scientific Machine Learning of Node-Wise Battery Dynamics in Smart Grids</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Tarushri N. S.</td>
-<td><a href="http://arxiv.org/abs/2506.08272">2506.08272</a></td>
 </tr>
 </tbody></table>

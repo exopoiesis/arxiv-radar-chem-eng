@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,23 +344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17427.html">3D variational autoencoder for fingerprinting microstructure volume elements</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Michael D. White et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17427">2503.17427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11226.html">MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Peter Eckmann et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11226">2410.11226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19654.html">Latent Space Mapping: Revolutionizing Predictive Models for Divertor Plasma Detachment Control</a></div></td>
-<td>Ben Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19654">2502.19654</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17258.html">A Digital Twin Framework for Generation-IV Reactors with Reinforcement Learning-Enabled Health-Aware Supervisory Control</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="digital-twin-360d.html">digital-twin</a></div></td>
-<td>Jasmin Y. Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17258">2506.17258</a></td>
 </tr>
 </tbody></table>

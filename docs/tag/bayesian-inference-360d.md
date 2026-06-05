@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04169.html">Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Luis J. Walter et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04169">2505.04169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17258.html">A Digital Twin Framework for Generation-IV Reactors with Reinforcement Learning-Enabled Health-Aware Supervisory Control</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Jasmin Y. Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17258">2506.17258</a></td>
 </tr>
 </tbody></table>
