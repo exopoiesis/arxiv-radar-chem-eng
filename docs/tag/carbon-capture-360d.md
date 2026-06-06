@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>carbon-capture — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="carbon-capture-7d.html">7d</a> <a href="carbon-capture-30d.html">30d</a> <a href="carbon-capture-90d.html">90d</a> <strong>360d</strong> <a href="carbon-capture-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11806.html">MOFSimBench: Evaluating Universal Machine Learning Interatomic Potentials In Metal--Organic Framework Molecular Modeling</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hendrik Kraß et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11806">2507.11806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09256.html">Comparing classical and machine learning force fields for modeling deformation of solid sorbents relevant for direct air capture</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="dft-360d.html">dft</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
-<td>Logan M. Brabson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09256">2506.09256</a></td>
 </tr>
 </tbody></table>

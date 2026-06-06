@@ -5,15 +5,81 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-05._
+_Updated 2026-06-06._
 
-**1154** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1165** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05534.html">Learning-Assisted Day-Ahead Energy Scheduling for Frequency-Secure Inverter-Dominated Grids with Grid-Forming Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Fan Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05534">2606.05534</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04471.html">Self-Optimizing Control of Continuous Processes Based on Reinforcement Learning</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Ziqi Zhuo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04471">2606.04471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04725.html">GPU-Accelerated Direct Transcription-Based Nonlinear Model Predictive Control</a></div><div class="paper-tags"><a href="tag/distillation-30d.html">distillation</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Evelyn Gondosiswanto et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04725">2606.04725</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Zhilong Song et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05050">2606.05050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02997.html">TransportBench: A Comprehensive Benchmark for Non-Equilibrium Flow Transport</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="tag/transport-phenomena-30d.html">transport-phenomena</a></div></td>
+<td>Xu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02997">2606.02997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03732.html">When are supercapacitors practically feasible in electric vehicles?</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
+<td>Yue Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03732">2606.03732</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03783.html">An Integrated Techno-Economic Framework for Optimal Microgrid Design: An Australian Case Study</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/fuel-cells-30d.html">fuel-cells</a></div></td>
+<td>Mohamed Atef et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03783">2606.03783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02049.html">Explainable Data-driven Deep Reinforcement Learning Methods for Optimal Energy Management in Buildings</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/energy-systems-30d.html">energy-systems</a></div></td>
+<td>Hallah Shahid Butt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02049">2606.02049</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04033.html">Inverse Critical Experiment Design via Gradient Optimization and a Multigroup Attention-Based Neural Network Architecture</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Will Savage et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04033">2606.04033</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26029.html">CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
@@ -127,71 +193,5 @@ _Updated 2026-06-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19231.html">DeRegiME: Deep Regime Mixtures for Probabilistic Forecasting under Distribution Shift</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Kieran Wood et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19231">2605.19231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-design-30d.html">process-design</a></div></td>
-<td>Dongxiao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19704">2605.19704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19826.html">Explainable Wastewater Digital Twins: Adaptive Context-Conditioned Structured Simulators with Self-Falsifying Decision Support</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
-<td>Gary Simethy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19826">2605.19826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19994.html">Performance Evaluation of RANS-Based Turbulence Models in Predicting Turbulent Non-Premixed Swirling Combustion within a Realistic Can Combustor</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
-<td>Aishvarya Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19994">2605.19994</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Fabien Mortier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20456.html">Agentic Agile-V: From Vibe Coding to Verified Engineering in Software and Hardware Development</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
-<td>Christopher Koch</td>
-<td><a href="http://arxiv.org/abs/2605.20456">2605.20456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18033.html">Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Chih-Yu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18033">2605.18033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18082.html">pyforce-1.0.0: Python Framework for data-driven model Order Reduction of multi-physiCs problEms</a></div></td>
-<td>Stefano Riva et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18082">2605.18082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18463.html">Advanced PID architectures for tracking changing active constraints</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a> · <a href="tag/separations-30d.html">separations</a></div></td>
-<td>Sigurd Skogestad</td>
-<td><a href="http://arxiv.org/abs/2605.18463">2605.18463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19107.html">Performance Monitoring of Proton Exchange Membrane Water Electrolyzer by Transformers-Based Machine Learning Model</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a></div></td>
-<td>Bingqing Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19107">2605.19107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="tag/carbon-capture-30d.html">carbon-capture</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
-<td>Bowen Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/ionic-liquids-30d.html">ionic-liquids</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/redox-flow-batteries-30d.html">redox-flow-batteries</a></div></td>
-<td>Fakhrul Hasan Bhuiyan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
 </tr>
 </tbody></table>

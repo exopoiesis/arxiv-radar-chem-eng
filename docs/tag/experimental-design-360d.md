@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>experimental-design — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="experimental-design-7d.html">7d</a> <a href="experimental-design-30d.html">30d</a> <a href="experimental-design-90d.html">90d</a> <strong>360d</strong> <a href="experimental-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19146.html">Optimal Design of Experiment for Electrochemical Parameter Identification of Li-ion Battery via Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="mpc-360d.html">mpc</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Mehmet Fatih Ozkan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19146">2506.19146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09243.html">Kerr nonlinearity, self-injection locking and correlation in a microresonator</a></div></td>
-<td>Andrey Matsko et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09243">2506.09243</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00353.html">Augmented Physics-Based Li-ion Battery Model via Adaptive Ensemble Sparse Learning and Conformal Prediction</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Samuel Filgueira da Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00353">2507.00353</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04406.html">Calibrated Physics-Informed Uncertainty Quantification</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>
-<td>Vignesh Gopakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04406">2502.04406</a></td>
 </tr>
 </tbody></table>

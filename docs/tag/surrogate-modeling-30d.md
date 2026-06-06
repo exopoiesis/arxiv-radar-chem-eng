@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <strong>30d</strong> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05534.html">Learning-Assisted Day-Ahead Energy Scheduling for Frequency-Secure Inverter-Dominated Grids with Grid-Forming Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="energy-storage-30d.html">energy-storage</a></div></td>
+<td>Fan Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05534">2606.05534</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04033.html">Inverse Critical Experiment Design via Gradient Optimization and a Multigroup Attention-Based Neural Network Architecture</a></div></td>
+<td>Will Savage et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04033">2606.04033</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="digital-twin-30d.html">digital-twin</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
@@ -50,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07047.html">Accelerating integrated modeling with surrogate-based optimization: the MAESTRO workflow</a></div><div class="paper-tags"><a href="reactor-design-30d.html">reactor-design</a></div></td>
 <td>P. Rodriguez-Fernandez et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07047">2605.07047</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05382.html">Meta-learning for sample-efficient Bayesian optimisation of fed-batch processes</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Becky Langdon et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05382">2605.05382</a></td>
 </tr>
 </tbody></table>

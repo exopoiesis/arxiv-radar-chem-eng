@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02997.html">TransportBench: A Comprehensive Benchmark for Non-Equilibrium Flow Transport</a></div><div class="paper-tags"><a href="transport-phenomena-360d.html">transport-phenomena</a></div></td>
+<td>Xu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02997">2606.02997</a></td>
+</tr>
 <tr class="paper">
 <td>2026-02-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21701.html">Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>

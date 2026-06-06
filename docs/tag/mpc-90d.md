@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04725.html">GPU-Accelerated Direct Transcription-Based Nonlinear Model Predictive Control</a></div><div class="paper-tags"><a href="distillation-90d.html">distillation</a> · <a href="optimal-control-90d.html">optimal-control</a></div></td>
+<td>Evelyn Gondosiswanto et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04725">2606.04725</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21211.html">Reinforcement Learning-based Control via Y-wise Affine Neural Networks: Comparative Case Studies for Chemical Processes</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="process-systems-engineering-90d.html">process-systems-engineering</a></div></td>
