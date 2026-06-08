@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,17 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13486.html">Leveraging active learning-enhanced machine-learned interatomic potential for efficient infrared spectra prediction</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Nitik Bhatia et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13486">2506.13486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14293.html">Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Sakib Matin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14293">2503.14293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10548.html">Machine learning accelerated finite-field simulations for electrochemical interfaces</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a></div></td>
-<td>Chaoqiang Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10548">2506.10548</a></td>
 </tr>
 </tbody></table>

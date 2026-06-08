@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-06._
+_Updated 2026-06-08._
 
-**1165** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1166** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06984.html">Accelerating Multi-Objective Bayesian Optimisation via Predictive-Gradient Catalysts</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
+<td>Alma Rahat et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06984">2606.06984</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05534.html">Learning-Assisted Day-Ahead Energy Scheduling for Frequency-Secure Inverter-Dominated Grids with Grid-Forming Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-06-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21213.html">Enhanced Reinforcement Learning-based Process Synthesis via Quantum Computing</a></div><div class="paper-tags"><a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
 <td>Austin Braniff et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21213">2605.21213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19231.html">DeRegiME: Deep Regime Mixtures for Probabilistic Forecasting under Distribution Shift</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Kieran Wood et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19231">2605.19231</a></td>
 </tr>
 </tbody></table>

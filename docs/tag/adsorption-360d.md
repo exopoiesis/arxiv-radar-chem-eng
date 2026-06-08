@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,11 +320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13838.html">Machine Learning Accelerated Descriptor Design for Catalyst Discovery in CO$_2$ to Methanol Conversion</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a></div></td>
 <td>Prajwal Pisal et al.</td>
 <td><a href="http://arxiv.org/abs/2412.13838">2412.13838</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05157.html">Steepest-Entropy-Ascent Framework for Predicting Arsenic Adsorption on Graphene Oxide Surfaces -- A Case Study</a></div></td>
-<td>Adriana Saldana-Robles et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05157">2410.05157</a></td>
 </tr>
 </tbody></table>

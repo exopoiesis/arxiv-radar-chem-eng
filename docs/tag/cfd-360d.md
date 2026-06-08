@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13176.html">An advanced heat transfer model for Eulerian-Lagrangian simulations of industrial gas-solid flow systems</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>
 <td>Toshiki Imatani et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13176">2506.13176</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13789.html">Numerical Modeling of n-Hexane Pyrolysis with an Optimized Kinetic Mechanism in a Hydrogen Plasma Reactor</a></div><div class="paper-tags"><a href="transport-phenomena-360d.html">transport-phenomena</a></div></td>
-<td>Subin Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13789">2506.13789</a></td>
 </tr>
 </tbody></table>

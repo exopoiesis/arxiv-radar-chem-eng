@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>fuel-cells — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <strong>90d</strong> <a href="fuel-cells-360d.html">360d</a> <a href="fuel-cells-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11250.html">A Machine Learning-Enhanced Hopf-Cole Formulation for Nonlinear Gas Flow in Porous Media</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a></div></td>
 <td>V. S. Maduru et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11250">2603.11250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07823.html">Leveraging Quantum Annealing for Large-Scale Household Energy Scheduling with Hydrogen Storage</a></div><div class="paper-tags"><a href="electrolysis-90d.html">electrolysis</a> · <a href="mpc-90d.html">mpc</a></div></td>
-<td>Arash Khalatbarisoltani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07823">2603.07823</a></td>
 </tr>
 </tbody></table>

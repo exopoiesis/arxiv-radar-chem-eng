@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-systems — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="energy-systems-7d.html">7d</a> <a href="energy-systems-30d.html">30d</a> <strong>90d</strong> <a href="energy-systems-360d.html">360d</a> <a href="energy-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27755.html">Computational Facilitation of Large Scale Microfluidic Fuel Cell Architectures</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="fuel-cells-90d.html">fuel-cells</a></div></td>
 <td>Michel Takken et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27755">2603.27755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19223.html">Characterizing MARL for Energy Control: A Multi-KPI Benchmark on the CityLearn Environment</a></div></td>
-<td>Aymen Khouja et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19223">2602.19223</a></td>
 </tr>
 </tbody></table>
