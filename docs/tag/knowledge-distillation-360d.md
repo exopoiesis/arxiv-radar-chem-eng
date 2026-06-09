@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>knowledge-distillation — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="knowledge-distillation-7d.html">7d</a> <a href="knowledge-distillation-30d.html">30d</a> <a href="knowledge-distillation-90d.html">90d</a> <strong>360d</strong> <a href="knowledge-distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15337.html">Knowledge Distillation Framework for Accelerating High-Accuracy Neural Network-Based Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Naoki Matsumura et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15337">2506.15337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11516.html">Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Chengye Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11516">2506.11516</a></td>
 </tr>
 </tbody></table>

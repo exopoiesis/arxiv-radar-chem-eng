@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-08._
+_Updated 2026-06-09._
 
-**1166** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1168** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,22 @@ _Updated 2026-06-08._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.08611.html">Bayesian Optimization of a Multi-Product Chemical Reactor Using Composite Models and Partial Physics Knowledge</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
+<td>Liqiu Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08611">2606.08611</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06984.html">Accelerating Multi-Objective Bayesian Optimisation via Predictive-Gradient Catalysts</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Alma Rahat et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06984">2606.06984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07724.html">A Geometry-Aware Triplane Field Network for Vehicle Aerodynamic Prediction</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Kangkang Qi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07724">2606.07724</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-04</td>
@@ -181,17 +193,5 @@ _Updated 2026-06-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>D. -M. Mei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21211.html">Reinforcement Learning-based Control via Y-wise Affine Neural Networks: Comparative Case Studies for Chemical Processes</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
-<td>Austin Braniff et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21211">2605.21211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21213.html">Enhanced Reinforcement Learning-based Process Synthesis via Quantum Computing</a></div><div class="paper-tags"><a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
-<td>Austin Braniff et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21213">2605.21213</a></td>
 </tr>
 </tbody></table>

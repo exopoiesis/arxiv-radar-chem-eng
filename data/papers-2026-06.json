@@ -330,5 +330,62 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-06-05"
+ },
+ "2606.07724": {
+  "abstract": "High-fidelity computational fluid dynamics (CFD) is crucial to vehicle aerodynamic analysis, but its cost still constrains early-stage design exploration. Machine-learning-based surface-field prediction offers a faster alternative if the model can efficiently capture both global flow context and local geometric detail. This work proposes a machine-learning-based method, named the geometry-aware triplane field network (GTF-Net), for vehicle aerodynamic pressure and wall shear stress prediction. GTF-Net constructs triplane features directly from sampled surface points through a shared multilayer perceptron (MLP) and smooth bilinear rasterization. The planes are then processed by a dual-stream backbone that combines adaptive Fourier neural operator (AFNO) spectral mixing with convolutional neural network (CNN) refinement, so long-range aerodynamic coupling and local geometry-induced variations are modeled in the same representation. At query stage, sampled triplane features are combined with vehicle-aligned directional coordinates, normal-projection features, and a voxel-based curvature proxy. GTF-Net is compared with Transolver, geometry-informed neural operator (GINO), and TripNet, a triplane-based surrogate model. GTF-Net improves the relative L2 error from the strongest baseline value of 0.157 to 0.145 for pressure prediction and from 0.237 to 0.226 for wall shear stress prediction. Ablation results show that AFNO mixing, local CNN refinement, and query-side geometric encoding each contribute to accuracy, supporting the proposed mechanism of combining structured triplane representation with explicit aerodynamic geometry cues.",
+  "authors": [
+   "Kangkang Qi",
+   "Huiyu Yang",
+   "Keqi Ding",
+   "Yunpeng Wang",
+   "Yuntian Chen",
+   "Yuanwei Bin",
+   "Rikui Zhang",
+   "Jianchun Wang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "28 pages, 8 figures",
+  "first_author": "Kangkang Qi",
+  "pdf_url": "http://arxiv.org/pdf/2606.07724",
+  "primary_category": "cs.LG",
+  "published": "2026-06-05",
+  "tags": [
+   "cfd",
+   "surrogate-modeling"
+  ],
+  "title": "A Geometry-Aware Triplane Field Network for Vehicle Aerodynamic Prediction",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.08611": {
+  "abstract": "We study data-driven real-time economic optimization of a multi-product chemical reactor when no reliable first-principles model is available beyond a steady-state energy balance. Instead of learning the economic objective directly as a black-box function, we use a composite formulation in which Gaussian process (GP) models predict physically meaningful outputs, including product concentrations and reactor temperature, while profit is computed analytically from these predictions together with raw-material, product, and utility prices. This preserves the structure of the economic objective, makes it parametric in changing prices without needing retraining, and allows candidate operating points to be checked against the available energy balance through a physics residual. The GPs also provide predictive uncertainty, which is exploited in a Bayesian optimization (BO) framework both for data-efficient exploration and for conservative enforcement of the reactor temperature constraint through an upper confidence bound. The acquisition function additionally penalizes large energy-balance mismatch obtained by substituting the GP-predicted outputs and candidate inputs into the available steady-state energy balance. The approach is demonstrated on a benchmark simulation of a non-isothermal multi-product reactor. Relative to a trust-region safe BO implementation, the proposed method achieves better simulated economic performance within the available iteration budget. Relative to a purely data-driven BO approach that does not use the available physics information, it avoids reactor temperature constraint violations.",
+  "authors": [
+   "Liqiu Dong",
+   "Marta Zagórowska",
+   "Mehmet Mercangöz"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.LG"
+  ],
+  "comment": "Accepted to IFAC 2026. 11 pages, 4 figures",
+  "first_author": "Liqiu Dong",
+  "pdf_url": "http://arxiv.org/pdf/2606.08611",
+  "primary_category": "eess.SY",
+  "published": "2026-06-07",
+  "tags": [
+   "bayesian-inference",
+   "gaussian-process"
+  ],
+  "title": "Bayesian Optimization of a Multi-Product Chemical Reactor Using Composite Models and Partial Physics Knowledge",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-07"
  }
 }
