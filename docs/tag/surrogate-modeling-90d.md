@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="process-modeling-90d.html">process-modeling</a></div></td>
+<td>Fateme Mohammad Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10682">2606.10682</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11099.html">The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel</a></div></td>
+<td>Ana Larrañaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11099">2606.11099</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07724.html">A Geometry-Aware Triplane Field Network for Vehicle Aerodynamic Prediction</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
@@ -176,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14143.html">Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="gaussian-process-90d.html">gaussian-process</a></div></td>
 <td>Meredith Eaheart et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14143">2603.14143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10678.html">Surrogate models for nuclear fusion with parametric Shallow Recurrent Decoder Networks: applications to magnetohydrodynamics</a></div></td>
-<td>M. Lo Verso et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10678">2603.10678</a></td>
 </tr>
 </tbody></table>

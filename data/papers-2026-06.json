@@ -387,5 +387,81 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-06-07"
+ },
+ "2606.09923": {
+  "abstract": "Neural operators such as the Fourier Neural Operator (FNO) have emerged as powerful surrogates for solving partial differential equations (PDEs), achieving speedups of several orders of magnitude over traditional numerical solvers. However, deploying these models in safety-critical engineering applications -- such as thermal management of electronic components and battery systems -- requires not only accurate point predictions but also rigorous uncertainty guarantees. Existing uncertainty quantification (UQ) methods for neural operators, including Monte Carlo Dropout and Deep Ensembles, provide only relative uncertainty estimates without formal coverage guarantees. In this work, we propose the first application of split conformal prediction to neural operator-based physics simulation, providing distribution-free prediction intervals with finite-sample coverage guarantees. We further introduce a normalized conformal prediction scheme that leverages MC Dropout uncertainty to produce adaptive-width intervals, yielding tighter intervals in regions of low uncertainty and wider intervals where the model is less certain. Full-scale experiments (33.7M parameters, 800 training samples, 5 ensemble members, NVIDIA V100) on steady-state heat conduction benchmarks demonstrate that our method achieves 89.1% empirical coverage at the target level of alpha=0.1, while producing spatially adaptive prediction intervals that reflect the underlying physical uncertainty structure. We also provide an uncertainty decomposition framework that separates epistemic uncertainty (68% of total) from aleatoric uncertainty (32% of total), offering actionable guidance for data collection and model improvement. Our method is implemented in an open-source platform with REST API endpoints and interactive 3D visualization.",
+  "authors": [
+   "Michael Chin"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "13 pages, 7 tables, 7 figures. Full-scale experiments on NVIDIA V100",
+  "first_author": "Michael Chin",
+  "pdf_url": "http://arxiv.org/pdf/2606.09923",
+  "primary_category": "cs.LG",
+  "published": "2026-06-07",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-07"
+ },
+ "2606.10682": {
+  "abstract": "While physics-informed neural networks (PINNs) have shown strong potential for process modeling, physical equations are only enforced as soft constraints during training, and thus, they do not guarantee constraint satisfaction at inference. We propose a framework, called piecewise-linear Karush--Kuhn--Tucker hard-constrained PINNs (PL-KKT-hPINNs), that strictly enforces nonlinear equality constraints through piecewise-linear projection. This extends the KKT-hPINN framewor, which exactly enforces linear equalities through the Karush--Kuhn--Tucker (KKT) conditions associated with orthogonally projecting neural network outputs onto the constraint feasible region. The method is demonstrated on a continuous stirred-tank reactor (CSTR) case study for both one and two inputs. Results show that PL-KKT-hPINN preserves predictive accuracy comparable to that of a standard neural network while achieving substantially lower constraint violations. In addition, the proposed model shows improved robustness in low-data regimes, yielding lower RMSE than the unconstrained neural network for limited training sample sizes. These results demonstrate that PL-KKT-hPINN provides a computationally efficient and physically consistent framework for surrogate modeling of nonlinear chemical engineering systems.",
+  "authors": [
+   "Fateme Mohammad Mohammadi",
+   "Hector Budman",
+   "Joshua L. Pulsipher"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Fateme Mohammad Mohammadi",
+  "pdf_url": "http://arxiv.org/pdf/2606.10682",
+  "primary_category": "cs.LG",
+  "published": "2026-06-09",
+  "tags": [
+   "chemical-engineering",
+   "physics-informed-ml",
+   "process-modeling",
+   "surrogate-modeling"
+  ],
+  "title": "PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.11099": {
+  "abstract": "The Fuel Optimizer is an inverse design framework for sustainable aviation fuels that starts from a user-defined merit function and identifies the optimal combination of chemical species or hydrocarbon families that optimize a combination of targets. As a case study, a database of fuel blends meeting selected property standards was simulated in a reactor model to obtain pollutant emissions at cruise conditions. A surrogate model was developed to reduce the computational cost of evaluating candidate blends, taking fuel composition as input and predicting emissions as output. A genetic algorithm was used to optimize fuel formulation according to two merit functions designed to break the nitrogen oxides - CO trade-off, and minimize pollutant emissions over the landing-and-take-off cycle. Constraints included selected property standards (including seal swelling) and composition limits. Fuel candidates from the framework outperformed the training database across all merit functions, and the optimal candidates were validated through reactor simulations.",
+  "authors": [
+   "Ana Larrañaga",
+   "Steven L. Brunton",
+   "Jacobo Porteiro",
+   "Dario Lopez-Pintor"
+  ],
+  "categories": [
+   "math.OC",
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 8 figures (main text). Additional 8 pages and 4 figures of Supplementary Information",
+  "first_author": "Ana Larrañaga",
+  "pdf_url": "http://arxiv.org/pdf/2606.11099",
+  "primary_category": "math.OC",
+  "published": "2026-06-09",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-06-09"
  }
 }

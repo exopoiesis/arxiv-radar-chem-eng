@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-09._
+_Updated 2026-06-10._
 
-**1168** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1171** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,28 @@ _Updated 2026-06-09._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Fateme Mohammad Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10682">2606.10682</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11099.html">The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Ana Larrañaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11099">2606.11099</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.08611.html">Bayesian Optimization of a Multi-Product Chemical Reactor Using Composite Models and Partial Physics Knowledge</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Liqiu Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08611">2606.08611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Michael Chin</td>
+<td><a href="http://arxiv.org/abs/2606.09923">2606.09923</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>
@@ -175,23 +193,5 @@ _Updated 2026-06-09._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23151.html">Convex Hybrid Modeling: An Operator-Based Approach</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Wentao Tang</td>
 <td><a href="http://arxiv.org/abs/2605.23151">2605.23151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24250.html">Dynamic Coherent Diffractive Imaging Using Only a Support Constraint in the Complex Plane</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
-<td>Yaocheng Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24250">2605.24250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20631.html">Probing Lattice Dynamics in Real-Space and Real-Time</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
-<td>Navdeep Rana</td>
-<td><a href="http://arxiv.org/abs/2605.20631">2605.20631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>D. -M. Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
 </tr>
 </tbody></table>

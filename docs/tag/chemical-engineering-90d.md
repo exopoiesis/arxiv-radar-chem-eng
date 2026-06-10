@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="process-modeling-90d.html">process-modeling</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Fateme Mohammad Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10682">2606.10682</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20631.html">Probing Lattice Dynamics in Real-Space and Real-Time</a></div><div class="paper-tags"><a href="heat-transfer-90d.html">heat-transfer</a></div></td>
 <td>Navdeep Rana</td>
@@ -146,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13509.html">Verification and Forward Invariance of Control Barrier Functions for Differential-Algebraic Systems</a></div><div class="paper-tags"><a href="robust-control-90d.html">robust-control</a></div></td>
 <td>Hongchao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13509">2603.13509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20496.html">Orbital-interaction-aware deep learning model for efficient surface chemistry simulations</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="energy-storage-90d.html">energy-storage</a> · <a href="gas-separation-90d.html">gas-separation</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a></div></td>
-<td>Zhihao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20496">2507.20496</a></td>
 </tr>
 </tbody></table>
