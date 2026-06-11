@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04471.html">Self-Optimizing Control of Continuous Processes Based on Reinforcement Learning</a></div></td>
-<td>Ziqi Zhuo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04471">2606.04471</a></td>
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11589.html">Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges</a></div><div class="paper-tags"><a href="fault-detection-7d.html">fault-detection</a> · <a href="large-language-models-7d.html">large-language-models</a> · <a href="process-design-7d.html">process-design</a> · <a href="process-modeling-7d.html">process-modeling</a> · <a href="process-systems-engineering-7d.html">process-systems-engineering</a></div></td>
+<td>Bhushan Gopaluni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11589">2606.11589</a></td>
 </tr>
 </tbody></table>

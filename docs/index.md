@@ -5,15 +5,33 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-10._
+_Updated 2026-06-11._
 
-**1171** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1174** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11589.html">Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-control-30d.html">process-control</a> · <a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
+<td>Bhushan Gopaluni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11589">2606.11589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12057.html">ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/redox-flow-batteries-30d.html">redox-flow-batteries</a></div></td>
+<td>Rui Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12057">2606.12057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12345.html">An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Edoardo Scaccia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12345">2606.12345</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-06-10._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26392.html">Integrating Hydrogen into Ontario&#x27;s Energy Hub: A Robust, Carbon-Aware Framework for Power-Heat-Transport</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a></div></td>
 <td>Hossein Mirzaee et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26392">2605.26392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25011.html">A perspective on fluid mechanical environments for challenges in reinforcement learning</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
-<td>Shruti Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25011">2605.25011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24763.html">High-fidelity Modeling of Full-scale Pressurized Water Reactor Flow Fields for Machine Learning Applications</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/process-modeling-30d.html">process-modeling</a></div></td>
-<td>Logan A. Burnett et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24763">2605.24763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23151.html">Convex Hybrid Modeling: An Operator-Based Approach</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Wentao Tang</td>
-<td><a href="http://arxiv.org/abs/2605.23151">2605.23151</a></td>
 </tr>
 </tbody></table>

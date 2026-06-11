@@ -463,5 +463,89 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2026-06-09"
+ },
+ "2606.11589": {
+  "abstract": "Large Language Models (LLMs) have rapidly emerged as tools of interest across engineering disciplines, and Process Systems Engineering (PSE) is no exception. This survey provides a systematic review of LLM applications in PSE, organizing the literature into seven categories: (1) process design and engineering, (2) molecular design and synthesis, (3) process modeling and simulation, (4) time-series forecasting, (5) optimization and scheduling, (6) process control, and (7) fault detection and diagnosis. For each category, we summarize the state of the art, identify common methodological approaches, and critically assess demonstrated capabilities versus aspirational claims. We find that LLMs show genuine promise for tasks involving natural language, including querying documentation, synthesizing unstructured knowledge, and enabling flexible human-machine interaction. However, applications requiring real-time execution, constraint satisfaction, or formal safety guarantees remain challenging. We conclude by identifying open problems and productive research directions for the PSE community.",
+  "authors": [
+   "Bhushan Gopaluni",
+   "Vidya Kotamraju",
+   "Syon Bhushan"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Bhushan Gopaluni",
+  "pdf_url": "http://arxiv.org/pdf/2606.11589",
+  "primary_category": "eess.SY",
+  "published": "2026-06-10",
+  "tags": [
+   "fault-detection",
+   "large-language-models",
+   "process-control",
+   "process-design",
+   "process-modeling",
+   "process-systems-engineering"
+  ],
+  "title": "Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges",
+  "topics": [
+   "Digital Twins & Process Monitoring",
+   "Process Control & Optimization",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12057": {
+  "abstract": "Redox-flow battery (RFB) research spans molecular design, electrolyte optimization, electrode and membrane materials, stack operation, system management, and safety analysis, making it a constrained, multi-scale, and multi-objective energy-storage R&D problem. Although large language models (LLMs) can support scientific knowledge integration and proposal generation, generic LLM reasoning remains insufficiently adaptive across innovation-oriented exploration, rule-based execution, mechanistic modeling, and system-level trade-offs. Here we introduce ChargeBD, a character-aware heterogeneous-agent reasoning framework for guided engineering in battery development. Starting from a 50-question RFB-specific task set, we construct a 500-question ESS-LLM Benchmark and define MBTI-inspired persona agents as structured cognitive-bias templates rather than psychometric instruments or representations of real personalities. DeepSeek-V3-Plus is selected as the shared base model, and 16 MBTI-inspired persona agents are evaluated to construct a persona capability matrix and a cognitive advantage matrix.",
+  "authors": [
+   "Rui Huang",
+   "Zekun Jiang",
+   "Xingyu Niu",
+   "Yuqiang Li",
+   "Xinying Gu",
+   "Tianhang Zhou"
+  ],
+  "categories": [
+   "stat.AP"
+  ],
+  "comment": null,
+  "first_author": "Rui Huang",
+  "pdf_url": "http://arxiv.org/pdf/2606.12057",
+  "primary_category": "stat.AP",
+  "published": "2026-06-10",
+  "tags": [
+   "large-language-models",
+   "redox-flow-batteries"
+  ],
+  "title": "ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12345": {
+  "abstract": "The problem of optimal sizing and power scheduling in microgrids subject to uncertainties is well known to the control community. Commonly, the optimal control problem is cast as a mixed-integer program to model the logical constraints arising in energy storage systems, and is then solved approximately using numerical methods such as the scenario approach. In this paper, we propose and compare two formulations of a robust microgrid sizing and power scheduling optimal control problem with logical constraints and uncertainties in the user's power demand, solar power generation, grid electricity prices and battery efficiencies. The first formulation uses binary variables and big-M constraints, leading to a mixed-integer linear program. The second formulation casts the problem as a continuous nonlinear program through an exact smooth reformulation of the logical constraints, consisting of additional modelling variables and non-convex constraints. We then propose a novel local reduction algorithm, extending an existing method, to solve both problems. The two formulations are compared by evaluating the solutions returned by local reduction using 100,000-sample Monte Carlo simulations and achieve promising results, with both averaging feasibility rates above 90%.",
+  "authors": [
+   "Edoardo Scaccia",
+   "Eric C. Kerrigan",
+   "Anna Sadowska"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Edoardo Scaccia",
+  "pdf_url": "http://arxiv.org/pdf/2606.12345",
+  "primary_category": "math.OC",
+  "published": "2026-06-10",
+  "tags": [
+   "energy-storage",
+   "optimal-control"
+  ],
+  "title": "An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-06-10"
  }
 }

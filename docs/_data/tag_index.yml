@@ -3,6 +3,10 @@
   count: 10
   total: 88
   group: modeling
+- name: large-language-models
+  count: 8
+  total: 109
+  group: architectures
 - name: cfd
   count: 6
   total: 89
@@ -11,21 +15,17 @@
   count: 6
   total: 124
   group: materials
-- name: large-language-models
-  count: 6
-  total: 107
-  group: architectures
-- name: chemical-engineering
+- name: energy-storage
   count: 5
-  total: 120
-  group: domain
+  total: 147
+  group: energy
 - name: materials-discovery
   count: 5
   total: 40
   group: materials
-- name: mpc
+- name: process-control
   count: 5
-  total: 72
+  total: 45
   group: control
 - name: active-learning
   count: 4
@@ -35,22 +35,18 @@
   count: 4
   total: 152
   group: reactions
-- name: energy-storage
+- name: chemical-engineering
   count: 4
-  total: 146
-  group: energy
-- name: gaussian-process
-  count: 4
-  total: 55
-  group: methods
+  total: 120
+  group: domain
 - name: molecular-dynamics
   count: 4
   total: 68
   group: materials
-- name: process-control
+- name: process-modeling
   count: 4
-  total: 44
-  group: control
+  total: 29
+  group: modeling
 - name: bayesian-inference
   count: 3
   total: 54
@@ -67,6 +63,10 @@
   count: 3
   total: 20
   group: energy
+- name: gaussian-process
+  count: 3
+  total: 55
+  group: methods
 - name: heat-transfer
   count: 3
   total: 44
@@ -75,10 +75,22 @@
   count: 3
   total: 15
   group: energy
-- name: process-modeling
+- name: mpc
   count: 3
-  total: 28
-  group: modeling
+  total: 72
+  group: control
+- name: optimal-control
+  count: 3
+  total: 38
+  group: control
+- name: process-design
+  count: 3
+  total: 38
+  group: control
+- name: process-systems-engineering
+  count: 3
+  total: 16
+  group: domain
 - name: catalyst-design
   count: 2
   total: 33
@@ -91,22 +103,14 @@
   count: 2
   total: 30
   group: separations
-- name: optimal-control
-  count: 2
-  total: 37
-  group: control
 - name: physics-informed-ml
   count: 2
   total: 44
   group: methods
-- name: process-design
+- name: redox-flow-batteries
   count: 2
-  total: 37
-  group: control
-- name: process-systems-engineering
-  count: 2
-  total: 15
-  group: domain
+  total: 5
+  group: energy
 - name: uncertainty-quantification
   count: 2
   total: 54
@@ -127,6 +131,10 @@
   count: 1
   total: 35
   group: energy
+- name: fault-detection
+  count: 1
+  total: 17
+  group: monitoring
 - name: fuel-cells
   count: 1
   total: 43
@@ -143,10 +151,6 @@
   count: 1
   total: 13
   group: reactions
-- name: redox-flow-batteries
-  count: 1
-  total: 4
-  group: energy
 - name: reduced-order-modeling
   count: 1
   total: 14
@@ -231,10 +235,6 @@
   count: 0
   total: 20
   group: methods
-- name: fault-detection
-  count: 0
-  total: 16
-  group: monitoring
 - name: fixed-bed
   count: 0
   total: 5
