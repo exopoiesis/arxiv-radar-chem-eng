@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06984.html">Accelerating Multi-Objective Bayesian Optimisation via Predictive-Gradient Catalysts</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gaussian-process-360d.html">gaussian-process</a></div></td>
 <td>Alma Rahat et al.</td>
@@ -554,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17963.html">OmniESI: A unified framework for enzyme-substrate interaction prediction with progressive conditional deep learning</a></div><div class="paper-tags"><a href="active-sites-360d.html">active-sites</a></div></td>
 <td>Zhiwei Nie et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17963">2506.17963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13486.html">Leveraging active learning-enhanced machine-learned interatomic potential for efficient infrared spectra prediction</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nitik Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13486">2506.13486</a></td>
 </tr>
 </tbody></table>

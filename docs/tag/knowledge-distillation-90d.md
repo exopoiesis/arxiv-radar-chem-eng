@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>knowledge-distillation — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="knowledge-distillation-7d.html">7d</a> <a href="knowledge-distillation-30d.html">30d</a> <strong>90d</strong> <a href="knowledge-distillation-360d.html">360d</a> <a href="knowledge-distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26249.html">Knowledge Distillation for Efficient Transformer-Based Reinforcement Learning in Hardware-Constrained Energy Management Systems</a></div></td>
 <td>Pascal Henrich et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26249">2603.26249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13213.html">MoEKD: Mixture-of-Experts Knowledge Distillation for Robust and High-Performing Compressed Code Models</a></div><div class="paper-tags"><a href="distillation-90d.html">distillation</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Md. Abdul Awal et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13213">2603.13213</a></td>
 </tr>
 </tbody></table>

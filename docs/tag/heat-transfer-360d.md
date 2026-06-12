@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>heat-transfer — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <a href="heat-transfer-30d.html">30d</a> <a href="heat-transfer-90d.html">90d</a> <strong>360d</strong> <a href="heat-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08468.html">Flow and thermal modelling of the argon volume in the DarkSide-20k TPC</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>DarkSide-20k Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2503.08468">2503.08468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13176.html">An advanced heat transfer model for Eulerian-Lagrangian simulations of industrial gas-solid flow systems</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Toshiki Imatani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13176">2506.13176</a></td>
 </tr>
 </tbody></table>

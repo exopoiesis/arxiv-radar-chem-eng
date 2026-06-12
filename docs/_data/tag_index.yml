@@ -7,18 +7,18 @@
   count: 8
   total: 109
   group: architectures
-- name: cfd
-  count: 6
-  total: 89
-  group: fluids
 - name: dft
   count: 6
   total: 124
   group: materials
-- name: energy-storage
+- name: catalysis
   count: 5
-  total: 147
-  group: energy
+  total: 153
+  group: reactions
+- name: cfd
+  count: 5
+  total: 89
+  group: fluids
 - name: materials-discovery
   count: 5
   total: 40
@@ -31,14 +31,14 @@
   count: 4
   total: 53
   group: methods
-- name: catalysis
-  count: 4
-  total: 152
-  group: reactions
 - name: chemical-engineering
   count: 4
   total: 120
   group: domain
+- name: energy-storage
+  count: 4
+  total: 147
+  group: energy
 - name: molecular-dynamics
   count: 4
   total: 68
@@ -91,6 +91,10 @@
   count: 3
   total: 16
   group: domain
+- name: uncertainty-quantification
+  count: 3
+  total: 55
+  group: methods
 - name: catalyst-design
   count: 2
   total: 33
@@ -111,10 +115,6 @@
   count: 2
   total: 5
   group: energy
-- name: uncertainty-quantification
-  count: 2
-  total: 54
-  group: methods
 - name: adsorption
   count: 1
   total: 81

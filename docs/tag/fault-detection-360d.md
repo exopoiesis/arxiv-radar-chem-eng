@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fault-detection — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="fault-detection-7d.html">7d</a> <a href="fault-detection-30d.html">30d</a> <a href="fault-detection-90d.html">90d</a> <strong>360d</strong> <a href="fault-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02860.html">Comparative Evaluation of Kolmogorov-Arnold Autoencoders and Orthogonal Autoencoders for Fault Detection with Varying Training Set Sizes</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
 <td>Enrique Luna Villagómez et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02860">2508.02860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13878.html">Observer Switching Strategy for Enhanced State Estimation in CSTR Networks</a></div></td>
-<td>Lisbel Bárzaga-Martell et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13878">2506.13878</a></td>
 </tr>
 </tbody></table>

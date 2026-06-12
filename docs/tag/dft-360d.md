@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,11 +464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15337.html">Knowledge Distillation Framework for Accelerating High-Accuracy Neural Network-Based Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Naoki Matsumura et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15337">2506.15337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13486.html">Leveraging active learning-enhanced machine-learned interatomic potential for efficient infrared spectra prediction</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nitik Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13486">2506.13486</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06984.html">Accelerating Multi-Objective Bayesian Optimisation via Predictive-Gradient Catalysts</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="gaussian-process-90d.html">gaussian-process</a></div></td>
 <td>Alma Rahat et al.</td>
@@ -158,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15712.html">LLM-Driven Discovery of High-Entropy Catalysts via Retrieval-Augmented Generation</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a> · <a href="co2-reduction-90d.html">co2-reduction</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>AI Scientists et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15712">2603.15712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10406.html">How to Build a Quantum Supercomputer: Scaling from Hundreds to Millions of Qubits</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a></div></td>
-<td>Masoud Mohseni et al.</td>
-<td><a href="http://arxiv.org/abs/2411.10406">2411.10406</a></td>
 </tr>
 </tbody></table>

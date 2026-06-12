@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-11._
+_Updated 2026-06-12._
 
-**1174** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1175** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11589.html">Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-control-30d.html">process-control</a> · <a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-06-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25351.html">Anomalous Subsurface Vacancy Stabilization Dictated by Geometry-Electronic Decoupling on Metal Surfaces</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a></div></td>
 <td>Yiming Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25351">2605.25351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26392.html">Integrating Hydrogen into Ontario&#x27;s Energy Hub: A Robust, Carbon-Aware Framework for Power-Heat-Transport</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a></div></td>
-<td>Hossein Mirzaee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26392">2605.26392</a></td>
 </tr>
 </tbody></table>

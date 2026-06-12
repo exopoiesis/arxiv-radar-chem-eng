@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01047.html">Variational Digital Twins</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a> · <a href="digital-twin-360d.html">digital-twin</a> · <a href="energy-systems-360d.html">energy-systems</a></div></td>
 <td>Logan A. Burnett et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01047">2507.01047</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13486.html">Leveraging active learning-enhanced machine-learned interatomic potential for efficient infrared spectra prediction</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nitik Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13486">2506.13486</a></td>
 </tr>
 </tbody></table>
