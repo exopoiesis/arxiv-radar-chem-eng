@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07034.html">Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control</a></div><div class="paper-tags"><a href="heat-transfer-90d.html">heat-transfer</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Mikael Vaillant et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07034">2507.07034</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14143.html">Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors</a></div><div class="paper-tags"><a href="gaussian-process-90d.html">gaussian-process</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Meredith Eaheart et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14143">2603.14143</a></td>
 </tr>
 </tbody></table>
