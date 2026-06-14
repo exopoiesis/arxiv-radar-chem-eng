@@ -67,10 +67,6 @@
   count: 3
   total: 55
   group: methods
-- name: heat-transfer
-  count: 3
-  total: 44
-  group: transport
 - name: hydrogen-production
   count: 3
   total: 15
@@ -99,6 +95,10 @@
   count: 2
   total: 33
   group: reactions
+- name: heat-transfer
+  count: 2
+  total: 44
+  group: transport
 - name: hydrogen-evolution
   count: 2
   total: 17
@@ -107,10 +107,6 @@
   count: 2
   total: 30
   group: separations
-- name: physics-informed-ml
-  count: 2
-  total: 44
-  group: methods
 - name: redox-flow-batteries
   count: 2
   total: 5
@@ -151,6 +147,10 @@
   count: 1
   total: 13
   group: reactions
+- name: physics-informed-ml
+  count: 1
+  total: 44
+  group: methods
 - name: reduced-order-modeling
   count: 1
   total: 14

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10824.html">A Robust Optimization Framework for Flexible Industrial Energy Scheduling: Application to a Cement Plant with Market Participation</a></div></td>
 <td>Sebastián Rojas-Innocenti et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10824">2506.10824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15192.html">Microgrid Operation Control with Adaptable Droop Gains</a></div><div class="paper-tags"><a href="fuel-cells-360d.html">fuel-cells</a> · <a href="mpc-360d.html">mpc</a></div></td>
-<td>E. D. Gomez Anccas et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15192">2506.15192</a></td>
 </tr>
 </tbody></table>
