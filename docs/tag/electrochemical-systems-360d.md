@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19146.html">Optimal Design of Experiment for Electrochemical Parameter Identification of Li-ion Battery via Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="experimental-design-360d.html">experimental-design</a> · <a href="mpc-360d.html">mpc</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Mehmet Fatih Ozkan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19146">2506.19146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02887.html">Modeling Membrane Degradation in PEM Electrolyzers with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="electrolysis-360d.html">electrolysis</a> · <a href="hydrogen-production-360d.html">hydrogen-production</a> · <a href="physics-informed-ml-360d.html">physics-informed-ml</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
-<td>Alejandro Polo-Molina et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02887">2507.02887</a></td>
 </tr>
 </tbody></table>

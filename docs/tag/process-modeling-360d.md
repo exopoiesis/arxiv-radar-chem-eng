@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-modeling — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="process-modeling-7d.html">7d</a> <a href="process-modeling-30d.html">30d</a> <a href="process-modeling-90d.html">90d</a> <strong>360d</strong> <a href="process-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07641.html">Machine Learning-Assisted Surrogate Modeling with Multi-Objective Optimization and Decision-Making of a Steam Methane Reforming Reactor</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="fixed-bed-360d.html">fixed-bed</a> · <a href="fixed-bed-reactors-360d.html">fixed-bed-reactors</a> · <a href="mass-transfer-360d.html">mass-transfer</a></div></td>
 <td>Seyed Reza Nabavi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07641">2507.07641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02887.html">Modeling Membrane Degradation in PEM Electrolyzers with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="electrolysis-360d.html">electrolysis</a> · <a href="hydrogen-production-360d.html">hydrogen-production</a> · <a href="physics-informed-ml-360d.html">physics-informed-ml</a></div></td>
-<td>Alejandro Polo-Molina et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02887">2507.02887</a></td>
 </tr>
 </tbody></table>

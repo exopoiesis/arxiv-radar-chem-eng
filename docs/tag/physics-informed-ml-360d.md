@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-ml — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="physics-informed-ml-7d.html">7d</a> <a href="physics-informed-ml-30d.html">30d</a> <a href="physics-informed-ml-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-ml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16362.html">A novel Trunk Branch-net PINN for flow and heat transfer prediction in porous medium</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Haoyun Xing et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16362">2501.16362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02887.html">Modeling Membrane Degradation in PEM Electrolyzers with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="electrolysis-360d.html">electrolysis</a> · <a href="hydrogen-production-360d.html">hydrogen-production</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
-<td>Alejandro Polo-Molina et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02887">2507.02887</a></td>
 </tr>
 </tbody></table>

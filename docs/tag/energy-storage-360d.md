@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17059.html">Evaluating the Impact of Model Accuracy for Optimizing Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
 <td>Martin Cornejo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17059">2506.17059</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10824.html">A Robust Optimization Framework for Flexible Industrial Energy Scheduling: Application to a Cement Plant with Market Participation</a></div></td>
-<td>Sebastián Rojas-Innocenti et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10824">2506.10824</a></td>
 </tr>
 </tbody></table>
