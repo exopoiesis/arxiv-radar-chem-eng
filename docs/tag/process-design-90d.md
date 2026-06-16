@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>process-design — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <strong>90d</strong> <a href="process-design-360d.html">360d</a> <a href="process-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19520.html">Leveraging Classical and Quantum Computing for Process Systems Engineering Applications: Decomposition Algorithm with Ising Solvers for Efficient Discrete Landscape Exploration</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="ionic-liquids-90d.html">ionic-liquids</a></div></td>
 <td>Yirang Park et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19520">2603.19520</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16959.html">Machine intelligence supports the full chain of 2D dendrite synthesis</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Wenqiang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16959">2603.16959</a></td>
 </tr>
 </tbody></table>

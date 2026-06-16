@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08215.html">Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Yun An</td>
 <td><a href="http://arxiv.org/abs/2507.08215">2507.08215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15337.html">Knowledge Distillation Framework for Accelerating High-Accuracy Neural Network-Based Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Naoki Matsumura et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15337">2506.15337</a></td>
 </tr>
 </tbody></table>

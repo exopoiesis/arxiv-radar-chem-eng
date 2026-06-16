@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-storage — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <strong>90d</strong> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21651.html">Full Timescale Hierarchical MPC-MTIP Framework for Hybrid Energy Storage Management in Low-Carbon Industrial Microgrid</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a></div></td>
 <td>Daniyaer Paizulamu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21651">2603.21651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17209.html">A scalable neural bundle map for multiphysics prediction in lithium-ion battery across varying configurations</a></div><div class="paper-tags"><a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="transfer-learning-90d.html">transfer-learning</a></div></td>
-<td>Zhiwei Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17209">2603.17209</a></td>
 </tr>
 </tbody></table>

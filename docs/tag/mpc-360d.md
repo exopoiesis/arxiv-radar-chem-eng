@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mpc — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <strong>360d</strong> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19146.html">Optimal Design of Experiment for Electrochemical Parameter Identification of Li-ion Battery via Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="experimental-design-360d.html">experimental-design</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Mehmet Fatih Ozkan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19146">2506.19146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17059.html">Evaluating the Impact of Model Accuracy for Optimizing Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
-<td>Martin Cornejo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17059">2506.17059</a></td>
 </tr>
 </tbody></table>
