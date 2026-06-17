@@ -35,10 +35,6 @@
   count: 4
   total: 40
   group: materials
-- name: molecular-dynamics
-  count: 4
-  total: 68
-  group: materials
 - name: process-modeling
   count: 4
   total: 29
@@ -55,10 +51,6 @@
   count: 3
   total: 46
   group: monitoring
-- name: electrochemical-systems
-  count: 3
-  total: 64
-  group: energy
 - name: electrolysis
   count: 3
   total: 20
@@ -71,6 +63,10 @@
   count: 3
   total: 15
   group: energy
+- name: molecular-dynamics
+  count: 3
+  total: 68
+  group: materials
 - name: mpc
   count: 3
   total: 72
@@ -95,6 +91,10 @@
   count: 2
   total: 33
   group: reactions
+- name: electrochemical-systems
+  count: 2
+  total: 64
+  group: energy
 - name: heat-transfer
   count: 2
   total: 44
@@ -107,10 +107,6 @@
   count: 2
   total: 30
   group: separations
-- name: redox-flow-batteries
-  count: 2
-  total: 5
-  group: energy
 - name: adsorption
   count: 1
   total: 81
@@ -139,10 +135,6 @@
   count: 1
   total: 15
   group: reactions
-- name: ionic-liquids
-  count: 1
-  total: 7
-  group: separations
 - name: oxygen-evolution
   count: 1
   total: 13
@@ -151,6 +143,10 @@
   count: 1
   total: 44
   group: methods
+- name: redox-flow-batteries
+  count: 1
+  total: 5
+  group: energy
 - name: reduced-order-modeling
   count: 1
   total: 14
@@ -259,6 +255,10 @@
   count: 0
   total: 38
   group: architectures
+- name: ionic-liquids
+  count: 0
+  total: 7
+  group: separations
 - name: knowledge-distillation
   count: 0
   total: 68

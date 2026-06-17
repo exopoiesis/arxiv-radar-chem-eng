@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>system-identification — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <strong>90d</strong> <a href="system-identification-360d.html">360d</a> <a href="system-identification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18565.html">Tuning of Atomic Layer Deposition Pulse Time through Physics-Informed Bayesian Active Learning</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="gaussian-process-90d.html">gaussian-process</a></div></td>
 <td>Pouyan Navabi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18565">2602.18565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17780.html">Data-Driven Predictive Control for Stochastic Descriptor Systems: An Innovation-Based Approach Handling Non-Causal Dynamics</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
-<td>Yunxiang Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17780">2603.17780</a></td>
 </tr>
 </tbody></table>

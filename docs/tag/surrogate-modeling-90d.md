@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25751.html">Physics-informed tritium fuel cycle modelling workflow for fusion reactors</a></div><div class="paper-tags"><a href="bubble-column-90d.html">bubble-column</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="transport-phenomena-90d.html">transport-phenomena</a></div></td>
 <td>Rémi Delaporte-Mathurin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25751">2603.25751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07034.html">Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="heat-transfer-90d.html">heat-transfer</a></div></td>
-<td>Mikael Vaillant et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07034">2507.07034</a></td>
 </tr>
 </tbody></table>
