@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mpc — all</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <a href="mpc-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18799.html">A Theory-Guided Advanced Regulatory Control Synthesis for Cooling-Limited Exothermic Semi-Batch Reactors</a></div></td>
+<td>Chenchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18799">2606.18799</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16051.html">Hidden Degradation Costs in Energy-Cost-Only HEMS Optimisation: Study on Battery and PV Sensitivity</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
+<td>Dawood Butt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16051">2606.16051</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04725.html">GPU-Accelerated Direct Transcription-Based Nonlinear Model Predictive Control</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="optimal-control-all.html">optimal-control</a></div></td>

@@ -577,5 +577,236 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-06-11"
+ },
+ "2606.14478": {
+  "abstract": "This paper presents an optimization framework for the operation of hydrogen-based hybrid electric aerospace propulsion systems consisting of a hydrogen gas turbine and an electric motor powered by a solid oxide fuel cell, connected to the gas turbine via multiple gas channels and heat exchangers. Our framework computes the minimum-fuel optimal operating strategies over a flight mission accounting for the complex propulsion system with strong thermodynamic and mechanical coupling between components. First, we identify surrogate optimization models of the components employing high-fidelity model simulations. Second, we frame the minimum-fuel optimal control problem over a given flight mission and parse it into a static nonlinear optimization problem that can be efficiently solved with off-the-shelf nonlinear programming algorithms. Finally, we apply our optimization framework to a typical flight mission of an advanced, commuter aircraft (Beechcraft 1900D market segment), considering a parallel propulsion system architecture with four different configurations that share a common baseline but differ in the inclusion of an additional battery and by-pass valves around the two heat exchangers. The resulting optimal trajectories are validated against high-fidelity simulation results, demonstrating the accuracy of our framework. Results show that adding by-pass valves around the air and hydrogen heat exchangers can reduce fuel consumption by 19.11 % without the battery, and by 19.56% with the battery. We show that adding a battery yields a slight increase in fuel consumption (below 1%) for future projected energy densities under steady-state conditions. Conversely, when considering state-of-the art energy densities, the additional battery weight outweighs the benefits, limiting its potential applicability to only assisting transients, which are not considered in the present work.",
+  "authors": [
+   "Uto Perra",
+   "Faezeh Pak",
+   "Evangelia Pontika",
+   "Sahil Bhapkar",
+   "Daniel Ewald",
+   "Dario Buzzola",
+   "Theo Hofman",
+   "Frank Willems",
+   "Mauro Salazar"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Uto Perra",
+  "pdf_url": "http://arxiv.org/pdf/2606.14478",
+  "primary_category": "eess.SY",
+  "published": "2026-06-12",
+  "tags": [
+   "fuel-cells",
+   "optimal-control"
+  ],
+  "title": "Optimization Models and Steady-State Minimum-Fuel Operating Strategies for Hydrogen-based Hybrid Electric Aerospace Propulsion Systems",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14729": {
+  "abstract": "Turbulent combustion simulations are crucial for many scientific and engineering systems. However, the high cost to fully resolve the complex multiscale and multiphysics behavior makes direct simulation typically infeasible. The equivalent reactor network (ERN) approach attempts to improve computational efficiency by replacing a multidimensional turbulent simulation with a series of much cheaper 0-D and 1-D chemical reactors, providing a surrogate model that retains detailed chemistry at the cost of simplified flow physics. However, their development remains a challenge, often requiring either expert analysis, or automated approaches that sacrifice accuracy. In this work, we develop an automated machine-learning-assisted framework for constructing ERNs of the Sandia-D turbulent methane/air flame. Principal component analysis is first used to reduce high-dimensional thermochemical computational fluid dynamics (CFD) data to a low-dimensional latent space, where k-means clustering identifies physically interpretable flame regions used to initialize a reactor-network graph. This initialization is then refined using finite-difference gradient descent wrapped around non-differentiable Cantera reactor simulations. Across 30 RANS simulations spanning a range of pilot temperatures and inlet methane compositions, the optimized 7-reactor ERN achieves a maximum-temperature $R^2$ score of 0.7945 while preserving a $\\sim6000\\times$ speedup over the CFD solver. Outlet CO prediction remains more challenging, with a final $R^2$ score of $-0.4183$, but improves substantially from the unoptimized clustering initialization. These results show that unsupervised thermochemical feature extraction can provide effective physics-informed initializations for ERN construction, while gradient-based refinement can significantly improve predictive accuracy without manual reactor-network design.",
+  "authors": [
+   "Nicolas J. Tricard",
+   "Benjamin C. Koenig",
+   "Sili Deng"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.LG",
+   "physics.flu-dyn"
+  ],
+  "comment": "12 pages, 11 figures",
+  "first_author": "Nicolas J. Tricard",
+  "pdf_url": "http://arxiv.org/pdf/2606.14729",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "cfd",
+   "surrogate-modeling",
+   "turbulence-modeling"
+  ],
+  "title": "Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.15845": {
+  "abstract": "This paper presents a power management policy for a hydrogen-based hybrid aero engine combining a gas turbine and a solid oxide fuel cell (SOFC). Specifically, we first identify a quadratic quasi-steady-state model of the propulsion system and formulate the minimum-fuel optimal control problem as a function of the power split between gas turbine and SOFC that captures the interconnections between the components and accounts for their operational limits. Second, leveraging the Karush-Kuhn-Tucker optimality conditions and partial convexity and monotonicity model properties, we compute the globally optimal steady-state power split for the different phases of the flight in closed form. Finally, we verify this power management policy with a high-fidelity integrated static model %simulator across different flight phases, revealing in less than 1.5 % normalized root mean square error in power allocation and less than 0.7 % in predicted fuel consumption. Our results show that the optimal power management policy can be translated into a heuristic control law requesting the highest SOFC power that does not exceed its maximum operating temperature, ultimately paving the way for minimal-effort on-board implementations.",
+  "authors": [
+   "Faezeh Pak",
+   "Uto Perra",
+   "Frank Willems",
+   "Theo Hofman",
+   "Mauro Salazar"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "V1-Replacement",
+  "first_author": "Faezeh Pak",
+  "pdf_url": "http://arxiv.org/pdf/2606.15845",
+  "primary_category": "eess.SY",
+  "published": "2026-06-14",
+  "tags": [
+   "fuel-cells",
+   "optimal-control"
+  ],
+  "title": "An Optimal Power Management Policy for Hydrogen-based Hybrid Aero Engines",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-06-14"
+ },
+ "2606.16051": {
+  "abstract": "Residential battery energy storage systems (BESS) are increasingly deployed alongside photovoltaic (PV) generation to reduce household energy costs under volatile time-of-use (TOU) tariffs. Model predictive control (MPC) is a widely adopted optimisation strategy for home energy management systems (HEMS), typically formulated to minimise net energy cost, subject to physical and operational constraints. However, battery degradation is rarely embedded in the optimisation objective, meaning its cost is unquantified and aggressive; high-cycle-count strategies could incur significant losses once deployed to physical systems. This paper presents a receding-horizon mixed-integer linear programming (MILP) baseline for a UK residential HEMS, using demand data from the REFIT dataset. A 3 by 3 sensitivity study is conducted across three battery sizes and three PV array sizes, with post-hoc degradation cost estimated using the Naumann stress model and rainflow cycle counting. Results show that degradation remains constant for each battery size and can exceed energy cost savings by up to 1,060 %. These results demonstrate that energy-cost-only optimisation systematically underestimates the true system cost, motivating a degradation-aware control formulation.",
+  "authors": [
+   "Dawood Butt",
+   "Nandor Verba"
+  ],
+  "categories": [
+   "cs.NI",
+   "cs.LG"
+  ],
+  "comment": "FSEM 2026, 5 Pages",
+  "first_author": "Dawood Butt",
+  "pdf_url": "http://arxiv.org/pdf/2606.16051",
+  "primary_category": "cs.NI",
+  "published": "2026-06-14",
+  "tags": [
+   "energy-storage",
+   "mpc"
+  ],
+  "title": "Hidden Degradation Costs in Energy-Cost-Only HEMS Optimisation: Study on Battery and PV Sensitivity",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-06-14"
+ },
+ "2606.17180": {
+  "abstract": "This chapter discusses how a data-driven machine learning approach can reproduce key aspects of the physical behavior of multiphase flows in complex geological formations. We propose an end-to-end graph neural surrogate tailored to CO$_2$ plume migration forecasting in geological storage. The method is evaluated on the SPE11A benchmark, a well-known industry test case designed to assess CO$_2$ storage scenarios and characterized by sharp gas-water interfaces, strong advective transport, and rapid convective mixing with fingering development. The benchmark is reformulated as a graph in which nodes represent computational cells and edges encode transmissibility-based interactions enriched with geometric attributes. Directional transport arising from grid geometry, permeability contrasts, and geological heterogeneity is captured through an anisotropic message-passing mechanism, where interaction weights are computed via geometry-conditioned edge embeddings, biasing message aggregation toward physically relevant transport directions. Temporal evolution is modeled in latent space using an autoregressive residual formulation trained with multi-step supervision. The proposed model produces competitive forecasts of gas saturation and liquid-phase density, which are key indicators for CO$_2$ storage monitoring, with cumulative errors that remain moderate over extended forecasting horizons.",
+  "authors": [
+   "Rodrigo S. Luna",
+   "Thiago H. N. Coelho",
+   "Luiz S. L. Neto",
+   "Roberto M. Velho",
+   "Adriano M. A. Cortes",
+   "Renato N. Elias",
+   "Alexandre G. Evsukoff",
+   "Fernando A. Rochinha",
+   "Mauricio Araya-Polo",
+   "Herve Gross",
+   "Alvaro L. G. A. Coutinho"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Rodrigo S. Luna",
+  "pdf_url": "http://arxiv.org/pdf/2606.17180",
+  "primary_category": "cs.LG",
+  "published": "2026-06-15",
+  "tags": [
+   "graph-neural-networks",
+   "multiphase-flow"
+  ],
+  "title": "Towards Fast GNN Surrogates for CO2 Migration in Complex Geological Formations",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.17382": {
+  "abstract": "Electrochemical Impedance Spectroscopy (EIS) is a widely used, non-destructive technique for characterizing electrochemical systems, and its analysis typically relies on fitting the measured spectra to an Equivalent Circuit Model (ECM). Selecting an appropriate ECM, however, remains a major bottleneck: knowledge-based selection requires expert judgment and is difficult to reproduce, while existing automated approaches either choose from a fixed set of candidate circuits or, in the case of Gene Expression Programming, require repeated equivalent-circuit fitting and a predetermined circuit scale. Here, we propose a machine learning method that estimates an ECM directly from an impedance spectrum by representing the circuit as a serialized string of symbols and generating this string with a Long Short-Term Memory (LSTM) network coupled to a convolutional feature extractor. Because the LSTM inherently handles variable-length sequences, the method produces the circuit topology directly, without any fitting during estimation nor prior assumption for the number of elements. A fourth-root transformation of the impedance is introduced to emphasize the mid-frequency features essential for distinguishing circuits, and an adaptive beam search yields multiple ranked candidates. Evaluated on 100,000 synthetic datasets generated from 119 circuit topologies with 1% added noise on impedances, the method identified the correct topology as the most probable ECM in 77.8% of cases and among the top five candidates in 98.8% of cases, with an average estimation time of 17.8 milliseconds per dataset - several orders of magnitude faster than reported fitting-based approaches. These results indicate that direct topology generation with a neural network is a promising route toward fully automated, expert-independent ECM estimation.",
+  "authors": [
+   "Ryoma Iki",
+   "Motoya Furugori",
+   "Noboru Katayama"
+  ],
+  "categories": [
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Ryoma Iki",
+  "pdf_url": "http://arxiv.org/pdf/2606.17382",
+  "primary_category": "eess.SP",
+  "published": "2026-06-16",
+  "tags": [
+   "electrochemical-systems"
+  ],
+  "title": "Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-06-16"
+ },
+ "2606.18799": {
+  "abstract": "This paper studies theory-guided advanced regulatory control (ARC) synthesis for cooling-limited exothermic semi-batch reactors, whose productivity and thermal safety are governed by changing active constraints. Industrial ARC uses feedback loops, cascades, selectors, feedforward/override logic, and valve-position elements, but signal selection, pairing, interconnection, and tuning remain heuristic. Nonlinear model predictive control (NMPC) gives a systematic constrained-operation workflow, but requires a maintained nonlinear model, state estimator, and online optimizer. We combine finite-horizon minimum-time optimality with local safety analysis to develop a systematic analysis-to-architecture ARC synthesis workflow for cooling-limited semi-batch reactors. Under stated assumptions, the workflow translates boundary-seeking optimality into a cooling-demand valve-position-control (VPC) architecture and translates local safety requirements into near-boundary tuning rules. On a reduced benchmark and an industrial-scale polymerization, ARC is nominally competitive with an implemented nominal-model output-feedback nonlinear model predictive control (OF-NMPC) benchmark using extended Kalman filter (EKF) state estimation. In the studied adverse parameter mismatch and unmodeled fault scenarios, ARC keeps temperature-limit violation at 0%, whereas OF-NMPC either violates the limit or fails to complete the batch.",
+  "authors": [
+   "Chenchen Zhou",
+   "Jose Matias"
+  ],
+  "categories": [
+   "eess.SY",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Chenchen Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2606.18799",
+  "primary_category": "eess.SY",
+  "published": "2026-06-17",
+  "tags": [
+   "mpc"
+  ],
+  "title": "A Theory-Guided Advanced Regulatory Control Synthesis for Cooling-Limited Exothermic Semi-Batch Reactors",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19152": {
+  "abstract": "Identifying the lowest-energy surface-adsorbate configuration is critical for modeling heterogeneous catalysis, yet exhaustive exploration with ab initio calculations is computationally prohibitive. Machine-learning force fields (MLFFs) accelerate structural relaxation but leave the search over the vast configurational space a major bottleneck, and open-loop large language model (LLM) agents lack a physics-grounded feedback mechanism to correct erroneous initial guesses. We propose AdsMind (Adsorption configuration discovery with Machine intelligence and relaxation feedback), a closed-loop multi-agent framework that enables autonomous error correction through MLFF relaxation feedback. Across four LLM backends, AdsMind achieves consistently high search reliability, with success rates of 100% and 98.8% on the benchmarks AA20 and OCD-GMAE62. Relative to its single-pass (1-Shot) ablation it reduces cross-backend energy dispersion, and it uses only 4.11 and 4.67 MLFF relaxations per case, respectively -- an approximately 14-fold reduction over heuristic enumeration baselines. Density functional theory (DFT) validation using VASP/PBE on six representative AA20 systems shows that the reported open-loop Adsorb-Agent outputs exhibit qualitative adsorption-energy sign errors for molecular adsorbates, whereas AdsMind preserves the correct sign in all tested cases with closer quantitative agreement. AdsMind thus delivers reliability, self-reflection, and interpretability simultaneously, supporting more DFT-informed autonomous chemistry workflows.",
+  "authors": [
+   "Zongmin Zhang",
+   "Yuyang Lou",
+   "Bowen Zhang",
+   "Junwu Chen",
+   "Ryo Kuroki",
+   "Xuan Vu Nguyen",
+   "Edvin Fako",
+   "Lixue Cheng",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "37 pages, 5 figures",
+  "first_author": "Zongmin Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.19152",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-17",
+  "tags": [
+   "adsorption",
+   "catalysis",
+   "dft",
+   "heterogeneous-catalysis",
+   "large-language-models"
+  ],
+  "title": "AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-06-17"
  }
 }

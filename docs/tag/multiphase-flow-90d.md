@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>multiphase-flow — 90d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="multiphase-flow-7d.html">7d</a> <a href="multiphase-flow-30d.html">30d</a> <strong>90d</strong> <a href="multiphase-flow-360d.html">360d</a> <a href="multiphase-flow-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17180.html">Towards Fast GNN Surrogates for CO2 Migration in Complex Geological Formations</a></div><div class="paper-tags"><a href="graph-neural-networks-90d.html">graph-neural-networks</a></div></td>
+<td>Rodrigo S. Luna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17180">2606.17180</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26695.html">Compartment Modelling of Multiphase Reactors using Unsupervised Clustering</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="flow-reactors-90d.html">flow-reactors</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="optimal-control-90d.html">optimal-control</a></div></td>

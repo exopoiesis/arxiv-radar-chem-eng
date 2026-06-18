@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12345.html">An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction</a></div><div class="paper-tags"><a href="optimal-control-7d.html">optimal-control</a></div></td>
-<td>Edoardo Scaccia et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12345">2606.12345</a></td>
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16051.html">Hidden Degradation Costs in Energy-Cost-Only HEMS Optimisation: Study on Battery and PV Sensitivity</a></div><div class="paper-tags"><a href="mpc-7d.html">mpc</a></div></td>
+<td>Dawood Butt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16051">2606.16051</a></td>
 </tr>
 </tbody></table>

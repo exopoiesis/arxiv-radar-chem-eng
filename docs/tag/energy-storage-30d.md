@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>energy-storage — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <strong>30d</strong> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16051.html">Hidden Degradation Costs in Energy-Cost-Only HEMS Optimisation: Study on Battery and PV Sensitivity</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a></div></td>
+<td>Dawood Butt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16051">2606.16051</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12345.html">An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction</a></div><div class="paper-tags"><a href="optimal-control-30d.html">optimal-control</a></div></td>

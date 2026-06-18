@@ -16,15 +16,15 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17382.html">Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory</a></div></td>
+<td>Ryoma Iki et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17382">2606.17382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Christian S. Ahart et al.</td>
 <td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19107.html">Performance Monitoring of Proton Exchange Membrane Water Electrolyzer by Transformers-Based Machine Learning Model</a></div><div class="paper-tags"><a href="electrolysis-30d.html">electrolysis</a> · <a href="hydrogen-production-30d.html">hydrogen-production</a></div></td>
-<td>Bingqing Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19107">2605.19107</a></td>
 </tr>
 </tbody></table>

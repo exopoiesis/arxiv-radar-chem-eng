@@ -5,15 +5,57 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-17._
+_Updated 2026-06-18._
 
-**1175** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1183** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18799.html">A Theory-Guided Advanced Regulatory Control Synthesis for Cooling-Limited Exothermic Semi-Batch Reactors</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Chenchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18799">2606.18799</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Zongmin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17382.html">Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a></div></td>
+<td>Ryoma Iki et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17382">2606.17382</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17180.html">Towards Fast GNN Surrogates for CO2 Migration in Complex Geological Formations</a></div><div class="paper-tags"><a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/multiphase-flow-30d.html">multiphase-flow</a></div></td>
+<td>Rodrigo S. Luna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17180">2606.17180</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.15845.html">An Optimal Power Management Policy for Hydrogen-based Hybrid Aero Engines</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Faezeh Pak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15845">2606.15845</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16051.html">Hidden Degradation Costs in Energy-Cost-Only HEMS Optimisation: Study on Battery and PV Sensitivity</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Dawood Butt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16051">2606.16051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14478.html">Optimization Models and Steady-State Minimum-Fuel Operating Strategies for Hydrogen-based Hybrid Electric Aerospace Propulsion Systems</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Uto Perra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14478">2606.14478</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -141,57 +183,15 @@ _Updated 2026-06-17._
 <td><a href="http://arxiv.org/abs/2606.04033">2606.04033</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
+<td>Nicolas J. Tricard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26029.html">CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
 <td>Junlin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26029">2605.26029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a></div></td>
-<td>Yanmei Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29821">2605.29821</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Minseo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28340.html">Decision-focused learning for optimal PV-Battery scheduling</a></div><div class="paper-tags"><a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
-<td>Joris Depoortere et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28340">2605.28340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Laurence I. Midgley et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29179.html">Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
-<td>Reid A. Coyle et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29179">2605.29179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26897.html">Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Arseniy Burov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26897">2605.26897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.27722.html">NUCLEUS-MoE: Unified Model of Pool Boiling for Liquid Cooling</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Arthur Feeney et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27722">2605.27722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25351.html">Anomalous Subsurface Vacancy Stabilization Dictated by Geometry-Electronic Decoupling on Metal Surfaces</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a></div></td>
-<td>Yiming Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25351">2605.25351</a></td>
 </tr>
 </tbody></table>

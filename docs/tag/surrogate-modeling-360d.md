@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04033.html">Inverse Critical Experiment Design via Gradient Optimization and a Multigroup Attention-Based Neural Network Architecture</a></div></td>
 <td>Will Savage et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04033">2606.04033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
+<td>Nicolas J. Tricard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>

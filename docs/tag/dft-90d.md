@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
+<td>Zongmin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="hydrogen-production-90d.html">hydrogen-production</a></div></td>
 <td>Yanmei Zang et al.</td>
@@ -116,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14962.html">Practical and accurate density functionals for transition-metal heterogeneous catalysis</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a></div></td>
 <td>Benjamin X. Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.14962">2602.14962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12329.html">DiffCrysGen: A Generative Diffusion Model for Accelerated Design of Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="generative-models-90d.html">generative-models</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12329">2510.12329</a></td>
 </tr>
 </tbody></table>

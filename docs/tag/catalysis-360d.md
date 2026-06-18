@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="dft-360d.html">dft</a> · <a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
+<td>Zongmin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ioannis Kouroudis et al.</td>
@@ -554,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19386.html">AI-assisted prediction of catalytically reactive hotspots in nanoalloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Jolla Kullgren et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19386">2506.19386</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17963.html">OmniESI: A unified framework for enzyme-substrate interaction prediction with progressive conditional deep learning</a></div><div class="paper-tags"><a href="active-sites-360d.html">active-sites</a></div></td>
-<td>Zhiwei Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17963">2506.17963</a></td>
 </tr>
 </tbody></table>
