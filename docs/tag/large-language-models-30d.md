@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>large-language-models — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <strong>30d</strong> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29179.html">Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
 <td>Reid A. Coyle et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29179">2605.29179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19704.html">RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis</a></div><div class="paper-tags"><a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="process-design-30d.html">process-design</a></div></td>
-<td>Dongxiao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19704">2605.19704</a></td>
 </tr>
 </tbody></table>

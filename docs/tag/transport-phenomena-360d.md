@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-ml-360d.html">physics-informed-ml</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02997.html">TransportBench: A Comprehensive Benchmark for Non-Equilibrium Flow Transport</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Xu Wang et al.</td>
@@ -50,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12762.html">TURB-Scalar. A large database of passive scalar fields advected by 2D Navier-Stokes in the turbulent inverse cascade regime</a></div><div class="paper-tags"><a href="process-modeling-360d.html">process-modeling</a></div></td>
 <td>Chiara Calascibetta et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12762">2508.12762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18889.html">CFD Modelling and Sensitivity-Guided Design of Silicon Filament CVD Reactors</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
-<td>G. P. Gakis et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18889">2506.18889</a></td>
 </tr>
 </tbody></table>

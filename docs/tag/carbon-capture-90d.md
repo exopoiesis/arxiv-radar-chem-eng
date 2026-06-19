@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>carbon-capture — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="carbon-capture-7d.html">7d</a> <a href="carbon-capture-30d.html">30d</a> <strong>90d</strong> <a href="carbon-capture-360d.html">360d</a> <a href="carbon-capture-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01693.html">LitMOF: An LLM Multi-Agent for Literature-Validated Metal-Organic Frameworks Database Correction and Expansion</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="experimental-design-90d.html">experimental-design</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
 <td>Honghui Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01693">2512.01693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25062.html">A Computational Fluid Dynamics MacroModel for the Design of Bed Adsorbers</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="cfd-90d.html">cfd</a> · <a href="fixed-bed-90d.html">fixed-bed</a> · <a href="gas-separation-90d.html">gas-separation</a> · <a href="separations-90d.html">separations</a> · <a href="zeolites-90d.html">zeolites</a></div></td>
-<td>Mohamad Najib Nadamani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25062">2509.25062</a></td>
 </tr>
 </tbody></table>

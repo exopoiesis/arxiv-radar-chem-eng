@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mpc — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <strong>360d</strong> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20835.html">Minimum Attention Control (MAC) in a Receding Horizon Framework with Applications</a></div><div class="paper-tags"><a href="fuel-cells-360d.html">fuel-cells</a></div></td>
 <td>Ganesh Teja Theertham et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20835">2507.20835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19146.html">Optimal Design of Experiment for Electrochemical Parameter Identification of Li-ion Battery via Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="experimental-design-360d.html">experimental-design</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
-<td>Mehmet Fatih Ozkan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19146">2506.19146</a></td>
 </tr>
 </tbody></table>

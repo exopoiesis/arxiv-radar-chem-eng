@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-kinetics — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="reaction-kinetics-7d.html">7d</a> <a href="reaction-kinetics-30d.html">30d</a> <a href="reaction-kinetics-90d.html">90d</a> <strong>360d</strong> <a href="reaction-kinetics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02730.html">Constraint-Guided Symbolic Regression for Data-Efficient Kinetic Model Discovery</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="reaction-engineering-360d.html">reaction-engineering</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Miguel Ángel de Carvalho Servia et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02730">2507.02730</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18889.html">CFD Modelling and Sensitivity-Guided Design of Silicon Filament CVD Reactors</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="transport-phenomena-360d.html">transport-phenomena</a></div></td>
-<td>G. P. Gakis et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18889">2506.18889</a></td>
 </tr>
 </tbody></table>

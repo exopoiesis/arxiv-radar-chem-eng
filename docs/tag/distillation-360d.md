@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>distillation — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="distillation-7d.html">7d</a> <a href="distillation-30d.html">30d</a> <a href="distillation-90d.html">90d</a> <strong>360d</strong> <a href="distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,17 +170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00054.html">Enhancing Reasoning Capabilities in SLMs with Reward Guided Dataset Distillation</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Shreyansh Padarha</td>
 <td><a href="http://arxiv.org/abs/2507.00054">2507.00054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14307.html">Learning from Stochastic Teacher Representations Using Student-Guided Knowledge Distillation</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Muhammad Haseeb Aslam et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14307">2504.14307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18525.html">Federated Learning from Molecules to Processes: A Perspective</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
-<td>Jan G. Rittig et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18525">2506.18525</a></td>
 </tr>
 </tbody></table>

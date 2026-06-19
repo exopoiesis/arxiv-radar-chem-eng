@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>separations — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="separations-7d.html">7d</a> <a href="separations-30d.html">30d</a> <strong>90d</strong> <a href="separations-360d.html">360d</a> <a href="separations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00690.html">Topological defect induced phase separation in a holographic system</a></div></td>
 <td>Zi-Qiang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00690">2604.00690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25062.html">A Computational Fluid Dynamics MacroModel for the Design of Bed Adsorbers</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="carbon-capture-90d.html">carbon-capture</a> · <a href="cfd-90d.html">cfd</a> · <a href="fixed-bed-90d.html">fixed-bed</a> · <a href="gas-separation-90d.html">gas-separation</a> · <a href="zeolites-90d.html">zeolites</a></div></td>
-<td>Mohamad Najib Nadamani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25062">2509.25062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19697.html">Plug-and-Steer: Decoupling Separation and Selection in Audio-Visual Target Speaker Extraction</a></div></td>
-<td>Doyeop Kwak et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19697">2603.19697</a></td>
 </tr>
 </tbody></table>

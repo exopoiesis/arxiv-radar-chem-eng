@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00353.html">Augmented Physics-Based Li-ion Battery Model via Adaptive Ensemble Sparse Learning and Conformal Prediction</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Samuel Filgueira da Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00353">2507.00353</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19146.html">Optimal Design of Experiment for Electrochemical Parameter Identification of Li-ion Battery via Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="experimental-design-360d.html">experimental-design</a> · <a href="mpc-360d.html">mpc</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
-<td>Mehmet Fatih Ozkan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19146">2506.19146</a></td>
 </tr>
 </tbody></table>

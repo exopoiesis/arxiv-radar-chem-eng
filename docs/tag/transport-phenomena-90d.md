@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02997.html">TransportBench: A Comprehensive Benchmark for Non-Equilibrium Flow Transport</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Xu Wang et al.</td>
@@ -32,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03504.html">Amalgamation of Physics-Informed Neural Network and LBM for the Prediction of Unsteady Fluid Flows in Fractal-Rough Microchannels</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="physics-informed-ml-90d.html">physics-informed-ml</a></div></td>
 <td>Ganesh Sahadeo Meshram et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03504">2604.03504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25751.html">Physics-informed tritium fuel cycle modelling workflow for fusion reactors</a></div><div class="paper-tags"><a href="bubble-column-90d.html">bubble-column</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Rémi Delaporte-Mathurin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25751">2603.25751</a></td>
 </tr>
 </tbody></table>

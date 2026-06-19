@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>system-identification — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <strong>360d</strong> <a href="system-identification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12602.html">A Hybrid Surrogate for Electric Vehicle Parameter Estimation and Power Consumption via Physics-Informed Neural Operators</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Hansol Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12602">2508.12602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18525.html">Federated Learning from Molecules to Processes: A Perspective</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="distillation-360d.html">distillation</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
-<td>Jan G. Rittig et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18525">2506.18525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19146.html">Optimal Design of Experiment for Electrochemical Parameter Identification of Li-ion Battery via Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="experimental-design-360d.html">experimental-design</a> · <a href="mpc-360d.html">mpc</a></div></td>
-<td>Mehmet Fatih Ozkan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19146">2506.19146</a></td>
 </tr>
 </tbody></table>
