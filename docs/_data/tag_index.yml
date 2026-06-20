@@ -27,10 +27,6 @@
   count: 5
   total: 40
   group: control
-- name: mpc
-  count: 4
-  total: 74
-  group: control
 - name: process-control
   count: 4
   total: 45
@@ -39,33 +35,25 @@
   count: 4
   total: 29
   group: modeling
-- name: active-learning
-  count: 3
-  total: 53
-  group: methods
 - name: bayesian-inference
   count: 3
   total: 54
   group: methods
-- name: chemical-engineering
-  count: 3
-  total: 120
-  group: domain
 - name: fuel-cells
   count: 3
   total: 45
   group: energy
-- name: materials-discovery
+- name: mpc
   count: 3
-  total: 40
-  group: materials
-- name: process-systems-engineering
-  count: 3
-  total: 16
-  group: domain
+  total: 74
+  group: control
 - name: uncertainty-quantification
   count: 3
   total: 56
+  group: methods
+- name: active-learning
+  count: 2
+  total: 53
   group: methods
 - name: adsorption
   count: 2
@@ -91,10 +79,6 @@
   count: 2
   total: 55
   group: methods
-- name: heat-transfer
-  count: 2
-  total: 44
-  group: transport
 - name: heterogeneous-catalysis
   count: 2
   total: 16
@@ -107,6 +91,10 @@
   count: 2
   total: 15
   group: energy
+- name: materials-discovery
+  count: 2
+  total: 40
+  group: materials
 - name: molecular-dynamics
   count: 2
   total: 68
@@ -115,10 +103,6 @@
   count: 2
   total: 45
   group: methods
-- name: process-design
-  count: 2
-  total: 38
-  group: control
 - name: scientific-machine-learning
   count: 2
   total: 12
@@ -127,6 +111,10 @@
   count: 2
   total: 10
   group: transport
+- name: chemical-engineering
+  count: 1
+  total: 120
+  group: domain
 - name: distillation
   count: 1
   total: 54
@@ -143,6 +131,10 @@
   count: 1
   total: 39
   group: architectures
+- name: heat-transfer
+  count: 1
+  total: 44
+  group: transport
 - name: metal-organic-frameworks
   count: 1
   total: 30
@@ -151,6 +143,14 @@
   count: 1
   total: 13
   group: fluids
+- name: process-design
+  count: 1
+  total: 38
+  group: control
+- name: process-systems-engineering
+  count: 1
+  total: 16
+  group: domain
 - name: redox-flow-batteries
   count: 1
   total: 5
