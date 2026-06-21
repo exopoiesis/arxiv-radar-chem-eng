@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>graph-neural-networks — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="graph-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17112.html">Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement</a></div><div class="paper-tags"><a href="separations-360d.html">separations</a></div></td>
 <td>Yuhan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17112">2507.17112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20341.html">A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Marco Laudato</td>
-<td><a href="http://arxiv.org/abs/2506.20341">2506.20341</a></td>
 </tr>
 </tbody></table>

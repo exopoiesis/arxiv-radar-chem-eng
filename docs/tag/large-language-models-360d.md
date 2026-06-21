@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19863.html">Exploring the Capabilities of the Frontier Large Language Models for Nuclear Energy Research</a></div><div class="paper-tags"><a href="energy-systems-360d.html">energy-systems</a></div></td>
 <td>Ahmed Almeldein et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19863">2506.19863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00054.html">Enhancing Reasoning Capabilities in SLMs with Reward Guided Dataset Distillation</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Shreyansh Padarha</td>
-<td><a href="http://arxiv.org/abs/2507.00054">2507.00054</a></td>
 </tr>
 </tbody></table>

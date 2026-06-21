@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12327.html">Learning Plasma Dynamics and Robust Rampdown Trajectories with Predict-First Experiments at TCV</a></div></td>
 <td>Allen M. Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.12327">2502.12327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20341.html">A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
-<td>Marco Laudato</td>
-<td><a href="http://arxiv.org/abs/2506.20341">2506.20341</a></td>
 </tr>
 </tbody></table>

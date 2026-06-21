@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>distillation — 360d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="distillation-7d.html">7d</a> <a href="distillation-30d.html">30d</a> <a href="distillation-90d.html">90d</a> <strong>360d</strong> <a href="distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22865.html">ReasonBridge: Efficient Reasoning Transfer from Closed to Open-Source Language Models</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Ziqi Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22865">2506.22865</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00054.html">Enhancing Reasoning Capabilities in SLMs with Reward Guided Dataset Distillation</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Shreyansh Padarha</td>
-<td><a href="http://arxiv.org/abs/2507.00054">2507.00054</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08468.html">Flow and thermal modelling of the argon volume in the DarkSide-20k TPC</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>
 <td>DarkSide-20k Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2503.08468">2503.08468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20341.html">A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers</a></div><div class="paper-tags"><a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Marco Laudato</td>
-<td><a href="http://arxiv.org/abs/2506.20341">2506.20341</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-systems — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="energy-systems-7d.html">7d</a> <a href="energy-systems-30d.html">30d</a> <a href="energy-systems-90d.html">90d</a> <strong>360d</strong> <a href="energy-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19863.html">Exploring the Capabilities of the Frontier Large Language Models for Nuclear Energy Research</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Ahmed Almeldein et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19863">2506.19863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01047.html">Variational Digital Twins</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="battery-modeling-360d.html">battery-modeling</a> · <a href="digital-twin-360d.html">digital-twin</a></div></td>
-<td>Logan A. Burnett et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01047">2507.01047</a></td>
 </tr>
 </tbody></table>
