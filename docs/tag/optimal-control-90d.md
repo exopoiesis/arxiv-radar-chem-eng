@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>optimal-control — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <strong>90d</strong> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25308.html">Real-time control of multiphase processes with learned operators</a></div><div class="paper-tags"><a href="bubble-column-90d.html">bubble-column</a> · <a href="mpc-90d.html">mpc</a> · <a href="multiphase-flow-90d.html">multiphase-flow</a></div></td>
 <td>Paolo Guida et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25308">2603.25308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21545.html">Auction-Based Task Allocation with Energy-Conscientious Trajectory Optimization for AMR Fleets</a></div><div class="paper-tags"><a href="battery-modeling-90d.html">battery-modeling</a></div></td>
-<td>Jiachen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21545">2603.21545</a></td>
 </tr>
 </tbody></table>
