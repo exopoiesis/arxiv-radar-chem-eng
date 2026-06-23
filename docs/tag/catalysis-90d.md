@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jaehong Kwon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="dft-90d.html">dft</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Zongmin Zhang et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24482.html">Fine-tuning universal machine learning potentials for transition state search in surface catalysis</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Raffaele Cheula et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24482">2603.24482</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="graph-neural-networks-90d.html">graph-neural-networks</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shuyu Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22810">2603.22810</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>large-language-models — all</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21833.html">Inference as Flexibility: Ramp Management for Transmission-Connected AI Data Centres</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
+<td>Zhirui Liang</td>
+<td><a href="http://arxiv.org/abs/2606.21833">2606.21833</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>

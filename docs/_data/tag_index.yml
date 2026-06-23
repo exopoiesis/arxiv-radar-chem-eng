@@ -4,61 +4,69 @@
   total: 90
   group: modeling
 - name: large-language-models
-  count: 7
-  total: 110
+  count: 8
+  total: 111
   group: architectures
 - name: catalysis
-  count: 6
-  total: 154
+  count: 7
+  total: 155
   group: reactions
-- name: cfd
-  count: 5
-  total: 90
-  group: fluids
 - name: dft
-  count: 5
-  total: 125
+  count: 6
+  total: 126
   group: materials
 - name: energy-storage
-  count: 5
-  total: 148
+  count: 6
+  total: 149
   group: energy
 - name: optimal-control
   count: 5
   total: 40
   group: control
 - name: bayesian-inference
-  count: 3
-  total: 54
+  count: 4
+  total: 55
   group: methods
+- name: cfd
+  count: 4
+  total: 90
+  group: fluids
+- name: uncertainty-quantification
+  count: 4
+  total: 57
+  group: methods
+- name: adsorption
+  count: 3
+  total: 83
+  group: separations
 - name: fuel-cells
   count: 3
   total: 45
   group: energy
+- name: materials-discovery
+  count: 3
+  total: 41
+  group: materials
+- name: molecular-dynamics
+  count: 3
+  total: 69
+  group: materials
 - name: mpc
   count: 3
   total: 74
   group: control
-- name: process-modeling
-  count: 3
-  total: 29
-  group: modeling
-- name: uncertainty-quantification
-  count: 3
-  total: 56
-  group: methods
 - name: active-learning
   count: 2
   total: 53
   group: methods
-- name: adsorption
-  count: 2
-  total: 82
-  group: separations
 - name: catalyst-design
   count: 2
   total: 33
   group: reactions
+- name: chemical-engineering
+  count: 2
+  total: 121
+  group: domain
 - name: digital-twin
   count: 2
   total: 46
@@ -87,14 +95,6 @@
   count: 2
   total: 15
   group: energy
-- name: materials-discovery
-  count: 2
-  total: 40
-  group: materials
-- name: molecular-dynamics
-  count: 2
-  total: 68
-  group: materials
 - name: physics-informed-ml
   count: 2
   total: 45
@@ -103,6 +103,18 @@
   count: 2
   total: 45
   group: control
+- name: process-design
+  count: 2
+  total: 39
+  group: control
+- name: process-modeling
+  count: 2
+  total: 29
+  group: modeling
+- name: process-systems-engineering
+  count: 2
+  total: 17
+  group: domain
 - name: scientific-machine-learning
   count: 2
   total: 12
@@ -111,10 +123,10 @@
   count: 2
   total: 10
   group: transport
-- name: chemical-engineering
+- name: carbon-capture
   count: 1
-  total: 120
-  group: domain
+  total: 47
+  group: energy
 - name: distillation
   count: 1
   total: 54
@@ -143,14 +155,6 @@
   count: 1
   total: 13
   group: fluids
-- name: process-design
-  count: 1
-  total: 38
-  group: control
-- name: process-systems-engineering
-  count: 1
-  total: 16
-  group: domain
 - name: redox-flow-batteries
   count: 1
   total: 5
@@ -191,10 +195,6 @@
   count: 0
   total: 2
   group: fluids
-- name: carbon-capture
-  count: 0
-  total: 46
-  group: energy
 - name: chromatography
   count: 0
   total: 6

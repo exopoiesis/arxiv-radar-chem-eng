@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Jaehong Kwon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="electrochemical-systems-90d.html">electrochemical-systems</a></div></td>
 <td>Christian S. Ahart et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05221.html">Benchmarking Universal Machine Learning Interatomic Potentials for Supported Nanoparticles: Decoupling Energy Accuracy from Structural Exploration</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Jiayan Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05221">2512.05221</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="graph-neural-networks-90d.html">graph-neural-networks</a></div></td>
-<td>Shuyu Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22810">2603.22810</a></td>
 </tr>
 </tbody></table>

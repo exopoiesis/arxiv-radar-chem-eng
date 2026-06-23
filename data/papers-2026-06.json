@@ -837,5 +837,178 @@
    "Process Modeling & System Identification"
   ],
   "updated": "2026-06-17"
+ },
+ "2606.20674": {
+  "abstract": "Spiking Neural Networks (SNNs) model biological neural dynamics more faithfully than classical artificial networks, but their stochastic, event-driven computation -- rooted in ion-channel noise and unreliable synaptic vesicle release -- demands probabilistic models for which deterministic abstractions are mathematically inadequate. Formal verification of such models via probabilistic model checking faces a fundamental barrier: the state space explosion problem, where the Discrete-Time Markov Chain (DTMC) encoding grows exponentially with the number of neurons. General-purpose quotient model abstractions [1] can in principle mitigate this growth by partitioning membrane potentials into equivalence classes, but a naïve application to SNNs discards synaptic weight information, limiting the properties that can be verified. This paper introduces a weight-discretized quotient model abstraction that maps continuous synaptic weights to a compact integer range while preserving the relative contribution of each synapse, and presents CogSpike, a unified workbench that integrates SNN design, simulation, and PRISM-based formal verification within a single isomorphic tool chain. The discretization is accompanied by formal correctness guarantees: a two-sided fidelity theorem confines any firing disagreement to a bounded gray zone around threshold, and an Asymptotic Silence theorem gives the exact limit guarantee that unforced neurons fall permanently silent. A topology-dependent scaling analysis shows that the state space reduction compounds exponentially -- approximately $17\\times$ per neuron for discretization parameter $W = 3$ -- enabling verification of networks that are otherwise intractable, as confirmed empirically across seven canonical topologies.",
+  "authors": [
+   "Nikan Zandian Jazi",
+   "Elisabetta De Maria",
+   "Christopher Leturc"
+  ],
+  "categories": [
+   "cs.NE",
+   "cs.AI",
+   "cs.FL"
+  ],
+  "comment": "15 pages. A shortened version of paper was submitted to and accepted at ICANN 26",
+  "first_author": "Nikan Zandian Jazi",
+  "pdf_url": "http://arxiv.org/pdf/2606.20674",
+  "primary_category": "cs.NE",
+  "published": "2026-06-12",
+  "tags": [],
+  "title": "A Formal Tool for Verification of Probabilistic Spiking Neural Networks Based on Quotient Abstractions",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.21523": {
+  "abstract": "The design of cyclic adsorption processes is computationally demanding, requiring repeated convergence to cyclic steady state within an iterative optimisation loop. Conventional workflows treat the process simulator as a black box and rely on derivative-free optimisation, resulting in design campaigns that can require hundreds to thousands of CPU hours. This work presents an end-to-end differentiable model of a pressure vacuum swing adsorption process, developed using the JAX differentiable programming framework and applied here to a benchmark post-combustion carbon capture problem. Automatic differentiation provides exact gradients throughout the entire computational workflow. The differentiation of a single process cycle provides the Jacobian for a Newton iteration to decrease both the number of iterations and the simulation time required to reach cyclic steady state by a factor of 20 relative to a representative MATLAB implementation. Exact gradients of the performance metrics with respect to the design variables further enable gradient-based multi-objective optimisation using the IPOPT algorithm. Applied to a six-variable design problem, the latter produces a superior Pareto front with improved coverage of the trade-off space and closer convergence to the optimal front than the genetic algorithm NSGA-II. Notably, the full front is obtained over two orders of magnitude faster than the conventional approach. By retaining the full mechanistic model while making it differentiable, this framework transforms cyclic adsorption process design from slow black-box simulation with derivative-free optimisation to efficient gradient-enhanced modelling and optimisation, enabling rapid and systematic exploration of complex design spaces.",
+  "authors": [
+   "Alex Glover",
+   "Maria M. Papathanasiou",
+   "Ronny Pini"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Alex Glover",
+  "pdf_url": "http://arxiv.org/pdf/2606.21523",
+  "primary_category": "cs.CE",
+  "published": "2026-06-19",
+  "tags": [
+   "adsorption",
+   "carbon-capture",
+   "process-design"
+  ],
+  "title": "Accelerating Simulation and Optimisation of Cyclic Adsorption Processes with Differentiable Programming",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Process Control & Optimization",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21632": {
+  "abstract": "Molecular dynamics simulation of plasma-surface interactions requires an interatomic potential that is simultaneously accurate, computationally efficient, and able to describe many elements and bonding types in reactive systems. In principle, a foundation model for machine-learned interatomic potential (MLIP) can meet these demands. We explore the use of the Universal Models for Atoms (UMA) model, developed by Meta FAIR, for the interactions of oxygen plasma species on a multilayer of WS$_2$, a promising 2D material. Starting from the pretrained uma-s-1p1 model under the Open Catalyst 2020 (OC20) task, we apply an iterative fine-tuning loop with maximally diverse configuration sampling using Smooth Overlap of Atomic Positions (SOAP) and Farthest Point Sampling (FPS); DFT labeling at the PBE+D3+$U$+spin level; and fine-tuning on energy, force, and stress labels. Even in the absence of fine-tuning, the pretrained model reproduces the production-scale observables of interest, namely, chemisorbed S and O coverage under 15eV O$^+$ and O$_2^+$ bombardment. These results were obtained without spin polarization and Hubbard $U$ correction. Nonetheless, fine-tuning reduces the energy and force mean absolute error (MAE) to $4.5\\times10^{-3}$eV/atom and $0.076$eV/angstrom, respectively.",
+  "authors": [
+   "Jaehong Kwon",
+   "David B. Graves"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "29 pages, 9 figures in the main text, 7 figures in appendix section, and 2 supplementary videos",
+  "first_author": "Jaehong Kwon",
+  "pdf_url": "http://arxiv.org/pdf/2606.21632",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-19",
+  "tags": [
+   "catalysis",
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21728": {
+  "abstract": "Machine learning models are increasingly used to model chemical process systems, yet they often lack principled uncertainty quantification and mechanisms to enforce physical constraints. We propose a probabilistic neural network framework that guarantees satisfaction of linear equality constraints within a given tolerance, while capturing aleatoric uncertainty. Compared to state-of-the-art methods, our formulation demonstrates improved predictive accuracy, uncertainty calibration, and adherence to constraints on reduced data. It also demonstrates competitive performance, but with significantly faster training times when evaluated on large data regimes. We evaluated this on two batch reactor case studies, enforcing mass balances.",
+  "authors": [
+   "Matthew Marsh",
+   "Benoit Chachuat",
+   "Antonio del Rio Chanona"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Matthew Marsh",
+  "pdf_url": "http://arxiv.org/pdf/2606.21728",
+  "primary_category": "cs.LG",
+  "published": "2026-06-19",
+  "tags": [
+   "chemical-engineering",
+   "process-systems-engineering",
+   "uncertainty-quantification"
+  ],
+  "title": "Embedding Linear Equality Constraints in Probabilistic Neural Networks for Dynamic Modelling",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21741": {
+  "abstract": "The multipoint kinetics (MPK) equations extend point kinetics models by tracking neutron populations in lumped reactor regions, offering improved spatial resolution at modest computational cost. However, determining the coupling coefficient matrix $K$ from transient data remains an open problem without established experimental procedures. This work provides some commentary on the task of recovering $K$ from observable forward flux measurements during reactor transients.   Analytical solutions to the Kobayashi MPK formulation in the case of no precursors and with a single precursor family are derived in spectral form, enabling a mathematically rigorous investigation of eigenmode behavior and parameter observability. Coupling coefficient recoverability is investigated using modal sensitivity analysis and the Hessian condition number of the spectral recovery problem. The inclusion of delayed neutron precursors delays this eigenmode divergence but may be insufficient for enabling practical recovery of $K$ in many scenarios. In conclusion, capturing the behavior of nondominant eigenmodes without oversampling the dominant eigenmode is critical to the recoverability of $K$ through transient data.",
+  "authors": [
+   "K. G. Howey",
+   "Giorgio Valocchi",
+   "Dean Price"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "K. G. Howey",
+  "pdf_url": "http://arxiv.org/pdf/2606.21741",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-19",
+  "tags": [],
+  "title": "Observations Regarding the Construction of Multipoint Kinetics Models from Observational Data",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21833": {
+  "abstract": "The rapid growth of large AI data centres introduces new operational challenges for power systems, including rapid ramping, oscillatory load behavior, voltage fluctuations, and supply-demand balancing impacts. For example, the Alberta Electric System Operator (AESO) has identified transmission-connected data centres (TCDCs) as large non-conforming loads that may need to limit their point-of-connection ramp rates. Existing mitigation approaches mainly rely on exogenous electrical resources, such as battery energy storage systems (BESS). This paper presents a proof-of-concept demonstration of a complementary software-defined mitigation layer: using flexible large language model (LLM) inference serving as endogenous TCDC flexibility to partially offset AI training power ramps. We consider a 150 MW TCDC with training, inference, and base-load components. A measured LLaMA-2-70B fine-tuning power profile is scaled to represent an aggregate training block, while measured LLaMA-3.1-70B inference power traces are used to model batch-size-dependent inference flexibility. Three strategies are compared: BESS-only mitigation, batch-size-only control, and coordinated batch-size plus BESS control. Simulation results show that the hybrid strategy reduces BESS discharge energy by 71% and peak discharge power by 51%, while maintaining near-complete compliance with a 10 MW/min ramp limit.",
+  "authors": [
+   "Zhirui Liang"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Zhirui Liang",
+  "pdf_url": "http://arxiv.org/pdf/2606.21833",
+  "primary_category": "eess.SY",
+  "published": "2026-06-20",
+  "tags": [
+   "energy-storage",
+   "large-language-models"
+  ],
+  "title": "Inference as Flexibility: Ramp Management for Transmission-Connected AI Data Centres",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.22425": {
+  "abstract": "Machine-learned interatomic potentials now enable efficient atomistic evaluation for interactive materials discovery, yet closed-loop crystal search methods remain fragmented across bespoke pipelines for editing, relaxation, scoring, constraints, and bookkeeping. We introduce SciVerseGym, a Gymnasium-compatible environment for sequential crystal discovery that frames crystal design as a Markov decision process. Agents observe an atomistic structure, apply chemically meaningful edits, and receive feedback from a configurable evaluator. SciVerseGym supports local and global actions, including elemental substitution, lattice perturbation, atomic displacement, vacancy creation, and atom insertion, along with configurable chemical spaces, structure pools, atomistic and graph-based observations, custom rewards, optional relaxation, and stability or phonon-related diagnostics. Each step applies an edit, evaluates the candidate using a machine-learned interatomic potential or any ASE-compatible calculator, and returns the standard (obs, reward, terminated, truncated, info) tuple. By decoupling agent logic from materials infrastructure, SciVerseGym provides an open, reproducible, and extensible testbed for reinforcement learning, Bayesian optimization, evolutionary search, and language-agent workflows in closed-loop crystal discovery. Code is available at: https://github.com/Bin-Cao/SciVerseGym.",
+  "authors": [
+   "Bin Cao"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Bin Cao",
+  "pdf_url": "http://arxiv.org/pdf/2606.22425",
+  "primary_category": "cs.AI",
+  "published": "2026-06-21",
+  "tags": [
+   "bayesian-inference",
+   "materials-discovery"
+  ],
+  "title": "SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-21"
  }
 }
