@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25308.html">Real-time control of multiphase processes with learned operators</a></div><div class="paper-tags"><a href="bubble-column-90d.html">bubble-column</a> · <a href="multiphase-flow-90d.html">multiphase-flow</a> · <a href="optimal-control-90d.html">optimal-control</a></div></td>
 <td>Paolo Guida et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25308">2603.25308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16148.html">Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Perceval Beja-Battais et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16148">2511.16148</a></td>
 </tr>
 </tbody></table>

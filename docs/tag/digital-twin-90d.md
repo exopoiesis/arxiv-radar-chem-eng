@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>digital-twin — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="digital-twin-7d.html">7d</a> <a href="digital-twin-30d.html">30d</a> <strong>90d</strong> <a href="digital-twin-360d.html">360d</a> <a href="digital-twin-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05429.html">Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset</a></div><div class="paper-tags"><a href="energy-systems-90d.html">energy-systems</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Tinko Sebastian Bartels et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05429">2604.05429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24644.html">Physics-Informed Neural Network Digital Twin for Dynamic Tray-Wise Modeling of Distillation Columns under Transient Operating Conditions</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="distillation-90d.html">distillation</a> · <a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="process-monitoring-90d.html">process-monitoring</a></div></td>
-<td>Debadutta Patra et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24644">2603.24644</a></td>
 </tr>
 </tbody></table>

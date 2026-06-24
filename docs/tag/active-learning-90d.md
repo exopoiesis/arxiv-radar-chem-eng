@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01963.html">Development of machine-learned interatomic potentials to predict structure, transport, and reactivity in platinum-based fuel cells</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="fuel-cells-90d.html">fuel-cells</a></div></td>
 <td>Kamron Fazel et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01963">2505.01963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24482.html">Fine-tuning universal machine learning potentials for transition state search in surface catalysis</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Raffaele Cheula et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24482">2603.24482</a></td>
 </tr>
 </tbody></table>

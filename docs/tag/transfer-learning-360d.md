@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>transfer-learning — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="transfer-learning-7d.html">7d</a> <a href="transfer-learning-30d.html">30d</a> <a href="transfer-learning-90d.html">90d</a> <strong>360d</strong> <a href="transfer-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16362.html">A novel Trunk Branch-net PINN for flow and heat transfer prediction in porous medium</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a> · <a href="physics-informed-ml-360d.html">physics-informed-ml</a></div></td>
 <td>Haoyun Xing et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16362">2501.16362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22865.html">ReasonBridge: Efficient Reasoning Transfer from Closed to Open-Source Language Models</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Ziqi Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22865">2506.22865</a></td>
 </tr>
 </tbody></table>

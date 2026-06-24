@@ -27,10 +27,6 @@
   count: 4
   total: 55
   group: methods
-- name: cfd
-  count: 4
-  total: 90
-  group: fluids
 - name: uncertainty-quantification
   count: 4
   total: 57
@@ -39,6 +35,10 @@
   count: 3
   total: 83
   group: separations
+- name: cfd
+  count: 3
+  total: 90
+  group: fluids
 - name: fuel-cells
   count: 3
   total: 45
