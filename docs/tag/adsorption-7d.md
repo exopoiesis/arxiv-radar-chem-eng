@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jiwen Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21523.html">Accelerating Simulation and Optimisation of Cyclic Adsorption Processes with Differentiable Programming</a></div><div class="paper-tags"><a href="carbon-capture-7d.html">carbon-capture</a> · <a href="process-design-7d.html">process-design</a></div></td>
 <td>Alex Glover et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21523">2606.21523</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="dft-7d.html">dft</a> · <a href="heterogeneous-catalysis-7d.html">heterogeneous-catalysis</a> · <a href="large-language-models-7d.html">large-language-models</a></div></td>
-<td>Zongmin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
 </tr>
 </tbody></table>

@@ -1010,5 +1010,87 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-06-21"
+ },
+ "2606.22926": {
+  "abstract": "Catalyst discovery for ammonia synthesis is inherently a reaction-network challenge because catalytic performance is governed not by a single adsorbed intermediate, but by a surface's orchestrated compatibility with multiple distinct intermediates across competing dissociative and associative pathways. However, navigating ultra-large chemical spaces under such multi-intermediate constraints remains a formidable bottleneck for conventional screening workflows. Here, we report a reaction-network-level catalyst discovery framework driven by ten-million-scale generative exploration. By coupling adsorbate-specific generative Transformers with high-throughput machine learning potentials, we systematically map the structure-property landscapes of four critical intermediates (N*, NH*, NNH*, and HNNH*). Scale-dependent overlap analysis shows that the full four-intermediate compatibility space remains strongly under-sampled at conventional 105-106 generative scales, emerging exclusively under ten-million-scale exploration. By generating approximately 15 million configurations per adsorbate, followed by structural compression and machine-learning-potential predictions, we identified 279 highly potential target materials. This sparse compatibility space successfully recovers traditional Fe- and Ru-based motifs while uncovering previously unexplored catalyst families. Representative DFT calculations validate pathway-dependent mechanisms: Fe-V emerges as a dissociative-pathway lead by significantly lowering the initial N2 dissociation barrier, whereas Al-Pd-Zr efficiently stabilizes associative intermediates as an associative-pathway lead. These findings establish multi-intermediate reaction-network compatibility as a robust criterion for discovering advanced catalysts from multi-million generative chemical spaces.",
+  "authors": [
+   "Ruili Li",
+   "Rui Qi",
+   "Shuoqi Zhang",
+   "Qingli Tang",
+   "Qingqing Mao",
+   "Ritankar Das",
+   "Beien Zhu",
+   "Yi Gao"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ruili Li",
+  "pdf_url": "http://arxiv.org/pdf/2606.22926",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-22",
+  "tags": [
+   "ammonia-synthesis",
+   "catalysis",
+   "catalyst-design",
+   "dft"
+  ],
+  "title": "Reaction-Network-Level Discovery of Ammonia Synthesis Catalysts via Ten-Million-Scale Generative Exploration",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.23368": {
+  "abstract": "Neutrals in the plasma edge are commonly modeled by kinetic equations, with quantities of interest given by macroscopic quantities such as density, velocity, and temperature. In reactor-relevant regimes, fully kinetic descriptions solved by Monte Carlo (MC) methods, although accurate, become computationally expensive, whereas fluid-limit approximations are computationally more efficient but may lose accuracy due to boundary effects or low-collisional regimes. Hybrid fluid-kinetic approaches aim to combine the strengths of both descriptions. However, existing simulation methods face challenges, including interface handling in domain decomposition, unphysical assumptions, and iterative coupling in distribution decomposition. In this work, we propose a distribution-decomposition hybrid model constructed at the particle level based on the kinetic-diffusion Monte Carlo (KDMC) method. The model inherits key properties of KDMC: it is asymptotic-preserving and does not require iterative coupling between the fluid and kinetic components. To improve the accuracy of the fluid-part quantities estimation, a Navier-Stokes-type fluid system is derived via Hilbert-Chapman-Enskog expansions, tailored for KDMC. In the considered one-dimensional tests, the resulting fluid system has comparable accuracy to the AFN model used in SOLPS-ITER while requiring substantially fewer nonlinear iterations. Additionally, a tunable reflective boundary condition is introduced that allows balancing accuracy and efficiency. The model exhibits at least 500 times speedup over the kinetic MC, while maintaining relative L2 errors around 10% in a charge exchange (CX)-dominant test case. In non-CX-dominant regimes, the accuracy becomes increasingly sensitive to boundary treatment due to the inherent limitations of the fluid approximation near the boundary, motivating further refinement of the KDMC boundary conditions.",
+  "authors": [
+   "Zhirui Tang",
+   "Niels Horsten",
+   "Giovanni Samaey"
+  ],
+  "categories": [
+   "cs.CE",
+   "physics.comp-ph"
+  ],
+  "comment": "27 pages, 11 Figures",
+  "first_author": "Zhirui Tang",
+  "pdf_url": "http://arxiv.org/pdf/2606.23368",
+  "primary_category": "cs.CE",
+  "published": "2026-06-22",
+  "tags": [],
+  "title": "A kinetic-diffusion Monte Carlo-based particle-level fluid-kinetic decomposition for neutral transport simulations",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.25853": {
+  "abstract": "We present a model for magnesium-based systems that combines density functional tight binding (DFTB) with MACE, a machine learning interatomic potential (DFTB+MACE). In this model, the conventional repulsive potential, pair potential, is replaced by a many-body MACE potential. The MACE component of the model is trained on the difference between density functional theory (DFT) energies and forces and the corresponding DFTB values, but neglecting the pair potential contribution. Using this model we performed structural relaxation of MgO-CO2 adsorption systems, molecular dynamics calculations of water clusters and phonon spectrum calculations of stable fcc-MgO and metastable bcc-MgO structures. We compare the performance of our model with a pure MACE model and with DFT. We demonstrate that the DFTB+MACE model achieves improved accuracy relative to DFTB with a pair potential, in many cases with only a moderate increase in computational cost. In addition, it can provide electronic structures that most of the machine learning potentials cannot. The training dataset, originally developed for MACE, may not fully represent all regions of the potential surface we may encounter during simulations. Expanding the dataset for a wider potential surface is expected to further enhance predictive accuracy of DFTB+MACE model. Overall, the resulting DFTB+MACE framework enables simulations at length and time scales beyond the reach of first-principles methods while retaining an explicit description of electronic structures, making it particularly attractive for studying charge-transfer in materials.",
+  "authors": [
+   "Jiwen Yu",
+   "Arash A. Mostofi",
+   "Andrew Horsfield"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiwen Yu",
+  "pdf_url": "http://arxiv.org/pdf/2606.25853",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-24",
+  "tags": [
+   "adsorption",
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-06-24"
  }
 }

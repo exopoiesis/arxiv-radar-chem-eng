@@ -5,15 +5,33 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-24._
+_Updated 2026-06-25._
 
-**1191** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1194** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jiwen Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22926.html">Reaction-Network-Level Discovery of Ammonia Synthesis Catalysts via Ten-Million-Scale Generative Exploration</a></div><div class="paper-tags"><a href="tag/ammonia-synthesis-30d.html">ammonia-synthesis</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td>Ruili Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22926">2606.22926</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23368.html">A kinetic-diffusion Monte Carlo-based particle-level fluid-kinetic decomposition for neutral transport simulations</a></div></td>
+<td>Zhirui Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23368">2606.23368</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-06-24._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04471.html">Self-Optimizing Control of Continuous Processes Based on Reinforcement Learning</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
 <td>Ziqi Zhuo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04471">2606.04471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04725.html">GPU-Accelerated Direct Transcription-Based Nonlinear Model Predictive Control</a></div><div class="paper-tags"><a href="tag/distillation-30d.html">distillation</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
-<td>Evelyn Gondosiswanto et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04725">2606.04725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05050">2606.05050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02997.html">TransportBench: A Comprehensive Benchmark for Non-Equilibrium Flow Transport</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="tag/transport-phenomena-30d.html">transport-phenomena</a></div></td>
-<td>Xu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02997">2606.02997</a></td>
 </tr>
 </tbody></table>

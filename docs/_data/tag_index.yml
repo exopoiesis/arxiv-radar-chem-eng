@@ -9,11 +9,11 @@
   group: architectures
 - name: catalysis
   count: 7
-  total: 155
+  total: 156
   group: reactions
 - name: dft
-  count: 6
-  total: 126
+  count: 7
+  total: 128
   group: materials
 - name: energy-storage
   count: 6
@@ -23,18 +23,26 @@
   count: 5
   total: 40
   group: control
+- name: adsorption
+  count: 4
+  total: 84
+  group: separations
 - name: bayesian-inference
   count: 4
   total: 55
   group: methods
+- name: molecular-dynamics
+  count: 4
+  total: 70
+  group: materials
 - name: uncertainty-quantification
   count: 4
   total: 57
   group: methods
-- name: adsorption
+- name: catalyst-design
   count: 3
-  total: 83
-  group: separations
+  total: 34
+  group: reactions
 - name: cfd
   count: 3
   total: 90
@@ -47,10 +55,6 @@
   count: 3
   total: 41
   group: materials
-- name: molecular-dynamics
-  count: 3
-  total: 69
-  group: materials
 - name: mpc
   count: 3
   total: 74
@@ -59,10 +63,6 @@
   count: 2
   total: 53
   group: methods
-- name: catalyst-design
-  count: 2
-  total: 33
-  group: reactions
 - name: chemical-engineering
   count: 2
   total: 121
@@ -75,10 +75,6 @@
   count: 2
   total: 65
   group: energy
-- name: electrolysis
-  count: 2
-  total: 20
-  group: energy
 - name: gaussian-process
   count: 2
   total: 55
@@ -87,14 +83,6 @@
   count: 2
   total: 16
   group: reactions
-- name: hydrogen-evolution
-  count: 2
-  total: 17
-  group: reactions
-- name: hydrogen-production
-  count: 2
-  total: 15
-  group: energy
 - name: physics-informed-ml
   count: 2
   total: 45
@@ -123,6 +111,10 @@
   count: 2
   total: 10
   group: transport
+- name: ammonia-synthesis
+  count: 1
+  total: 5
+  group: energy
 - name: carbon-capture
   count: 1
   total: 47
@@ -131,6 +123,10 @@
   count: 1
   total: 54
   group: separations
+- name: electrolysis
+  count: 1
+  total: 20
+  group: energy
 - name: energy-systems
   count: 1
   total: 35
@@ -147,6 +143,14 @@
   count: 1
   total: 44
   group: transport
+- name: hydrogen-evolution
+  count: 1
+  total: 17
+  group: reactions
+- name: hydrogen-production
+  count: 1
+  total: 15
+  group: energy
 - name: metal-organic-frameworks
   count: 1
   total: 30
@@ -179,10 +183,6 @@
   count: 0
   total: 3
   group: separations
-- name: ammonia-synthesis
-  count: 0
-  total: 4
-  group: energy
 - name: anomaly-detection
   count: 0
   total: 19
