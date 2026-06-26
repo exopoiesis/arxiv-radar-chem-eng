@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-25._
+_Updated 2026-06-26._
 
-**1194** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1195** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -19,6 +19,12 @@ _Updated 2026-06-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jiwen Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26347.html">Health feature extraction from battery energy storage system field fault data</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/fault-detection-30d.html">fault-detection</a></div></td>
+<td>Clement Wong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26347">2606.26347</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>
@@ -187,11 +193,5 @@ _Updated 2026-06-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05534.html">Learning-Assisted Day-Ahead Energy Scheduling for Frequency-Secure Inverter-Dominated Grids with Grid-Forming Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Fan Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05534">2606.05534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04471.html">Self-Optimizing Control of Continuous Processes Based on Reinforcement Learning</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
-<td>Ziqi Zhuo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04471">2606.04471</a></td>
 </tr>
 </tbody></table>

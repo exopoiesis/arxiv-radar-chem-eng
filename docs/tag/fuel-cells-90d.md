@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>fuel-cells — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <strong>90d</strong> <a href="fuel-cells-360d.html">360d</a> <a href="fuel-cells-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27755.html">Computational Facilitation of Large Scale Microfluidic Fuel Cell Architectures</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="energy-systems-90d.html">energy-systems</a></div></td>
 <td>Michel Takken et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27755">2603.27755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jack Jon Hinsch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
 </tr>
 </tbody></table>

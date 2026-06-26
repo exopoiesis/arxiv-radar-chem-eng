@@ -1092,5 +1092,37 @@
    "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2026-06-24"
+ },
+ "2606.26347": {
+  "abstract": "Health monitoring methods are critical for lithium-ion battery modules connected to the grid to prevent faults that can lead to catastrophic events. However, assessing the health of cells in modules from their operational data presents challenges including variable operating conditions, which directly confound health features, and sparse sensing in the modules, particularly within cells in parallel, which prevents observing critical states of individual cells. Here, we present a framework for extracting and calibrating health features for battery modules from their operational data to identify discriminative features for separating faulty parallel-connected cell groups within the modules. We applied this framework to operational data from 25 commercial grid-connected lithium-ion Battery Energy Storage System (BESS) modules. Each module consisted of 14 series-connected parallel groups, one of which was confirmed as faulty via post-mortem investigation; in total, the dataset included 25 faulty and 325 non-faulty cell groups. A statistical evaluation of these calibrated features demonstrated that group-level capacity, capacity degradation rate, and dV/dQ peak heights separate faulty parallel-connected cell groups within the modules with statistical significance (p<0.05). Conversely, group internal resistance did not (p>0.05), indicating that increased resistance was not a primary characteristic of the faults in this dataset. These findings challenge the exclusive reliance on resistance features for fault detection. The observed feature signatures suggest potential failure mechanisms, furthering the understanding of fault behavior in lithium-ion battery modules during field operation. More importantly, this work demonstrates a framework for robustly monitoring the health of cells in lithium-ion battery modules under real-world operations.",
+  "authors": [
+   "Clement Wong",
+   "Andrew Weng",
+   "Xin Hui Ooi",
+   "Zhiwen Wan",
+   "Jeesoon Choi",
+   "Seung Yoon Yang",
+   "Heejun Jin",
+   "Jason Siegel",
+   "Anna Stefanopoulou"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Clement Wong",
+  "pdf_url": "http://arxiv.org/pdf/2606.26347",
+  "primary_category": "eess.SY",
+  "published": "2026-06-24",
+  "tags": [
+   "battery-modeling",
+   "energy-storage",
+   "fault-detection"
+  ],
+  "title": "Health feature extraction from battery energy storage system field fault data",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-06-24"
  }
 }
