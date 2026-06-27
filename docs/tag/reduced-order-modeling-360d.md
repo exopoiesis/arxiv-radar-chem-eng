@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08515.html">Impacts of internal heating on temperature distribution in channels</a></div><div class="paper-tags"><a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Lubomír Bureš et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08515">2507.08515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00353.html">Augmented Physics-Based Li-ion Battery Model via Adaptive Ensemble Sparse Learning and Conformal Prediction</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Samuel Filgueira da Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00353">2507.00353</a></td>
 </tr>
 </tbody></table>

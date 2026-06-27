@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,23 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11061.html">Lifelong reinforcement learning for health-aware fast charging of lithium-ion batteries</a></div></td>
 <td>Meng Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11061">2505.11061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00584.html">Monolayer Two-dimensional Materials Database (ML2DDB) and Applications</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Zhongwei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00584">2507.00584</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00628.html">Price Aware Power Split Control in Heterogeneous Battery Storage Systems</a></div></td>
-<td>Sheng Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00628">2507.00628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01173.html">An Adaptive Estimation Approach based on Fisher Information to Overcome the Challenges of LFP Battery SOC Estimation</a></div></td>
-<td>Junzhe Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01173">2507.01173</a></td>
 </tr>
 </tbody></table>

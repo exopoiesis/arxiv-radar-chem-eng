@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>separations — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="separations-7d.html">7d</a> <a href="separations-30d.html">30d</a> <a href="separations-90d.html">90d</a> <strong>360d</strong> <a href="separations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10104.html">Continuous variable quantum communication with 40 pairs of entangled sideband</a></div></td>
 <td>Xuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10104">2507.10104</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00469.html">Bisecle: Binding and Separation in Continual Learning for Video Language Understanding</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Yue Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00469">2507.00469</a></td>
 </tr>
 </tbody></table>

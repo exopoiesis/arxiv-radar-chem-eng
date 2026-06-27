@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,17 +422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07115.html">Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="digital-twin-360d.html">digital-twin</a> · <a href="process-control-360d.html">process-control</a></div></td>
 <td>Javal Vyas et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07115">2507.07115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00469.html">Bisecle: Binding and Separation in Continual Learning for Video Language Understanding</a></div><div class="paper-tags"><a href="separations-360d.html">separations</a></div></td>
-<td>Yue Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00469">2507.00469</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02982.html">We Need Knowledge Distillation for Solving Math Word Problems</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Zhenquan Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02982">2507.02982</a></td>
 </tr>
 </tbody></table>

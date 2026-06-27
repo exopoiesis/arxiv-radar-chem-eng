@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>heat-transfer — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <a href="heat-transfer-30d.html">30d</a> <a href="heat-transfer-90d.html">90d</a> <strong>360d</strong> <a href="heat-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09368.html">Computational Aerothermal Framework and Analysis of Stetson Mach 6 Blunt Cone</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Arturo Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09368">2507.09368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16362.html">A novel Trunk Branch-net PINN for flow and heat transfer prediction in porous medium</a></div><div class="paper-tags"><a href="physics-informed-ml-360d.html">physics-informed-ml</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
-<td>Haoyun Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16362">2501.16362</a></td>
 </tr>
 </tbody></table>
