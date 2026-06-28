@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>membrane-separation — 360d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="membrane-separation-7d.html">7d</a> <a href="membrane-separation-30d.html">30d</a> <a href="membrane-separation-90d.html">90d</a> <strong>360d</strong> <a href="membrane-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10457.html">Hybrid Physics-ML Model for Forward Osmosis Flux with Complete Uncertainty Quantification</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="gaussian-process-360d.html">gaussian-process</a> · <a href="mass-transfer-360d.html">mass-transfer</a> · <a href="process-design-360d.html">process-design</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Shiv Ratn et al.</td>
 <td><a href="http://arxiv.org/abs/2512.10457">2512.10457</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01657.html">Symport/Antiport P Systems with Membrane Separation Characterize P^(#P)</a></div></td>
-<td>Vivien Ducros et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01657">2507.01657</a></td>
 </tr>
 </tbody></table>
