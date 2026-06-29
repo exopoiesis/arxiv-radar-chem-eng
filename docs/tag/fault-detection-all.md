@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>fault-detection — all</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="fault-detection-7d.html">7d</a> <a href="fault-detection-30d.html">30d</a> <a href="fault-detection-90d.html">90d</a> <a href="fault-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28011.html">From Detection to Action: Using LLM Agents for Fault-Tolerant Control</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a></div></td>
+<td>Javal Vyas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28011">2606.28011</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26347.html">Health feature extraction from battery energy storage system field fault data</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="energy-storage-all.html">energy-storage</a></div></td>

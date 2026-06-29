@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28011.html">From Detection to Action: Using LLM Agents for Fault-Tolerant Control</a></div><div class="paper-tags"><a href="fault-detection-360d.html">fault-detection</a></div></td>
+<td>Javal Vyas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28011">2606.28011</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21833.html">Inference as Flexibility: Ramp Management for Transmission-Connected AI Data Centres</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Zhirui Liang</td>
@@ -416,11 +422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06399.html">An AI-Driven Thermal-Fluid Testbed for Advanced Small Modular Reactors: Integration of Digital Twin and Large Language Models</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a></div></td>
 <td>Doyeong Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06399">2507.06399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07115.html">Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="digital-twin-360d.html">digital-twin</a> · <a href="process-control-360d.html">process-control</a></div></td>
-<td>Javal Vyas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07115">2507.07115</a></td>
 </tr>
 </tbody></table>

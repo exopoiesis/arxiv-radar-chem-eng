@@ -12,8 +12,8 @@
   total: 156
   group: reactions
 - name: large-language-models
-  count: 5
-  total: 111
+  count: 6
+  total: 112
   group: architectures
 - name: bayesian-inference
   count: 4
@@ -35,6 +35,10 @@
   count: 3
   total: 84
   group: separations
+- name: fault-detection
+  count: 3
+  total: 19
+  group: monitoring
 - name: fuel-cells
   count: 3
   total: 45
@@ -63,10 +67,6 @@
   count: 2
   total: 65
   group: energy
-- name: fault-detection
-  count: 2
-  total: 18
-  group: monitoring
 - name: gaussian-process
   count: 2
   total: 55
