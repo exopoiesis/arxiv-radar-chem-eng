@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-06-29._
+_Updated 2026-06-30._
 
-**1196** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1202** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,46 @@ _Updated 2026-06-29._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Shaobo Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29459.html">Interpretable Inverse Design of Metal-Organic Frameworks with Large Language Model Agents</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
+<td>Kyungmin Nam et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29459">2606.29459</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28011.html">From Detection to Action: Using LLM Agents for Fault-Tolerant Control</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
 <td>Javal Vyas et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28011">2606.28011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28458.html">mCGCNN: A Dual-Stream Crystal Graph Convolutional Neural Network for the Efficient Prediction of Magnetic Properties of Crystalline Materials</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a></div></td>
+<td>Sourav Mal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28458">2606.28458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Philipp Denzel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
+<td>Feng Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28507">2606.28507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28578.html">Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Sk Md Ahnaf Akif Alvi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28578">2606.28578</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-24</td>
@@ -157,41 +193,5 @@ _Updated 2026-06-29._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12345.html">An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
 <td>Edoardo Scaccia et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12345">2606.12345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Fateme Mohammad Mohammadi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10682">2606.10682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11099.html">The Fuel Optimizer: A Data-Driven Numerical Framework for Formulation of Aviation Turbine Fuel</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Ana Larrañaga et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11099">2606.11099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.08611.html">Bayesian Optimization of a Multi-Product Chemical Reactor Using Composite Models and Partial Physics Knowledge</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Liqiu Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08611">2606.08611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Michael Chin</td>
-<td><a href="http://arxiv.org/abs/2606.09923">2606.09923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06984.html">Accelerating Multi-Objective Bayesian Optimisation via Predictive-Gradient Catalysts</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Alma Rahat et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06984">2606.06984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07724.html">A Geometry-Aware Triplane Field Network for Vehicle Aerodynamic Prediction</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Kangkang Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07724">2606.07724</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalyst-design — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <strong>360d</strong> <a href="catalyst-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16658.html">Adsorb-Agent: Autonomous Identification of Stable Adsorption Configurations via Large Language Model Agent</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Janghoon Ock et al.</td>
 <td><a href="http://arxiv.org/abs/2410.16658">2410.16658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13838.html">Machine Learning Accelerated Descriptor Design for Catalyst Discovery in CO$_2$ to Methanol Conversion</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Prajwal Pisal et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13838">2412.13838</a></td>
 </tr>
 </tbody></table>

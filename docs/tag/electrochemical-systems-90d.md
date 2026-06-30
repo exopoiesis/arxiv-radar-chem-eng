@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="system-identification-90d.html">system-identification</a></div></td>
+<td>Feng Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28507">2606.28507</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17382.html">Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory</a></div></td>
 <td>Ryoma Iki et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15628.html">Learning continuous state of charge dependent thermal decomposition kinetics for Li-ion cathodes using Kolmogorov-Arnold Chemical Reaction Neural Networks (KA-CRNNs)</a></div></td>
 <td>Benjamin C. Koenig et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15628">2512.15628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17275.html">Time-dependent global sensitivity analysis of the Doyle-Fuller-Newman model</a></div><div class="paper-tags"><a href="battery-modeling-90d.html">battery-modeling</a></div></td>
-<td>Elia Zonta et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17275">2502.17275</a></td>
 </tr>
 </tbody></table>

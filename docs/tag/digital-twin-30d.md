@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>digital-twin — 30d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="digital-twin-7d.html">7d</a> <strong>30d</strong> <a href="digital-twin-90d.html">90d</a> <a href="digital-twin-360d.html">360d</a> <a href="digital-twin-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="system-identification-30d.html">system-identification</a></div></td>
+<td>Feng Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28507">2606.28507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="catalyst-design-30d.html">catalyst-design</a> · <a href="heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a> · <a href="large-language-models-30d.html">large-language-models</a></div></td>

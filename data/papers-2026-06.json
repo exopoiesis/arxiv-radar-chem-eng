@@ -1152,5 +1152,173 @@
    "Digital Twins & Process Monitoring"
   ],
   "updated": "2026-06-26"
+ },
+ "2606.28458": {
+  "abstract": "Magnetic order in crystals is governed by moment-carrying sublattices and ligand-mediated exchange pathways, yet standard crystal graph neural networks treat all atoms homogeneously and encode bonds primarily through pair distances. We propose mCGCNN, a magnetism-aware crystal graph network that augments the full structural graph with a dedicated magnetic subgraph. The magnetic stream performs angle-aware message passing over magnetic centers using metal-ligand-metal exchange-path descriptors motivated by Goodenough-Kanamori-Anderson physics, while layer-wise cross-coupling transfers structural and ligand-field information from the full crystal graph. A separate magnetic-sublattice pooling operation prevents the magnetic interaction from being diluted by nonmagnetic atoms. Benchmarked on a curated Materials Project spin-polarized DFT data, mCGCNN improves total magnetic moment prediction from a CGCNN test MAE of 2.54~$μ_B$ to 2.02~$μ_B$, outperforming a strengthened CGCNN readout baseline and raising the test $R^2$ from 0.644 to 0.776. When pretrained on moment regression, the same magnetic representation improves ferromagnetic/antiferromagnetic classification. The results demonstrate that incorporating exchange geometry directly into graph architectures provides a physically grounded route to predictive models of magnetic materials.",
+  "authors": [
+   "Sourav Mal",
+   "Satadeep Bhattacharjee"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sourav Mal",
+  "pdf_url": "http://arxiv.org/pdf/2606.28458",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-26",
+  "tags": [
+   "dft",
+   "graph-neural-networks"
+  ],
+  "title": "mCGCNN: A Dual-Stream Crystal Graph Convolutional Neural Network for the Efficient Prediction of Magnetic Properties of Crystalline Materials",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.28493": {
+  "abstract": "The Square Kilometre Array Observatory (SKAO) will usher in an era of unprecedented data complexity and scientific opportunity in radio astronomy, producing petabyte-scale datasets and terabit-per-second streams that challenge traditional analysis paradigms. Artificial Intelligence (AI) stands at the forefront of this transformation, offering scalable, adaptive solutions to the most pressing problems in radio astronomy and astrophysics. This chapter explores the pivotal role of AI in the SKA era, from real-time operations to scientific discovery. We examine how deep learning models enable automated source detection, radio-frequency interference mitigation, anomaly detection, and parameter inference, while generative approaches accelerate sky simulations, calibration, and imaging. Reinforcement learning promises dynamic scheduling and autonomous system control, and federated learning could address the distributed nature of SKA data. Beyond performance, we emphasize the necessity of explainability, uncertainty quantification, and physics-informed inductive biases to ensure scientific integrity. By mapping SKAO's core challenges - data volume, complexity, and interpretability - onto modern AI methodologies, we review how deep learning, self-supervised frameworks, and probabilistic models can unlock new frontiers in cosmology, galaxy evolution, and time-domain astrophysics. AI is not merely an automation tool for coping with scale. It is a catalyst for discovery, redefining how we observe, model, and understand the Universe.",
+  "authors": [
+   "Philipp Denzel",
+   "Frank-Peter Schilling",
+   "Elena Gavagnin"
+  ],
+  "categories": [
+   "astro-ph.IM"
+  ],
+  "comment": "Published in Advancing Astrophysics with the SKA II (AASKAII), 2026 (arXiv:2606.20366). Report-no:AASKAII/Denzel01. Advancing Astrophysics with the SKA II (AASKAII) outlines the transformative scientific advances that will be enabled by the SKA telescopes",
+  "first_author": "Philipp Denzel",
+  "pdf_url": "http://arxiv.org/pdf/2606.28493",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-06-26",
+  "tags": [
+   "anomaly-detection",
+   "catalysis",
+   "uncertainty-quantification"
+  ],
+  "title": "The Role of Artificial Intelligence in the SKA Era",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.28507": {
+  "abstract": "Accurate and efficient parameter estimation is essential for applying electrochemical battery models in simulation, state estimation, control, and repeated model updating. However, conventional optimization methods, such as particle swarm optimization (PSO) and genetic algorithms (GA), often require many model evaluations and show considerable run-to-run variability, limiting their use in time-sensitive calibration scenarios. This study proposes a Batch-Optimized Local-to-Global Technique (BOLT) for rapid and robust parameter estimation of electrochemical battery models. BOLT combines diversified candidate initialization, batch-parallel trust-region reflective (TRF) local refinement, JIT-accelerated model evaluation, and multi-condition consistency screening within a unified calibration workflow. Comparative experiments based on a grouped single-particle model and measured data from a commercial 18650 NMC lithium-ion cell show that BOLT achieves a favorable trade-off among voltage-response accuracy, computational efficiency, and repeated-run stability. BOLT(32) achieves an average mean absolute error of \\(12.4 \\pm 0.1\\) mV over five operating conditions, requiring only \\(20636 \\pm 3081\\) model calls and \\(8.97 \\pm 1.20\\) s per run. Synthetic-data validation with a known parameter vector in the grouped SPM formulation further shows that BOLT recovers the reference parameter vector under model-consistent conditions and remains robust under 1--3 mV voltage-noise perturbations, with the mean parameter absolute relative error below \\(0.6\\%\\). These results indicate that BOLT provides a practical calibration framework for BMS parameter updating, control-oriented battery digital twins, and second-life battery screening.",
+  "authors": [
+   "Feng Guo",
+   "Luis D. Couto",
+   "Keivan Haghverdi",
+   "Khiem Trad",
+   "Grietus Mulder"
+  ],
+  "categories": [
+   "eess.SY",
+   "math.OC"
+  ],
+  "comment": "42 pages, 7 figures, accepted manuscript. The definitive version is published in Applied Energy; please cite the published version.https://doi.org/10.1016/j.apenergy.2026.128307",
+  "first_author": "Feng Guo",
+  "pdf_url": "http://arxiv.org/pdf/2606.28507",
+  "primary_category": "eess.SY",
+  "published": "2026-06-26",
+  "tags": [
+   "digital-twin",
+   "electrochemical-systems",
+   "system-identification"
+  ],
+  "title": "Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.28578": {
+  "abstract": "Closed-loop materials discovery iterates between proposing candidate structures and evaluating their properties, and property evaluation dominates the cost. In the generative variant, a learned prior proposes candidate crystals and a property oracle scores them; we ask whether a cheap probabilistic surrogate can triage the generator's output, and what such a surrogate must do well. Across three architecturally distinct pretrained diffusion priors (MatterGen, CrystalFlow, ADiT) and two targets (room-temperature heat capacity and bulk modulus), we insert a Gaussian process acquisition gate between structure generation and the oracle in an RL-steered generative workflow. The gate matches or exceeds ungated fine-tuning of the generative model while capping oracle calls at a fixed per-cycle budget. Budget-matched ablations isolate the mechanism. At an identical four-call budget, ranking-based selection outperforms arbitrary selection, confirming that the gain comes from the surrogate's choice; the gate comes within $\\sim$9\\% of exhaustive oracle spending at roughly one-fifth of the calls. A density-functional-theory check of the bulk-modulus discoveries confirms the learned oracle to within 2.5\\% on average and the surrogate's ranking of the generated structures at Spearman $ρ= 0.94$. A cross-factorial benchmark of surrogate performance spanning mechanical, electronic, and vibrational properties identifies pretrained ORB embeddings with a Gaussian process as the most reliable combination, which we adopt as the building blocks of the proposed workflow. The complete pipeline is released as open-source software.",
+  "authors": [
+   "Sk Md Ahnaf Akif Alvi",
+   "Jan Janssen",
+   "Danny Perez",
+   "Douglas Allaire",
+   "Raymundo Arroyave"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sk Md Ahnaf Akif Alvi",
+  "pdf_url": "http://arxiv.org/pdf/2606.28578",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-26",
+  "tags": [
+   "gaussian-process",
+   "generative-models",
+   "materials-discovery"
+  ],
+  "title": "Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.29459": {
+  "abstract": "Inverse design of metal-organic frameworks (MOFs) requires searching a combinatorially vast space where property labels are expensive and most machine-learning models reveal little about why a structure succeeds. We introduce LLM4MOF, a closed-loop framework in which language-model agents reason about chemistry, build candidate MOFs, and test them in simulation, refining hypotheses over ten autonomous iterations. One agent proposes interpretable design hypotheses over metal nodes, linkers, pore geometry, and functional chemistry, and a second translates them into constraints that select candidate MOFs, each made of a metal node, organic linker, and matching topology. Each hypothesis is tested through four diagnostic beams that apply different subsets of its constraints, so comparing them shows whether geometry, chemistry, or metal choice drives performance. Even when blind to the global property landscape of databases, LLM4MOF concentrates its search on top-performing structures across six adsorption, separation, and electronic-structure tasks within 400 property evaluations. The same loop also generates new MOFs de novo and validates them in live simulation, where it adapts the geometry to each requested condition, outperforming random search and a genetic algorithm at roughly $1 per campaign. LLM4MOF shows that language-model agents can run interpretable, simulation-grounded inverse design without training a model per objective.",
+  "authors": [
+   "Kyungmin Nam",
+   "Seunghee Han",
+   "Jihan Kim"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Kyungmin Nam",
+  "pdf_url": "http://arxiv.org/pdf/2606.29459",
+  "primary_category": "cs.LG",
+  "published": "2026-06-28",
+  "tags": [
+   "adsorption",
+   "metal-organic-frameworks"
+  ],
+  "title": "Interpretable Inverse Design of Metal-Organic Frameworks with Large Language Model Agents",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-06-28"
+ },
+ "2606.29919": {
+  "abstract": "Structure relaxation is important for the discovery of new materials, yet conventional ab initio optimization remains a major bottleneck in high-throughput screening workflows. Machine learning potentials have accelerated relaxation by orders of magnitude, but they still rely on iterative optimization and high-quality DFT force labels. Here, we present HotRelax, a high-order tensor message-passing neural network for one-shot, end-to-end prediction of relaxed structures. Trained directly on paired unrelaxed and relaxed structures, HotRelax requires no DFT force labels and predicts relaxed structures in a single forward pass, without iterative inference or post-processing. Across five diverse datasets spanning 3D bulk crystals, 2D layered materials and catalysts, HotRelax shows strong performance relative to state-of-the-art end-to-end relaxation models, achieving lower prediction errors on several benchmarks while maintaining a compact model size and efficient inference. Extensive DFT calculations further show that the predicted structures are close in energy to their DFT-relaxed counterparts. When integrated into catalytic workflows, HotRelax also improves the accuracy and generalization of relaxed-state energy prediction models. Together, these results support HotRelax as an efficient and widely applicable framework for end-to-end structure relaxation, with strong potential to accelerate high-throughput materials discovery.",
+  "authors": [
+   "Shaobo Yu",
+   "Haoting Zhang",
+   "Yu Han",
+   "Zhennan Zhang",
+   "Zhiyue Guo",
+   "Junjie Wang",
+   "Hao Gao",
+   "Jian Sun"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Shaobo Yu",
+  "pdf_url": "http://arxiv.org/pdf/2606.29919",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-29",
+  "tags": [
+   "catalysis",
+   "dft",
+   "materials-discovery"
+  ],
+  "title": "High-order tensor neural network for iteration-free structure relaxation",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-06-29"
  }
 }
