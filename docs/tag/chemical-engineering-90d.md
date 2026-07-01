@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-engineering — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <strong>90d</strong> <a href="chemical-engineering-360d.html">360d</a> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23299.html">Pruning for efficient deterministic global optimization over trained ReLU neural networks</a></div></td>
 <td>Giacomo Lastrucci et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23299">2603.23299</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01963.html">Development of machine-learned interatomic potentials to predict structure, transport, and reactivity in platinum-based fuel cells</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="fuel-cells-90d.html">fuel-cells</a></div></td>
-<td>Kamron Fazel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01963">2505.01963</a></td>
 </tr>
 </tbody></table>

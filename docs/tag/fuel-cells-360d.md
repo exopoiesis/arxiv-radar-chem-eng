@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fuel-cells — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <a href="fuel-cells-90d.html">90d</a> <strong>360d</strong> <a href="fuel-cells-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07499.html">Extracting ORR Catalyst Information for Fuel Cell from Scientific Literature</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Hein Htet et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07499">2507.07499</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04100.html">Hierarchical Testing with Rabbit Optimization for Industrial Cyber-Physical Systems</a></div></td>
-<td>Jinwei Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04100">2507.04100</a></td>
 </tr>
 </tbody></table>
