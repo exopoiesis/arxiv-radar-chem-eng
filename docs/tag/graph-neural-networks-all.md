@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>graph-neural-networks — all</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <a href="graph-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02078.html">CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks</a></div><div class="paper-tags"><a href="ammonia-synthesis-all.html">ammonia-synthesis</a> · <a href="catalysis-all.html">catalysis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Brook Wander et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02078">2405.02078</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09227.html">Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a> · <a href="fuel-cells-all.html">fuel-cells</a></div></td>
-<td>Xiang-Long Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09227">2405.09227</a></td>
 </tr>
 </tbody></table>

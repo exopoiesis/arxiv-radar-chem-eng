@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06557.html">Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives</a></div><div class="paper-tags"><a href="fault-detection-all.html">fault-detection</a></div></td>
 <td>Ark Ifeanyi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.06557">2407.06557</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06467.html">Attend, Distill, Detect: Attention-aware Entropy Distillation for Anomaly Detection</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a></div></td>
-<td>Sushovan Jena et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06467">2405.06467</a></td>
 </tr>
 </tbody></table>

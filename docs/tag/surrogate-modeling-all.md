@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,17 +542,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15931.html">Multistep Criticality Search and Power Shaping in Microreactors with Reinforcement Learning</a></div><div class="paper-tags"><a href="digital-twin-all.html">digital-twin</a> · <a href="microreactors-all.html">microreactors</a> · <a href="reinforcement-learning-control-all.html">reinforcement-learning-control</a></div></td>
 <td>Majdi I. Radaideh et al.</td>
 <td><a href="http://arxiv.org/abs/2406.15931">2406.15931</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.05015.html">A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Agustinus Kristiadi et al.</td>
-<td><a href="http://arxiv.org/abs/2402.05015">2402.05015</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18444.html">Discovering deposition process regimes: leveraging unsupervised learning for process insights, surrogate modeling, and sensitivity analysis</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="process-design-all.html">process-design</a> · <a href="reactor-design-all.html">reactor-design</a></div></td>
-<td>Geremy Loachamín Suntaxi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18444">2405.18444</a></td>
 </tr>
 </tbody></table>

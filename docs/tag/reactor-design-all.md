@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reactor-design — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="reactor-design-7d.html">7d</a> <a href="reactor-design-30d.html">30d</a> <a href="reactor-design-90d.html">90d</a> <a href="reactor-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05551.html">Numerical Study of CO2 Conversion to SAF in a Fixed Bed Catalytic Reactor</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="cfd-all.html">cfd</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="mass-transfer-all.html">mass-transfer</a></div></td>
 <td>Shan Ruiqin et al.</td>
 <td><a href="http://arxiv.org/abs/2408.05551">2408.05551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17862.html">Towards robust prediction of material properties for nuclear reactor design under scarce data -- a study in creep rupture property</a></div></td>
-<td>Yu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17862">2405.17862</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18444.html">Discovering deposition process regimes: leveraging unsupervised learning for process insights, surrogate modeling, and sensitivity analysis</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="process-design-all.html">process-design</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Geremy Loachamín Suntaxi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18444">2405.18444</a></td>
 </tr>
 </tbody></table>

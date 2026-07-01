@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,17 +350,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01728.html">Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
 <td>Daniela de Oliveira Maionchi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01728">2406.01728</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02426.html">Generalized Solution for Double-Porosity Flow through a Graded Excavation Damaged Zone</a></div><div class="paper-tags"><a href="mass-transfer-all.html">mass-transfer</a> · <a href="porous-media-flow-all.html">porous-media-flow</a> · <a href="system-identification-all.html">system-identification</a></div></td>
-<td>Kristopher L. Kuhlman</td>
-<td><a href="http://arxiv.org/abs/2405.02426">2405.02426</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01681.html">Accounting for the Effects of Probabilistic Uncertainty During Fast Charging of Lithium-ion Batteries</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="optimal-control-all.html">optimal-control</a></div></td>
-<td>Minsu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01681">2405.01681</a></td>
 </tr>
 </tbody></table>

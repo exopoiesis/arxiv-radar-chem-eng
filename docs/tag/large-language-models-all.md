@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>large-language-models — all</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,29 +662,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00974.html">Large Language Model Assisted Optimal Bidding of BESS in FCAS Market: An AI-agent based Approach</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
 <td>Borui Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00974">2406.00974</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19561.html">Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="process-systems-engineering-all.html">process-systems-engineering</a></div></td>
-<td>Venkat Venkatasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19561">2405.19561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.05015.html">A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Agustinus Kristiadi et al.</td>
-<td><a href="http://arxiv.org/abs/2402.05015">2402.05015</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17440.html">CataLM: Empowering Catalyst Design Through Large Language Models</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Ludi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17440">2405.17440</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03989.html">A Method for Parsing and Vectorization of Semi-structured Data used in Retrieval Augmented Generation</a></div><div class="paper-tags"><a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>
-<td>Hang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03989">2405.03989</a></td>
 </tr>
 </tbody></table>

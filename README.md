@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 1202 papers across 26 months.
+**Total corpus:** 1177 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,8 +16,8 @@
     <li><a href=#digital-twins--process-monitoring>Digital Twins & Process Monitoring</a> (50)</li>
     <li><a href=#uncertainty-quantification--bayesian-methods>Uncertainty Quantification & Bayesian Methods</a> (50)</li>
     <li><a href=#energy-sustainability--electrochemical-systems>Energy, Sustainability & Electrochemical Systems</a> (50)</li>
-    <li><a href=#viaauthor-whitelistautonomous-discovery-self-driving-labs>via:author-whitelist:autonomous discovery, self-driving labs</a> (14)</li>
     <li><a href=#viaauthor-whitelistopen-catalyst-ml-for-catalysis>via:author-whitelist:Open Catalyst, ML for catalysis</a> (8)</li>
+    <li><a href=#viaauthor-whitelistautonomous-discovery-self-driving-labs>via:author-whitelist:autonomous discovery, self-driving labs</a> (13)</li>
     <li><a href=#viaauthor-whitelistprocess-control-networks>via:author-whitelist:process control, networks</a> (2)</li>
     <li><a href=#viaauthor-whitelistmpc-infrastructure-optimization>via:author-whitelist:MPC, infrastructure optimization</a> (3)</li>
     <li><a href=#viaauthor-whitelistchemputers-autonomous-synthesis>via:author-whitelist:chemputers, autonomous synthesis</a> (3)</li>
@@ -537,6 +537,21 @@
 
 <p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
+## via:author-whitelist:Open Catalyst, ML for catalysis
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-03-06**|**A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention**|Eric Qu et al.|[2603.06567](http://arxiv.org/abs/2603.06567)|[md](abstracts/2603.06567.md)|
+|**2026-03-04**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et al.|[2505.08762](http://arxiv.org/abs/2505.08762)|[md](abstracts/2505.08762.md)|
+|**2025-09-22**|**The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces**|Sushree Jagriti Sahoo et al.|[2509.17862](http://arxiv.org/abs/2509.17862)|[md](abstracts/2509.17862.md)|
+|**2025-08-04**|**FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms**|Vahe Gharakhanyan et al.|[2508.02641](http://arxiv.org/abs/2508.02641)|[md](abstracts/2508.02641.md)|
+|**2025-08-04**|**Open Molecular Crystals 2025 (OMC25) Dataset and Models**|Vahe Gharakhanyan et al.|[2508.02651](http://arxiv.org/abs/2508.02651)|[md](abstracts/2508.02651.md)|
+|**2025-07-24**|**Fine-Tuned Language Models Generate Stable Inorganic Materials as Text**|Nate Gruver et al.|[2402.04379](http://arxiv.org/abs/2402.04379)|[md](abstracts/2402.04379.md)|
+|**2024-11-18**|**Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models**|Jehad Abed et al.|[2411.11783](http://arxiv.org/abs/2411.11783)|[md](abstracts/2411.11783.md)|
+|**2024-06-11**|**CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks**|Brook Wander et al.|[2405.02078](http://arxiv.org/abs/2405.02078)|[md](abstracts/2405.02078.md)|
+
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+
 ## via:author-whitelist:autonomous discovery, self-driving labs
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -554,22 +569,6 @@
 |**2025-01-07**|**ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization**|Kourosh Darvish et al.|[2401.06949](http://arxiv.org/abs/2401.06949)|[md](abstracts/2401.06949.md)|
 |**2024-10-11**|**Ranking over Regression for Bayesian Optimization and Molecule Selection**|Gary Tom et al.|[2410.09290](http://arxiv.org/abs/2410.09290)|[md](abstracts/2410.09290.md)|
 |**2024-06-10**|**Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers**|Nicole Bellonzi et al.|[2406.06335](http://arxiv.org/abs/2406.06335)|[md](abstracts/2406.06335.md)|
-|**2024-05-28**|**A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?**|Agustinus Kristiadi et al.|[2402.05015](http://arxiv.org/abs/2402.05015)|[md](abstracts/2402.05015.md)|
-
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
-
-## via:author-whitelist:Open Catalyst, ML for catalysis
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-03-06**|**A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention**|Eric Qu et al.|[2603.06567](http://arxiv.org/abs/2603.06567)|[md](abstracts/2603.06567.md)|
-|**2026-03-04**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et al.|[2505.08762](http://arxiv.org/abs/2505.08762)|[md](abstracts/2505.08762.md)|
-|**2025-09-22**|**The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces**|Sushree Jagriti Sahoo et al.|[2509.17862](http://arxiv.org/abs/2509.17862)|[md](abstracts/2509.17862.md)|
-|**2025-08-04**|**FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms**|Vahe Gharakhanyan et al.|[2508.02641](http://arxiv.org/abs/2508.02641)|[md](abstracts/2508.02641.md)|
-|**2025-08-04**|**Open Molecular Crystals 2025 (OMC25) Dataset and Models**|Vahe Gharakhanyan et al.|[2508.02651](http://arxiv.org/abs/2508.02651)|[md](abstracts/2508.02651.md)|
-|**2025-07-24**|**Fine-Tuned Language Models Generate Stable Inorganic Materials as Text**|Nate Gruver et al.|[2402.04379](http://arxiv.org/abs/2402.04379)|[md](abstracts/2402.04379.md)|
-|**2024-11-18**|**Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models**|Jehad Abed et al.|[2411.11783](http://arxiv.org/abs/2411.11783)|[md](abstracts/2411.11783.md)|
-|**2024-06-11**|**CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks**|Brook Wander et al.|[2405.02078](http://arxiv.org/abs/2405.02078)|[md](abstracts/2405.02078.md)|
 
 <p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 

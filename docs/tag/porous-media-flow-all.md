@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>porous-media-flow — all</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="porous-media-flow-7d.html">7d</a> <a href="porous-media-flow-30d.html">30d</a> <a href="porous-media-flow-90d.html">90d</a> <a href="porous-media-flow-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02093.html">First-order empirical interpolation method for real-time solution of parametric time-dependent nonlinear PDEs</a></div><div class="paper-tags"><a href="separations-all.html">separations</a></div></td>
 <td>Ngoc Cuong Nguyen</td>
 <td><a href="http://arxiv.org/abs/2410.02093">2410.02093</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02426.html">Generalized Solution for Double-Porosity Flow through a Graded Excavation Damaged Zone</a></div><div class="paper-tags"><a href="mass-transfer-all.html">mass-transfer</a> · <a href="system-identification-all.html">system-identification</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Kristopher L. Kuhlman</td>
-<td><a href="http://arxiv.org/abs/2405.02426">2405.02426</a></td>
 </tr>
 </tbody></table>

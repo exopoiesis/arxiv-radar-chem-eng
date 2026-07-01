@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>heat-transfer — all</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <a href="heat-transfer-30d.html">30d</a> <a href="heat-transfer-90d.html">90d</a> <a href="heat-transfer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00602.html">Frequency-resolved Raman Thermometry Analysis via a Multi-layer Heat Transfer Model for Bulk and Low-dimensional Materials</a></div></td>
 <td>Taocheng Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.00602">2407.00602</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13991.html">Flow and Heat Transfer in a Rotating Disc Cavity With Axial Throughflow at High Speed Conditions</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
-<td>Ruonan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13991">2405.13991</a></td>
 </tr>
 </tbody></table>

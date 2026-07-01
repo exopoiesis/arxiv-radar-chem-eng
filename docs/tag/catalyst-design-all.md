@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalyst-design — all</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <a href="catalyst-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02078.html">CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks</a></div><div class="paper-tags"><a href="ammonia-synthesis-all.html">ammonia-synthesis</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
 <td>Brook Wander et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02078">2405.02078</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17440.html">CataLM: Empowering Catalyst Design Through Large Language Models</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Ludi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17440">2405.17440</a></td>
 </tr>
 </tbody></table>

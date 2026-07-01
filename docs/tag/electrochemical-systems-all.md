@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrochemical-systems — all</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <a href="electrochemical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,23 +392,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17197.html">Machine learning the screening factor in the soft bond valence approach for rapid crystal structure estimation</a></div><div class="paper-tags"><a href="fuel-cells-all.html">fuel-cells</a></div></td>
 <td>Keisuke Kameda et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17197">2406.17197</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20239.html">BEAST DB: Grand-Canonical Database of Electrocatalyst Properties</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
-<td>Cooper Tezak et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20239">2405.20239</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10750.html">Parameter Identification for Electrochemical Models of Lithium-Ion Batteries Using Bayesian Optimization</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Jianzong Pi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10750">2405.10750</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07370.html">Accelerating QM/MM simulations of electrochemical interfaces through machine learning of electronic charge densities</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Andrea Grisafi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07370">2405.07370</a></td>
 </tr>
 </tbody></table>

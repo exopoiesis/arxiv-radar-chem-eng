@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>process-systems-engineering — all</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="process-systems-engineering-7d.html">7d</a> <a href="process-systems-engineering-30d.html">30d</a> <a href="process-systems-engineering-90d.html">90d</a> <a href="process-systems-engineering-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15415.html">Hybrid Plant Models Call for a Different Plant Modelling Paradigm and a New Generation of Software (Heresy in the land of moles, fractions, &amp; rigorous physical properties)</a></div></td>
 <td>Vladimir Mahalec</td>
 <td><a href="http://arxiv.org/abs/2408.15415">2408.15415</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19561.html">Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Venkat Venkatasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19561">2405.19561</a></td>
 </tr>
 </tbody></table>

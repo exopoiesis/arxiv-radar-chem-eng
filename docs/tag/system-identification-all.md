@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>system-identification — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08626.html">Safety-Driven Battery Charging: A Fisher Information-guided Adaptive MPC with Real-time Parameter Identification</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="energy-storage-all.html">energy-storage</a> · <a href="mpc-all.html">mpc</a></div></td>
 <td>Jorge Espin et al.</td>
 <td><a href="http://arxiv.org/abs/2406.08626">2406.08626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02426.html">Generalized Solution for Double-Porosity Flow through a Graded Excavation Damaged Zone</a></div><div class="paper-tags"><a href="mass-transfer-all.html">mass-transfer</a> · <a href="porous-media-flow-all.html">porous-media-flow</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Kristopher L. Kuhlman</td>
-<td><a href="http://arxiv.org/abs/2405.02426">2405.02426</a></td>
 </tr>
 </tbody></table>

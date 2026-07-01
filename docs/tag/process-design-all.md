@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>process-design — all</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <a href="process-design-90d.html">90d</a> <a href="process-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08594.html">Viscoelastic model hierarchy for fiber melt spinning of semi-crystalline polymers</a></div><div class="paper-tags"><a href="crystallization-all.html">crystallization</a></div></td>
 <td>Manuel Ettmüller et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08594">2407.08594</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18444.html">Discovering deposition process regimes: leveraging unsupervised learning for process insights, surrogate modeling, and sensitivity analysis</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="reactor-design-all.html">reactor-design</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Geremy Loachamín Suntaxi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18444">2405.18444</a></td>
 </tr>
 </tbody></table>

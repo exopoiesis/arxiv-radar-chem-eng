@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,17 +332,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
 <td>Markus Grimm et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.05015.html">A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Agustinus Kristiadi et al.</td>
-<td><a href="http://arxiv.org/abs/2402.05015">2402.05015</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10750.html">Parameter Identification for Electrochemical Models of Lithium-Ion Batteries Using Bayesian Optimization</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a></div></td>
-<td>Jianzong Pi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10750">2405.10750</a></td>
 </tr>
 </tbody></table>

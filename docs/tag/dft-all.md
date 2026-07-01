@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,35 +764,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02078.html">CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks</a></div><div class="paper-tags"><a href="ammonia-synthesis-all.html">ammonia-synthesis</a> · <a href="catalysis-all.html">catalysis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
 <td>Brook Wander et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02078">2405.02078</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20239.html">BEAST DB: Grand-Canonical Database of Electrocatalyst Properties</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
-<td>Cooper Tezak et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20239">2405.20239</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18417.html">A physics-inspired evolutionary machine learning method: from the Schrödinger equation to an orbital-free-DFT kinetic energy functional</a></div></td>
-<td>Juan I. Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18417">2405.18417</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03962.html">AdsorbDiff: Adsorbate Placement via Conditional Denoising Diffusion</a></div></td>
-<td>Adeesh Kolluru et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03962">2405.03962</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02247.html">Deep Learning of ab initio Hessians for Transition State Optimization</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02247">2405.02247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02494.html">Chemical disorder effects on the Gilbert damping of FeCo alloys</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a></div></td>
-<td>Zhiwei Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02494">2405.02494</a></td>
 </tr>
 </tbody></table>

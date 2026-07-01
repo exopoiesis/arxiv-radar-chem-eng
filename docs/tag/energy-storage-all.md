@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>energy-storage — all</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,17 +902,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00974.html">Large Language Model Assisted Optimal Bidding of BESS in FCAS Market: An AI-agent based Approach</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a></div></td>
 <td>Borui Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00974">2406.00974</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10536.html">Time-Varying Constraint-Aware Reinforcement Learning for Energy Storage Control</a></div></td>
-<td>Jaeik Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10536">2405.10536</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03848.html">CityLearn v2: Energy-flexible, resilient, occupant-centric, and carbon-aware management of grid-interactive communities</a></div></td>
-<td>Kingsley Nweye et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03848">2405.03848</a></td>
 </tr>
 </tbody></table>

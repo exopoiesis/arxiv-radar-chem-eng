@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>fuel-cells — all</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <a href="fuel-cells-90d.html">90d</a> <a href="fuel-cells-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16939.html">Towards Deep Learning for Predicting Microbial Fuel Cell Energy Output</a></div></td>
 <td>Adam Hess-Dunlop et al.</td>
 <td><a href="http://arxiv.org/abs/2406.16939">2406.16939</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09227.html">Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
-<td>Xiang-Long Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09227">2405.09227</a></td>
 </tr>
 </tbody></table>

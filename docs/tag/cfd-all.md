@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,17 +542,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01728.html">Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm</a></div><div class="paper-tags"><a href="gaussian-process-all.html">gaussian-process</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Daniela de Oliveira Maionchi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01728">2406.01728</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18444.html">Discovering deposition process regimes: leveraging unsupervised learning for process insights, surrogate modeling, and sensitivity analysis</a></div><div class="paper-tags"><a href="process-design-all.html">process-design</a> · <a href="reactor-design-all.html">reactor-design</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Geremy Loachamín Suntaxi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18444">2405.18444</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13991.html">Flow and Heat Transfer in a Rotating Disc Cavity With Axial Throughflow at High Speed Conditions</a></div><div class="paper-tags"><a href="heat-transfer-all.html">heat-transfer</a></div></td>
-<td>Ruonan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13991">2405.13991</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>optimal-control — all</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <a href="optimal-control-90d.html">90d</a> <a href="optimal-control-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,17 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18852.html">ESDIRK-based nonlinear model predictive control for stochastic differential-algebraic equations</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a> · <a href="mpc-all.html">mpc</a></div></td>
 <td>Anders Hilmar Damm Christensen et al.</td>
 <td><a href="http://arxiv.org/abs/2407.18852">2407.18852</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10704.html">Optimal Control of Two-Phase Membrane Problem</a></div></td>
-<td>Farid Bozorgnia et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10704">2405.10704</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01681.html">Accounting for the Effects of Probabilistic Uncertainty During Fast Charging of Lithium-ion Batteries</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Minsu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01681">2405.01681</a></td>
 </tr>
 </tbody></table>
