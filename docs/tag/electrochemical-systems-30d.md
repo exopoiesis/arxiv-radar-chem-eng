@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="energy-storage-30d.html">energy-storage</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="molecular-simulation-30d.html">molecular-simulation</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="digital-twin-30d.html">digital-twin</a> · <a href="system-identification-30d.html">system-identification</a></div></td>
 <td>Feng Guo et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17382.html">Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory</a></div></td>
 <td>Ryoma Iki et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17382">2606.17382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Christian S. Ahart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
 </tr>
 </tbody></table>

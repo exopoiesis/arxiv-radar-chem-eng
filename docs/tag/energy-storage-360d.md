@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-simulation-360d.html">molecular-simulation</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26347.html">Health feature extraction from battery energy storage system field fault data</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a> · <a href="fault-detection-360d.html">fault-detection</a></div></td>
 <td>Clement Wong et al.</td>
@@ -506,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08215.html">Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yun An</td>
 <td><a href="http://arxiv.org/abs/2507.08215">2507.08215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11061.html">Lifelong reinforcement learning for health-aware fast charging of lithium-ion batteries</a></div></td>
-<td>Meng Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11061">2505.11061</a></td>
 </tr>
 </tbody></table>

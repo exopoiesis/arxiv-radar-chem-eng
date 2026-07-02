@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05876.html">Context-Aware Model Predictive Control for Microgrid Energy Management via LLMs</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Ruixiang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05876">2512.05876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02441.html">Computationally efficient Gauss-Newton reinforcement learning for model predictive control</a></div><div class="paper-tags"><a href="optimal-control-90d.html">optimal-control</a> · <a href="process-control-90d.html">process-control</a></div></td>
-<td>Dean Brandner et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02441">2508.02441</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>optimal-control — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <strong>90d</strong> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11765.html">State constrained stochastic optimal control of a PV system with battery storage via Fokker-Planck and Hamilton-Jacobi-Bellman equations</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="mpc-90d.html">mpc</a></div></td>
 <td>Alfredo Bermúdez et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11765">2506.11765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02441.html">Computationally efficient Gauss-Newton reinforcement learning for model predictive control</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a> · <a href="process-control-90d.html">process-control</a></div></td>
-<td>Dean Brandner et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02441">2508.02441</a></td>
 </tr>
 </tbody></table>

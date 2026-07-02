@@ -5,15 +5,27 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-01._
+_Updated 2026-07-02._
 
-**1177** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1179** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/molecular-simulation-30d.html">molecular-simulation</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00926.html">Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/digital-twin-30d.html">digital-twin</a></div></td>
+<td>Midhun Parakkal Unni et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00926">2607.00926</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-07-01._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11589.html">Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-control-30d.html">process-control</a> · <a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
 <td>Bhushan Gopaluni et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11589">2606.11589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12057.html">ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/redox-flow-batteries-30d.html">redox-flow-batteries</a></div></td>
-<td>Rui Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12057">2606.12057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12345.html">An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
-<td>Edoardo Scaccia et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12345">2606.12345</a></td>
 </tr>
 </tbody></table>
