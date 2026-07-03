@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>system-identification — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <strong>90d</strong> <a href="system-identification-360d.html">360d</a> <a href="system-identification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10813.html">System Identification of Lithium-Ion Battery Equivalent Circuit Models Using Ensemble Kalman Inversion</a></div></td>
 <td>Farzaneh Barat et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10813">2604.10813</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18565.html">Tuning of Atomic Layer Deposition Pulse Time through Physics-Informed Bayesian Active Learning</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="gaussian-process-90d.html">gaussian-process</a></div></td>
-<td>Pouyan Navabi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18565">2602.18565</a></td>
 </tr>
 </tbody></table>

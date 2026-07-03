@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09368.html">Computational Aerothermal Framework and Analysis of Stetson Mach 6 Blunt Cone</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>
 <td>Arturo Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09368">2507.09368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04682.html">Operator-based machine learning framework for generalizable prediction of unsteady treatment dynamics in stormwater infrastructure</a></div></td>
-<td>Mohamed Shatarah et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04682">2507.04682</a></td>
 </tr>
 </tbody></table>

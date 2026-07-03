@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13919.html">Nested Fourier-enhanced neural operator for efficient modeling of radiation transfer in fires</a></div><div class="paper-tags"><a href="heat-transfer-90d.html">heat-transfer</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Anran Jiao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13919">2604.13919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03504.html">Amalgamation of Physics-Informed Neural Network and LBM for the Prediction of Unsteady Fluid Flows in Fractal-Rough Microchannels</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="transport-phenomena-90d.html">transport-phenomena</a></div></td>
-<td>Ganesh Sahadeo Meshram et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03504">2604.03504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03514.html">Surface-access limitation in catalytic porous monoliths: Performance diagnosis using pore-resolved CFD</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="reaction-kinetics-90d.html">reaction-kinetics</a></div></td>
-<td>Olivier Guévremont et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03514">2604.03514</a></td>
 </tr>
 </tbody></table>
