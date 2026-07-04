@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>knowledge-distillation — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="knowledge-distillation-7d.html">7d</a> <a href="knowledge-distillation-30d.html">30d</a> <a href="knowledge-distillation-90d.html">90d</a> <strong>360d</strong> <a href="knowledge-distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19031.html">ProGMLP: A Progressive Framework for GNN-to-MLP Knowledge Distillation with Efficient Trade-offs</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
 <td>Weigang Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19031">2507.19031</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19230.html">Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG</a></div><div class="paper-tags"><a href="transfer-learning-360d.html">transfer-learning</a></div></td>
-<td>Xinxu Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19230">2411.19230</a></td>
 </tr>
 </tbody></table>

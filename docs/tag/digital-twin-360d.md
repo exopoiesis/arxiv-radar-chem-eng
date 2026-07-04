@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>digital-twin — 360d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="digital-twin-7d.html">7d</a> <a href="digital-twin-30d.html">30d</a> <a href="digital-twin-90d.html">90d</a> <strong>360d</strong> <a href="digital-twin-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09213.html">iFANnpp: Nuclear Power Plant Digital Twin for Robots and Autonomous Intelligence</a></div></td>
 <td>Youndo Do et al.</td>
 <td><a href="http://arxiv.org/abs/2410.09213">2410.09213</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06399.html">An AI-Driven Thermal-Fluid Testbed for Advanced Small Modular Reactors: Integration of Digital Twin and Large Language Models</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Doyeong Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06399">2507.06399</a></td>
 </tr>
 </tbody></table>

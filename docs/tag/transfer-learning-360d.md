@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>transfer-learning — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="transfer-learning-7d.html">7d</a> <a href="transfer-learning-30d.html">30d</a> <a href="transfer-learning-90d.html">90d</a> <strong>360d</strong> <a href="transfer-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05000.html">Load Forecasting for Households and Energy Communities: Are Deep Learning Models Worth the Effort?</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="energy-systems-360d.html">energy-systems</a></div></td>
 <td>Lukas Moosbrugger et al.</td>
 <td><a href="http://arxiv.org/abs/2501.05000">2501.05000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19230.html">Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Xinxu Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19230">2411.19230</a></td>
 </tr>
 </tbody></table>
