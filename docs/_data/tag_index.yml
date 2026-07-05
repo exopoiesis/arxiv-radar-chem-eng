@@ -8,17 +8,13 @@
   total: 125
   group: materials
 - name: energy-storage
-  count: 6
+  count: 5
   total: 149
   group: energy
 - name: large-language-models
   count: 5
   total: 108
   group: architectures
-- name: surrogate-modeling
-  count: 5
-  total: 88
-  group: modeling
 - name: uncertainty-quantification
   count: 5
   total: 56
@@ -27,6 +23,10 @@
   count: 4
   total: 85
   group: separations
+- name: surrogate-modeling
+  count: 4
+  total: 88
+  group: modeling
 - name: bayesian-inference
   count: 3
   total: 53
