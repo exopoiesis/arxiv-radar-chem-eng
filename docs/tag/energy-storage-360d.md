@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09669.html">Navigating the Evolution of Two-dimensional Carbon Nitride Research: Integrating Machine Learning into Conventional Approaches</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>Deep Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09669">2507.09669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08215.html">Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yun An</td>
-<td><a href="http://arxiv.org/abs/2507.08215">2507.08215</a></td>
 </tr>
 </tbody></table>

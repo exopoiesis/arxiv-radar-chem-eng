@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fixed-bed — 360d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="fixed-bed-7d.html">7d</a> <a href="fixed-bed-30d.html">30d</a> <a href="fixed-bed-90d.html">90d</a> <strong>360d</strong> <a href="fixed-bed-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02214.html">Predictive Chemical Kinetic Modeling of Pt-Catalyzed Dry Methane Reforming</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="microkinetic-modeling-360d.html">microkinetic-modeling</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
 <td>Esther Ritov et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02214">2508.02214</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07641.html">Machine Learning-Assisted Surrogate Modeling with Multi-Objective Optimization and Decision-Making of a Steam Methane Reforming Reactor</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="fixed-bed-reactors-360d.html">fixed-bed-reactors</a> · <a href="mass-transfer-360d.html">mass-transfer</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
-<td>Seyed Reza Nabavi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07641">2507.07641</a></td>
 </tr>
 </tbody></table>

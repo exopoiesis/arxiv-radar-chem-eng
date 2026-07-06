@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,17 +554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11806.html">MOFSimBench: Evaluating Universal Machine Learning Interatomic Potentials In Metal--Organic Framework Molecular Modeling</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hendrik Kraß et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11806">2507.11806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07499.html">Extracting ORR Catalyst Information for Fuel Cell from Scientific Literature</a></div><div class="paper-tags"><a href="fuel-cells-360d.html">fuel-cells</a></div></td>
-<td>Hein Htet et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07499">2507.07499</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07641.html">Machine Learning-Assisted Surrogate Modeling with Multi-Objective Optimization and Decision-Making of a Steam Methane Reforming Reactor</a></div><div class="paper-tags"><a href="fixed-bed-360d.html">fixed-bed</a> · <a href="fixed-bed-reactors-360d.html">fixed-bed-reactors</a> · <a href="mass-transfer-360d.html">mass-transfer</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
-<td>Seyed Reza Nabavi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07641">2507.07641</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mass-transfer — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="mass-transfer-7d.html">7d</a> <a href="mass-transfer-30d.html">30d</a> <a href="mass-transfer-90d.html">90d</a> <strong>360d</strong> <a href="mass-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08394.html">A CFD model for heat and mass transfer leading to plume formation within Wet Cooling Towers</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Luc Favre et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08394">2509.08394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07641.html">Machine Learning-Assisted Surrogate Modeling with Multi-Objective Optimization and Decision-Making of a Steam Methane Reforming Reactor</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="fixed-bed-360d.html">fixed-bed</a> · <a href="fixed-bed-reactors-360d.html">fixed-bed-reactors</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
-<td>Seyed Reza Nabavi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07641">2507.07641</a></td>
 </tr>
 </tbody></table>
