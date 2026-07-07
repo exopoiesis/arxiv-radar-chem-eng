@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26293.html">Reservoir computing based predictive reduced order model for steel grade intermixing in an industrial continuous casting tundish</a></div><div class="paper-tags"><a href="process-monitoring-360d.html">process-monitoring</a></div></td>
 <td>Harshith Gowrachari et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26293">2509.26293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08515.html">Impacts of internal heating on temperature distribution in channels</a></div><div class="paper-tags"><a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Lubomír Bureš et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08515">2507.08515</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gaussian-process — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <strong>90d</strong> <a href="gaussian-process-360d.html">360d</a> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15452.html">Spatially continuous modelling of aggregated outcome data</a></div></td>
 <td>Stephen Jun Villejo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15452">2604.15452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01328.html">Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Zhongwei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01328">2604.01328</a></td>
 </tr>
 </tbody></table>
