@@ -15,14 +15,18 @@
   count: 5
   total: 108
   group: architectures
-- name: uncertainty-quantification
-  count: 5
-  total: 56
-  group: methods
 - name: adsorption
   count: 4
   total: 85
   group: separations
+- name: uncertainty-quantification
+  count: 4
+  total: 56
+  group: methods
+- name: digital-twin
+  count: 3
+  total: 49
+  group: monitoring
 - name: electrochemical-systems
   count: 3
   total: 64
@@ -47,26 +51,18 @@
   count: 3
   total: 88
   group: modeling
-- name: bayesian-inference
+- name: cfd
   count: 2
-  total: 53
-  group: methods
+  total: 90
+  group: fluids
 - name: chemical-engineering
   count: 2
   total: 119
   group: domain
-- name: digital-twin
-  count: 2
-  total: 48
-  group: monitoring
 - name: fuel-cells
   count: 2
   total: 44
   group: energy
-- name: gaussian-process
-  count: 2
-  total: 56
-  group: methods
 - name: graph-neural-networks
   count: 2
   total: 39
@@ -103,6 +99,10 @@
   count: 1
   total: 30
   group: energy
+- name: bayesian-inference
+  count: 1
+  total: 53
+  group: methods
 - name: carbon-capture
   count: 1
   total: 47
@@ -111,6 +111,14 @@
   count: 1
   total: 33
   group: reactions
+- name: electrolysis
+  count: 1
+  total: 20
+  group: energy
+- name: gaussian-process
+  count: 1
+  total: 56
+  group: methods
 - name: generative-models
   count: 1
   total: 28
@@ -119,6 +127,10 @@
   count: 1
   total: 15
   group: reactions
+- name: hydrogen-production
+  count: 1
+  total: 16
+  group: energy
 - name: metal-organic-frameworks
   count: 1
   total: 31
@@ -135,6 +147,10 @@
   count: 1
   total: 45
   group: control
+- name: reactor-design
+  count: 1
+  total: 13
+  group: reactions
 - name: redox-flow-batteries
   count: 1
   total: 5
@@ -171,10 +187,6 @@
   count: 0
   total: 2
   group: fluids
-- name: cfd
-  count: 0
-  total: 88
-  group: fluids
 - name: chromatography
   count: 0
   total: 6
@@ -203,10 +215,6 @@
   count: 0
   total: 15
   group: reactions
-- name: electrolysis
-  count: 0
-  total: 19
-  group: energy
 - name: energy-systems
   count: 0
   total: 35
@@ -239,10 +247,6 @@
   count: 0
   total: 17
   group: reactions
-- name: hydrogen-production
-  count: 0
-  total: 15
-  group: energy
 - name: ionic-liquids
   count: 0
   total: 7
@@ -322,10 +326,6 @@
 - name: reaction-network-modeling
   count: 0
   total: 0
-  group: reactions
-- name: reactor-design
-  count: 0
-  total: 12
   group: reactions
 - name: reduced-order-modeling
   count: 0

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05566.html">Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Perceval Beja-Battais et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05566">2604.05566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05876.html">Context-Aware Model Predictive Control for Microgrid Energy Management via LLMs</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Ruixiang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05876">2512.05876</a></td>
 </tr>
 </tbody></table>

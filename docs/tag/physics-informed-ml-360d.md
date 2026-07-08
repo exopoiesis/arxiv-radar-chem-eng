@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-ml — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="physics-informed-ml-7d.html">7d</a> <a href="physics-informed-ml-30d.html">30d</a> <a href="physics-informed-ml-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-ml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10983.html">Physics-Informed Neural Networks For Semiconductor Film Deposition: A Review</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
 <td>Tao Han et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10983">2507.10983</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09356.html">Physics-Informed Neural Networks for Estimating Convective Heat Transfer in Jet Impingement Cooling: A Comparison with Conjugate Heat Transfer Simulations</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>
-<td>Arijit Hazra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09356">2507.09356</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,45 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-07._
+_Updated 2026-07-08._
 
-**1179** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1184** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06093.html">Hybrid electrolyzer systems: Smart strategy or economic fallacy?</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a></div></td>
+<td>Marie Arnold et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06093">2607.06093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.04148.html">Evaluation of U-235 and U-238 Fission Product Yields Using Bayesian Neural Networks: Comparison of Baseline and Physics-Informed Models</a></div><div class="paper-tags"><a href="tag/reactor-design-30d.html">reactor-design</a></div></td>
+<td>Chun-Yuan Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04148">2607.04148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.04390.html">Machine-Learning-Enabled Full-State Reconstruction of Fusion Plasmas from Minimal Sensor Measurements</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a></div></td>
+<td>Maryam Reza et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04390">2607.04390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02246.html">Patagium and tail morphology shape aerodynamic performance and control authority in gliding-mammal-inspired wings</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
+<td>Liming Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02246">2607.02246</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02746.html">CodeJeNN: A simple C++ neural network generator for physics applications</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
+<td>Jay Arcities et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02746">2607.02746</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/molecular-simulation-30d.html">molecular-simulation</a></div></td>
@@ -163,35 +193,5 @@ _Updated 2026-07-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.15845.html">An Optimal Power Management Policy for Hydrogen-based Hybrid Aero Engines</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
 <td>Faezeh Pak et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15845">2606.15845</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16051.html">Hidden Degradation Costs in Energy-Cost-Only HEMS Optimisation: Study on Battery and PV Sensitivity</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Dawood Butt et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16051">2606.16051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14478.html">Optimization Models and Steady-State Minimum-Fuel Operating Strategies for Hydrogen-based Hybrid Electric Aerospace Propulsion Systems</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
-<td>Uto Perra et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14478">2606.14478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.20674.html">A Formal Tool for Verification of Probabilistic Spiking Neural Networks Based on Quotient Abstractions</a></div></td>
-<td>Nikan Zandian Jazi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20674">2606.20674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Ioannis Kouroudis et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11589.html">Large Language Models in Process Systems Engineering: Opportunities, Architectures, and Industrial Deployment Challenges</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-control-30d.html">process-control</a> · <a href="tag/process-design-30d.html">process-design</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a></div></td>
-<td>Bhushan Gopaluni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11589">2606.11589</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04390.html">Machine-Learning-Enabled Full-State Reconstruction of Fusion Plasmas from Minimal Sensor Measurements</a></div></td>
+<td>Maryam Reza et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04390">2607.04390</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00926.html">Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Midhun Parakkal Unni et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13316.html">Beyond Uniform Sampling: Synergistic Active Learning and Input Denoising for Robust Neural Operators</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="energy-systems-90d.html">energy-systems</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Samrendra Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13316">2604.13316</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05429.html">Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset</a></div><div class="paper-tags"><a href="energy-systems-90d.html">energy-systems</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Tinko Sebastian Bartels et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05429">2604.05429</a></td>
 </tr>
 </tbody></table>

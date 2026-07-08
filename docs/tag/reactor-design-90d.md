@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reactor-design — 90d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="reactor-design-7d.html">7d</a> <a href="reactor-design-30d.html">30d</a> <strong>90d</strong> <a href="reactor-design-360d.html">360d</a> <a href="reactor-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04148.html">Evaluation of U-235 and U-238 Fission Product Yields Using Bayesian Neural Networks: Comparison of Baseline and Physics-Informed Models</a></div></td>
+<td>Chun-Yuan Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04148">2607.04148</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07047.html">Accelerating integrated modeling with surrogate-based optimization: the MAESTRO workflow</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>

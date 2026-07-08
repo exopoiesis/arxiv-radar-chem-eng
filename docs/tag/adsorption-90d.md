@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>adsorption — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <strong>90d</strong> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17427.html">Spin State versus Potential of Zero Charge as Predictors of Density-Dependent Oxygen Reduction in M-N-C Electrocatalysts</a></div><div class="paper-tags"><a href="microkinetic-modeling-90d.html">microkinetic-modeling</a></div></td>
 <td>Di Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17427">2604.17427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16404.html">Analysis of travelling wave equations in sorption processes</a></div></td>
-<td>J. Anglada Lloveras et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16404">2507.16404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07110.html">Towards viable H$_2$ storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a></div></td>
-<td>Yasmine S. Al-Hamdani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07110">2604.07110</a></td>
 </tr>
 </tbody></table>

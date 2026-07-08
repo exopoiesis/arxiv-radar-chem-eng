@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrolysis — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="electrolysis-7d.html">7d</a> <a href="electrolysis-30d.html">30d</a> <a href="electrolysis-90d.html">90d</a> <strong>360d</strong> <a href="electrolysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06093.html">Hybrid electrolyzer systems: Smart strategy or economic fallacy?</a></div><div class="paper-tags"><a href="hydrogen-production-360d.html">hydrogen-production</a></div></td>
+<td>Marie Arnold et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06093">2607.06093</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03783.html">An Integrated Techno-Economic Framework for Optimal Microgrid Design: An Australian Case Study</a></div><div class="paper-tags"><a href="fuel-cells-360d.html">fuel-cells</a></div></td>

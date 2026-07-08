@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-systems — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="energy-systems-7d.html">7d</a> <a href="energy-systems-30d.html">30d</a> <strong>90d</strong> <a href="energy-systems-360d.html">360d</a> <a href="energy-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13316.html">Beyond Uniform Sampling: Synergistic Active Learning and Input Denoising for Robust Neural Operators</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="digital-twin-90d.html">digital-twin</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Samrendra Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13316">2604.13316</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05429.html">Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Tinko Sebastian Bartels et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05429">2604.05429</a></td>
 </tr>
 </tbody></table>

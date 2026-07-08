@@ -100,5 +100,139 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-07-01"
+ },
+ "2607.02246": {
+  "abstract": "Gliding mammals exhibit diverse patagium and tail/uropatagium morphologies that may influence aerodynamic performance and maneuverability. Here, we use computational fluid dynamics to isolate the aerodynamic effects of representative gliding-mammal-inspired morphologies under controlled flow conditions. Three patagium configurations were compared to evaluate the effects of membrane outline on lift generation, drag, stall behavior and pitching moment. Three tail/uropatagium configurations were further tested under baseline, symmetric-deflection and asymmetric-deflection conditions to assess their longitudinal and lateral control authority. The results show that a broader patagium configuration generated the highest lift and lift coefficient, whereas an intermediate patagium morphology showed a smoother post-stall response with lower drag. For the tail configurations, the colugo-like integrated uropatagium enhanced lift and pitch-control authority under symmetric deflection, while the flat-tail configuration produced stronger rolling and yawing responses under asymmetric deflection. These findings indicate that gliding-mammal-inspired morphologies produce distinct aerodynamic trade-offs rather than a single optimal design. The results provide insight into the functional diversity of gliding mammal morphology and offer design guidance for bioinspired morphing aerial robots.",
+  "authors": [
+   "Liming Zheng",
+   "Baihui Chen",
+   "Alexander van Zuijlen",
+   "Salua Hamaza"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.bio-ph"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Liming Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2607.02246",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-02",
+  "tags": [
+   "cfd"
+  ],
+  "title": "Patagium and tail morphology shape aerodynamic performance and control authority in gliding-mammal-inspired wings",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.02746": {
+  "abstract": "Machine learning has shown speedups for numerical methods in physics applications, but integrating Python-based libraries into high-performance C++ solvers creates performance bottlenecks. We present CodeJeNN, which bridges this gap by auto-generating self-contained C++ code from trained Keras models for inference. This eliminates external dependencies through minimal inlined functions, allowing seamless integration into existing frameworks. We describe the Keras-to-C++ workflow, supported architectures, and limitations. CodeJeNN is demonstrated through inference benchmarks against Keras in eager and JIT modes and a CFD test case modeling viscosity in a hydrogen-air mixing layer, showing speedups without sacrificing accuracy.",
+  "authors": [
+   "Jay Arcities",
+   "Pavel Popov",
+   "Eric J Ching",
+   "Kamal Viswanath",
+   "Ryan F Johnson"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jay Arcities",
+  "pdf_url": "http://arxiv.org/pdf/2607.02746",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-07-02",
+  "tags": [
+   "cfd"
+  ],
+  "title": "CodeJeNN: A simple C++ neural network generator for physics applications",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.04148": {
+  "abstract": "U-235 and U-238 are fundamental materials in thermal and fast neutron breeding studies. Accurate evaluation of their fission product yields is of critical importance for advanced reactor design and nuclear waste management. In this work, a baseline Bayesian neural network model (BNN0) with two hidden layers of 20 neurons each was constructed. An improved model, BNN3, was developed by incorporating additional physics-informed features, namely the odd-even effect, beta-decay energy, and isospin, into the network inputs. Comparative analyses of the general distributions of the fission yields and isotopic chain structures demonstrate that BNN3 exhibits significantly improved reconstruction accuracy and consistency with the target cumulative fission-yield distributions. For 16 representative fission products, the energy-dependent yield predictions of BNN3 show better agreement with both experimental data and evaluated libraries, accompanied by noticeably narrower confidence intervals. These results indicate that the incorporation of relevant physical information improves the model's sensitivity to underlying fission mechanisms and enhances its capability to reproduce the systematic characteristics of cumulative fission-yield distributions. Together, these strategies contribute to more accurate and robust nuclear data modeling, providing a methodological foundation for the evaluation and development of next-generation nuclear data libraries.",
+  "authors": [
+   "Chun-Yuan Qiao",
+   "Ya-Xuan Wang",
+   "Jun-Chen Pei",
+   "Chun-Wang Ma",
+   "Yong-Jing Chen",
+   "Jin-Gen Chen",
+   "Jie Pu",
+   "Kai-Xuan Cheng",
+   "Yu-Ting Wang",
+   "Ya-Fei Guo",
+   "Xiang Chen"
+  ],
+  "categories": [
+   "nucl-th"
+  ],
+  "comment": "18 pages, 14 figures, 4 tables",
+  "first_author": "Chun-Yuan Qiao",
+  "pdf_url": "http://arxiv.org/pdf/2607.04148",
+  "primary_category": "nucl-th",
+  "published": "2026-07-05",
+  "tags": [
+   "reactor-design"
+  ],
+  "title": "Evaluation of U-235 and U-238 Fission Product Yields Using Bayesian Neural Networks: Comparison of Baseline and Physics-Informed Models",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.04390": {
+  "abstract": "Plasma in nuclear fusion reactors is only partially observable: diagnostics are constrained by limited access, cost, and the harsh plasma environment, while high-fidelity simulations remain prohibitively costly at reactor-relevant scales to address the observability gap. This paper presents an ML model for reconstructing full-domain plasma states from a small number of accessible measurements. The model combines temporal encoding of sparse sensor histories with spatial decoding into complete plasma-field maps. Demonstrations using high-fidelity kinetic simulation data show that multiple coupled plasma quantities can be reconstructed from only a few density sensors, with robustness to sparse and randomly located probes. The approach provides a route toward diagnostic augmentation, real-time state estimation, and data-driven digital twins for fusion-relevant plasmas.",
+  "authors": [
+   "Maryam Reza",
+   "Farbod Faraji"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": "4 pages, 3 figures; Submitted to EPS Plasma Physics Conference 2026",
+  "first_author": "Maryam Reza",
+  "pdf_url": "http://arxiv.org/pdf/2607.04390",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-07-05",
+  "tags": [
+   "digital-twin"
+  ],
+  "title": "Machine-Learning-Enabled Full-State Reconstruction of Fusion Plasmas from Minimal Sensor Measurements",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.06093": {
+  "abstract": "Hybrid electrolyzer systems combining alkaline water electrolysis and proton exchange membrane water electrolysis have been investigated in the literature motivated by the expectation that their contrary techno-economic characteristics compensate for the individual technical and economic restrictions of each technology, thereby improving the profitability of green hydrogen production. To reassess the economic potential of hybrid electrolyzer systems beyond these technology-specific assumptions, we independently vary two key characteristics, electrolyzer efficiency and investment cost, in a large-scale sensitivity analysis. For each generated parameter configuration, we performed a techno-economic optimization of a green hydrogen supply chain, including two electrolyzers. The resulting system design, cost objective, and dispatch behavior are subsequently analyzed. Consequently, hybrid electrolyzer systems are identified as optimal if they provide a cost benefit over single electrolyzer systems. The analysis reveals that hybrid electrolyzer systems represent the optimal solution in at most 5.0% of the investigated cases. Furthermore, the maximum cost benefit is 0.057 EUR/kgH2, which corresponds to only about 1% of the total green hydrogen production cost. Additional analyses considering variations in energy purchase prices, storage fees, availability of renewable energy, and baseline electrolyzer efficiency yield negligible changes to these results. Hence, considering that hybrid electrolyzer systems offer marginal cost benefits and prove economically optimal in very few cases, they seem more likely to represent an economic fallacy than a smart strategy.",
+  "authors": [
+   "Marie Arnold",
+   "Jonathan Brandt",
+   "Geert Tjarks",
+   "Richard Hanke-Rauschenbach"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Marie Arnold",
+  "pdf_url": "http://arxiv.org/pdf/2607.06093",
+  "primary_category": "cs.CE",
+  "published": "2026-07-07",
+  "tags": [
+   "electrolysis",
+   "hydrogen-production"
+  ],
+  "title": "Hybrid electrolyzer systems: Smart strategy or economic fallacy?",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-07-07"
  }
 }

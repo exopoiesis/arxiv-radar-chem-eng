@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>large-language-models — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <strong>90d</strong> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,23 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09823.html">Agentic Workflows for Resolving Conflict Over Shared Resources: A Power Grid Application</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a></div></td>
 <td>Shiva Poudel et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09823">2604.09823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05876.html">Context-Aware Model Predictive Control for Microgrid Energy Management via LLMs</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="mpc-90d.html">mpc</a></div></td>
-<td>Ruixiang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05876">2512.05876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05429.html">Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="energy-systems-90d.html">energy-systems</a></div></td>
-<td>Tinko Sebastian Bartels et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05429">2604.05429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07415.html">SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval</a></div><div class="paper-tags"><a href="process-modeling-90d.html">process-modeling</a></div></td>
-<td>Roxana Petcu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07415">2604.07415</a></td>
 </tr>
 </tbody></table>
