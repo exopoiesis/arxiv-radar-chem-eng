@@ -3,6 +3,10 @@
   count: 8
   total: 157
   group: reactions
+- name: large-language-models
+  count: 7
+  total: 110
+  group: architectures
 - name: dft
   count: 6
   total: 125
@@ -11,18 +15,30 @@
   count: 5
   total: 149
   group: energy
-- name: large-language-models
+- name: uncertainty-quantification
   count: 5
-  total: 108
-  group: architectures
+  total: 57
+  group: methods
 - name: adsorption
   count: 4
   total: 85
   group: separations
-- name: uncertainty-quantification
+- name: chemical-engineering
   count: 4
-  total: 56
+  total: 121
+  group: domain
+- name: materials-discovery
+  count: 4
+  total: 44
+  group: materials
+- name: physics-informed-ml
+  count: 4
+  total: 47
   group: methods
+- name: surrogate-modeling
+  count: 4
+  total: 89
+  group: modeling
 - name: digital-twin
   count: 3
   total: 49
@@ -35,10 +51,6 @@
   count: 3
   total: 19
   group: monitoring
-- name: materials-discovery
-  count: 3
-  total: 43
-  group: materials
 - name: molecular-dynamics
   count: 3
   total: 69
@@ -47,18 +59,22 @@
   count: 3
   total: 38
   group: control
-- name: surrogate-modeling
+- name: process-control
   count: 3
-  total: 88
-  group: modeling
+  total: 47
+  group: control
+- name: process-systems-engineering
+  count: 3
+  total: 17
+  group: domain
+- name: bayesian-inference
+  count: 2
+  total: 54
+  group: methods
 - name: cfd
   count: 2
   total: 90
   group: fluids
-- name: chemical-engineering
-  count: 2
-  total: 119
-  group: domain
 - name: fuel-cells
   count: 2
   total: 44
@@ -71,10 +87,6 @@
   count: 2
   total: 74
   group: control
-- name: physics-informed-ml
-  count: 2
-  total: 45
-  group: methods
 - name: process-design
   count: 2
   total: 38
@@ -83,10 +95,14 @@
   count: 2
   total: 29
   group: modeling
-- name: process-systems-engineering
+- name: system-identification
   count: 2
-  total: 16
-  group: domain
+  total: 29
+  group: modeling
+- name: transport-phenomena
+  count: 2
+  total: 11
+  group: transport
 - name: ammonia-synthesis
   count: 1
   total: 5
@@ -99,10 +115,6 @@
   count: 1
   total: 30
   group: energy
-- name: bayesian-inference
-  count: 1
-  total: 53
-  group: methods
 - name: carbon-capture
   count: 1
   total: 47
@@ -143,10 +155,6 @@
   count: 1
   total: 13
   group: fluids
-- name: process-control
-  count: 1
-  total: 45
-  group: control
 - name: reactor-design
   count: 1
   total: 13
@@ -159,14 +167,10 @@
   count: 1
   total: 12
   group: methods
-- name: system-identification
+- name: turbulence-modeling
   count: 1
-  total: 28
-  group: modeling
-- name: transport-phenomena
-  count: 1
-  total: 10
-  group: transport
+  total: 13
+  group: fluids
 - name: active-learning
   count: 0
   total: 53
@@ -359,10 +363,6 @@
   count: 0
   total: 22
   group: architectures
-- name: turbulence-modeling
-  count: 0
-  total: 12
-  group: fluids
 - name: wastewater-treatment
   count: 0
   total: 24

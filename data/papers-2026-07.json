@@ -154,6 +154,29 @@
   ],
   "updated": "2026-07-02"
  },
+ "2607.03198": {
+  "abstract": "World models -- compressed latent representations of an environment that support action-conditioned prediction and planning -- are typically presented as a product of modern self-supervised learning. This paper argues that the functional anatomy of a world model was independently developed, deployed, and formally analyzed decades earlier in the model-order-reduction (MOR) and control literature, under different names and for a different purpose: the real-time operation of physical systems. We trace the anatomy across three communities. Low-dimensional models of turbulence built on proper orthogonal decomposition (POD) supplied latent dynamics learned from data of a chaotic environment; eigenface methods in early computer vision supplied the encoder-decoder half, including a primitive runtime validity check; and measurement-based POD frameworks for facility thermal control assembled the complete loop -- POD coefficients as latent state, parametric dependence on actuator setpoints as action conditioning, modal reconstruction as decoding, and, critically, a priori analytical error bounds as a verification layer that certified when the model's predictions could be trusted in closed loop. We then examine what each tradition possesses that the other lacks: MOR contributes verification, physical grounding, and extreme data efficiency; learned world models contribute nonlinear representation, transferability, and horizon. We argue that the outstanding obstacle to deploying world models in systems that cannot fail -- power, thermal, process control -- is not predictive fidelity but verifiability, and we outline a research agenda for physics-grounded, verifiable world models that unifies the two lineages.",
+  "authors": [
+   "Rajat Ghosh"
+  ],
+  "categories": [
+   "cs.LG",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Rajat Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2607.03198",
+  "primary_category": "cs.LG",
+  "published": "2026-07-03",
+  "tags": [
+   "process-control"
+  ],
+  "title": "Reduced-Order Models: The Mother of World Models",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-03"
+ },
  "2607.04148": {
   "abstract": "U-235 and U-238 are fundamental materials in thermal and fast neutron breeding studies. Accurate evaluation of their fission product yields is of critical importance for advanced reactor design and nuclear waste management. In this work, a baseline Bayesian neural network model (BNN0) with two hidden layers of 20 neurons each was constructed. An improved model, BNN3, was developed by incorporating additional physics-informed features, namely the odd-even effect, beta-decay energy, and isospin, into the network inputs. Comparative analyses of the general distributions of the fission yields and isotopic chain structures demonstrate that BNN3 exhibits significantly improved reconstruction accuracy and consistency with the target cumulative fission-yield distributions. For 16 representative fission products, the energy-dependent yield predictions of BNN3 show better agreement with both experimental data and evaluated libraries, accompanied by noticeably narrower confidence intervals. These results indicate that the incorporation of relevant physical information improves the model's sensitivity to underlying fission mechanisms and enhances its capability to reproduce the systematic characteristics of cumulative fission-yield distributions. Together, these strategies contribute to more accurate and robust nuclear data modeling, providing a methodological foundation for the evaluation and development of next-generation nuclear data libraries.",
   "authors": [
@@ -209,6 +232,82 @@
   ],
   "updated": "2026-07-05"
  },
+ "2607.04450": {
+  "abstract": "Integral codes like the Accident Source Term Evaluation Code (ASTEC) are powerful tools to study the physics of Severe Accidents (SAs) in nuclear reactors. Real time SA simulators can also be helpful in training operators of nuclear plants to react correctly to malfunctions. However, SA simulators can take up to several days per simulation, making their use infeasible for real time applications. In this work we show how to speed up a SA simulator with a fast, Deep Learning based (DL), surrogate model (SM). The SM is built as a combination of a dimensionality reduction stage, via an AutoEncoder, and a time-stepping stage, via a Neural Ordinary Differential Equation. The data on which the SM is trained are obtained from the ASTEC simulator, by sampling a set of operator actions for station blackout (SBO) and loss-of-coolant accidents (LOCA). The objective of the developed SM is to approximate multiple spatio-temporal fields for the thermal-hydraulic physics, core degradation, and fission product release modules in ASTEC's vessel domain. The SM predicts simultaneously around $80$ different physical variables (both scalar and fields), maintaining a stable autoregressive rollout up to $50$ thousand time steps. In addition, the AutoEncoder achieves a dimensionality reduction by a factor of over $300$, which allows the SM to predict up to $40$ hours of simulation in under a minute, both on CPU and GPU. This work is the first study of the capabilities and limits of DL based surrogate modeling in approximating the challenging, highly non-linear physics of ASTEC.",
+  "authors": [
+   "Alessandro Longhi",
+   "Danny Lathouwers",
+   "Zoltán Perkó"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Alessandro Longhi",
+  "pdf_url": "http://arxiv.org/pdf/2607.04450",
+  "primary_category": "cs.LG",
+  "published": "2026-07-05",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.05458": {
+  "abstract": "Large language model (LLM) agents are usually improved by changing prompts, models, or hand-written workflows, while the execution harness around the model is treated as fixed infrastructure. We argue that this harness is itself a learnable control layer. We formalize harness operation as a finite-horizon Harness MDP, where a lightweight controller selects structural execution actions while the LLM executor remains frozen. The controller is trained from offline rollouts using advantage-weighted regression with only terminal task-rubric rewards. We also separate final task quality from a post-hoc Harness Maturity Score, which measures whether the harness follows reliable execution patterns rather than only whether the final answer is correct. This separation gives a finite-buffer view of harness learning: final-quality gains require high-return support in the offline buffer, while process behavior can shift whenever it aligns with advantage-weighted actions. Across six controlled domains and two public-benchmark adapters, the learned controller consistently improves verification behavior and selectively improves final task quality, with the largest gains on adapted tau-bench retail, adapted AgentBench DB-Bench, and coding with a calibrated structural verifier. Ablations against behavior cloning and Forced CHECK show that the gains are not explained by imitation or by simply adding checks. These results identify harness control as a learnable layer for frozen LLM agents, while showing that offline support limits when better process control becomes better final answers.",
+  "authors": [
+   "Haiwen Yi",
+   "Xinyuan Song"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "17 pages, 7 figures",
+  "first_author": "Haiwen Yi",
+  "pdf_url": "http://arxiv.org/pdf/2607.05458",
+  "primary_category": "cs.LG",
+  "published": "2026-07-05",
+  "tags": [
+   "large-language-models",
+   "process-control"
+  ],
+  "title": "Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.06091": {
+  "abstract": "The advection-diffusion equation is a fundamental model of transport phenomena in which mass conservation is an essential physical constraint. While classical schemes such as Crank-Nicolson preserve this property by construction, Physics-Informed Neural Networks (PINNs) enforce only the local residual of the governing PDE and are therefore not guaranteed to conserve global quantities such as mass over long integration horizons. In this work, we examine the extent of this limitation for the periodic one-dimensional advection-diffusion equation and evaluate a Mass-Penalty PINN that augments the standard PINN loss with a soft mass-conservation constraint. We compare the performance of Vanilla PINN, Mass-Penalty PINN, and the Crank-Nicolson scheme across a range of Peclet numbers spanning diffusion-dominated to advection-dominated regimes, and over two simulation horizons representing short-term and long-term dynamics. The results show that, for short-term simulations, the Mass-Penalty PINN does not always provide a consistent improvement in accuracy. However, for long-term simulations, the Mass-Penalty PINN reduces the relative L2 error and mass conservation error by factors of approximately 9-67 and 15-215, respectively, compared with the Vanilla PINN, across the tested Peclet numbers. Further analysis reveals that the accuracy degradation observed in Vanilla PINN is predominantly caused by the accumulation of mass drift over time. These results demonstrate that incorporating a soft mass-conservation constraint substantially improves the long-term reliability of PINN for conservative transport problems, particularly in mitigating mass drift over extended simulation horizons.",
+  "authors": [
+   "Eszra Forenita Sigalingging",
+   "Liu Kin Men",
+   "Setianto Setianto",
+   "Ferry Faizal"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Eszra Forenita Sigalingging",
+  "pdf_url": "http://arxiv.org/pdf/2607.06091",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-07-07",
+  "tags": [
+   "physics-informed-ml",
+   "transport-phenomena"
+  ],
+  "title": "Mass-Conserving Physics-Informed Neural Networks For The One-Dimensional Advection-Diffusion Equation",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-07"
+ },
  "2607.06093": {
   "abstract": "Hybrid electrolyzer systems combining alkaline water electrolysis and proton exchange membrane water electrolysis have been investigated in the literature motivated by the expectation that their contrary techno-economic characteristics compensate for the individual technical and economic restrictions of each technology, thereby improving the profitability of green hydrogen production. To reassess the economic potential of hybrid electrolyzer systems beyond these technology-specific assumptions, we independently vary two key characteristics, electrolyzer efficiency and investment cost, in a large-scale sensitivity analysis. For each generated parameter configuration, we performed a techno-economic optimization of a green hydrogen supply chain, including two electrolyzers. The resulting system design, cost objective, and dispatch behavior are subsequently analyzed. Consequently, hybrid electrolyzer systems are identified as optimal if they provide a cost benefit over single electrolyzer systems. The analysis reveals that hybrid electrolyzer systems represent the optimal solution in at most 5.0% of the investigated cases. Furthermore, the maximum cost benefit is 0.057 EUR/kgH2, which corresponds to only about 1% of the total green hydrogen production cost. Additional analyses considering variations in energy purchase prices, storage fees, availability of renewable energy, and baseline electrolyzer efficiency yield negligible changes to these results. Hence, considering that hybrid electrolyzer systems offer marginal cost benefits and prove economically optimal in very few cases, they seem more likely to represent an economic fallacy than a smart strategy.",
   "authors": [
@@ -234,5 +333,143 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-07-07"
+ },
+ "2607.06743": {
+  "abstract": "This paper proposes Variational Inference-based Bayesian Estimation with Sobol screening (VIBES), a two-stage scalable framework for Bayesian uncertainty quantification (UQ). The proposed approach combines Sobol global sensitivity analysis (GSA) for screening and dimensionality reduction, followed by variational inference (VI) for UQ of kinetic, design/operational, and economic parameters. In the first stage, Sobol GSA is performed to identify dominant variables and parameters governing uncertainty in process outputs. In the second stage, Bayesian inference is performed only on the reduced dimensional space using VI, thus reducing computational burden and enhancing scalability. The framework is demonstrated on a process for bioadhesive production through base-catalyzed depolymerization of kraft lignin and subsequent crosslinking with isolated soy protein. A Python-Aspen interface is developed for automated simulation and parameter estimation, enabling Bayesian calibration through stochastic gradient-based optimization and automatic-differentiation. The methodology is generic and readily generalizable to other biomass conversion pathways. The results show that application of VIBES consistently reduces predictive uncertainty bounds across all model outputs by more than 80%, even when only the reduced-space input variables and parameters are optimized during Bayesian estimation. The framework can be potentially applied for scalable, uncertainty-aware decision-making in high-dimensional, complex chemical process systems.",
+  "authors": [
+   "Poulomi Das",
+   "Angan Mukherjee",
+   "Debangsu Bhattacharyya"
+  ],
+  "categories": [
+   "eess.SY",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Poulomi Das",
+  "pdf_url": "http://arxiv.org/pdf/2607.06743",
+  "primary_category": "eess.SY",
+  "published": "2026-07-07",
+  "tags": [
+   "bayesian-inference",
+   "chemical-engineering",
+   "process-systems-engineering",
+   "system-identification",
+   "uncertainty-quantification"
+  ],
+  "title": "VIBES -- A Two-Stage Scalable Bayesian Uncertainty Quantification Framework: Application to a Biomass Valorization Process",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.07020": {
+  "abstract": "Reynolds-averaged Navier-Stokes (RANS) turbulence models are known to perform poorly in predicting the dynamics of Rayleigh-Taylor mixing when turbulence is not fully developed, particularly during the transition from an initially perturbed interface. In this work, we investigate the use of data-driven strategies to enhance a simple $k$-$\\varepsilon$-$b$ model for this transitional regime. The turbulence model is first embedded within a surrogate physics-informed neural network (PINN), enabling the calibration of coefficients that account for parametric errors and the identification of corrective terms representing structural errors associated with missing physical processes. The learned corrections are then re-expressed onto the model state variables and relevant flow indicators, leading to explicit analytical modifications of the closure. The resulting fully interpretable corrected model is assessed against an extensive database of direct numerical simulations (DNS) of Rayleigh-Taylor flows. This framework enables improved predictions of the mixing-layer growth during the transition to turbulence.",
+  "authors": [
+   "Paul Creusy",
+   "Benoît-Joseph Gréa",
+   "Antoine Briard",
+   "Téo Granger"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.data-an"
+  ],
+  "comment": null,
+  "first_author": "Paul Creusy",
+  "pdf_url": "http://arxiv.org/pdf/2607.07020",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-08",
+  "tags": [
+   "physics-informed-ml",
+   "turbulence-modeling"
+  ],
+  "title": "Learning Turbulence Closures with Physics-Informed Neural Networks for the Rayleigh-Taylor Transition to Turbulence",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07291": {
+  "abstract": "A topotactic phase transition involves the transformation of one crystalline solid to another, which may include the loss or gain of material, where the orientation of the parent crystal determines the orientation of the daughter. We set out an experimental approach, based on polyepitaxial thin film deposition, where the precise transformation mechanism in important physico-chemical processes can be revealed in brilliant detail. Here, we find a reversible topotactic transition from (001) cubic UO2 to a (130) orthorhombic U3O8 structure; a >35% expansion/contraction. This remarkable result solves a puzzle that has eluded researchers for decades, and presents a method for determining the mechanism of crystallographic transformation in many other compounds.",
+  "authors": [
+   "Jacek Wasik",
+   "Renaud Podor",
+   "Jarrod Lewis",
+   "Niamh Cuffe",
+   "Connor Beer",
+   "Christopher Bell",
+   "Ross Springell"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "4 figures, 17 pages",
+  "first_author": "Jacek Wasik",
+  "pdf_url": "http://arxiv.org/pdf/2607.07291",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-08",
+  "tags": [
+   "chemical-engineering"
+  ],
+  "title": "A Topotactic Phase Transition in the Uranium Oxide System",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07708": {
+  "abstract": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificial intelligence to this process presents a joint challenge of representation and reasoning: models must preserve domain-native structural information while showing how specific evidence supports predictions under these constraints. Here we introduce SciReasoner, a multimodal scientific foundation model for native structural reasoning across proteins, small molecules and inorganic crystals. SciReasoner discretizes coordinates, topologies and periodic connectivities into a unified structure-aware vocabulary, treating structural tokens as addressable evidence units during reasoning. In homology-controlled Gene Ontology prediction, SciReasoner improves Cellular Component annotation for low-homology and orphan-like proteins, increasing $F_{\\max}$ from 0.42 to 0.55. In chemistry, it raises single-step retrosynthesis accuracy from 0.63 to 0.72 while generating fragment-level disconnection and precursor-verification traces. In materials science, its representations separate elemental and compound phases and resolve high- and low-band-gap regimes. Across 86 benchmarks, SciReasoner achieves state-of-the-art performance on 67 tasks. Double-blind expert evaluation rates its reasoning traces as preferred or at least comparable to those of a frontier large language model in 98% of cases. By making structure an inspectable substrate for reasoning under scientific constraints, SciReasoner connects accurate prediction with interpretable scientific inference.",
+  "authors": [
+   "Chen Tang",
+   "Yizhou Wang",
+   "Jianyu Wu",
+   "Lintao Wang",
+   "Shixiang Tang",
+   "Pengze Li",
+   "Encheng Su",
+   "Jun Yao",
+   "Jiabei Xiao",
+   "Yuqi Shi",
+   "Jielan Li",
+   "Hongxia Hao",
+   "Zhangyang Gao",
+   "Fang Wu",
+   "Ben Fei",
+   "Xiangyu Yue",
+   "Pan Tan",
+   "Bozitao Zhong",
+   "Jinouwen Zhang",
+   "Aoran Wang",
+   "Yan Lu",
+   "Jiaheng Liu",
+   "Xinzhu Ma",
+   "Liang Hong",
+   "Mingyue Zheng",
+   "Phil Torr",
+   "Bowen Zhou",
+   "Wanli Ouyang",
+   "Lei Bai"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.CE",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Chen Tang",
+  "pdf_url": "http://arxiv.org/pdf/2607.07708",
+  "primary_category": "cs.CL",
+  "published": "2026-07-08",
+  "tags": [
+   "large-language-models",
+   "materials-discovery"
+  ],
+  "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-07-08"
  }
 }

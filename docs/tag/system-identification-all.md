@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>system-identification — all</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06743.html">VIBES -- A Two-Stage Scalable Bayesian Uncertainty Quantification Framework: Application to a Biomass Valorization Process</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="process-systems-engineering-all.html">process-systems-engineering</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Poulomi Das et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06743">2607.06743</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="digital-twin-all.html">digital-twin</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a></div></td>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07708.html">Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>
+<td>Chen Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07708">2607.07708</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Shaobo Yu et al.</td>
@@ -194,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14267.html">DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="dft-360d.html">dft</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Ziqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14267">2507.14267</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09669.html">Navigating the Evolution of Two-dimensional Carbon Nitride Research: Integrating Machine Learning into Conventional Approaches</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Deep Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09669">2507.09669</a></td>
 </tr>
 </tbody></table>

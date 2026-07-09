@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>turbulence-modeling — all</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="turbulence-modeling-7d.html">7d</a> <a href="turbulence-modeling-30d.html">30d</a> <a href="turbulence-modeling-90d.html">90d</a> <a href="turbulence-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07020.html">Learning Turbulence Closures with Physics-Informed Neural Networks for the Rayleigh-Taylor Transition to Turbulence</a></div><div class="paper-tags"><a href="physics-informed-ml-all.html">physics-informed-ml</a></div></td>
+<td>Paul Creusy et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07020">2607.07020</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>

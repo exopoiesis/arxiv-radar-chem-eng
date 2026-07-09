@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04450.html">A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC</a></div></td>
+<td>Alessandro Longhi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04450">2607.04450</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="transport-phenomena-90d.html">transport-phenomena</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Gabriel F. Barros et al.</td>
@@ -146,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09932.html">A Hybrid Intelligent Framework for Uncertainty-Aware Condition Monitoring of Industrial Systems</a></div><div class="paper-tags"><a href="process-monitoring-90d.html">process-monitoring</a></div></td>
 <td>Maryam Ahang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09932">2604.09932</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05566.html">Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a></div></td>
-<td>Perceval Beja-Battais et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05566">2604.05566</a></td>
 </tr>
 </tbody></table>

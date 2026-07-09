@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>transport-phenomena — all</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="transport-phenomena-7d.html">7d</a> <a href="transport-phenomena-30d.html">30d</a> <a href="transport-phenomena-90d.html">90d</a> <a href="transport-phenomena-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06091.html">Mass-Conserving Physics-Informed Neural Networks For The One-Dimensional Advection-Diffusion Equation</a></div><div class="paper-tags"><a href="physics-informed-ml-all.html">physics-informed-ml</a></div></td>
+<td>Eszra Forenita Sigalingging et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06091">2607.06091</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-ml-all.html">physics-informed-ml</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>

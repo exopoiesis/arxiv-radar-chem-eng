@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-08._
+_Updated 2026-07-09._
 
-**1184** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1192** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,40 @@ _Updated 2026-07-08._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07020.html">Learning Turbulence Closures with Physics-Informed Neural Networks for the Rayleigh-Taylor Transition to Turbulence</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
+<td>Paul Creusy et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07020">2607.07020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07291.html">A Topotactic Phase Transition in the Uranium Oxide System</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
+<td>Jacek Wasik et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07291">2607.07291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07708.html">Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Chen Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07708">2607.07708</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06091.html">Mass-Conserving Physics-Informed Neural Networks For The One-Dimensional Advection-Diffusion Equation</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/transport-phenomena-30d.html">transport-phenomena</a></div></td>
+<td>Eszra Forenita Sigalingging et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06091">2607.06091</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06093.html">Hybrid electrolyzer systems: Smart strategy or economic fallacy?</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a></div></td>
 <td>Marie Arnold et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06093">2607.06093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06743.html">VIBES -- A Two-Stage Scalable Bayesian Uncertainty Quantification Framework: Application to a Biomass Valorization Process</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a> · <a href="tag/system-identification-30d.html">system-identification</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Poulomi Das et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06743">2607.06743</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-05</td>
@@ -31,6 +61,24 @@ _Updated 2026-07-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.04390.html">Machine-Learning-Enabled Full-State Reconstruction of Fusion Plasmas from Minimal Sensor Measurements</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a></div></td>
 <td>Maryam Reza et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04390">2607.04390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.04450.html">A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Alessandro Longhi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04450">2607.04450</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.05458.html">Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Haiwen Yi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05458">2607.05458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.03198.html">Reduced-Order Models: The Mother of World Models</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Rajat Ghosh</td>
+<td><a href="http://arxiv.org/abs/2607.03198">2607.03198</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-02</td>
@@ -145,53 +193,5 @@ _Updated 2026-07-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jaehong Kwon et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21728.html">Embedding Linear Equality Constraints in Probabilistic Neural Networks for Dynamic Modelling</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Matthew Marsh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21728">2606.21728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21741.html">Observations Regarding the Construction of Multipoint Kinetics Models from Observational Data</a></div></td>
-<td>K. G. Howey et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21741">2606.21741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18799.html">A Theory-Guided Advanced Regulatory Control Synthesis for Cooling-Limited Exothermic Semi-Batch Reactors</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Chenchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18799">2606.18799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Zongmin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="tag/transport-phenomena-30d.html">transport-phenomena</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Gabriel F. Barros et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17382.html">Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a></div></td>
-<td>Ryoma Iki et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17382">2606.17382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17180.html">Towards Fast GNN Surrogates for CO2 Migration in Complex Geological Formations</a></div><div class="paper-tags"><a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/multiphase-flow-30d.html">multiphase-flow</a></div></td>
-<td>Rodrigo S. Luna et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17180">2606.17180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.15845.html">An Optimal Power Management Policy for Hydrogen-based Hybrid Aero Engines</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
-<td>Faezeh Pak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15845">2606.15845</a></td>
 </tr>
 </tbody></table>
