@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14267.html">DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Ziqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14267">2507.14267</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10498.html">Modeling the Behavior of Complex Aqueous Electrolytes Using Machine Learning Interatomic Potentials: The Case of Sodium Sulfate</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="wastewater-treatment-360d.html">wastewater-treatment</a></div></td>
-<td>Ademola Soyemi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10498">2507.10498</a></td>
 </tr>
 </tbody></table>

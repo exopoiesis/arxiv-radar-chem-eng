@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>separations — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="separations-7d.html">7d</a> <a href="separations-30d.html">30d</a> <a href="separations-90d.html">90d</a> <strong>360d</strong> <a href="separations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17112.html">Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement</a></div><div class="paper-tags"><a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
 <td>Yuhan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17112">2507.17112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10104.html">Continuous variable quantum communication with 40 pairs of entangled sideband</a></div></td>
-<td>Xuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10104">2507.10104</a></td>
 </tr>
 </tbody></table>

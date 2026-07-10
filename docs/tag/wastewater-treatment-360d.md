@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>wastewater-treatment — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="wastewater-treatment-7d.html">7d</a> <a href="wastewater-treatment-30d.html">30d</a> <a href="wastewater-treatment-90d.html">90d</a> <strong>360d</strong> <a href="wastewater-treatment-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01526.html">Prediction, Generation of WWTPs microbiome community structures and Clustering of WWTPs various feature attributes using DE-BP model, SiTime-GAN model and DPNG-EPMC ensemble clustering algorithm with modulation of microbial ecosystem health</a></div></td>
 <td>Mingzhi Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01526">2509.01526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10498.html">Modeling the Behavior of Complex Aqueous Electrolytes Using Machine Learning Interatomic Potentials: The Case of Sodium Sulfate</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ademola Soyemi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10498">2507.10498</a></td>
 </tr>
 </tbody></table>
