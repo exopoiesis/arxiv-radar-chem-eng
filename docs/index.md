@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-10._
+_Updated 2026-07-11._
 
-**1192** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1193** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/co2-electroreduction-30d.html">co2-electroreduction</a> · <a href="tag/co2-reduction-30d.html">co2-reduction</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Sutanay Choudhury et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07020.html">Learning Turbulence Closures with Physics-Informed Neural Networks for the Rayleigh-Taylor Transition to Turbulence</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-07-10._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21523.html">Accelerating Simulation and Optimisation of Cyclic Adsorption Processes with Differentiable Programming</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/carbon-capture-30d.html">carbon-capture</a> · <a href="tag/process-design-30d.html">process-design</a></div></td>
 <td>Alex Glover et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21523">2606.21523</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jaehong Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
 </tr>
 </tbody></table>

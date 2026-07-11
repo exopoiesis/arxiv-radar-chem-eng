@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-design — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <a href="process-design-90d.html">90d</a> <strong>360d</strong> <a href="process-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20527.html">Molecular Machine Learning in Chemical Process Design</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
 <td>Jan G. Rittig et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20527">2508.20527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10879.html">Omnisoot: an object-oriented process design package for gas-phase synthesis of carbonaceous nanoparticles</a></div><div class="paper-tags"><a href="flow-reactors-360d.html">flow-reactors</a></div></td>
-<td>Mohammad Adib et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10879">2507.10879</a></td>
 </tr>
 </tbody></table>

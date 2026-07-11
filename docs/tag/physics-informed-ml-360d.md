@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-ml — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="physics-informed-ml-7d.html">7d</a> <a href="physics-informed-ml-30d.html">30d</a> <a href="physics-informed-ml-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-ml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13323.html">Enhanced Prediction of CO2 Solubility under Geological Conditions for CCUS via Improved Pitzer Parameters and Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a></div></td>
 <td>Abdeldjalil Latrach et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13323">2508.13323</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10983.html">Physics-Informed Neural Networks For Semiconductor Film Deposition: A Review</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
-<td>Tao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10983">2507.10983</a></td>
 </tr>
 </tbody></table>

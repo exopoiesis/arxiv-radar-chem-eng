@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="co2-electroreduction-360d.html">co2-electroreduction</a> · <a href="co2-reduction-360d.html">co2-reduction</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Sutanay Choudhury et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-simulation-360d.html">molecular-simulation</a></div></td>
