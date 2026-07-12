@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -488,11 +488,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05000.html">Load Forecasting for Households and Energy Communities: Are Deep Learning Models Worth the Effort?</a></div><div class="paper-tags"><a href="energy-systems-360d.html">energy-systems</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Lukas Moosbrugger et al.</td>
 <td><a href="http://arxiv.org/abs/2501.05000">2501.05000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11806.html">MOFSimBench: Evaluating Universal Machine Learning Interatomic Potentials In Metal--Organic Framework Molecular Modeling</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hendrik Kraß et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11806">2507.11806</a></td>
 </tr>
 </tbody></table>

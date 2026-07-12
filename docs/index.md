@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-11._
+_Updated 2026-07-12._
 
-**1193** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1195** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -19,6 +19,18 @@ _Updated 2026-07-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/co2-electroreduction-30d.html">co2-electroreduction</a> · <a href="tag/co2-reduction-30d.html">co2-reduction</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Sutanay Choudhury et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08119.html">Cost of Sensing in Optimal Control: Basic Formulations, Examples, and Applications</a></div><div class="paper-tags"><a href="tag/optimal-control-30d.html">optimal-control</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
+<td>Dung Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08119">2607.08119</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08518.html">PhononScore: a phonon-aware scoring function for dynamical stability</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Xiao-Qi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08518">2607.08518</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -181,17 +193,5 @@ _Updated 2026-07-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Bin Cao</td>
 <td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21833.html">Inference as Flexibility: Ramp Management for Transmission-Connected AI Data Centres</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Zhirui Liang</td>
-<td><a href="http://arxiv.org/abs/2606.21833">2606.21833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21523.html">Accelerating Simulation and Optimisation of Cyclic Adsorption Processes with Differentiable Programming</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/carbon-capture-30d.html">carbon-capture</a> · <a href="tag/process-design-30d.html">process-design</a></div></td>
-<td>Alex Glover et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21523">2606.21523</a></td>
 </tr>
 </tbody></table>
