@@ -43,10 +43,6 @@
   count: 3
   total: 69
   group: materials
-- name: optimal-control
-  count: 3
-  total: 39
-  group: control
 - name: physics-informed-ml
   count: 3
   total: 47
@@ -63,10 +59,6 @@
   count: 2
   total: 19
   group: monitoring
-- name: fuel-cells
-  count: 2
-  total: 44
-  group: energy
 - name: graph-neural-networks
   count: 2
   total: 39
@@ -74,6 +66,10 @@
 - name: mpc
   count: 2
   total: 74
+  group: control
+- name: optimal-control
+  count: 2
+  total: 39
   group: control
 - name: process-control
   count: 2
@@ -130,6 +126,10 @@
 - name: electrolysis
   count: 1
   total: 20
+  group: energy
+- name: fuel-cells
+  count: 1
+  total: 44
   group: energy
 - name: gaussian-process
   count: 1
