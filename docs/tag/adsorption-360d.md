@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15303.html">Universal crystal material property prediction via multi-view geometric fusion in graph transformers</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Liang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15303">2507.15303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14267.html">DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Ziqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14267">2507.14267</a></td>
 </tr>
 </tbody></table>

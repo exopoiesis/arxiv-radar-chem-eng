@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-engineering — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <strong>90d</strong> <a href="chemical-engineering-360d.html">360d</a> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18511.html">An adaptive discretization algorithm for locally optimal experimental design with constraints</a></div><div class="paper-tags"><a href="experimental-design-90d.html">experimental-design</a></div></td>
 <td>Jochen Schmid et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18511">2604.18511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09166.html">Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="process-monitoring-90d.html">process-monitoring</a> · <a href="process-simulation-90d.html">process-simulation</a></div></td>
-<td>Jennifer Werner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09166">2604.09166</a></td>
 </tr>
 </tbody></table>

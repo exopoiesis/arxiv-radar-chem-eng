@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>optimal-control — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <strong>90d</strong> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26695.html">Compartment Modelling of Multiphase Reactors using Unsupervised Clustering</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="flow-reactors-90d.html">flow-reactors</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="multiphase-flow-90d.html">multiphase-flow</a></div></td>
 <td>Michael Mitterlindner et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26695">2604.26695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13215.html">A Control Co-Design Framework to Achieve Solution Feasibility in Energy System Optimization Problems</a></div><div class="paper-tags"><a href="energy-systems-90d.html">energy-systems</a></div></td>
-<td>Tania Rifat Jahan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13215">2604.13215</a></td>
 </tr>
 </tbody></table>
