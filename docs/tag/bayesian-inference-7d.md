@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06743.html">VIBES -- A Two-Stage Scalable Bayesian Uncertainty Quantification Framework: Application to a Biomass Valorization Process</a></div><div class="paper-tags"><a href="chemical-engineering-7d.html">chemical-engineering</a> · <a href="process-systems-engineering-7d.html">process-systems-engineering</a> · <a href="system-identification-7d.html">system-identification</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Poulomi Das et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06743">2607.06743</a></td>
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="generative-models-7d.html">generative-models</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Sarina Kopf et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
 </tr>
 </tbody></table>

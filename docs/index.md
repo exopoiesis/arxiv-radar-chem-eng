@@ -5,15 +5,51 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-14._
+_Updated 2026-07-15._
 
-**1195** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1201** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Sarina Kopf et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12570.html">Deep Learning-based Surrogate Modelling of the LOD Method for Multiscale Problems</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
+<td>Marc Haltmayer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12570">2607.12570</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Xingyu Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Takumi Shioda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11712.html">CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a></div></td>
+<td>Jungho Oh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11712">2607.11712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10559.html">Large language model agents accelerate inverse design of metal-organic frameworks for gas separation</a></div><div class="paper-tags"><a href="tag/gas-separation-30d.html">gas-separation</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
+<td>Zhaolin Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10559">2607.10559</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/co2-electroreduction-30d.html">co2-electroreduction</a> · <a href="tag/co2-reduction-30d.html">co2-reduction</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
@@ -157,41 +193,5 @@ _Updated 2026-07-14._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
 <td>Feng Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28507">2606.28507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28578.html">Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Sk Md Ahnaf Akif Alvi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28578">2606.28578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiwen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26347.html">Health feature extraction from battery energy storage system field fault data</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/fault-detection-30d.html">fault-detection</a></div></td>
-<td>Clement Wong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26347">2606.26347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22926.html">Reaction-Network-Level Discovery of Ammonia Synthesis Catalysts via Ten-Million-Scale Generative Exploration</a></div><div class="paper-tags"><a href="tag/ammonia-synthesis-30d.html">ammonia-synthesis</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Ruili Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22926">2606.22926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23368.html">A kinetic-diffusion Monte Carlo-based particle-level fluid-kinetic decomposition for neutral transport simulations</a></div></td>
-<td>Zhirui Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23368">2606.23368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Bin Cao</td>
-<td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
 </tr>
 </tbody></table>

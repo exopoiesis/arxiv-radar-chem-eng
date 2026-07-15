@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10559.html">Large language model agents accelerate inverse design of metal-organic frameworks for gas separation</a></div><div class="paper-tags"><a href="gas-separation-90d.html">gas-separation</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
+<td>Zhaolin Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10559">2607.10559</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29459.html">Interpretable Inverse Design of Metal-Organic Frameworks with Large Language Model Agents</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
 <td>Kyungmin Nam et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="generative-models-90d.html">generative-models</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Seunghee Han et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13520.html">LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="generative-models-90d.html">generative-models</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Chaoran Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13520">2604.13520</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a> · <a href="mpc-90d.html">mpc</a></div></td>
+<td>Takumi Shioda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="molecular-simulation-90d.html">molecular-simulation</a></div></td>
 <td>Sheng Bi et al.</td>
@@ -110,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10362.html">Battery health prognosis using Physics-informed neural network with Quantum Feature mapping</a></div></td>
 <td>Muhammad Imran Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10362">2604.10362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21300.html">Simultaneous improvement of control and estimation for battery management systems</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a></div></td>
-<td>Mohammad S. Ramadan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21300">2507.21300</a></td>
 </tr>
 </tbody></table>

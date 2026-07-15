@@ -559,5 +559,181 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-07-09"
+ },
+ "2607.10559": {
+  "abstract": "Metal-organic frameworks (MOFs) offer a highly modular platform for adsorptive gas separation, yet their vast reticular design space makes inverse design difficult under simultaneous constraints of chemical validity, separation performance, and structural diversity. Here, we present LEMO Agent, a large-language-model agent framework for closed-loop inverse design of gas-separation MOFs in MOFid space. LEMO Agent couples language-based candidate generation with MOFid standardization, explicit validity checking, Transformer-based property prediction, structured design memory, and multi-island exploration. Through iterative generate--validate--evaluate--remember cycles, the agent uses feedback from both successful and failed candidates to guide chemically constrained search across linker, metal, and topology choices. We evaluate LEMO Agent on CH$_4$/N$_2$ and CO$_2$/N$_2$ separation tasks. Compared with representative generative, optimization, and agentic baselines, LEMO Agent enriches high-performing candidates, improves predicted separation performance, and maintains broad chemical and topological diversity. Selected candidates are further reconstructed, evaluated by GCMC simulations, and passed through an experimental down-selection workflow based on chemical feasibility and ligand purchasability, leading to initial wet-lab synthesis and SEM characterization. These results demonstrate that large language model agents can serve as interpretable and scalable design engines for accelerating MOF discovery beyond conventional fixed-library screening.",
+  "authors": [
+   "Zhaolin Hu",
+   "Hehe Fan",
+   "Wangyihan Guo",
+   "Meng Xu",
+   "Chenhao Rao",
+   "Qiwei Yang",
+   "Yi Yang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "19 pages,5 figures",
+  "first_author": "Zhaolin Hu",
+  "pdf_url": "http://arxiv.org/pdf/2607.10559",
+  "primary_category": "cs.AI",
+  "published": "2026-07-12",
+  "tags": [
+   "gas-separation",
+   "large-language-models",
+   "metal-organic-frameworks"
+  ],
+  "title": "Large language model agents accelerate inverse design of metal-organic frameworks for gas separation",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-07-12"
+ },
+ "2607.11712": {
+  "abstract": "Inverse design is an emerging data-driven paradigm for efficiently navigating vast chemical spaces to discover new materials with targeted properties, and in the context of heterogeneous catalysis, surface generative models have recently advanced this goal by directly generating catalyst surface-adsorbate structures. However, these models typically operate at the slab level and do not provide the corresponding parent bulk structure, making it difficult to assess bulk-dependent properties such as formation energy, surface energy, crystallographic symmetry, and synthesizability. Here, we address this missing slab-to-bulk connection as a retrieval problem and introduce CatRetriever, a contrastive representation learning model that aligns slab and bulk crystal representations in a shared latent space. From a slab query, CatRetriever accurately retrieves plausible parent bulk candidates with R@1 > 91% and R@3 > 98% on both the in-distribution and holdout evaluation sets. We further extend the CatRetriever framework into an adsorption energy targeted bulk discovery pipeline that combines bulk retrieval, generative search space expansion, and adsorption energy distribution analysis. This workflow evaluates candidates by both structural compatibility with the query slab and their ability to access the target adsorption energy range across diverse surface environments. CatRetriever therefore provides a scalable route for connecting catalyst generative models with physically plausible and adsorption energy compatible bulk catalyst discovery.",
+  "authors": [
+   "Jungho Oh",
+   "Woosung Kim",
+   "Dong Hyeon Mok",
+   "Jonggeol Na",
+   "Seoin Back"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jungho Oh",
+  "pdf_url": "http://arxiv.org/pdf/2607.11712",
+  "primary_category": "cs.LG",
+  "published": "2026-07-13",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "catalysis",
+   "catalyst-design",
+   "generative-models",
+   "heterogeneous-catalysis"
+  ],
+  "title": "CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.12488": {
+  "abstract": "Molecular optimization in drug discovery, materials design, and catalysis requires searching vast chemical spaces under tight evaluation budgets, since high-fidelity oracles and experimental measurements are costly. The practical impact of an optimization method therefore hinges on its sample efficiency: how few evaluations it needs to find strong candidates. We introduce Sample Efficient Generative Optimization (SEGO), a framework for Bayesian optimization on adaptively generated molecules. In SEGO, a probabilistic surrogate model forms a hypothesis about where hits lie in chemical space, a generative model is steered to propose candidates in that region, the most promising candidate is selected via an acquisition function, and the resulting oracle call is used both to sharpen the surrogate and to anchor the generator in real reward. SEGO attains state-of-the-art performance on the practical molecular optimization (PMO) benchmark using only one tenth of the oracle calls consumed by other methods, and on a multiparameter docking task it reaches ten hits in roughly half the oracle calls of existing approaches. These gains move molecular optimization closer to campaigns driven by direct experimental feedback.",
+  "authors": [
+   "Sarina Kopf",
+   "Cristina Nevado",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Sarina Kopf",
+  "pdf_url": "http://arxiv.org/pdf/2607.12488",
+  "primary_category": "cs.LG",
+  "published": "2026-07-14",
+  "tags": [
+   "bayesian-inference",
+   "catalysis",
+   "generative-models",
+   "surrogate-modeling"
+  ],
+  "title": "Sample Efficient Generative Optimization for Molecular Design",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.12570": {
+  "abstract": "Multiscale problems are notoriously difficult to tackle using traditional numerical methods, as accurately resolving fine-scale features often requires prohibitively fine discretizations. This challenge is particularly pronounced in applications such as materials science, fluid dynamics, climate systems, chemical processes, and complex networks. Recent neural operator models provide a promising data-driven alternative, but frequently struggle to achieve sufficient accuracy in the presence of strongly heterogeneous or oscillatory coefficients. In this work, we focus on the solution of elliptic PDEs with rough and high-contrast inputs. The Localized Orthogonal Decomposition (LOD) method is a well-established numerical approach for such problems, but it comes, however, at a substantial computational cost. We investigate the performance of popular neural operator architectures on these challenging multiscale problems and identify key limitations in their ability to resolve fine-scale structure. To overcome these challenges, we introduce LOD-MSNO (LOD-Multiscale Neural Operator), a hybrid approach that leverages the LOD method as a strong multiscale prior by building on its representation of the solution as a linear combination of problem-adapted basis functions, while addressing its main computational bottlenecks through data-driven operator learning. We further provide theoretical error estimates for the proposed coefficient-learning framework. Lastly, we demonstrate the potential of our proposed method to outperform current neural operator baselines in terms of accuracy for challenging multiscale inputs, while mainly retaining the computational efficiency of neural operator models.",
+  "authors": [
+   "Marc Haltmayer",
+   "Jaemin Seo",
+   "Yuseung Lee",
+   "Sungyeop Lee",
+   "Jaehoon Jeong",
+   "Jae Yong Lee"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "56 pages, 4 figures",
+  "first_author": "Marc Haltmayer",
+  "pdf_url": "http://arxiv.org/pdf/2607.12570",
+  "primary_category": "math.NA",
+  "published": "2026-07-14",
+  "tags": [
+   "chemical-engineering"
+  ],
+  "title": "Deep Learning-based Surrogate Modelling of the LOD Method for Multiscale Problems",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.12771": {
+  "abstract": "Reaction mechanisms consist of the step-by-step sequences of elementary reactions that explain chemical transformations. Learning the mechanism logic is therefore essential for enhancing the fundamental chemical intelligence of large language models (LLMs). The stepwise deduction of reaction mechanism aligns naturally with the reasoning paradigms of reasoning LLMs. However, current chemical LLMs primarily emphasize coarse-grained name reactions for product prediction and retrosynthesis, often leading to physical inconsistencies and hallucinations. In contrast, specialized small-scale generative models for mechanism inference typically suffer from restricted generalization capacity across diverse chemical spaces. To overcome these limitations, we built a novel, large-scale reasoning dataset of reaction mechanisms. Furthermore, we established the FukuyamaBench, a difficult benchmark derived from Fukuyama's Advanced Organic Reaction Mechanism book, to rigorously evaluate model performance on hierarchical mechanism reasoning. Our fine-tuned Qwen3-30B-A3B achieves 8.3% exact pathway match on FukuyamaBench Set~A, surpassing the specialized FlowER model (5.1%), demonstrating that mechanism-aware training substantially enhances chemical reasoning in language models.",
+  "authors": [
+   "Xingyu Dang",
+   "Haocheng Tang",
+   "Junmei Wang",
+   "Yanjun Li"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE",
+   "cs.CL",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Xingyu Dang",
+  "pdf_url": "http://arxiv.org/pdf/2607.12771",
+  "primary_category": "cs.LG",
+  "published": "2026-07-14",
+  "tags": [
+   "generative-models",
+   "large-language-models"
+  ],
+  "title": "Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.12856": {
+  "abstract": "Buildings are expected to shift cooling loads in response to grid conditions. Thermal energy storage (TES) enables this shift, but scheduling it well requires planning hours ahead under storage constraints. Model predictive control (MPC) and reinforcement learning are difficult to scale across buildings. This study instead adapts an open-weight reasoning model through reinforcement learning with verifiable rewards (RLVR). We convert exact offline dynamic-programming (DP) action values into dense rewards for every candidate action. Using only 30 training prompts, reinforcement fine-tuning (RFT) trains the model as an upper-level scheduler that outputs hourly heat-pump setpoints from text-based states and forecasts. Evaluation uses a deliberately simple office-building TES benchmark where exact DP is tractable and the optimum is known. RFT reduces the open-weight model's emissions from 70.5 to 61.2 kg-CO2, close to the DP optimum of 60.8 kg-CO2. GPT-5 nearly matches DP and MPC without task-specific training, while GPT-4o, a non-reasoning LLM, produces higher emissions than the no-storage baseline, so inference-time reasoning appears important. Trace analysis shows that RFT mainly stabilizes observable planning patterns (candidate comparison, look-ahead, and feasibility checking) rather than creating a new strategy. Robustness and generalization tests clarify what transfers: the reinforced planning patterns persist under forecast errors and an unseen TES condition and carry over to a battery task, but its different structure limits the gains. DP-based verifiable rewards offer a practical way to adapt open-weight reasoning models to building storage scheduling. These results motivate higher-fidelity tests of whole-building control and scalable verifiers for city-scale energy management.",
+  "authors": [
+   "Takumi Shioda",
+   "Kohei Terashima",
+   "Tatsuo Nagai"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "29 pages, 8 figures",
+  "first_author": "Takumi Shioda",
+  "pdf_url": "http://arxiv.org/pdf/2607.12856",
+  "primary_category": "cs.LG",
+  "published": "2026-07-14",
+  "tags": [
+   "energy-storage",
+   "large-language-models",
+   "mpc"
+  ],
+  "title": "Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-07-14"
  }
 }

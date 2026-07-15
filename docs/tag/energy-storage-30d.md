@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a> · <a href="mpc-30d.html">mpc</a></div></td>
+<td>Takumi Shioda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="molecular-simulation-30d.html">molecular-simulation</a></div></td>
 <td>Sheng Bi et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21833.html">Inference as Flexibility: Ramp Management for Transmission-Connected AI Data Centres</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a></div></td>
 <td>Zhirui Liang</td>
 <td><a href="http://arxiv.org/abs/2606.21833">2606.21833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16051.html">Hidden Degradation Costs in Energy-Cost-Only HEMS Optimisation: Study on Battery and PV Sensitivity</a></div><div class="paper-tags"><a href="mpc-30d.html">mpc</a></div></td>
-<td>Dawood Butt et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16051">2606.16051</a></td>
 </tr>
 </tbody></table>

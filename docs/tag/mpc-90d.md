@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
+<td>Takumi Shioda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18799.html">A Theory-Guided Advanced Regulatory Control Synthesis for Cooling-Limited Exothermic Semi-Batch Reactors</a></div></td>
 <td>Chenchen Zhou et al.</td>
@@ -86,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16139.html">Ageing-aware Energy Management for Residential Multi-Carrier Energy Systems</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a></div></td>
 <td>Darío Slaifstein et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16139">2503.16139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21300.html">Simultaneous improvement of control and estimation for battery management systems</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a></div></td>
-<td>Mohammad S. Ramadan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21300">2507.21300</a></td>
 </tr>
 </tbody></table>
