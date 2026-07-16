@@ -71,10 +71,6 @@
   count: 2
   total: 19
   group: monitoring
-- name: graph-neural-networks
-  count: 2
-  total: 39
-  group: architectures
 - name: heterogeneous-catalysis
   count: 2
   total: 16
@@ -147,6 +143,10 @@
   count: 1
   total: 56
   group: methods
+- name: graph-neural-networks
+  count: 1
+  total: 39
+  group: architectures
 - name: hydrogen-production
   count: 1
   total: 16
@@ -155,10 +155,6 @@
   count: 1
   total: 5
   group: materials
-- name: multiphase-flow
-  count: 1
-  total: 13
-  group: fluids
 - name: optimal-control
   count: 1
   total: 39
@@ -275,6 +271,10 @@
   count: 0
   total: 5
   group: reactions
+- name: multiphase-flow
+  count: 0
+  total: 13
+  group: fluids
 - name: oxygen-evolution
   count: 0
   total: 13
