@@ -23,10 +23,6 @@
   count: 4
   total: 122
   group: domain
-- name: electrochemical-systems
-  count: 4
-  total: 65
-  group: energy
 - name: energy-storage
   count: 4
   total: 150
@@ -47,6 +43,10 @@
   count: 3
   total: 49
   group: monitoring
+- name: electrochemical-systems
+  count: 3
+  total: 65
+  group: energy
 - name: molecular-dynamics
   count: 3
   total: 69

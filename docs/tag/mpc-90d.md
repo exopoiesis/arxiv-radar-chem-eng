@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22672.html">Iterative Model-Learning Scheme via Gaussian Processes for Nonlinear Model Predictive Control of (Semi-)Batch Processes</a></div><div class="paper-tags"><a href="gaussian-process-90d.html">gaussian-process</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Tai Xuan Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22672">2604.22672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16139.html">Ageing-aware Energy Management for Residential Multi-Carrier Energy Systems</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a></div></td>
-<td>Darío Slaifstein et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16139">2503.16139</a></td>
 </tr>
 </tbody></table>
