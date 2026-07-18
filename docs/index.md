@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-17._
+_Updated 2026-07-18._
 
-**1201** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1204** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15032.html">Recent progress on liquid transport growth of quantum materials</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/experimental-design-30d.html">experimental-design</a></div></td>
+<td>Jiaqiang Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15032">2607.15032</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
@@ -37,6 +43,18 @@ _Updated 2026-07-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
 <td>Takumi Shioda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13107.html">DeepCormack: Fermi surface tomography using model-based data-driven algorithms</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
+<td>Georg F. B. Lovric et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13107">2607.13107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13232.html">Design of Carbon Capture Processes Under Part-load Operating Conditions</a></div><div class="paper-tags"><a href="tag/carbon-capture-30d.html">carbon-capture</a></div></td>
+<td>David Y. Shu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13232">2607.13232</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-13</td>
@@ -175,23 +193,5 @@ _Updated 2026-07-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28011.html">From Detection to Action: Using LLM Agents for Fault-Tolerant Control</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
 <td>Javal Vyas et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28011">2606.28011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28458.html">mCGCNN: A Dual-Stream Crystal Graph Convolutional Neural Network for the Efficient Prediction of Magnetic Properties of Crystalline Materials</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28458">2606.28458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Philipp Denzel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
-<td>Feng Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28507">2606.28507</a></td>
 </tr>
 </tbody></table>

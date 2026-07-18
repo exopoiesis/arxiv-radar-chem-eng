@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22640.html">Safe Deployment of Offline Reinforcement Learning via Input Convex Action Correction</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
 <td>Alex Durkin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22640">2507.22640</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16521.html">Adaptive Transition State Refinement with Learned Equilibrium Flows</a></div></td>
-<td>Samir Darouich et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16521">2507.16521</a></td>
 </tr>
 </tbody></table>

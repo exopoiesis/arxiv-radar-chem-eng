@@ -735,5 +735,86 @@
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2026-07-14"
+ },
+ "2607.13107": {
+  "abstract": "The experimental reconstruction of the 3D two-photon momentum density (TPMD) via angular correlation of electron-positron annihilation radiation (ACAR) is a particularly useful method for studying material Fermi surfaces. It does not rely on low temperatures, UHV conditions, or strong magnetic fields, and enables the study of the spin-resolved electronic structure of materials. Yet, it remains a challenging inverse problem. Typically, 10^8 positron annihilation events are measured for 3--6 projections of the TPMD at different angles. The standard reconstruction approach is an ACAR adaptation of Cormack's method (the MCM) that leverages the inherent symmetry in the crystal's structure. However, the poor signal-to-noise ratio means collecting data of sufficient quality for Fermi surface studies can take months per sample. We present DeepCormack, a family of data-driven model-based reconstruction algorithms that augments the MCM by integrating supervised deep-learning models (CNN, MLP, and UNet) at various stages. To overcome the lack of large experimental training sets, we propose a method which leverages singular value decomposition with dynamic mode decomposition to generate realistic synthetic TPMD volumes, requiring only a single reference momentum density computed via density functional theory. On test data, DeepCormack improves reconstruction quality over MCM by about 8.5 dB PSNR at 200M counts and remains stable at reduced counts, enabling significantly faster acquisition times. Generalisation to experimental data depends strongly on how well the training distribution from the reference momentum density matches the sample. We therefore recommend pairing DeepCormack with a DFT calculation of the target material to create sample-specific training data. Our proposed method offers either much higher quality reconstructions, or enables significantly faster ones, on the order of weeks.",
+  "authors": [
+   "Georg F. B. Lovric",
+   "Bryn Drury",
+   "Carola-Bibiane Schönlieb",
+   "Stephen B. Dugdale",
+   "Ander Biguri"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el",
+   "cs.LG"
+  ],
+  "comment": "28 pages, 17 figures",
+  "first_author": "Georg F. B. Lovric",
+  "pdf_url": "http://arxiv.org/pdf/2607.13107",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-14",
+  "tags": [
+   "dft"
+  ],
+  "title": "DeepCormack: Fermi surface tomography using model-based data-driven algorithms",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.13232": {
+  "abstract": "Solvent-based carbon capture can reduce CO2 emissions resulting from a continued reliance on fossil power plants for firm power. These capture processes remove CO2 from flue gases via a solvent. Careful design via process systems optimization can limit the overall cost of carbon capture, which is both capital- and energy intensive. As dispatchable power plants operate to meet varying load demand, the design process needs to account for varying operating points. However, optimizing the design over multiple operating points yields high computational complexity, which is why designs are often based on a single operating point in practice. Here, we identify optimal carbon capture process designs via stochastic optimization, reducing computational complexity through a data-driven approach-to-equilibrium model of the absorption and desorption processes. We represent variable flue gas conditions based on part-load operation data of a representative coal power plant. Accounting for this variability in the design substantially reduces equipment size and total plant cost by 6-9 % at the expense higher operating costs, yielding a reduction in total cost of carbon capture by 0.7-1.7 %. Given the capital intensity of carbon capture, variability of flue gas conditions therefore should be considered at the design stage, particularly if capture is deployed on plants subject to load following.",
+  "authors": [
+   "David Y. Shu",
+   "Boxun Huang",
+   "Yurim Kim",
+   "Randall Field",
+   "Rahul Gandhi",
+   "Sungho Shin"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": "6 pages, 4 figures, 1 table, to be published in the conference proceedings of FOCAPO-CPC 2027 Tucson, Arizona, USA, 10-14 January 2027",
+  "first_author": "David Y. Shu",
+  "pdf_url": "http://arxiv.org/pdf/2607.13232",
+  "primary_category": "math.OC",
+  "published": "2026-07-14",
+  "tags": [
+   "carbon-capture"
+  ],
+  "title": "Design of Carbon Capture Processes Under Part-load Operating Conditions",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.15032": {
+  "abstract": "Liquid transport growth (LTG) is a horizontal flux growth technique that is closely analogous to chemical vapor transport, with the key distinction that a molten flux rather than a vapor serves as the transport agent. Unlike conventional flux growth, LTG spatially separates charge dissolution and crystal precipitation and couples them through continuous solute transport under a deliberately imposed temperature gradient. This enables crystal growth to begin before the charge is completely dissolved, removes the equilibrium solubility constraint on the starting charge/flux ratio, and allows large yields of single crystals to be obtained from a single growth. Recent studies have further shown that by spatially separating dissolution and crystallization and maintaining crystallization at a nearly constant temperature, LTG is particularly effective for two classes of materials: compounds that crystallize only within a narrow temperature and/or composition window, and compounds whose stoichiometry, defect concentration, and thus physical properties are sensitive to the crystallization temperature. In this review, we discuss representative examples including Fe$_3$Sn$_2$, CrTe$_3$, YFe$_2$Ge$_2$, UTe$_2$, CeRh$_2$As$_2$, MoTe$_2$, WTe$_2$, and LuNb$_6$Sn$_6$ to illustrate the unique capabilities of LTG for producing high quality single crystals of diverse quantum materials. We also summarize practical considerations for LTG experimental design, including furnace selection, growth time, melt stability, and ampoule geometry, and discuss future opportunities for transforming LTG from an empirical growth method into a more predictive crystal growth technique.",
+  "authors": [
+   "Jiaqiang Yan",
+   "Brenden Ortiz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el",
+   "cond-mat.supr-con"
+  ],
+  "comment": "Comments are welcome",
+  "first_author": "Jiaqiang Yan",
+  "pdf_url": "http://arxiv.org/pdf/2607.15032",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "crystallization",
+   "experimental-design"
+  ],
+  "title": "Recent progress on liquid transport growth of quantum materials",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-07-16"
  }
 }

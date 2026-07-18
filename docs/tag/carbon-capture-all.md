@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>carbon-capture — all</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="carbon-capture-7d.html">7d</a> <a href="carbon-capture-30d.html">30d</a> <a href="carbon-capture-90d.html">90d</a> <a href="carbon-capture-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13232.html">Design of Carbon Capture Processes Under Part-load Operating Conditions</a></div></td>
+<td>David Y. Shu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13232">2607.13232</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21523.html">Accelerating Simulation and Optimisation of Cyclic Adsorption Processes with Differentiable Programming</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="process-design-all.html">process-design</a></div></td>
