@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>graph-neural-networks — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="graph-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19031.html">ProGMLP: A Progressive Framework for GNN-to-MLP Knowledge Distillation with Efficient Trade-offs</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Weigang Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19031">2507.19031</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17112.html">Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement</a></div><div class="paper-tags"><a href="separations-360d.html">separations</a></div></td>
-<td>Yuhan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17112">2507.17112</a></td>
 </tr>
 </tbody></table>
