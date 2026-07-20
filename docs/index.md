@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-19._
+_Updated 2026-07-20._
 
-**1204** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1209** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -16,9 +16,33 @@ _Updated 2026-07-19._
 <tbody>
 <tr class="paper">
 <td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14486">2607.14486</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15032.html">Recent progress on liquid transport growth of quantum materials</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/experimental-design-30d.html">experimental-design</a></div></td>
 <td>Jiaqiang Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15032">2607.15032</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15365.html">Induction-heated resonant reactors for electrified thermochemistry</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/process-intensification-30d.html">process-intensification</a> · <a href="tag/reaction-engineering-30d.html">reaction-engineering</a></div></td>
+<td>Connor Cremers et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15365">2607.15365</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13709.html">Predicting BESS Degradation with Uncertainty Quantification: A Probabilistic Framework for Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/energy-systems-30d.html">energy-systems</a></div></td>
+<td>Melina Graner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13709">2607.13709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14089.html">Sail membranes for optomechanical accelerometry</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Atkin D. Hyatt et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14089">2607.14089</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>
@@ -43,6 +67,12 @@ _Updated 2026-07-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
 <td>Takumi Shioda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12951.html">Optimal Assembly of Repurposed Lithium-Ion Battery Packs under Cell Heterogeneity and Screening Uncertainty</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
+<td>Hassan Zahid Butt et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12951">2607.12951</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>
@@ -163,35 +193,5 @@ _Updated 2026-07-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02746.html">CodeJeNN: A simple C++ neural network generator for physics applications</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
 <td>Jay Arcities et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02746">2607.02746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/molecular-simulation-30d.html">molecular-simulation</a></div></td>
-<td>Sheng Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00926.html">Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/digital-twin-30d.html">digital-twin</a></div></td>
-<td>Midhun Parakkal Unni et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00926">2607.00926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Shaobo Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29459.html">Interpretable Inverse Design of Metal-Organic Frameworks with Large Language Model Agents</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
-<td>Kyungmin Nam et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29459">2606.29459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28011.html">From Detection to Action: Using LLM Agents for Fault-Tolerant Control</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Javal Vyas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28011">2606.28011</a></td>
 </tr>
 </tbody></table>

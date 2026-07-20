@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>energy-storage — all</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13709.html">Predicting BESS Degradation with Uncertainty Quantification: A Probabilistic Framework for Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="energy-systems-all.html">energy-systems</a></div></td>
+<td>Melina Graner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13709">2607.13709</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a> · <a href="mpc-all.html">mpc</a></div></td>
 <td>Takumi Shioda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12951.html">Optimal Assembly of Repurposed Lithium-Ion Battery Packs under Cell Heterogeneity and Screening Uncertainty</a></div></td>
+<td>Hassan Zahid Butt et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12951">2607.12951</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
