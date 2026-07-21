@@ -8,17 +8,17 @@
   total: 128
   group: materials
 - name: large-language-models
-  count: 7
+  count: 6
   total: 113
   group: architectures
-- name: energy-storage
-  count: 6
-  total: 152
-  group: energy
 - name: materials-discovery
   count: 6
   total: 46
   group: materials
+- name: energy-storage
+  count: 5
+  total: 152
+  group: energy
 - name: bayesian-inference
   count: 4
   total: 56

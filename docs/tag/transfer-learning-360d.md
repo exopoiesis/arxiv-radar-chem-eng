@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>transfer-learning — 360d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="transfer-learning-7d.html">7d</a> <a href="transfer-learning-30d.html">30d</a> <a href="transfer-learning-90d.html">90d</a> <strong>360d</strong> <a href="transfer-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06436.html">Leveraging transfer learning for accurate estimation of ionic migration barriers in solids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="fuel-cells-360d.html">fuel-cells</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Reshma Devi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06436">2508.06436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17386.html">Neural operator surrogate models of plasma edge simulations: feasibility and data efficiency</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>N. Carey et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17386">2502.17386</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01013.html">On Some Tunable Multi-fidelity Bayesian Optimization Frameworks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="gaussian-process-360d.html">gaussian-process</a></div></td>
 <td>Arjun Manoj et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01013">2508.01013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17386.html">Neural operator surrogate models of plasma edge simulations: feasibility and data efficiency</a></div><div class="paper-tags"><a href="transfer-learning-360d.html">transfer-learning</a></div></td>
-<td>N. Carey et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17386">2502.17386</a></td>
 </tr>
 </tbody></table>

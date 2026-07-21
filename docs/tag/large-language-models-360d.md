@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06135.html">Less is More: Selective Reflection for Compatible and Efficient Knowledge Distillation in Large Language Models</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Lingyuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06135">2508.06135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19340.html">Adaptive Self-Improvement for Smarter Energy Systems using Agentic Policy Search</a></div><div class="paper-tags"><a href="energy-systems-360d.html">energy-systems</a></div></td>
-<td>Alexander Sommer et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19340">2501.19340</a></td>
 </tr>
 </tbody></table>

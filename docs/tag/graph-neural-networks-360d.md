@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>graph-neural-networks — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="graph-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06436.html">Leveraging transfer learning for accurate estimation of ionic migration barriers in solids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="fuel-cells-360d.html">fuel-cells</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Reshma Devi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06436">2508.06436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19031.html">ProGMLP: A Progressive Framework for GNN-to-MLP Knowledge Distillation with Efficient Trade-offs</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Weigang Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19031">2507.19031</a></td>
 </tr>
 </tbody></table>
