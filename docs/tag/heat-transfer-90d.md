@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>heat-transfer — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <a href="heat-transfer-30d.html">30d</a> <strong>90d</strong> <a href="heat-transfer-360d.html">360d</a> <a href="heat-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a></div></td>
 <td>Xujia Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20175.html">Physics-Enhanced Deep Learning for Proactive Thermal Runaway Forecasting in Li-Ion Batteries</a></div><div class="paper-tags"><a href="battery-modeling-90d.html">battery-modeling</a> · <a href="energy-storage-90d.html">energy-storage</a></div></td>
-<td>Salman Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20175">2604.20175</a></td>
 </tr>
 </tbody></table>

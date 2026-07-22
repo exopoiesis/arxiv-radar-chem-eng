@@ -11,18 +11,14 @@
   count: 6
   total: 113
   group: architectures
-- name: materials-discovery
-  count: 6
-  total: 46
-  group: materials
 - name: energy-storage
   count: 5
   total: 152
   group: energy
-- name: bayesian-inference
-  count: 4
-  total: 56
-  group: methods
+- name: materials-discovery
+  count: 5
+  total: 46
+  group: materials
 - name: generative-models
   count: 4
   total: 31
@@ -31,6 +27,10 @@
   count: 3
   total: 86
   group: separations
+- name: bayesian-inference
+  count: 3
+  total: 56
+  group: methods
 - name: chemical-engineering
   count: 3
   total: 122

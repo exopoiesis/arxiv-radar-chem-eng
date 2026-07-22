@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>battery-modeling — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="battery-modeling-7d.html">7d</a> <a href="battery-modeling-30d.html">30d</a> <strong>90d</strong> <a href="battery-modeling-360d.html">360d</a> <a href="battery-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24911.html">Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference</a></div></td>
 <td>Matthew Marsh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24911">2604.24911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20175.html">Physics-Enhanced Deep Learning for Proactive Thermal Runaway Forecasting in Li-Ion Batteries</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="heat-transfer-90d.html">heat-transfer</a></div></td>
-<td>Salman Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20175">2604.20175</a></td>
 </tr>
 </tbody></table>
