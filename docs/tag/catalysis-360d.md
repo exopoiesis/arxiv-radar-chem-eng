@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,11 +554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01013.html">On Some Tunable Multi-fidelity Bayesian Optimization Frameworks</a></div><div class="paper-tags"><a href="gaussian-process-360d.html">gaussian-process</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Arjun Manoj et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01013">2508.01013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20827.html">Optimizing adsorption configurations on alloy surfaces using Tensor Train Optimizer</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
-<td>Tuan Minh Do et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20827">2507.20827</a></td>
 </tr>
 </tbody></table>

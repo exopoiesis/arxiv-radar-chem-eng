@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26695.html">Compartment Modelling of Multiphase Reactors using Unsupervised Clustering</a></div><div class="paper-tags"><a href="flow-reactors-90d.html">flow-reactors</a> · <a href="mass-transfer-90d.html">mass-transfer</a> · <a href="multiphase-flow-90d.html">multiphase-flow</a> · <a href="optimal-control-90d.html">optimal-control</a></div></td>
 <td>Michael Mitterlindner et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26695">2604.26695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18953.html">FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction</a></div></td>
-<td>Xiaowen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18953">2604.18953</a></td>
 </tr>
 </tbody></table>
