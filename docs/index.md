@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-07-25._
+_Updated 2026-07-26._
 
-**1209** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1210** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18123.html">A Low-Storage Implicit Dual-Time Finite-Volume Framework for Radio-Frequency Capacitively Coupled Plasma Fluid Simulations</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Yuze Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18123">2607.18123</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/dft-30d.html">dft</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-07-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02246.html">Patagium and tail morphology shape aerodynamic performance and control authority in gliding-mammal-inspired wings</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
 <td>Liming Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02246">2607.02246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02746.html">CodeJeNN: A simple C++ neural network generator for physics applications</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a></div></td>
-<td>Jay Arcities et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02746">2607.02746</a></td>
 </tr>
 </tbody></table>

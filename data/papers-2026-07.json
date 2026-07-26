@@ -958,5 +958,31 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2026-07-16"
+ },
+ "2607.18123": {
+  "abstract": "Radio-frequency (RF) capacitively coupled plasmas (CCPs) are widely utilized in semiconductor manufacturing. Efficiently and accurately solving the underlying fluid governing equations to resolve the complex multi-physics fields is crucial for optimizing plasma reactor designs and process control. To overcome the severe numerical stiffness and prohibitive time-step constraints inherent in low-temperature plasma modeling, we present a robust, low-storage implicit dual-time finite-volume framework for RF CCP simulations, establishing a highly efficient and memory-friendly pathway for the predictive modeling of multi-dimensional low-temperature plasmas. In this approach, the physical time advancement is strictly decoupled from explicit stability limits through a backward-difference formula (BDF), while the resulting nonlinear system is efficiently solved using pseudo-time iterations. A localized block-implicit relaxation method is employed to handle the stiff transport and chemical source terms at the cell level, effectively circumventing the massive memory overhead typical of conventional fully implicit solvers. Concurrently, a semi-implicit treatment of Poisson's equation is integrated to accelerate the electrostatic coupling. The framework is first verified against a standard one-dimensional argon discharge benchmark, demonstrating that a highly accurate periodic state can be achieved with satisfactory computational efficiency through the optimal selection of the physical time step, pseudo-CFL number, and inner iteration step. To further demonstrate the multidimensional applicability of the proposed method, the solver is extended to genuine two-dimensional configurations. The numerical results show the multi-dimensional distortion of the electrostatic potential and localized electron heating zones induced by the transverse boundaries.",
+  "authors": [
+   "Yuze Zhu",
+   "Hangkong Wu",
+   "Junzhe Cao",
+   "Yufeng Wei",
+   "Kun Xu"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "30 pages",
+  "first_author": "Yuze Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2607.18123",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-20",
+  "tags": [
+   "process-control"
+  ],
+  "title": "A Low-Storage Implicit Dual-Time Finite-Volume Framework for Radio-Frequency Capacitively Coupled Plasma Fluid Simulations",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-07-20"
  }
 }

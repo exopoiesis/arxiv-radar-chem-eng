@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-kinetics — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="reaction-kinetics-7d.html">7d</a> <a href="reaction-kinetics-30d.html">30d</a> <a href="reaction-kinetics-90d.html">90d</a> <strong>360d</strong> <a href="reaction-kinetics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02214.html">Predictive Chemical Kinetic Modeling of Pt-Catalyzed Dry Methane Reforming</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="fixed-bed-360d.html">fixed-bed</a> · <a href="microkinetic-modeling-360d.html">microkinetic-modeling</a></div></td>
 <td>Esther Ritov et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02214">2508.02214</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22640.html">Safe Deployment of Offline Reinforcement Learning via Input Convex Action Correction</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="process-control-360d.html">process-control</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
-<td>Alex Durkin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22640">2507.22640</a></td>
 </tr>
 </tbody></table>
