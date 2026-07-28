@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gaussian-process — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <a href="gaussian-process-90d.html">90d</a> <strong>360d</strong> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09659.html">Thermal Tracks: A Gaussian process-based framework for universal melting curve analysis enabling unconstrained hit identification in thermal proteome profiling experiments</a></div></td>
 <td>Johannes F. Hevler et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09659">2508.09659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01013.html">On Some Tunable Multi-fidelity Bayesian Optimization Frameworks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Arjun Manoj et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01013">2508.01013</a></td>
 </tr>
 </tbody></table>

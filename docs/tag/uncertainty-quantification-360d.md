@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06852.html">An RBC-MsUQ Framework for Red Blood Cell Morpho-Mechanics</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Shuo Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06852">2508.06852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00588.html">Output-recurrent gated state space model for multiphase flows modeling and uncertainty quantification of exhaust vehicles</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="multiphase-flow-360d.html">multiphase-flow</a></div></td>
-<td>Ruilin Chen</td>
-<td><a href="http://arxiv.org/abs/2508.00588">2508.00588</a></td>
 </tr>
 </tbody></table>
