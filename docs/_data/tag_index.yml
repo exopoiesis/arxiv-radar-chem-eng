@@ -39,10 +39,6 @@
   count: 2
   total: 55
   group: methods
-- name: adsorption
-  count: 2
-  total: 86
-  group: separations
 - name: cfd
   count: 2
   total: 90
@@ -55,10 +51,6 @@
   count: 2
   total: 65
   group: energy
-- name: metal-organic-frameworks
-  count: 2
-  total: 32
-  group: separations
 - name: physics-informed-ml
   count: 2
   total: 47
@@ -67,6 +59,10 @@
   count: 2
   total: 90
   group: modeling
+- name: adsorption
+  count: 1
+  total: 86
+  group: separations
 - name: adsorption-energy
   count: 1
   total: 24
@@ -119,6 +115,10 @@
   count: 1
   total: 16
   group: energy
+- name: metal-organic-frameworks
+  count: 1
+  total: 32
+  group: separations
 - name: molecular-dynamics
   count: 1
   total: 69
