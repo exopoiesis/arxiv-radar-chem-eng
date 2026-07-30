@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26078.html">Optimizing Sensor Placement for Hydrogen Leak Detection in Enclosed Infrastructure: A Comparative Study Using CFD-informed Genetic Algorithm and DeepSets Neural Surrogate</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="fuel-cells-90d.html">fuel-cells</a></div></td>
+<td>Fangnian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26078">2607.26078</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02246.html">Patagium and tail morphology shape aerodynamic performance and control authority in gliding-mammal-inspired wings</a></div></td>
 <td>Liming Zheng et al.</td>
@@ -68,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11896.html">A Volume of Fluid Immersed Boundary Method for Industrial Polymer Mixing</a></div></td>
 <td>Emilia Capuano et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11896">2605.11896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27432.html">Modeling of Wastewater Treatment Processes with HydroSludge</a></div><div class="paper-tags"><a href="wastewater-treatment-90d.html">wastewater-treatment</a></div></td>
-<td>S. Iserte et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27432">2604.27432</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ammonia-synthesis — all</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="ammonia-synthesis-7d.html">7d</a> <a href="ammonia-synthesis-30d.html">30d</a> <a href="ammonia-synthesis-90d.html">90d</a> <a href="ammonia-synthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17463.html">Going Beyond the d-band Center to Design Intermetallic Catalysts for Nitrogen Reduction: A High-Throughput DFT and Machine Learning Study</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Parastoo Agharezaei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17463">2607.17463</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22926.html">Reaction-Network-Level Discovery of Ammonia Synthesis Catalysts via Ten-Million-Scale Generative Exploration</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="dft-all.html">dft</a></div></td>

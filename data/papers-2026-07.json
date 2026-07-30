@@ -959,6 +959,60 @@
   ],
   "updated": "2026-07-16"
  },
+ "2607.17463": {
+  "abstract": "This study combines high-throughput DFT calculations with machine learning techniques to uncover the key descriptors governing the nitrogen reduction reaction (NRR) in intermetallic compounds (IMCs). A dataset of 47 bimetallic IMCs was constructed, and the adsorption energies of key intermediates (N2, N2H, and NH3) were systematically evaluated across all accessible surface sites, yielding approximately 1,200 data points. By incorporating intrinsic material properties along with electronic descriptors including s-, p- and d-band centers and fillings, as well as Bader charges of atoms neighboring the adsorbate, predictive ML models were developed with mean absolute errors of 0.26 eV for N2, 0.39 eV for N2H, and 0.17 eV for NH3 adsorption. Importantly, accurate predictions are obtained with only 20 key features, enabling the use of simple and computationally efficient ML models. SHAP analysis indicates that p- and s-band characteristics play a more prominent role in determining adsorption strength than the traditionally used d-band center, particularly for N2 and N2H intermediates. Beyond their established importance in systems containing p-block elements or nearly filled d-band metals, s- and p-orbitals are also found to contribute significantly to transition-metal alloys activity such as Fe-Co, driven by adsorption-induced sp-d hybridization. By challenging the d-band-centric paradigm and identifying s- and p-band descriptors as critical yet overlooked contributors, this work redefines the electronic descriptor space for intermetallic NRR catalysts and lays the groundwork for DFT-ML-guided discovery of non-noble materials for sustainable ammonia synthesis.",
+  "authors": [
+   "Parastoo Agharezaei",
+   "Kulbir Kaur Ghuman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "main text: 38 pages, 9 figures Supplementary information: 12 pages, 1 figure, 6 tables",
+  "first_author": "Parastoo Agharezaei",
+  "pdf_url": "http://arxiv.org/pdf/2607.17463",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "ammonia-synthesis",
+   "dft"
+  ],
+  "title": "Going Beyond the d-band Center to Design Intermetallic Catalysts for Nitrogen Reduction: A High-Throughput DFT and Machine Learning Study",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.17640": {
+  "abstract": "This work addresses the need for engineering-grounded evaluation of implement-ed tariff mechanisms in distribution-level energy systems. A digital twin-based method is proposed for assessing local collective tariffs under realistic behavioral and infrastructural conditions. The approach integrates agent-based modeling of household consumption and generation, virtual aggregation through a shared metering abstraction, and explicit representation of tariff logic within a unified simulation environment. The method is demonstrated through its application to the Danish Local Collective Tariff across representative residential energy community configurations, including scenarios with photovoltaic generation, battery storage, and electric vehicle charging. Results indicate that aggregation of heterogeneous demand profiles reduces peak coincidence and enables more efficient allocation of tariff components, leading to measurable cost reductions at the community level. At the same time, the outcomes reveal sensitivity to the temporal alignment of consumption and generation, influencing the degree of cost neutrality across participants. The findings illustrate how digital twin-based evaluation can support systematic assessment of tariff mechanisms by capturing the interaction between infrastructure, user behavior, and regulatory design. The proposed approach provides a basis for analyzing and comparing tariff structures in distribution-level energy systems beyond the specific case considered.",
+  "authors": [
+   "Kristoffer Christensen",
+   "Bo Nørregaard Jørgensen",
+   "Zheng Grace Ma"
+  ],
+  "categories": [
+   "cs.MA",
+   "econ.GN",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Kristoffer Christensen",
+  "pdf_url": "http://arxiv.org/pdf/2607.17640",
+  "primary_category": "cs.MA",
+  "published": "2026-07-20",
+  "tags": [
+   "digital-twin",
+   "energy-systems"
+  ],
+  "title": "A Digital Twin-Based Method for Evaluating Local Collective Tariffs in Distribution-Level Energy Systems",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-07-20"
+ },
  "2607.18123": {
   "abstract": "Radio-frequency (RF) capacitively coupled plasmas (CCPs) are widely utilized in semiconductor manufacturing. Efficiently and accurately solving the underlying fluid governing equations to resolve the complex multi-physics fields is crucial for optimizing plasma reactor designs and process control. To overcome the severe numerical stiffness and prohibitive time-step constraints inherent in low-temperature plasma modeling, we present a robust, low-storage implicit dual-time finite-volume framework for RF CCP simulations, establishing a highly efficient and memory-friendly pathway for the predictive modeling of multi-dimensional low-temperature plasmas. In this approach, the physical time advancement is strictly decoupled from explicit stability limits through a backward-difference formula (BDF), while the resulting nonlinear system is efficiently solved using pseudo-time iterations. A localized block-implicit relaxation method is employed to handle the stiff transport and chemical source terms at the cell level, effectively circumventing the massive memory overhead typical of conventional fully implicit solvers. Concurrently, a semi-implicit treatment of Poisson's equation is integrated to accelerate the electrostatic coupling. The framework is first verified against a standard one-dimensional argon discharge benchmark, demonstrating that a highly accurate periodic state can be achieved with satisfactory computational efficiency through the optimal selection of the physical time step, pseudo-CFL number, and inner iteration step. To further demonstrate the multidimensional applicability of the proposed method, the solver is extended to genuine two-dimensional configurations. The numerical results show the multi-dimensional distortion of the electrostatic potential and localized electron heating zones induced by the transverse boundaries.",
   "authors": [
@@ -981,8 +1035,496 @@
   ],
   "title": "A Low-Storage Implicit Dual-Time Finite-Volume Framework for Radio-Frequency Capacitively Coupled Plasma Fluid Simulations",
   "topics": [
+   "Process Control & Optimization",
    "Reaction Engineering & Kinetics"
   ],
   "updated": "2026-07-20"
+ },
+ "2607.18182": {
+  "abstract": "Machine learning potential-driven molecular dynamics simulations (ML-MD) were employed to provide atomistic insights into the dehydrogenation kinetics of pristine and doped MgH2. Through systematic investigation of distinct surface orientations, the MgH2 (100) surface was identified as the most active low-index surface for hydrogen release. For pristine MgH2, our simulations revealed a novel H2 formation mechanism characterized by H2 generation in the subsurface region followed by diffusion to the surface for desorption, highlighting the critical role of subsurface processes beyond conventional surface-driven pathways. Comprehensive screening of 22 doping elements identified Ni as the most effective dopant. Among several descriptors, machine learning analysis identified the time-coupled Miedema electron density as the critical descriptor, underscoring the role of electronic properties. Consequently, a volcano-shaped relationship was uncovered between the intrinsic Miedema electron density ( nws ) and total hydrogen release (optimal window: 4.0 < nws < 5.4x10-2 e/bohr3). Dopants within this range serve a dual function: acting as thermodynamic sinks for H attraction while maintaining a balanced interaction strength to facilitate H-H coupling and H2 release. This atomistic-level validation provides strong theoretical support for the experimentally observed \"hydrogen pump\" effect of catalytic phases. The present study demonstrates the strong capability of ML- MD in navigating through complex catalytic mechanisms and establishing quantitative property-activity relationships, providing a robust framework for rational design of high-performance catalysts for MgH2 and other hydrogen storage materials.",
+  "authors": [
+   "Bo Han",
+   "Jianchuan Wang",
+   "Rui Zhang",
+   "Martin Matas",
+   "Elias Vigl",
+   "Jing Tang",
+   "Yong Du",
+   "Christian Weiss",
+   "David Holec"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Bo Han",
+  "pdf_url": "http://arxiv.org/pdf/2607.18182",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "catalysis",
+   "molecular-dynamics"
+  ],
+  "title": "Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH$_2$",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18472": {
+  "abstract": "Iron-chromium-aluminium (FeCrAl) alloys are leading candidates for accident-tolerant fuel cladding in light-water reactors, where their superior high-temperature oxidation resistance promises to extend coping times during loss-of-coolant accidents. The in-reactor lifetime of cladding is ultimately governed by radiation-induced microstructural evolution of which point defect transport is the dominant mechanism, however, this remains poorly understood. Here, we use a species-resolved kinetic Monte Carlo (KMC) model for vacancy diffusion in FeCrAl, parameterised by linear surrogate models trained on a database of migration barriers generated through the Hop-Decorate workflow. By sampling compositions spanning the Fe-rich to Cr-rich range of the Fe-Cr-Al system, we map how the local chemical environment controls vacancy hopping and hence macroscopic diffusivity. We find that increasing the Cr content in the alloy progressively decreases global diffusivity of vacancies even though activation energies stay relatively constant. This implies that the higher the Fe content in the alloy, the faster vacancies diffuse, thereby increasing annihilation events with fast-moving interstitials, potentially reducing irradiation induced defects and increasing radiation tolerance. Conversely, we find that Cr-rich alloy compositions stand out with a markedly elevated activation energy and significantly slower diffusion, orders of magnitude lower at accident-relevant temperatures. This indicates suppressed vacancy mobility in Cr-rich $α'$ phases which are known to form under irradiation.",
+  "authors": [
+   "Mihai Pitigoi",
+   "Peter Hatton"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mihai Pitigoi",
+  "pdf_url": "http://arxiv.org/pdf/2607.18472",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "Vacancy Diffusion Across FeCrAl Alloy Composition Space for Accident-Tolerant Fuel Cladding",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18591": {
+  "abstract": "In recent years, interest in single-atom catalysts supported on carbon-based structures has grown considerably due to their high catalytic activity and efficient uses of metal atoms. However, the design and characterization of these materials through first-principles calculations are computationally expensive, limiting the exploration of a large number of possible configurations. Here, we developed a framework based on graph neural networks (GNNs) to predict the adsorption energies of transition metals on graphene quantum dots (GQDs). The model was trained using data obtained from density functional theory calculations and achieved an $R^2$ of 0.906 with an MAE of 0.101 eV, while reducing computational cost by roughly six orders of magnitude relative to DFT. This methodology provides an efficient tool for the accelerated screening and rational design of new catalysts based on carbon nanostructures.",
+  "authors": [
+   "Lara Goncebat",
+   "Rodrigo Echeveste",
+   "Matías Gerard",
+   "Frederik Tielens",
+   "Gustavo Belletti",
+   "Paola Quaino"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Lara Goncebat",
+  "pdf_url": "http://arxiv.org/pdf/2607.18591",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "catalysis",
+   "dft",
+   "graph-neural-networks"
+  ],
+  "title": "GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.19281": {
+  "abstract": "This study introduces a reinforcement learning (RL) framework for generating optimal liquid-fueled reactors to improve lean blowout (LBO) predictions in gas turbine combustors. Existing approaches for determining cluster boundaries rely on manual heuristics or distance-based metrics in the input space. In contrast, the proposed method is goal-oriented, explicitly accounting for the target metric (e.g., LBO prediction accuracy) during cluster formation. The framework employs a multi-stage clustering--classification strategy: an initial clustering step (e.g., $k$-means clustering) generates a large set of homogeneous micro-clusters, followed by an actor-critic RL agent that merges them into optimal reactor zones. The validation study, performed using a Jet-A mechanism (119 species, 841 reactions), shows the RL framework offers improved predictive fidelity compared to $k$-means and captures the correct LBO trends, while achieving substantial speedups relative to the high-fidelity computational model. Overall, the RL-driven approach demonstrates strong potential as a computationally efficient reduced-order modeling technique that can complement high-fidelity simulations for rapid design-space exploration.",
+  "authors": [
+   "Philip John",
+   "Eloghosa Ikponmwoba",
+   "Pinaki Pal",
+   "Opeoluwa Owoyele"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Philip John",
+  "pdf_url": "http://arxiv.org/pdf/2607.19281",
+  "primary_category": "cs.LG",
+  "published": "2026-07-21",
+  "tags": [
+   "reduced-order-modeling"
+  ],
+  "title": "A Reinforcement-Learning-Augmented Liquid-Fueled Reactor Network Model for Predicting Lean Blowout in Gas Turbine Combustors",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.19307": {
+  "abstract": "Electrochemical impedance spectroscopy (EIS) is a powerful tool for probing kinetic and transport processes in electrochemical systems, but its practical use is often limited by the long acquisition time and noise sensitivity of low-frequency measurements. Here, we present a statistical inference-assisted framework that reduces the reliance on low-frequency sampling by increasing the sampling density in cleaner high-frequency regions. Using AutoEIS and Bayesian inference, the augmented high-frequency data are fitted to selected equivalent circuit models (ECMs) to reconstruct the full impedance spectrum and quantify parameter uncertainty. To evaluate reconstruction performance, we introduce the critical frequency (fc), defined as the highest cutoff frequency at which the full EIS response can still be reliably recovered. The results show that additional high-frequency sampling can not only shift fc to higher values but also reduce the total measurement time. The specific improvement depends on the noise level of the EIS data, the number of added data points, and the ECM structure. Overall, this work provides a practical framework for designing fast and efficient EIS data acquisition and offers guidance for applying partial-frequency EIS reconstruction in real electrochemical characterization.",
+  "authors": [
+   "Qiuyu Shi",
+   "Naohiro Fujinuma",
+   "Yonatan Kurniawan",
+   "Runze Zhang",
+   "Ali Jaberi",
+   "Ashley Dale",
+   "Jason Hattrick-Simpers"
+  ],
+  "categories": [
+   "physics.data-an",
+   "physics.chem-ph"
+  ],
+  "comment": "24 pages, 7 figures",
+  "first_author": "Qiuyu Shi",
+  "pdf_url": "http://arxiv.org/pdf/2607.19307",
+  "primary_category": "physics.data-an",
+  "published": "2026-07-21",
+  "tags": [
+   "bayesian-inference",
+   "electrochemical-systems"
+  ],
+  "title": "Accelerating Electrochemical Impedance Spectroscopy Measurements by Reducing Reliance on Noisy Low-Frequency Data",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.19667": {
+  "abstract": "The growing penetration of distributed energy resources (DERs) has increased the operational variability of distribution networks, making voltage regulation increasingly challenging. Conventional deep reinforcement learning (DRL) methods exhibit unsafe exploration behavior, slow convergence, and limited reliability, which restrict their applicability in safety-critical power system settings. This paper presents a human-interactive reinforcement learning framework that enhances the safety and robustness of autonomous voltage regulation. The proposed approach integrates a Soft Actor-Critic (SAC) agent with an adaptive Lagrange constraint mechanism to enforce voltage limits, while a human-guidance module provides sensitivity-based corrections through coordinated capacitor-bank and Battery Energy Storage System (BESS) dispatch. These corrections are incorporated into a human-regularized actor loss, enabling the policy to internalize safe and interpretable control behavior. The framework is implemented in the PowerGym-OpenDSS environment using the IEEE 13-node feeder. Simulation results show that the proposed Human-Interactive Lagrangian SAC (HI-LSAC) achieves significantly lower voltage-violation severity and reduced power losses compared with the other baseline methods.",
+  "authors": [
+   "Mahmuda Akter",
+   "Hamidreza Nazaripouya"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "10 pages, 3 figures",
+  "first_author": "Mahmuda Akter",
+  "pdf_url": "http://arxiv.org/pdf/2607.19667",
+  "primary_category": "eess.SY",
+  "published": "2026-07-22",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "A Human-AI Teaming Framework for Deep Reinforcement Learning-Based Voltage Regulation in Distribution Networks",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.21905": {
+  "abstract": "A quantum battery is a novel energy storage device that operates on the principles of quantum mechanics. To enhance the charging performance of quantum batteries and further provide theoretical support for their physical implementation, we constructed an optical-field-dependent nonlinear quantum battery model. Meanwhile, we solved for the unbiased form of nonlinear interactions in this model, where the charging power of the proposed model exhibits a superlinear quantum advantage, and the charging time saturates the quantum speed limit. Through theoretical analysis, we confirm that this quantum advantage arises from the quantum effect of multiphoton absorption. Subsequently, with the derived nonlinear function form, we further investigated other properties of this nonlinear quantum battery. Finally, an experimental design scheme for this nonlinear quantum battery in superconducting quantum circuits is presented.",
+  "authors": [
+   "Wei-Jun Han",
+   "Peng-Yu Sun",
+   "Guo-Feng Zhang"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "26 pages, 14 figures",
+  "first_author": "Wei-Jun Han",
+  "pdf_url": "http://arxiv.org/pdf/2607.21905",
+  "primary_category": "quant-ph",
+  "published": "2026-07-24",
+  "tags": [
+   "battery-modeling",
+   "energy-storage",
+   "experimental-design"
+  ],
+  "title": "Quantum advantage of nonlinear quantum battery and superconducting circuit implementation",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22055": {
+  "abstract": "Intracranial saccular aneurysms (ISAs) pose severe health risks, yet conventional population-based risk stratification scores (PHASES, UIATS, and ELAPSS) offer limited capacity for patient-specific rupture risk assessment. Image-based computational approaches have gained prominence, but traditional surface reconstruction relies on mathematical smoothing (e.g., L-curve criteria) that indiscriminately suppresses both imaging artifacts and genuine pathological features such as rupture-prone blebs. Although Laplace's membrane equilibrium ($κ_1 T_1 + κ_2 T_2 = P$) has long governed aneurysm wall mechanics (Humphrey and Kyriacou [Neurol. Res., 18 (1996)]), its integration into geometric reconstruction pipelines remains unexplored. This work introduces a physics-informed neural network (PINN) framework with B-spline representations, whose key contributions are: (i) embedding the variational equilibrium condition ($δΠ= 0$) as a physics-informed loss that replaces the mathematical L-curve criterion with a biomechanically grounded artifact discrimination, (ii) developing a Manifold-Consistent CNN ansatz that preserves the closed-surface topology of vascular geometries, and (iii) establishing a Laplace equilibrium-driven reconstruction that filters imaging noise while preserving diagnostically critical high-curvature features. Application to patient-specific clinical datasets demonstrates that the framework eliminates non-physical concave artifacts without compromising genuine geometric anomalies. Clinical evaluation by a practicing neurosurgeon confirms that the resulting risk map---with rupture risk concentrated at the dome apex---is consistent with intraoperative observations, establishing a computational biomarker foundation for patient-specific rupture risk assessment of intracranial saccular aneurysms.",
+  "authors": [
+   "Hyomin Ryu",
+   "Seung Hwan Kim",
+   "Jaemin Kim"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": "27 pages, 13 figures",
+  "first_author": "Hyomin Ryu",
+  "pdf_url": "http://arxiv.org/pdf/2607.22055",
+  "primary_category": "math.NA",
+  "published": "2026-07-24",
+  "tags": [
+   "physics-informed-ml"
+  ],
+  "title": "A physics-informed neural network for improving surface reconstruction of intracranial saccular aneurysms via variational membrane equilibrium",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22280": {
+  "abstract": "Compressible multiphase flows involving shocks and material interfaces arise in applications such as bubble collapse and droplet breakup, where strong nonlinear interactions produce complex interface deformation, mixing, and multiscale dynamics. Developing reliable machine learning surrogates for these flows remains challenging due to the simultaneous presence of compressibility, sharp discontinuities, and multiphase effects. In this work, we introduce the first large-scale benchmark specifically designed for shock-driven compressible multiphase flows, comprising 2.4 TB of high-fidelity 2D and 3D datasets featuring shock-induced bubble collapse and droplet breakup. We evaluate diverse surrogate model families on our benchmarking framework: Neptuna {https://github.com/tumaer/Neptuna}, including convolutional, spectral, transformer-based, and pre-trained PDE foundation models. Beyond standard MSE training, we investigate composite losses combining MSE with Sobolev, interface-aware, and structure-aware terms, together with adaptive loss balancing using SoftAdapt and GradNorm. Evaluation includes pointwise, spectral, feature-focused, structural, and physics-informed metrics. Results show that no single model performs best across all datasets and metrics, while composite losses significantly improve interface preservation and spectral fidelity. Among adaptive weighting strategies, SoftAdapt provides the most consistent improvements with almost no overhead compared to MSE-only training.",
+  "authors": [
+   "Harish Ramachandran",
+   "Björn Kimpel",
+   "Thomas Paula",
+   "Josef Winter",
+   "Steffen Schmidt",
+   "Nikolaus Adams"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Harish Ramachandran",
+  "pdf_url": "http://arxiv.org/pdf/2607.22280",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-24",
+  "tags": [
+   "large-language-models",
+   "multiphase-flow",
+   "surrogate-modeling"
+  ],
+  "title": "Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.22338": {
+  "abstract": "Free energy calculations are routinely used to study molecular processes inaccessible to unbiased molecular dynamics, but their utility ultimately depends on knowing when and how much their predictions can be trusted. Uncertainty estimation is therefore essential for distinguishing genuine physical features of a free energy profile from artifacts arising from limited simulation data or inadequate sampling. Gaussian processes have emerged as a powerful framework for reconstructing free energy profiles together with predictive uncertainties. However, existing implementations typically condition on fixed hyperparameters and observation noise, preventing predictive uncertainties from adapting to the information content of the simulation data. Here, we develop a generalized hierarchical Gaussian process framework that accounts for these neglected sources of uncertainty. Applications to umbrella sampling and extended Lagrangian metadynamics of peptide-lipid membrane interactions demonstrate that the resulting uncertainty estimates track reconstruction errors across a wide range of sampling and data conditions.",
+  "authors": [
+   "Martin Skorna",
+   "Adam Gottfried",
+   "Zuzana Janackova",
+   "Katarina Baxova",
+   "Pavel Jungwirth",
+   "Brennon L. Shanks"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "17 pages, 9 figures including appendix",
+  "first_author": "Martin Skorna",
+  "pdf_url": "http://arxiv.org/pdf/2607.22338",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-24",
+  "tags": [
+   "gaussian-process",
+   "molecular-dynamics"
+  ],
+  "title": "Uncertainty Quantification for Free Energy Calculations by Generalized Hierarchical Bayesian Inference",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22804": {
+  "abstract": "Accurate geological characterization of subsurface reservoirs from well log data is essential to support projects such as carbon capture and storage (CCS), geothermal development, and extraction of natural resources. Existing automated techniques for geological characterization primarily use sliding-window classification, which limits their ability to understand broader geological contexts, often leading to misaligned formation layers. To overcome these limitations, we introduce LithoFormer, a robust framework for stratigraphic inference using a Seq2Seq transformer model that ingests entire multivariate well logs in a single pass. The framework utilizes a channel-independent PatchTST backbone enhanced with rotary positional embeddings (RoPE) to capture long-range geological dependencies across entire multivariate well logs. A decoupled multi-task head is employed to jointly predict geological zonation and precise boundary probabilities, while a geology-informed loss function enforces physical constraints such as the Law of Superposition. Validated and deployed on three real-world datasets, LithoFormer demonstrates a 90% reduction in median boundary error and eliminates stratigraphic order violations compared to traditional sliding-window baselines. It also achieves a 80% reduction in manual expert labor and eliminates stratigraphic inconsistencies, providing a scalable and reliable solution for large-scale subsurface modeling.",
+  "authors": [
+   "Shwetha Salimath",
+   "Francesca Bugiotti",
+   "Sylvain Wlodarczyk",
+   "Sohaib Ouzineb"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "8 pages, 4 figures",
+  "first_author": "Shwetha Salimath",
+  "pdf_url": "http://arxiv.org/pdf/2607.22804",
+  "primary_category": "cs.LG",
+  "published": "2026-07-24",
+  "tags": [
+   "carbon-capture"
+  ],
+  "title": "LithoFormer: A Robust Framework for Stratigraphic Inference via Transformers",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.23176": {
+  "abstract": "Digital twins for advanced reactors must invert physical parameters online from noisy, partial sensor streams while the plant is rarely at steady state. Gradient-based inversion is the natural tool for this task, but the forward models in routine use are seldom differentiable end to end, so practitioners fall back on derivative-free filters. We present an end-to-end-differentiable digital twin of a closed-Brayton gas-cooled reactor that propagates reverse-mode automatic differentiation through an implicit differential-algebraic plant model, exposing exact parameter sensitivities. The twin drives an AD-Hessian incremental 4D-Var estimator, benchmarked against ensemble, unscented, and finite-difference variational baselines over a two-by-two matrix that crosses steady with transient excitation and full with partial observation. No single estimator wins everywhere: the unscented filter keeps its best-linear-unbiased advantage on the controlled steady-state corner, while the proposed estimator attains the lowest mean error on the reflector coefficient on the other three corners --- reaching \\SI{0.43}{\\percent} under transient full observation, roughly an order of magnitude below the unscented filter, and matching the ensemble filter at low-to-moderate noise on the combined transient-partial corner. Every estimator's variance sits within a small factor of the Cramér--Rao bound, so the residual error reflects a deterministic bias floor from the twin's differentiability simplifications rather than statistical inefficiency, and the advantage is one of robustness to the resulting multi-modal loss landscape, which a component ablation localises by regime. Differentiating a first-principles plant model thus makes gradient-based inversion competitive with established filters across a reactor's operating range.",
+  "authors": [
+   "Chengyuan Li",
+   "Shanfang Huang",
+   "Jian Deng"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Chengyuan Li",
+  "pdf_url": "http://arxiv.org/pdf/2607.23176",
+  "primary_category": "eess.SY",
+  "published": "2026-07-25",
+  "tags": [
+   "digital-twin"
+  ],
+  "title": "An Adjoint-Based Differentiable Physics Framework for Online Parameter Inversion in Closed-Brayton Gas-Cooled Reactor Digital Twins",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.23291": {
+  "abstract": "Background: The excitation of one-neutron halo nucleus $^{15}$C from the $1/2^+$ ground state to the $5/2^+$ first excited state was measured at Argonne National Laboratory by impinging $^{15}$C on a deuterated target at $7.1 A$ MeV. This data was then analyzed in the Distorted Wave Born Approximation using a rigid rotor model for the excitation. Purpose: Being a one-neutron halo, we expect a single-particle excitation to better represent the excitation of $^{15}$C rather than a collective process. We expect the breakup of $^{15}$C to influence the reaction mechanisms because of the low one-neutron separation threshold, which is close in energy to $^{15}$C's first excited state. The goal of this work is to explore various the reaction mechanisms to reinterpret the data of Ref.[1] for the inelastic excitation of $^{15}$C. Method: We solve the scattering problem assuming a three-body model $^{14}$C$+n+d$. We use the Continuum Discretized Coupled Channel method (CDCC) and compare the results with those obtained assuming 1-step DWBA with quadrupole deformation, as done in the original experimental analysis. We also use Bayesian uncertainty quantification to estimate the uncertainties in our predictions coming from the $n$-$d$ interaction. Results: We analyze both the elastic and inelastic angular distributions for $^{15}$C(d,d')$^{15}\\text{C}^*$ at $7.1 A$ MeV. Our results show that $^{15}$C breakup effects are important. Conclusions: While CDCC predicts the elastic angular distribution correctly, it is not able to fully describe the experimental inelastic angular distribution. We discuss additional effects that may be responsible for the remaining discrepancy.",
+  "authors": [
+   "C. Beckman",
+   "M. Catacora-Rios",
+   "C. Hebborn",
+   "F. M. Nunes"
+  ],
+  "categories": [
+   "nucl-th",
+   "nucl-ex"
+  ],
+  "comment": null,
+  "first_author": "C. Beckman",
+  "pdf_url": "http://arxiv.org/pdf/2607.23291",
+  "primary_category": "nucl-th",
+  "published": "2026-07-25",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "$^{15}$C inelastic $1/2^+ \\rightarrow 5/2^+$ excitation: A single-particle versus a collective process",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.24075": {
+  "abstract": "The growing integration of Battery Energy Storage Systems into electricity markets has highlighted the importance of coordinated participation across energy and balancing services to fully exploit their operational flexibility. However, existing revenue-stacking models often simplify market sequences and neglect the impact of rolling forecasts, leading to unrealistic scheduling and overestimated revenues.   This paper addresses this gap by introducing a sequential, data-driven optimization framework for Front-of-the-Meter Battery Energy Storage Systems that mirrors actual market operations. The framework explicitly models market mechanisms and its respective Gate Closure Times across Frequency Containment Reserve, automated Frequency Restoration Reserve, Day-Ahead Auction, and Intraday Continuous markets. Each market stage optimizes expected revenue over all remaining markets using updated price forecasts while maintaining feasibility within both technical and regulatory limits.   A key contribution is the opportunity-cost-based bidding strategy, which endogenously derives market-consistent bid prices and quantities from residual capacity optimization.   Validation for a representative operating day demonstrates that the framework yields consistent and feasible schedules, effectively adapts to updated forecasts, and minimizes deviations between planned and realized dispatch, thereby enhancing the realism and profitability of BESS operation.",
+  "authors": [
+   "Steffen Kortmann",
+   "Hannah Sanders",
+   "Andreas Ulbig"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Steffen Kortmann",
+  "pdf_url": "http://arxiv.org/pdf/2607.24075",
+  "primary_category": "eess.SY",
+  "published": "2026-07-27",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Data-Driven Sequential Market Optimization for Front-of-the-Meter Battery Energy Storage Systems",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.24083": {
+  "abstract": "Reinforcement learning can produce robust humanoid controllers, but each new task is typically trained as a separate policy with its own reward design and training process. Motion imitation provides an alternative source of motor competence by training policies to track retargeted human motions, yet the resulting controllers remain reference trackers and are not directly usable as task policies. We propose a three-stage pipeline that turns motion-imitation skills into a reusable hybrid motion prior (HMP) for humanoid locomotion. First, an expert policy is trained to imitate retargeted human motion-capture clips. Second, the expert is distilled into a frozen architecture composed of a proprioceptive encoder, a residual vector-quantized (RVQ) codebook, and an action decoder. Third, task-level policies are trained to solve locomotion tasks by selecting discrete codebook entries while the HMP remains frozen. We evaluate the method on velocity tracking, point-goal navigation, and fall-recovery velocity tracking in simulation, and deploy the velocity-tracking policy on a real Unitree G1 robot. The distillation process preserves the tracking behavior of the expert, while the resulting HMP can be reused without retraining as the action interface for different downstream locomotion policies. The learned HMP reveals an interpretable codebook structure in which the number of active RVQ stages modulates the available gait patterns. We further show that training the codebook with the rotation trick improves latent organization and reduces downstream falls compared with a standard straight-through estimator.",
+  "authors": [
+   "Valerio Belli",
+   "Valerio Modugno",
+   "Enrico Mingo Hoffman",
+   "Fabio Amadio"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Valerio Belli",
+  "pdf_url": "http://arxiv.org/pdf/2607.24083",
+  "primary_category": "cs.LG",
+  "published": "2026-07-27",
+  "tags": [
+   "distillation"
+  ],
+  "title": "Learning Reusable Hybrid Motion Priors for Humanoid Locomotion from Motion Imitation",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.24272": {
+  "abstract": "The vast chemical design space and complex, interdependent design variables make catalyst discovery for targeted properties highly labor- and resource-intensive. Although generative models have emerged as a promising solution, existing approaches are generally limited to single-property conditioning or narrow chemical spaces. Here, we present Catalyst Diffusion Transformer (CatDiT), a unified framework for inverse catalyst design that generates valid and novel structures ranging from intermetallic alloys to oxide surfaces. By learning compressed latent representations, CatDiT enables efficient training and rapid sampling while supporting simultaneous conditioning on adsorbate type, binding energy, and catalyst class. The model provides reliable control of discrete properties and directional control of continuous properties, enriching candidate pools for reaction-specific catalyst discovery. As a representative application, multi-conditional generation for the nitrogen reduction reaction (NRR) yields 28 density functional theory (DFT)-relaxed alloy candidates that satisfy the target activity window and lie above the pure-metal *N-*H scaling line, corresponding to a ~1.5-fold enrichment over the source distribution. These results establish CatDiT as a practical and scalable approach for property-directed catalyst inverse design and targeted catalyst generation.",
+  "authors": [
+   "Hayoung Doo",
+   "Dong Hyeon Mok",
+   "Seoin Back",
+   "Jonggeol Na"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Hayoung Doo",
+  "pdf_url": "http://arxiv.org/pdf/2607.24272",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-27",
+  "tags": [
+   "catalysis",
+   "catalyst-design",
+   "dft",
+   "generative-models"
+  ],
+  "title": "Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.26078": {
+  "abstract": "Hydrogen infrastructure in enclosed environments, such as parking facilities for fuel cell vehicles, presents significant safety challenges due to hydrogen's low ignition energy and wide flammability range. Current monitoring systems are largely reactive, detecting leaks only after hazardous concentrations have formed. This study develops a computational framework for proactive sensor placement optimization by integrating computational fluid dynamics (CFD), genetic algorithm (GA) optimization, and a DeepSets neural surrogate. A CFD database of 180 scenarios was generated for a representative 50 m x 30 m x 3 m garage, covering multiple leak positions, rates (1-150 g/s), and ventilation conditions (ACH = 3-10 per hour). Sensor placement was optimized using a multi-objective GA and compared with uniform, random, and surrogate-assisted approaches. The GA achieved a detection rate of 96.1% within 60 s and reduced blind areas to 0.12%, corresponding to an approximately 5% improvement in composite fitness over a uniform baseline. The DeepSets surrogate reproduced near-optimal configurations with a fitness gap below 0.01 while reducing CFD evaluations by 89% and computational time by two orders of magnitude. Detection performance and spatial coverage remained comparable to the GA, demonstrating that surrogate-assisted optimization can retain solution quality while enabling rapid design iteration. Overall, the results show that CFD-informed optimization improves detection effectiveness and reduces sensor requirements compared to conventional layouts. The proposed framework supports scalable deployment and provides a foundation for integrating optimized sensor networks with digital twin systems for real-time monitoring and risk assessment.",
+  "authors": [
+   "Fangnian Wang",
+   "Nicholas Tan Jerome",
+   "Thomas Jordan",
+   "Frank Simon"
+  ],
+  "categories": [
+   "cs.NE",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Fangnian Wang",
+  "pdf_url": "http://arxiv.org/pdf/2607.26078",
+  "primary_category": "cs.NE",
+  "published": "2026-07-20",
+  "tags": [
+   "cfd",
+   "digital-twin",
+   "fuel-cells"
+  ],
+  "title": "Optimizing Sensor Placement for Hydrogen Leak Detection in Enclosed Infrastructure: A Comparative Study Using CFD-informed Genetic Algorithm and DeepSets Neural Surrogate",
+  "topics": [
+   "Digital Twins & Process Monitoring",
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.26594": {
+  "abstract": "PID tuning for chemical processes commonly relies on identified process models, whereas plant engineers often retune loops iteratively by observing responses, diagnosing deficiencies, adjusting gains, and validating the result. This work formalizes this engineer-like workflow in a language-model-assisted PID tuning framework applicable to both large and small language models (LLMs/SLMs). Hosted LLMs receive closed-loop response features, control-engineering diagnoses, tuning preferences, and internal model control (IMC)-based demonstrations to generate and iteratively correct PID gains under common acceptance criteria. For local deployment, Qwen3-0.6B is adapted through supervised fine-tuning (SFT) with simulation-verified IMC targets and physics-informed group relative policy optimization (PI-GRPO) with non-compensable stability and performance rewards. On 100 first-order plus dead time (FOPDT) and 100 second-order plus dead time (SOPDT) test cases, hosted LLMs (DeepSeek-V4-Flash and Qwen3.7-Plus) achieve final success rates of 75-89% and 77-79%, respectively. As for Qwen3-0.6B, supervised fine-tuning raises first-recommendation success to 86.5%, and PI-GRPO further increases it to 94.0%, primarily improving first-attempt reliability and stability margins.",
+  "authors": [
+   "Zhoupeng Shou",
+   "Xiaodong Hong",
+   "Congjing Ren",
+   "Jingdai Wang",
+   "Yongrong Yang",
+   "Zuwei Liao"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhoupeng Shou",
+  "pdf_url": "http://arxiv.org/pdf/2607.26594",
+  "primary_category": "eess.SY",
+  "published": "2026-07-29",
+  "tags": [
+   "chemical-engineering",
+   "large-language-models"
+  ],
+  "title": "A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-07-29"
  }
 }
