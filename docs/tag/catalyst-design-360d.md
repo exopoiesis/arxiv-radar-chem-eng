@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalyst-design — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <strong>360d</strong> <a href="catalyst-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09522.html">Is Platinum a Proton Blocking Catalyst?</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Aparna Saksena et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09522">2510.09522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02214.html">Predictive Chemical Kinetic Modeling of Pt-Catalyzed Dry Methane Reforming</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="fixed-bed-360d.html">fixed-bed</a> · <a href="microkinetic-modeling-360d.html">microkinetic-modeling</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
-<td>Esther Ritov et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02214">2508.02214</a></td>
 </tr>
 </tbody></table>
