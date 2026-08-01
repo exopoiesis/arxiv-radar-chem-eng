@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,17 +350,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02461.html">Uncertainty Quantification and Propagation in Atomistic Machine Learning</a></div><div class="paper-tags"><a href="microkinetic-modeling-all.html">microkinetic-modeling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Jin Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02461">2405.02461</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15650.html">Machine Learning Materials Properties with Accurate Predictions, Uncertainty Estimates, Domain Guidance, and Persistent Online Accessibility</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Ryan Jacobs et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15650">2406.15650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01728.html">Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
-<td>Daniela de Oliveira Maionchi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01728">2406.01728</a></td>
 </tr>
 </tbody></table>

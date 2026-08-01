@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ammonia-synthesis — all</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="ammonia-synthesis-7d.html">7d</a> <a href="ammonia-synthesis-30d.html">30d</a> <a href="ammonia-synthesis-90d.html">90d</a> <a href="ammonia-synthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16741.html">Extracting thin film structures of energy materials using transformers</a></div><div class="paper-tags"><a href="electrochemical-systems-all.html">electrochemical-systems</a></div></td>
 <td>Chen Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.16741">2406.16741</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02078.html">CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="dft-all.html">dft</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
-<td>Brook Wander et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02078">2405.02078</a></td>
 </tr>
 </tbody></table>

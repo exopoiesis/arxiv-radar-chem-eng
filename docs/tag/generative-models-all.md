@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-models — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="generative-models-7d.html">7d</a> <a href="generative-models-30d.html">30d</a> <a href="generative-models-90d.html">90d</a> <a href="generative-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07608.html">MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Yan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07608">2408.07608</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07461.html">Noise-robust Speech Separation with Fast Generative Correction</a></div><div class="paper-tags"><a href="separations-all.html">separations</a></div></td>
-<td>Helin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07461">2406.07461</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,35 +962,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03493.html">In-Depth Exploration of Catalytic Sites on Amorphous Solid Water: I. The Astrosynthesis of Aminomethanol</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Giulia M. Bovolenta et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03493">2407.03493</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15602.html">Catalysis in Extreme Field Environments: The Case of Strongly Ionized $SiO_{2}$ Nanoparticle Surfaces</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Thomas M. Linker et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15602">2406.15602</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15650.html">Machine Learning Materials Properties with Accurate Predictions, Uncertainty Estimates, Domain Guidance, and Persistent Online Accessibility</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Ryan Jacobs et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15650">2406.15650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08580.html">Anomalous Enhancement of the Electrocatalytic Hydrogen Evolution Reaction in AuPt Nanoclusters</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="hydrogen-production-all.html">hydrogen-production</a></div></td>
-<td>Jiahui Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08580">2406.08580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02078.html">CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks</a></div><div class="paper-tags"><a href="ammonia-synthesis-all.html">ammonia-synthesis</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="dft-all.html">dft</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
-<td>Brook Wander et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02078">2405.02078</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06335.html">Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a></div></td>
-<td>Nicole Bellonzi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06335">2406.06335</a></td>
 </tr>
 </tbody></table>

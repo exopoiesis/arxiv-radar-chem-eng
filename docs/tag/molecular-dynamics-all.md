@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,11 +434,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04376.html">DeepLNE++ leveraging knowledge distillation for accelerated multi-state path-like collective variables</a></div><div class="paper-tags"><a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
 <td>Thorben Fröhlking et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04376">2407.04376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15602.html">Catalysis in Extreme Field Environments: The Case of Strongly Ionized $SiO_{2}$ Nanoparticle Surfaces</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a></div></td>
-<td>Thomas M. Linker et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15602">2406.15602</a></td>
 </tr>
 </tbody></table>

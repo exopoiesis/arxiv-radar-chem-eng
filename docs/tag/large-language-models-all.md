@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>large-language-models — all</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10068.html">Multi-Granularity Semantic Revision for Large Language Model Distillation</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
 <td>Xiaoyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10068">2407.10068</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00974.html">Large Language Model Assisted Optimal Bidding of BESS in FCAS Market: An AI-agent based Approach</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
-<td>Borui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00974">2406.00974</a></td>
 </tr>
 </tbody></table>

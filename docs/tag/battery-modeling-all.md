@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-modeling — all</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="battery-modeling-7d.html">7d</a> <a href="battery-modeling-30d.html">30d</a> <a href="battery-modeling-90d.html">90d</a> <a href="battery-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20262.html">A Neural-Network-Embedded Equivalent Circuit Model for Lithium-ion Battery State Estimation</a></div></td>
 <td>Zelin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2407.20262">2407.20262</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08626.html">Safety-Driven Battery Charging: A Fisher Information-guided Adaptive MPC with Real-time Parameter Identification</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a> · <a href="mpc-all.html">mpc</a> · <a href="system-identification-all.html">system-identification</a></div></td>
-<td>Jorge Espin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08626">2406.08626</a></td>
 </tr>
 </tbody></table>

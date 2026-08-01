@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogen-production — all</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="hydrogen-production-7d.html">7d</a> <a href="hydrogen-production-30d.html">30d</a> <a href="hydrogen-production-90d.html">90d</a> <a href="hydrogen-production-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Rui Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08580.html">Anomalous Enhancement of the Electrocatalytic Hydrogen Evolution Reaction in AuPt Nanoclusters</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
-<td>Jiahui Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08580">2406.08580</a></td>
 </tr>
 </tbody></table>

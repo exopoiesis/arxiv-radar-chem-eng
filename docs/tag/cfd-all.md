@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,17 +548,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05551.html">Numerical Study of CO2 Conversion to SAF in a Fixed Bed Catalytic Reactor</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="mass-transfer-all.html">mass-transfer</a> · <a href="reactor-design-all.html">reactor-design</a></div></td>
 <td>Shan Ruiqin et al.</td>
 <td><a href="http://arxiv.org/abs/2408.05551">2408.05551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15674.html">CFD-DEM study of mixing in a monodispersed solid-liquid fluidized bed</a></div><div class="paper-tags"><a href="multiphase-flow-all.html">multiphase-flow</a></div></td>
-<td>Victor Oliveira Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15674">2406.15674</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01728.html">Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm</a></div><div class="paper-tags"><a href="gaussian-process-all.html">gaussian-process</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Daniela de Oliveira Maionchi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01728">2406.01728</a></td>
 </tr>
 </tbody></table>

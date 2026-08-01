@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reduced-order-modeling — all</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <a href="reduced-order-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18853.html">Skeletal Reaction Models for Gasoline Surrogate Combustion</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
 <td>Yinmin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18853">2506.18853</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01728.html">Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Daniela de Oliveira Maionchi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01728">2406.01728</a></td>
 </tr>
 </tbody></table>

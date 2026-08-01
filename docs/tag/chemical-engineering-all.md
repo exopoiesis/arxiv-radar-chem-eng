@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-engineering — all</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <a href="chemical-engineering-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,23 +734,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02114.html">In-situ topotactic chemical reaction for spectroscopies</a></div></td>
 <td>Tappei Kawakami et al.</td>
 <td><a href="http://arxiv.org/abs/2407.02114">2407.02114</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15602.html">Catalysis in Extreme Field Environments: The Case of Strongly Ionized $SiO_{2}$ Nanoparticle Surfaces</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Thomas M. Linker et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15602">2406.15602</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06335.html">Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Nicole Bellonzi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06335">2406.06335</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01541.html">Adaptive discretization algorithms for locally optimal experimental design</a></div><div class="paper-tags"><a href="experimental-design-all.html">experimental-design</a></div></td>
-<td>Jochen Schmid et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01541">2406.01541</a></td>
 </tr>
 </tbody></table>

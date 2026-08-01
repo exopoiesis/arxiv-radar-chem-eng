@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>energy-storage — all</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,23 +926,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10278.html">Strategies for Resilience and Battery Life Extension in the Face of Communication Losses for Isolated Microgrids</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a></div></td>
 <td>Mohammad Hossein Nejati Amiri et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10278">2407.10278</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19792.html">Improving Performance Prediction of Electrolyte Formulations with Transformer-based Molecular Representation Model</a></div></td>
-<td>Indra Priyadarsini et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19792">2406.19792</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08626.html">Safety-Driven Battery Charging: A Fisher Information-guided Adaptive MPC with Real-time Parameter Identification</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="mpc-all.html">mpc</a> · <a href="system-identification-all.html">system-identification</a></div></td>
-<td>Jorge Espin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08626">2406.08626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00974.html">Large Language Model Assisted Optimal Bidding of BESS in FCAS Market: An AI-agent based Approach</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Borui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00974">2406.00974</a></td>
 </tr>
 </tbody></table>
