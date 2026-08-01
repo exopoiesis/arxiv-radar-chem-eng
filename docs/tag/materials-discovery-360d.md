@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06436.html">Leveraging transfer learning for accurate estimation of ionic migration barriers in solids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="fuel-cells-360d.html">fuel-cells</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Reshma Devi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06436">2508.06436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03278.html">Artificial Intelligence and Generative Models for Materials Discovery -- A Review</a></div><div class="paper-tags"><a href="generative-models-360d.html">generative-models</a></div></td>
-<td>Albertus Denny Handoko et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03278">2508.03278</a></td>
 </tr>
 </tbody></table>

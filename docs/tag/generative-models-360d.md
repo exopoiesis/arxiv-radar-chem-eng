@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-models — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="generative-models-7d.html">7d</a> <a href="generative-models-30d.html">30d</a> <a href="generative-models-90d.html">90d</a> <strong>360d</strong> <a href="generative-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25538.html">Steering an Active Learning Workflow Towards Novel Materials Discovery via Queue Prioritization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="carbon-capture-360d.html">carbon-capture</a></div></td>
 <td>Marcus Schwarting et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25538">2509.25538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03278.html">Artificial Intelligence and Generative Models for Materials Discovery -- A Review</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Albertus Denny Handoko et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03278">2508.03278</a></td>
 </tr>
 </tbody></table>
