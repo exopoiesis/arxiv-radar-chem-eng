@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-modeling — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="process-modeling-7d.html">7d</a> <a href="process-modeling-30d.html">30d</a> <a href="process-modeling-90d.html">90d</a> <strong>360d</strong> <a href="process-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12762.html">TURB-Scalar. A large database of passive scalar fields advected by 2D Navier-Stokes in the turbulent inverse cascade regime</a></div><div class="paper-tags"><a href="transport-phenomena-360d.html">transport-phenomena</a></div></td>
 <td>Chiara Calascibetta et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12762">2508.12762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04799.html">Optimality Principles and Neural Ordinary Differential Equations-based Process Modeling for Distributed Control</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a> · <a href="process-control-360d.html">process-control</a></div></td>
-<td>Michael R. Wartmann et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04799">2508.04799</a></td>
 </tr>
 </tbody></table>

@@ -43,10 +43,6 @@
   count: 3
   total: 26
   group: reactions
-- name: cfd
-  count: 3
-  total: 89
-  group: fluids
 - name: materials-discovery
   count: 3
   total: 45
@@ -99,6 +95,10 @@
   count: 1
   total: 30
   group: energy
+- name: cfd
+  count: 1
+  total: 89
+  group: fluids
 - name: co2-electroreduction
   count: 1
   total: 1
