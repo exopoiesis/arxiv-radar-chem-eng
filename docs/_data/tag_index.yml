@@ -51,10 +51,6 @@
   count: 3
   total: 47
   group: methods
-- name: process-control
-  count: 3
-  total: 48
-  group: control
 - name: active-learning
   count: 2
   total: 55
@@ -83,6 +79,10 @@
   count: 2
   total: 70
   group: materials
+- name: process-control
+  count: 2
+  total: 48
+  group: control
 - name: uncertainty-quantification
   count: 2
   total: 56
