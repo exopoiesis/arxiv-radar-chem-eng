@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mpc — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <strong>360d</strong> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00685.html">Stochastic Model Predictive Control of Charging Energy Hubs with Conformal Prediction</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Diego Fernández-Zapico et al.</td>
 <td><a href="http://arxiv.org/abs/2504.00685">2504.00685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06700.html">Learning to control inexact Benders decomposition via reinforcement learning</a></div><div class="paper-tags"><a href="economic-mpc-360d.html">economic-mpc</a></div></td>
-<td>Zhe Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06700">2508.06700</a></td>
 </tr>
 </tbody></table>

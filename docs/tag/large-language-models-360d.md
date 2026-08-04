@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,11 +428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13197.html">The Rise of Generative AI for Metal-Organic Framework Design and Synthesis</a></div><div class="paper-tags"><a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
 <td>Chenru Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13197">2508.13197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06135.html">Less is More: Selective Reflection for Compatible and Efficient Knowledge Distillation in Large Language Models</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Lingyuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06135">2508.06135</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17523.html">Learning Reaction-Diffusion Kinetics from Mechanical Information</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
 <td>Royal C. Ihuaenyi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17523">2508.17523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06436.html">Leveraging transfer learning for accurate estimation of ionic migration barriers in solids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="fuel-cells-360d.html">fuel-cells</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
-<td>Reshma Devi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06436">2508.06436</a></td>
 </tr>
 </tbody></table>
