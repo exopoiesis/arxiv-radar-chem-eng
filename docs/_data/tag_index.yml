@@ -15,14 +15,6 @@
   count: 6
   total: 114
   group: architectures
-- name: bayesian-inference
-  count: 4
-  total: 57
-  group: methods
-- name: chemical-engineering
-  count: 4
-  total: 120
-  group: domain
 - name: generative-models
   count: 4
   total: 31
@@ -35,6 +27,14 @@
   count: 3
   total: 26
   group: reactions
+- name: bayesian-inference
+  count: 3
+  total: 57
+  group: methods
+- name: chemical-engineering
+  count: 3
+  total: 120
+  group: domain
 - name: digital-twin
   count: 3
   total: 51
@@ -43,10 +43,6 @@
   count: 3
   total: 45
   group: materials
-- name: physics-informed-ml
-  count: 3
-  total: 47
-  group: methods
 - name: surrogate-modeling
   count: 3
   total: 91
@@ -79,9 +75,9 @@
   count: 2
   total: 70
   group: materials
-- name: uncertainty-quantification
+- name: physics-informed-ml
   count: 2
-  total: 56
+  total: 47
   group: methods
 - name: ammonia-synthesis
   count: 1
@@ -111,10 +107,6 @@
   count: 1
   total: 52
   group: separations
-- name: electrolysis
-  count: 1
-  total: 20
-  group: energy
 - name: fuel-cells
   count: 1
   total: 44
@@ -139,10 +131,6 @@
   count: 1
   total: 16
   group: reactions
-- name: hydrogen-production
-  count: 1
-  total: 15
-  group: energy
 - name: metal-organic-frameworks
   count: 1
   total: 31
@@ -167,10 +155,6 @@
   count: 1
   total: 1
   group: control
-- name: process-systems-engineering
-  count: 1
-  total: 17
-  group: domain
 - name: reaction-engineering
   count: 1
   total: 4
@@ -179,18 +163,14 @@
   count: 1
   total: 14
   group: modeling
-- name: system-identification
-  count: 1
-  total: 28
-  group: modeling
-- name: transport-phenomena
-  count: 1
-  total: 11
-  group: transport
 - name: turbulence-modeling
   count: 1
   total: 13
   group: fluids
+- name: uncertainty-quantification
+  count: 1
+  total: 56
+  group: methods
 - name: wastewater-treatment
   count: 1
   total: 25
@@ -223,6 +203,10 @@
   count: 0
   total: 14
   group: reactions
+- name: electrolysis
+  count: 0
+  total: 20
+  group: energy
 - name: fault-detection
   count: 0
   total: 19
@@ -243,6 +227,10 @@
   count: 0
   total: 16
   group: reactions
+- name: hydrogen-production
+  count: 0
+  total: 15
+  group: energy
 - name: ionic-liquids
   count: 0
   total: 7
@@ -319,6 +307,10 @@
   count: 0
   total: 7
   group: control
+- name: process-systems-engineering
+  count: 0
+  total: 17
+  group: domain
 - name: reaction-kinetics
   count: 0
   total: 20
@@ -359,6 +351,10 @@
   count: 0
   total: 0
   group: separations
+- name: system-identification
+  count: 0
+  total: 28
+  group: modeling
 - name: techno-economic-analysis
   count: 0
   total: 3
@@ -367,6 +363,10 @@
   count: 0
   total: 22
   group: architectures
+- name: transport-phenomena
+  count: 0
+  total: 11
+  group: transport
 - name: zeolites
   count: 0
   total: 5
