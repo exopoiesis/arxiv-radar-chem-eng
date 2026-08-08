@@ -12,7 +12,7 @@
   total: 152
   group: energy
 - name: large-language-models
-  count: 6
+  count: 5
   total: 114
   group: architectures
 - name: generative-models
@@ -31,18 +31,10 @@
   count: 3
   total: 57
   group: methods
-- name: chemical-engineering
-  count: 3
-  total: 120
-  group: domain
 - name: digital-twin
   count: 3
   total: 51
   group: monitoring
-- name: materials-discovery
-  count: 3
-  total: 45
-  group: materials
 - name: surrogate-modeling
   count: 3
   total: 91
@@ -59,6 +51,10 @@
   count: 2
   total: 34
   group: reactions
+- name: chemical-engineering
+  count: 2
+  total: 120
+  group: domain
 - name: electrochemical-systems
   count: 2
   total: 66
@@ -71,14 +67,14 @@
   count: 2
   total: 20
   group: methods
+- name: materials-discovery
+  count: 2
+  total: 45
+  group: materials
 - name: molecular-dynamics
   count: 2
   total: 70
   group: materials
-- name: physics-informed-ml
-  count: 2
-  total: 47
-  group: methods
 - name: ammonia-synthesis
   count: 1
   total: 5
@@ -147,6 +143,10 @@
   count: 1
   total: 39
   group: control
+- name: physics-informed-ml
+  count: 1
+  total: 47
+  group: methods
 - name: process-control
   count: 1
   total: 48
@@ -163,10 +163,6 @@
   count: 1
   total: 14
   group: modeling
-- name: turbulence-modeling
-  count: 1
-  total: 13
-  group: fluids
 - name: uncertainty-quantification
   count: 1
   total: 56
@@ -367,6 +363,10 @@
   count: 0
   total: 11
   group: transport
+- name: turbulence-modeling
+  count: 0
+  total: 13
+  group: fluids
 - name: zeolites
   count: 0
   total: 5
