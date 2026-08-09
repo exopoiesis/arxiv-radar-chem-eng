@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11712.html">CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="catalyst-design-30d.html">catalyst-design</a> · <a href="generative-models-30d.html">generative-models</a> · <a href="heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a></div></td>
 <td>Jungho Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11712">2607.11712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="co2-electroreduction-30d.html">co2-electroreduction</a> · <a href="co2-reduction-30d.html">co2-reduction</a> · <a href="electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Sutanay Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
 </tr>
 </tbody></table>
