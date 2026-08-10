@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>experimental-design — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="experimental-design-7d.html">7d</a> <a href="experimental-design-30d.html">30d</a> <a href="experimental-design-90d.html">90d</a> <strong>360d</strong> <a href="experimental-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20649.html">Physics-Constrained Machine Learning for Chemical Engineering</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
 <td>Angan Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20649">2508.20649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10970.html">Holistic Bioprocess Development Across Scales Using Multi-Fidelity Batch Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gaussian-process-360d.html">gaussian-process</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
-<td>Adrian Martens et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10970">2508.10970</a></td>
 </tr>
 </tbody></table>

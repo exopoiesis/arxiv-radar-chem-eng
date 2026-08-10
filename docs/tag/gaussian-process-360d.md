@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gaussian-process — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <a href="gaussian-process-90d.html">90d</a> <strong>360d</strong> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00514.html">Adaptive CUSUM Chart for Simultaneous Monitoring of Mean and Variance</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
 <td>Gokul Parakulum et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00514">2509.00514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10970.html">Holistic Bioprocess Development Across Scales Using Multi-Fidelity Batch Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="experimental-design-360d.html">experimental-design</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
-<td>Adrian Martens et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10970">2508.10970</a></td>
 </tr>
 </tbody></table>
