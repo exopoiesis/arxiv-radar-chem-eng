@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>porous-materials — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="porous-materials-7d.html">7d</a> <a href="porous-materials-30d.html">30d</a> <a href="porous-materials-90d.html">90d</a> <strong>360d</strong> <a href="porous-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18573.html">Interaction Topological Transformer for Multiscale Learning in Porous Materials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="separations-360d.html">separations</a></div></td>
 <td>Dong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18573">2509.18573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11967.html">Persistence is All You Need -- A Topological Lens on Microstructural Characterization</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
-<td>Maksym Szemer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11967">2508.11967</a></td>
 </tr>
 </tbody></table>

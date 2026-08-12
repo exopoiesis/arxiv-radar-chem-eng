@@ -11,13 +11,13 @@
   count: 5
   total: 130
   group: materials
-- name: large-language-models
-  count: 5
-  total: 114
-  group: architectures
 - name: generative-models
   count: 4
   total: 31
+  group: architectures
+- name: large-language-models
+  count: 4
+  total: 114
   group: architectures
 - name: adsorption
   count: 3
@@ -95,10 +95,6 @@
   count: 1
   total: 44
   group: energy
-- name: gas-separation
-  count: 1
-  total: 8
-  group: separations
 - name: gaussian-process
   count: 1
   total: 56
@@ -115,10 +111,6 @@
   count: 1
   total: 16
   group: reactions
-- name: metal-organic-frameworks
-  count: 1
-  total: 31
-  group: separations
 - name: mpc
   count: 1
   total: 74
@@ -207,6 +199,10 @@
   count: 0
   total: 5
   group: reactions
+- name: gas-separation
+  count: 0
+  total: 8
+  group: separations
 - name: hydrogen-evolution
   count: 0
   total: 16
@@ -238,6 +234,10 @@
 - name: membrane-separation
   count: 0
   total: 5
+  group: separations
+- name: metal-organic-frameworks
+  count: 0
+  total: 31
   group: separations
 - name: microkinetic-modeling
   count: 0

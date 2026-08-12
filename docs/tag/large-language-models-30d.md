@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>large-language-models — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <strong>30d</strong> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="energy-storage-30d.html">energy-storage</a> · <a href="mpc-30d.html">mpc</a></div></td>
 <td>Takumi Shioda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10559.html">Large language model agents accelerate inverse design of metal-organic frameworks for gas separation</a></div><div class="paper-tags"><a href="gas-separation-30d.html">gas-separation</a> · <a href="metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
-<td>Zhaolin Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10559">2607.10559</a></td>
 </tr>
 </tbody></table>
