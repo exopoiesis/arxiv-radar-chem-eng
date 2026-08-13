@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21471.html">LUMIR: an LLM-Driven Unified Agent Framework for Multi-task Infrared Spectroscopy Reasoning</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Zujie Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21471">2507.21471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12428.html">A One-Class Explainable AI Framework for Identification of Non-Stationary Concurrent False Data Injections in Nuclear Reactor Signals</a></div></td>
-<td>Zachery Dahm et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12428">2508.12428</a></td>
 </tr>
 </tbody></table>

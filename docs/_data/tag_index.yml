@@ -3,30 +3,18 @@
   count: 6
   total: 152
   group: energy
-- name: catalysis
-  count: 5
-  total: 158
-  group: reactions
 - name: dft
   count: 5
   total: 130
   group: materials
-- name: generative-models
+- name: catalysis
   count: 4
-  total: 31
-  group: architectures
+  total: 158
+  group: reactions
 - name: large-language-models
   count: 4
   total: 114
   group: architectures
-- name: adsorption
-  count: 3
-  total: 87
-  group: separations
-- name: adsorption-energy
-  count: 3
-  total: 26
-  group: reactions
 - name: bayesian-inference
   count: 3
   total: 57
@@ -35,18 +23,26 @@
   count: 3
   total: 51
   group: monitoring
+- name: generative-models
+  count: 3
+  total: 31
+  group: architectures
 - name: surrogate-modeling
   count: 3
   total: 91
   group: modeling
+- name: adsorption
+  count: 2
+  total: 87
+  group: separations
+- name: adsorption-energy
+  count: 2
+  total: 26
+  group: reactions
 - name: carbon-capture
   count: 2
   total: 48
   group: energy
-- name: catalyst-design
-  count: 2
-  total: 34
-  group: reactions
 - name: chemical-engineering
   count: 2
   total: 120
@@ -75,6 +71,10 @@
   count: 1
   total: 30
   group: energy
+- name: catalyst-design
+  count: 1
+  total: 34
+  group: reactions
 - name: cfd
   count: 1
   total: 89
@@ -107,10 +107,6 @@
   count: 1
   total: 43
   group: transport
-- name: heterogeneous-catalysis
-  count: 1
-  total: 16
-  group: reactions
 - name: mpc
   count: 1
   total: 74
@@ -135,9 +131,17 @@
   count: 1
   total: 4
   group: reactions
+- name: reaction-kinetics
+  count: 1
+  total: 21
+  group: reactions
 - name: reduced-order-modeling
   count: 1
   total: 14
+  group: modeling
+- name: system-identification
+  count: 1
+  total: 29
   group: modeling
 - name: uncertainty-quantification
   count: 1
@@ -203,6 +207,10 @@
   count: 0
   total: 8
   group: separations
+- name: heterogeneous-catalysis
+  count: 0
+  total: 16
+  group: reactions
 - name: hydrogen-evolution
   count: 0
   total: 16
@@ -303,10 +311,6 @@
   count: 0
   total: 17
   group: domain
-- name: reaction-kinetics
-  count: 0
-  total: 20
-  group: reactions
 - name: reaction-network-modeling
   count: 0
   total: 0
@@ -343,10 +347,6 @@
   count: 0
   total: 0
   group: separations
-- name: system-identification
-  count: 0
-  total: 28
-  group: modeling
 - name: techno-economic-analysis
   count: 0
   total: 3

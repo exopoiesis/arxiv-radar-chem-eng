@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-08-12._
+_Updated 2026-08-13._
 
-**1210** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1211** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05081.html">Nonparametric Estimation under General Nonlinear ODE Constraints: A Comparison with Parametric ODE-Fitting Methods</a></div><div class="paper-tags"><a href="tag/reaction-kinetics-30d.html">reaction-kinetics</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
+<td>Chunlei Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05081">2608.05081</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26594.html">A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-08-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
 <td>Xingyu Dang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Takumi Shioda et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
 </tr>
 </tbody></table>
