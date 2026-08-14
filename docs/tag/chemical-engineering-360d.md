@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>
+<td>Haicheng Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06697">2608.06697</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26594.html">A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Zhoupeng Shou et al.</td>
@@ -386,11 +392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08124.html">Physics-Informed Neural Networks with Hard Nonlinear Equality and Inequality Constraints</a></div><div class="paper-tags"><a href="physics-informed-ml-360d.html">physics-informed-ml</a> · <a href="process-modeling-360d.html">process-modeling</a> · <a href="process-simulation-360d.html">process-simulation</a></div></td>
 <td>Ashfaq Iftakher et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08124">2507.08124</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24584.html">AutoChemSchematic AI: Agentic Physics-Aware Automation for Chemical Manufacturing Scale-Up</a></div></td>
-<td>Sakhinana Sagar Srinivas et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24584">2505.24584</a></td>
 </tr>
 </tbody></table>

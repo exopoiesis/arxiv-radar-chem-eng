@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-08-13._
+_Updated 2026-08-14._
 
-**1211** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1214** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,28 @@ _Updated 2026-08-13._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
+<td>Haicheng Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06697">2608.06697</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-isotherms-30d.html">adsorption-isotherms</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Rahul Soni et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05603">2608.05603</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05081.html">Nonparametric Estimation under General Nonlinear ODE Constraints: A Comparison with Parametric ODE-Fitting Methods</a></div><div class="paper-tags"><a href="tag/reaction-kinetics-30d.html">reaction-kinetics</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
 <td>Chunlei Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05081">2608.05081</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03760.html">Guided Synthesis of EMT Zeolites by Machine Learning</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/zeolites-30d.html">zeolites</a></div></td>
+<td>Emmanuel A. Olanrewaju et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03760">2608.03760</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-29</td>
@@ -175,23 +193,5 @@ _Updated 2026-08-13._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14089.html">Sail membranes for optomechanical accelerometry</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Atkin D. Hyatt et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14089">2607.14089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Sarina Kopf et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12570.html">Deep Learning-based Surrogate Modelling of the LOD Method for Multiscale Problems</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
-<td>Marc Haltmayer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12570">2607.12570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Xingyu Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
 </tr>
 </tbody></table>

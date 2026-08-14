@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>transport-phenomena — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="transport-phenomena-7d.html">7d</a> <a href="transport-phenomena-30d.html">30d</a> <a href="transport-phenomena-90d.html">90d</a> <strong>360d</strong> <a href="transport-phenomena-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03259.html">Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems</a></div><div class="paper-tags"><a href="physics-informed-ml-360d.html">physics-informed-ml</a></div></td>
 <td>Süleyman Cengizci et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03259">2603.03259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12762.html">TURB-Scalar. A large database of passive scalar fields advected by 2D Navier-Stokes in the turbulent inverse cascade regime</a></div><div class="paper-tags"><a href="process-modeling-360d.html">process-modeling</a></div></td>
-<td>Chiara Calascibetta et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12762">2508.12762</a></td>
 </tr>
 </tbody></table>

@@ -1,4 +1,34 @@
 {
+ "2608.03760": {
+  "abstract": "Zeolites are microporous crystalline materials with diverse frameworks, widely used in industrial applications such as petroleum refining and molecular separation. Unlike most zeolites, EMT can be synthesized under mild conditions (at low temperatures and without the use of organic structure-directing agents), making it attractive for cost-effective and environmentally sustainable production. However, the specific synthesis conditions that selectively produce EMT rather than similar frameworks like FAU are not yet well established. In this work, we develop machine learning (ML) models to guide the discovery of synthesis conditions for EMT zeolites. Our dataset comprises 174 experimental synthesis attempts, recording reaction time, temperature, silica and alumina sources, Si/Al stoichiometric ratio, and other synthesis parameters. We apply both classical ML methods and pretrained foundation models to predict zeolite framework outcomes from these synthesis parameters. Feature importance analysis identifies critical parameters for EMT formation, validating known synthesis principles. Leveraging the ML models, we explore the synthesis space and identify six promising new conditions for EMT formation. Experimental validation confirms EMT crystallization in five cases, including two with Si/Al stoichiometric ratios outside the training dataset's range. Evaluation on independent literature-reported synthesis conditions further demonstrates the generalizability of the model. This work demonstrates a data-driven approach to accelerating zeolite synthesis, closing the loop between ML prediction and experimental validation.",
+  "authors": [
+   "Emmanuel A. Olanrewaju",
+   "Santosh Adhikari",
+   "Zhiyin Niu",
+   "Michael Nikolaou",
+   "Jeremy C. Palmer",
+   "Jeffrey D. Rimer",
+   "Mingjian Wen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Emmanuel A. Olanrewaju",
+  "pdf_url": "http://arxiv.org/pdf/2608.03760",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-04",
+  "tags": [
+   "crystallization",
+   "large-language-models",
+   "zeolites"
+  ],
+  "title": "Guided Synthesis of EMT Zeolites by Machine Learning",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-08-04"
+ },
  "2608.05081": {
   "abstract": "Many physical, biological, and epidemiological processes are governed by ordinary differential equations (ODEs) that are nonlinear in the state variable, including logistic population growth, chemical reaction kinetics, and epidemiological compartment models. We develop a differential equation-constrained local polynomial regression (DE-constrained LPR) framework for the general first-order ODE constraint g'(x) = F(x, g(x)), where F may be any Lipschitz continuous function, extending prior work restricted to exponential and linear ODE structures. Because F is generally nonlinear in g, the Taylor coefficients of the DE1-k estimator cannot be written in closed form; instead they are obtained by successive symbolic differentiation of F, and the estimator is computed by nonlinear least squares, requiring only a single local parameter at each evaluation point regardless of polynomial degree k. We derive the asymptotic conditional bias and variance of the DE1-k estimator, propose an AIMSE-optimal bandwidth that exploits the ODE structure to avoid direct estimation of high-order derivatives, and evaluate the method in a simulation study based on logistic growth, benchmarking against the parameter cascading method of Ramsay et al. (2007) (PCODE) and classical local linear regression. The DE-constrained estimator consistently outperforms local linear regression and is competitive with PCODE even though it estimates no structural parameter of the ODE; a sensitivity analysis across growth rates shows DE-constrained estimation becomes more accurate and more robust than PCODE as the curve steepens and PCODE's parameter estimation grows less stable. These results position DE-constrained LPR as a practical nonparametric alternative to parametric ODE-fitting methods when structural parameters are difficult to identify reliably.",
   "authors": [
@@ -22,5 +52,65 @@
    "Reaction Engineering & Kinetics"
   ],
   "updated": "2026-08-05"
+ },
+ "2608.05603": {
+  "abstract": "Atomic-scale modification of mesopore interfaces provides a route to tune the confinement experienced by adsorbed fluids, but how a specific interface preparation translates into the resulting microscopic confinement potential remains unclear. Here, we show that preplating MCM-41 with an argon monolayer modifies the effective pore interface by occupying strongly attractive regions of the heterogeneous silica surface and screening its atomic-scale corrugation. Grand-canonical Monte Carlo simulations of argon adsorption, low-temperature molecular dynamics, and helium test-particle insertion are combined with adsorption isotherms and neutron-scattering measurements to characterize the preplated pore at the atomic scale. Helium test-particle insertion calculations show that the modified interface shifts the helium adsorption minimum to an annular region inside the pore and produces a confinement landscape dominated by a smooth radial component. The resulting radial confinement potential can be described by a continuum cylindrical model, providing microscopic support for the effective potential used in earlier quantum Monte Carlo studies. Residual corrugation persists over multiple spatial scales and is accurately captured by a Gaussian process surrogate. These results demonstrate how atomic preplating can tailor nanopore confinement and provide an experimentally constrained microscopic potential for predictive studies of confined quantum fluids.",
+  "authors": [
+   "Rahul Soni",
+   "Nathan S. Nichols",
+   "Sutirtha Paul",
+   "Garfield Warren",
+   "Paul Sokol",
+   "Adrian Del Maestro"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "13 pages, 14 figures",
+  "first_author": "Rahul Soni",
+  "pdf_url": "http://arxiv.org/pdf/2608.05603",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-06",
+  "tags": [
+   "adsorption",
+   "adsorption-isotherms",
+   "gaussian-process",
+   "molecular-dynamics"
+  ],
+  "title": "Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06697": {
+  "abstract": "The viscosity and density of organic mixtures are essential properties for designing lubricants, solvents, and heat transfer fluids. In engineering practice, formulating a functional fluid requires understanding how these properties change with composition and temperature. However, exhaustive experimental characterization across the full parameter space is impractical due to the vast number of possible species and combinations. Here we introduce a mixture-aware 3D molecular representation learning strategy, built upon a pre-trained molecular encoder, that jointly encodes component structures, mole fractions, and temperature to achieve accurate predictions for organic mixtures. Fine-tuning on publicly available datasets covering a wide range of binary organic mixtures yields test-set R2 values of 0.973 for dynamic viscosity and 0.996 for density, significantly outperforming traditional machine learning baselines. Beyond this overall accuracy, the model captures non-monotonic viscosity changes upon mixing, surpassing simple linear or logarithmic mixing rules. The architecture is extendable to ternary and multicomponent mixtures, as verified via preliminary experiments. Using this model, we quantitatively analyze how molecular structure-branching, cycloalkane, and aromatic rings-affects viscosity-temperature behavior, which benefits the design of lubricants with superior viscosity-temperature performance. Altogether, this work provides a practical, data-driven tool for mixture property prediction, accelerating the rational formulation of functional fluids in chemical engineering.",
+  "authors": [
+   "Haicheng Qu",
+   "Yanyi Su",
+   "Ning Wang",
+   "Shangqian Chen",
+   "Zhifeng Gao",
+   "Jun Cheng",
+   "Qi Ou"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Haicheng Qu",
+  "pdf_url": "http://arxiv.org/pdf/2608.06697",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-07",
+  "tags": [
+   "chemical-engineering",
+   "heat-transfer"
+  ],
+  "title": "3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-08-07"
  }
 }
