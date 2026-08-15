@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>heterogeneous-catalysis — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="heterogeneous-catalysis-7d.html">7d</a> <a href="heterogeneous-catalysis-30d.html">30d</a> <a href="heterogeneous-catalysis-90d.html">90d</a> <strong>360d</strong> <a href="heterogeneous-catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05120.html">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
+<td>Roberto Aliaga Medina et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05120">2608.05120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11712.html">CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="generative-models-360d.html">generative-models</a></div></td>

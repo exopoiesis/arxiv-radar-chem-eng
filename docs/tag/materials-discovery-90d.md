@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Alexandros Ntagiantas et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04651">2608.04651</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="co2-electroreduction-90d.html">co2-electroreduction</a> · <a href="co2-reduction-90d.html">co2-reduction</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a></div></td>
 <td>Sutanay Choudhury et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18033.html">Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Chih-Yu Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18033">2605.18033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17147.html">Spatial statistics for screening molecular structures</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="dft-90d.html">dft</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Pranoy Ray et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17147">2605.17147</a></td>
 </tr>
 </tbody></table>

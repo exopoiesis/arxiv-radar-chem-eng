@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07273.html">Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics</a></div><div class="paper-tags"><a href="economic-mpc-30d.html">economic-mpc</a> · <a href="energy-systems-30d.html">energy-systems</a> · <a href="mpc-30d.html">mpc</a></div></td>
+<td>Azzam Abdul et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07273">2608.07273</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24075.html">Data-Driven Sequential Market Optimization for Front-of-the-Meter Battery Energy Storage Systems</a></div></td>
 <td>Steffen Kortmann et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19667.html">A Human-AI Teaming Framework for Deep Reinforcement Learning-Based Voltage Regulation in Distribution Networks</a></div></td>
 <td>Mahmuda Akter et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19667">2607.19667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13709.html">Predicting BESS Degradation with Uncertainty Quantification: A Probabilistic Framework for Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="energy-systems-30d.html">energy-systems</a></div></td>
-<td>Melina Graner et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13709">2607.13709</a></td>
 </tr>
 </tbody></table>

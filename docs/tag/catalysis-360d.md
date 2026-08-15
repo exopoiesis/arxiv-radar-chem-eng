@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11062.html">Accelerated Discovery of Materials with Extreme Work Functions through Uncertainty-Aware Multi-Fidelity Screening</a></div></td>
+<td>Jun Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11062">2608.11062</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05120.html">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
+<td>Roberto Aliaga Medina et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05120">2608.05120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a> · <a href="dft-360d.html">dft</a> · <a href="generative-models-360d.html">generative-models</a></div></td>
@@ -554,11 +566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16012.html">FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a></div></td>
 <td>Circe Hsu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16012">2508.16012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13790.html">Large-scale cooperative sulfur vacancy dynamics in two-dimensional MoS2 from machine learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Aaron Flötotto et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13790">2508.13790</a></td>
 </tr>
 </tbody></table>

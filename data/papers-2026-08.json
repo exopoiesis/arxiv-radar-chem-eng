@@ -1,4 +1,60 @@
 {
+ "2608.02360": {
+  "abstract": "Airborne pollen transport is a key concern for urban air-quality assessment, allergy-risk forecasting, and smart-city planning. However, conventional dispersion models generally assume smooth spherical particles, neglecting how pollen dehydration alters particle morphology and impacts aerodynamic and thermal behavior. To address this gap, this study presents, for the first time, advanced CFD simulations evaluating the aerodynamic drag forces and convective heat transfer of realistically dehydrated (dry) pollen particles. Investigations are conducted at Reynolds numbers ($0.1 \\leq Re_p \\leq 15$) at the particle's scale corresponding to realistic atmospheric wind speeds ranging from 0.27 to 30 km/h. The findings reveal that dry pollen particles exhibit drag coefficients 8% to 15% higher than those predicted for hydrated pollen spherical particles. Conversely, their Nusselt numbers are 5% to 15% lower than those for hydrated pollen particles. These considerable deviations confirm that conventional spherical correlations are inadequate for simulating dry pollen Lagrangian transport and evaporation. These findings highlight the need to account for realistic dehydrated shapes when modeling airborne allergen transport in urban environments.",
+  "authors": [
+   "Omar Hamad",
+   "Samer Ali",
+   "Mahmoud Khaled",
+   "Talib Dbouk"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Omar Hamad",
+  "pdf_url": "http://arxiv.org/pdf/2608.02360",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-03",
+  "tags": [
+   "cfd",
+   "heat-transfer"
+  ],
+  "title": "Aerodynamic Drag and Heat Transfer Corrections for Dehydrated Pollen Particles: CFD-Based Modeling of Airborne Allergen Transport in Smart Urban Environments",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.02599": {
+  "abstract": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes. Motivated by a community survey of researchers and practitioners, which shows 92% report at least one barrier before running an AI model and 94% want a power-specific hands-on course. This paper presents a framework consisting of open, executable module library that lowers the entry barrier for AI in power systems. The modules follow a progressive difficulty ladder that maps core AI concepts onto representative power-system tasks: (i) foundational deep neural network (DNN) templates for function approximation and load-curve fitting; (ii) a domain-coupled convolutional neural network (CNN) power-flow surrogate for a 5-bus system; and (iii) frontier modules on DNN-assisted optimization, deep reinforcement learning (DRL) for battery storage control, and physics-informed neural networks (PINNs) for the swing equation. All modules are released as Jupyter notebooks that run locally or on Google Colab and are delivered through an IEEE online course and IEEE Power & Energy Society (PES) webinar series. The webinar drew more than 590 live attendees, which is among the ten most-attended IEEE PES webinars, and over 344 repository visits within two weeks, reinforcing the survey-based motivation.",
+  "authors": [
+   "Junjie Yin",
+   "Buxin She",
+   "Xinyu Feng",
+   " Fangxing",
+   " Li"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI"
+  ],
+  "comment": "10 pages, 10 figures, 3 tables",
+  "first_author": "Junjie Yin",
+  "pdf_url": "http://arxiv.org/pdf/2608.02599",
+  "primary_category": "eess.SY",
+  "published": "2026-08-03",
+  "tags": [
+   "energy-systems",
+   "large-language-models",
+   "physics-informed-ml"
+  ],
+  "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-08-03"
+ },
  "2608.03760": {
   "abstract": "Zeolites are microporous crystalline materials with diverse frameworks, widely used in industrial applications such as petroleum refining and molecular separation. Unlike most zeolites, EMT can be synthesized under mild conditions (at low temperatures and without the use of organic structure-directing agents), making it attractive for cost-effective and environmentally sustainable production. However, the specific synthesis conditions that selectively produce EMT rather than similar frameworks like FAU are not yet well established. In this work, we develop machine learning (ML) models to guide the discovery of synthesis conditions for EMT zeolites. Our dataset comprises 174 experimental synthesis attempts, recording reaction time, temperature, silica and alumina sources, Si/Al stoichiometric ratio, and other synthesis parameters. We apply both classical ML methods and pretrained foundation models to predict zeolite framework outcomes from these synthesis parameters. Feature importance analysis identifies critical parameters for EMT formation, validating known synthesis principles. Leveraging the ML models, we explore the synthesis space and identify six promising new conditions for EMT formation. Experimental validation confirms EMT crystallization in five cases, including two with Si/Al stoichiometric ratios outside the training dataset's range. Evaluation on independent literature-reported synthesis conditions further demonstrates the generalizability of the model. This work demonstrates a data-driven approach to accelerating zeolite synthesis, closing the loop between ML prediction and experimental validation.",
   "authors": [
@@ -29,6 +85,34 @@
   ],
   "updated": "2026-08-04"
  },
+ "2608.04651": {
+  "abstract": "Advanced materials discovery increasingly relies on machine learning and Bayesian optimization to explore large discrete design spaces under limited evaluation budgets. However, conventional Bayesian optimization (BO) can become inefficient as candidate spaces grow, often evaluating low-value regions before reaching informative areas. We propose an active-learning (AL)-guided adaptive search-space refinement framework combined with multi-objective BO to accelerate materials optimization while preserving Pareto-relevant regions. We evaluate the approach on CH4/N2 separation in covalent-organic frameworks and pressure-vessel design with material-direction stress components and thickness objectives. Results show that the AL-guided refinement reduces the candidate space by approximately half while preserving more than 99 percent of the original hypervolume. The reduced-space strategy improves early convergence and cumulative Pareto-front discovery from the BO, demonstrating efficient large-scale materials optimization across constrained autonomous materials discovery settings.",
+  "authors": [
+   "Alexandros Ntagiantas",
+   "Panagiotis Tsilimidos",
+   "George Giannakopoulos",
+   "Christoforos Rekatsinas",
+   "Panagiotis Krokidas"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Alexandros Ntagiantas",
+  "pdf_url": "http://arxiv.org/pdf/2608.04651",
+  "primary_category": "cs.LG",
+  "published": "2026-08-05",
+  "tags": [
+   "bayesian-inference",
+   "materials-discovery"
+  ],
+  "title": "Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-08-05"
+ },
  "2608.05081": {
   "abstract": "Many physical, biological, and epidemiological processes are governed by ordinary differential equations (ODEs) that are nonlinear in the state variable, including logistic population growth, chemical reaction kinetics, and epidemiological compartment models. We develop a differential equation-constrained local polynomial regression (DE-constrained LPR) framework for the general first-order ODE constraint g'(x) = F(x, g(x)), where F may be any Lipschitz continuous function, extending prior work restricted to exponential and linear ODE structures. Because F is generally nonlinear in g, the Taylor coefficients of the DE1-k estimator cannot be written in closed form; instead they are obtained by successive symbolic differentiation of F, and the estimator is computed by nonlinear least squares, requiring only a single local parameter at each evaluation point regardless of polynomial degree k. We derive the asymptotic conditional bias and variance of the DE1-k estimator, propose an AIMSE-optimal bandwidth that exploits the ODE structure to avoid direct estimation of high-order derivatives, and evaluate the method in a simulation study based on logistic growth, benchmarking against the parameter cascading method of Ramsay et al. (2007) (PCODE) and classical local linear regression. The DE-constrained estimator consistently outperforms local linear regression and is competitive with PCODE even though it estimates no structural parameter of the ODE; a sensitivity analysis across growth rates shows DE-constrained estimation becomes more accurate and more robust than PCODE as the curve steepens and PCODE's parameter estimation grows less stable. These results position DE-constrained LPR as a practical nonparametric alternative to parametric ODE-fitting methods when structural parameters are difficult to identify reliably.",
   "authors": [
@@ -50,6 +134,36 @@
   "title": "Nonparametric Estimation under General Nonlinear ODE Constraints: A Comparison with Parametric ODE-Fitting Methods",
   "topics": [
    "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.05120": {
+  "abstract": "Kinetic model discovery is a central challenge in chemical engineering, as accurate rate expressions are essential for understanding and controlling chemical and biological processes. Symbolic regression (SR) has emerged as a powerful data-driven approach for identifying interpretable kinetic models, but usually operates without domain knowledge, often exploring physicochemically implausible models. Large language models (LLMs) offer a promising avenue for injecting domain expertise into this search. Here, we introduce an LLM-guided SR framework, embedding an LLM module within an iterative SR algorithm for automated kinetic model discovery. The LLM performs two roles at each iteration: (1) a qualitative physicochemical critique of the best SR candidates, and (2) the proposal of new candidate rate expressions guided by the SR-generated models and embedded chemical knowledge. Our framework is evaluated on four in silico case studies of increasing complexity, spanning heterogeneous catalysis and bioprocess systems. Results show the LLM-guided framework reduces iterations to identify the ground-truth model by $41.7-79.3\\%$ versus a state-of-the-art SR framework, with the LLM directly proposing the correct model structure in over half of the guided runs. In practical settings, where each iteration typically requires a new wet-lab experiment, this translates into a substantial reduction in experimental effort. Predictive performance on an independent validation set is equivalent between both approaches, with $R^2>0.98$ in all case studies. Ablation studies indicate that both the SR component and the LLM scale contribute to this performance, with a reduced-size LLM largely retaining discovery efficiency. These findings demonstrate that LLMs can effectively inject domain knowledge into scientific model discovery, paving the way toward fully automated, domain-aware kinetic modelling pipelines.",
+  "authors": [
+   "Roberto Aliaga Medina",
+   "Paulina Quintanilla",
+   "Antonio del Rio Chanona"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE",
+   "cs.SC"
+  ],
+  "comment": null,
+  "first_author": "Roberto Aliaga Medina",
+  "pdf_url": "http://arxiv.org/pdf/2608.05120",
+  "primary_category": "cs.LG",
+  "published": "2026-08-05",
+  "tags": [
+   "catalysis",
+   "chemical-engineering",
+   "heterogeneous-catalysis",
+   "large-language-models",
+   "reaction-kinetics"
+  ],
+  "title": "DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2026-08-05"
  },
@@ -80,7 +194,58 @@
   ],
   "title": "Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores",
   "topics": [
+   "Catalysis & Materials for Chemical Engineering",
    "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06321": {
+  "abstract": "Transcranial focused ultrasound is a non-invasive neuromodulation modality with millimetre-scale resolution, but its biophysical mechanism of action remains unresolved. Exposure is conventionally specified by transducer surface or derated focal pressure, quantities only indirectly related to what matters for therapy: which neurons fire and through which pathway. We address this gap with an end-to-end computational framework that maps a transcranial acoustic field to per-voxel neural firing maps registered to anatomy. The pipeline couples heterogeneous nonlinear full-wave acoustic propagation, viscoelastic shear-wave propagation, Pennes bioheat diffusion, a bilayer-mechanics conversion from tissue strain to membrane tension, and a multi-compartment Hodgkin-Huxley neuron carrying mechanosensitive, cavitation-coupled, calcium-coupled, thermosensitive, astrocytic-gliotransmitter, and mechanosensitive-synaptic pathways. Six candidate mechanisms are implemented as interchangeable components on a shared neuron model, so their firing predictions can be compared directly on the same field, and every numerical parameter is classified by source and bracketed by sensitivity analysis. We demonstrate the framework on a theta-burst sonication delivered through a micro-CT human-skull specimen targeting the left dorsal anterior cingulate cortex, predicting a focal firing zone of approximately 8,500 mm^3 at a focal thermal rise well within ITRUSST consensus safety envelopes. The principal output is a per-voxel firing-volume map resolved jointly with the acoustic, elastic, and thermal field histories that drive it, giving spatially resolved, falsifiable predictions that are testable against high-density extracellular recordings and support parameter estimation, cell-type-resolved mechanism identification, and quantitative safety assessment for ultrasound neuromodulation.",
+  "authors": [
+   "Gianmarco Pinton"
+  ],
+  "categories": [
+   "physics.med-ph"
+  ],
+  "comment": null,
+  "first_author": "Gianmarco Pinton",
+  "pdf_url": "http://arxiv.org/pdf/2608.06321",
+  "primary_category": "physics.med-ph",
+  "published": "2026-08-06",
+  "tags": [
+   "system-identification"
+  ],
+  "title": "An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06360": {
+  "abstract": "PyOMES is a Python-based, Open-source Modelling Environment for (bio)chemical process Simulation that aims to simplify the modelling of dynamic (including steady state) processes. This is done in a generalied, modular way to facilitate modelling a broad range of biological, chemical, and biochemical systems under a single modelling framework. PyOMES has been built to be accessible to a broad range of users - ranging from those with little modelling experience, such as experimentalists and students, through to more experienced power-users. Here, an introduction is provided to the PyOMES software including a summary of the design, architecture and vision. Use cases are then provided to demonstrate applicability of PyOMES to a number of (bio)chemical process modelling scenarios. Comparisons of predictions against existing benchmark software (i.e. PHREEQC) demonstrate the robustness of the package. Finally, a summary is provided of future directions for the PyOMES package - highlighting its establishment as a unified modelling framework and its potential for community-driven improvement as future developments.",
+  "authors": [
+   "Ethan Errington",
+   "Tom Vinestock",
+   "Jaewook Lee",
+   "Miao Guo"
+  ],
+  "categories": [
+   "q-bio.QM"
+  ],
+  "comment": "13 pages, 5 Figures",
+  "first_author": "Ethan Errington",
+  "pdf_url": "http://arxiv.org/pdf/2608.06360",
+  "primary_category": "q-bio.QM",
+  "published": "2026-08-06",
+  "tags": [
+   "chemical-engineering",
+   "process-modeling",
+   "process-simulation"
+  ],
+  "title": "PyOMES: an open-source framework for biochemical process modelling",
+  "topics": [
+   "Process Control & Optimization",
+   "Process Modeling & System Identification"
   ],
   "updated": "2026-08-06"
  },
@@ -112,5 +277,167 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2026-08-07"
+ },
+ "2608.07273": {
+  "abstract": "Coupled electrical and thermal infrastructures need controllers that respond to market prices and still solve fast enough to run online. This paper presents a unified Economic Model Predictive Control (EMPC) framework for the coordinated operation of integrated thermal and electrical energy networks. Building on cyclic-terminal EMPC, the proposed approach incorporates hybrid thermal-electrical dynamics, network constraints, and time-varying economic signals within a single mixed-integer state-space representation, jointly optimizing combined heat and power units, large-scale heat pumps, thermal energy storage, batteries, and grid interactions under a convex economic stage cost. Computational tractability is ensured by reduced-order models of district heating networks and DC power flow grids.   The framework is demonstrated on a campus-scale energy system under time-varying prices and demand profiles. A joint sweep of the prediction horizon against the terminal penalty weight shows that the two act as substitutes rather than as independent tuning knobs. Without terminal anchoring, the closed-loop cost approaches the periodic-reference average-performance bound only once the horizon spans several diurnal cycles. With a sufficiently large terminal weight, the bound is attained essentially tightly at every tested horizon, including the shortest one, so the horizon ceases to be a performance-critical parameter and becomes a purely computational one. The result reproduces on a second, independent price week. Beyond the weight at which the soft terminal constraint activates, closed-loop behavior is insensitive to the weight over a wide multi-decade plateau; below activation, cost and storage tracking both degrade markedly. A residual receding-horizon drift of the cost-neutral thermal-storage state is also documented and interpreted.",
+  "authors": [
+   "Azzam Abdul",
+   "Schwenkel Lukas",
+   "Scheurer Leon",
+   "Häbig Pascal",
+   "Hufendiek Kai"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Azzam Abdul",
+  "pdf_url": "http://arxiv.org/pdf/2608.07273",
+  "primary_category": "eess.SY",
+  "published": "2026-08-07",
+  "tags": [
+   "economic-mpc",
+   "energy-storage",
+   "energy-systems",
+   "mpc"
+  ],
+  "title": "Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.08253": {
+  "abstract": "AI agents are becoming shared infrastructure, yet durable memory is commonly assembled from separate retrieval, governance, and operational components. We present SuperLocalMemory 4.0, a governed, local-first memory operating system for AI agents. The system combines dense semantic, BM25 lexical, temporal, Hopfield-associative, and spreading-activation retrieval through reciprocal-rank fusion; a governed learning and behaviour layer; bi-temporal recall; multi-scope personal, shared, and global memory; role-based access control; GDPR-oriented export and verified erasure; audit trails; and a deployment-context EU AI Act checklist.   V4 introduces a reliability spine for its primary write path: generation-fenced admission, a policy registry, verifiable memory transactions with per-projection apply, verify, compensate, and erase owners, and hash-checkable completion manifests. The runtime is available through CLI, MCP, an HTTP daemon, a dashboard, editor integration, and framework adapters, and supports fully local, local-with-on-device-model, and provider-assisted modes.   We evaluate eleven fault-injection and mechanism scenarios, each repeated 200 times. The released evidence bundle reports 2,200 of 2,200 deterministic repetitions upholding their scoped component properties. The governed write envelope measured 3.522 ms at p50 and 5.297 ms at p99, versus 1.835 ms and 2.569 ms for the ungoverned baseline, corresponding to in-process control-plane overheads of 1.687 ms at p50 and 2.728 ms at p99. These are scoped component and mechanism measurements, not an end-to-end multi-process or external retrieval-accuracy benchmark. The paper consolidates prior SuperLocalMemory work on privacy-preserving multi-agent memory, information-geometric retrieval, and the V3.3 Living Brain lifecycle.",
+  "authors": [
+   "Varun Pratap Bhardwaj",
+   "Garima Singh",
+   "Arun Pratap Bhardwaj"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.IR"
+  ],
+  "comment": "35 pages, 17 figures, 4 tables. Zenodo DOI: 10.5281/zenodo.21853302. Code: https://github.com/qualixar/superlocalmemory/releases/tag/v4.0.0",
+  "first_author": "Varun Pratap Bhardwaj",
+  "pdf_url": "http://arxiv.org/pdf/2608.08253",
+  "primary_category": "cs.AI",
+  "published": "2026-08-08",
+  "tags": [
+   "process-control"
+  ],
+  "title": "SuperLocalMemory 4.0: The Governed Memory Operating System for AI Agents",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.10941": {
+  "abstract": "Industrial time-series signals, such as turbine temperature and rotational speed in aero-engines, are essential for monitoring the health and operational status of complex dynamical systems. However, collecting such data is often limited by harsh environments (e.g., high temperature and high pressure) and the high cost of experimental testing. To address this challenge, we introduce PhysDGM, a stepwise physics-embedded diffusion generative model for synthesizing time-series data that are consistent with the underlying physical laws of dynamical systems. PhysDGM embeds physical laws directly into each reverse diffusion step of the generative process, ensuring trajectory-level physical consistency, rather than enforcing constraints only at the final output. A large-scale AI-synthetic dataset (4.4 million samples, 20x scale-up) constructed by PhysDGM demonstrates strong fidelity across 34 datasets spanning turbofan engines, aero-engines, batteries, and chemical processes. After incorporating the synthetic data, the downstream task performance substantially surpassed that using real data alone by 48% for remaining useful life prediction, 15% for health indicator estimation, 22% for state-of-health assessment, and 20% for fault diagnosis. Moreover, it requires 10-20x less training data than existing approaches, substantially reducing the high cost of data collection in dynamical systems. We further demonstrate PhysDGM's potential in identifying early-stage faults in aero-engines by incorporating AI-synthesized data. In summary, PhysDGM provides a solid foundation for generating physically consistent industrial time-series, paving the way for expanding physics-guided AI into diverse data-scarce environments, including both industrial machinery and complex chemical reaction dynamics.",
+  "authors": [
+   "Haiteng Wang",
+   "Yunfei Zhu",
+   "Tao Wang",
+   "Yikang Li",
+   "Jiabao Dong",
+   "Xiaoge Zhang",
+   "Lei Ren"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "27 pages; 5 main figures and 4 extended data figures",
+  "first_author": "Haiteng Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.10941",
+  "primary_category": "cs.LG",
+  "published": "2026-08-11",
+  "tags": [
+   "chemical-engineering",
+   "fault-detection",
+   "generative-models"
+  ],
+  "title": "Physics-informed Diffusion Generative Model for Time-Series Data Synthesis in Dynamic Systems",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11058": {
+  "abstract": "Fast and accurate prediction of energetic-particle transport driven by Alfvén eigenmode (AE) instabilities is essential for integrated modeling workflows used in the design and optimization of burning plasma fusion reactors. In this work, we develop machine-learning-based surrogate models for rapid prediction of energetic beam and alpha-particle transport fluxes, together with predictive uncertainty estimates, for an ITER steady-state scenario. Two complementary surrogate methodologies, Gaussian process (GP) regression and hierarchical neural networks (NNs), are trained using nonlinear FAR3d gyrofluid simulations of energetic-particle transport. A flux-variability analysis demonstrates that the selected plasma-state representation provides a sufficiently unique parameterization of the nonlinear transport response over most of the sampled feature space, thereby justifying the surrogate formulation. Both surrogate models reproduce the nonlinear transport fluxes with high predictive accuracy while reducing the computational cost of transport evaluation by approximately five to six orders of magnitude relative to direct nonlinear FAR3d simulations. Although the two approaches achieve comparable predictive accuracy, they exhibit distinct uncertainty characteristics: the GP provides more consistent global uncertainty estimates, whereas the NN more clearly distinguishes between different transport regimes. This work establishes a proof of concept for developing machine-learning surrogate models of energetic-particle transport that are sufficiently accurate and computationally efficient to be incorporated into future integrated modeling workflows.",
+  "authors": [
+   "Yashika Ghai",
+   "Donald A. Spong",
+   "Jacobo Varela",
+   "Luis Garcia"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Yashika Ghai",
+  "pdf_url": "http://arxiv.org/pdf/2608.11058",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-08-11",
+  "tags": [
+   "gaussian-process",
+   "surrogate-modeling"
+  ],
+  "title": "Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11062": {
+  "abstract": "Work function plays a pivotal role in technologies ranging from energy conversion and electronics to catalysis. In this work, we integrated machine learning (ML) with multi-fidelity screening to develop a data-driven framework for accelerating the discovery of materials with extreme work functions. We augmented a previously published Random Forest (RF) model for work function to include prediction uncertainty calibration and domain of applicability assessment to enhance prediction robustness. By combining the augmented RF model with universal ML interatomic potential simulations and targeted ab initio calculations, we screened 5.5 million compounds from the GNoME and Alexandria databases. This workflow identified 209 surfaces with extreme low work functions below 2.0 eV and 227 surfaces with extreme high work functions above 6.0 eV, corresponding to 136 and 172 unique materials, respectively. The resulting candidates revealed trends consistent with established chemical principles, including the tendency of alkali- and alkaline-earth-terminated surfaces to exhibit low work functions. While it also uncovered less conventional motifs: lanthanide-rich surface terminations were strongly associated with extremely low work functions, whereas surfaces containing metalloids or phosphorus at the top layer were correlated with exceptionally high work functions. This work demonstrates a scalable strategy that leverages ML models and multi-fidelity computational efforts to accelerate the discovery of materials with extreme work functions for advanced electronic, energy-conversion, and catalytic applications.",
+  "authors": [
+   "Jun Meng",
+   "Ryan Jacobs",
+   "Rehan Kapadia",
+   "John Booske"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "20 pages, 8 figures",
+  "first_author": "Jun Meng",
+  "pdf_url": "http://arxiv.org/pdf/2608.11062",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-11",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Accelerated Discovery of Materials with Extreme Work Functions through Uncertainty-Aware Multi-Fidelity Screening",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.13214": {
+  "abstract": "In this work, a three-dimensional computational fluid dynamics model is developed for a vortex-stabilized microwave CO$_2$ plasma reactor operating over the pressure range of 100-400 mbar. The model combines experimentally constrained, emission-based plasma sizes and volumetric heat-source distributions with thermally dominated finite-rate heavy-particle chemistry for a multi-component mixture. Turbulent flow and transport are described using the SST k-omega model. The model reproduces the measured radial gas-temperature profiles in the plasma core and the non-monotonic pressure dependence of CO$_2$ conversion, including a maximum at 150 mbar and a pronounced decrease at 400 mbar. A vortex-driven recirculation region redistributes gas upstream. Turbulent mixing and cooling are strongest near the upper reactor boundary, but their contribution decreases as pressure increases. The pressure dependence of conversion is determined by the competition between CO$_2$ dissociation and CO recombination. CO$_2$ direct dissociation reaction dominates in the high-temperature plasma core, whereas O-assisted conversion reaction contributes near the plasma edges and in the surrounding hot region. At 150 mbar, enhanced CO$_2$ dissociation is accompanied by limited CO loss, resulting in the highest conversion. With pressure increasing to 400 mbar, slower cooling and more frequent three-body collisions promote CO recombination in the afterglow, causing more than 60% of the CO formed near the plasma to be lost downstream. Moreover, additional CO loss occurs in the upper region of the reactor at higher pressures because of the reduced cooling rate.",
+  "authors": [
+   "Qinghao Shen",
+   "Cas van Deursen",
+   "Pieter Willem Groen",
+   "Lex Kuijpers",
+   "Mauritius C. M. van de Sanden"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Qinghao Shen",
+  "pdf_url": "http://arxiv.org/pdf/2608.13214",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-08-13",
+  "tags": [
+   "cfd"
+  ],
+  "title": "Flow-thermochemistry coupling governs pressure-dependent CO$_2$ conversion in vortex-stabilized microwave plasma reactors: Insights from three-dimensional CFD modeling",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-08-13"
  }
 }
