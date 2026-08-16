@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,11 +404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20649.html">Physics-Constrained Machine Learning for Chemical Engineering</a></div><div class="paper-tags"><a href="experimental-design-360d.html">experimental-design</a></div></td>
 <td>Angan Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20649">2508.20649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08124.html">Physics-Informed Neural Networks with Hard Nonlinear Equality and Inequality Constraints</a></div><div class="paper-tags"><a href="physics-informed-ml-360d.html">physics-informed-ml</a> · <a href="process-modeling-360d.html">process-modeling</a> · <a href="process-simulation-360d.html">process-simulation</a></div></td>
-<td>Ashfaq Iftakher et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08124">2507.08124</a></td>
 </tr>
 </tbody></table>

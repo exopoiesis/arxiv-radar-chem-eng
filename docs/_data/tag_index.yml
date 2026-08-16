@@ -11,10 +11,6 @@
   count: 5
   total: 117
   group: architectures
-- name: dft
-  count: 4
-  total: 130
-  group: materials
 - name: energy-storage
   count: 4
   total: 153
@@ -27,6 +23,10 @@
   count: 3
   total: 91
   group: fluids
+- name: dft
+  count: 3
+  total: 130
+  group: materials
 - name: digital-twin
   count: 3
   total: 51
@@ -39,10 +39,6 @@
   count: 3
   total: 58
   group: methods
-- name: heat-transfer
-  count: 3
-  total: 45
-  group: transport
 - name: molecular-dynamics
   count: 3
   total: 71
@@ -59,18 +55,14 @@
   count: 2
   total: 58
   group: methods
-- name: crystallization
-  count: 2
-  total: 20
-  group: separations
-- name: experimental-design
-  count: 2
-  total: 20
-  group: methods
 - name: generative-models
   count: 2
   total: 32
   group: architectures
+- name: heat-transfer
+  count: 2
+  total: 45
+  group: transport
 - name: physics-informed-ml
   count: 2
   total: 48
@@ -87,10 +79,6 @@
   count: 2
   total: 30
   group: modeling
-- name: active-learning
-  count: 1
-  total: 55
-  group: methods
 - name: adsorption-isotherms
   count: 1
   total: 3
@@ -111,6 +99,10 @@
   count: 1
   total: 34
   group: reactions
+- name: crystallization
+  count: 1
+  total: 20
+  group: separations
 - name: distillation
   count: 1
   total: 52
@@ -123,6 +115,10 @@
   count: 1
   total: 66
   group: energy
+- name: experimental-design
+  count: 1
+  total: 20
+  group: methods
 - name: fault-detection
   count: 1
   total: 20
@@ -151,10 +147,6 @@
   count: 1
   total: 13
   group: fluids
-- name: process-intensification
-  count: 1
-  total: 1
-  group: control
 - name: process-modeling
   count: 1
   total: 30
@@ -163,10 +155,6 @@
   count: 1
   total: 8
   group: control
-- name: reaction-engineering
-  count: 1
-  total: 4
-  group: reactions
 - name: reduced-order-modeling
   count: 1
   total: 14
@@ -179,6 +167,10 @@
   count: 1
   total: 6
   group: separations
+- name: active-learning
+  count: 0
+  total: 55
+  group: methods
 - name: active-sites
   count: 0
   total: 13
@@ -307,6 +299,10 @@
   count: 0
   total: 38
   group: control
+- name: process-intensification
+  count: 0
+  total: 1
+  group: control
 - name: process-monitoring
   count: 0
   total: 18
@@ -315,6 +311,10 @@
   count: 0
   total: 17
   group: domain
+- name: reaction-engineering
+  count: 0
+  total: 4
+  group: reactions
 - name: reaction-network-modeling
   count: 0
   total: 0

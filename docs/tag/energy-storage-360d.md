@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13067.html">Integrating Density Functional Theory with Deep Neural Networks for Accurate Voltage Prediction in Alkali-Metal-Ion Battery Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Sk Mujaffar Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2503.13067">2503.13067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14849.html">Physics-Informed ML Exploration of Structure-Transport Relationships in Hard Carbon</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nikhil Rampal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14849">2508.14849</a></td>
 </tr>
 </tbody></table>
