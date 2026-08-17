@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,17 +470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16012.html">FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a></div></td>
 <td>Circe Hsu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16012">2508.16012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13067.html">Integrating Density Functional Theory with Deep Neural Networks for Accurate Voltage Prediction in Alkali-Metal-Ion Battery Materials</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
-<td>Sk Mujaffar Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13067">2503.13067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15572.html">Automated Modeling of Polarons: Defects and Reactivity on TiO$_2$(110) Surfaces</a></div></td>
-<td>Firat Yalcin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15572">2508.15572</a></td>
 </tr>
 </tbody></table>
