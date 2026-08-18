@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>heterogeneous-catalysis — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="heterogeneous-catalysis-7d.html">7d</a> <a href="heterogeneous-catalysis-30d.html">30d</a> <a href="heterogeneous-catalysis-90d.html">90d</a> <strong>360d</strong> <a href="heterogeneous-catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11568.html">Orbital Hybridization-Driven Stabilization and Reactivity on an Asymmetrically Reconstructed Polar CeO2(100) Surface</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Songda Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11568">2509.11568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16012.html">FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
-<td>Circe Hsu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16012">2508.16012</a></td>
 </tr>
 </tbody></table>
