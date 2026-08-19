@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10941.html">Physics-informed Diffusion Generative Model for Time-Series Data Synthesis in Dynamic Systems</a></div><div class="paper-tags"><a href="chemical-engineering-7d.html">chemical-engineering</a> · <a href="generative-models-7d.html">generative-models</a></div></td>
-<td>Haiteng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10941">2608.10941</a></td>
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16759.html">Novel methodology for obtaining design structure matrices using network identification</a></div></td>
+<td>E. M. M. et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16759">2608.16759</a></td>
 </tr>
 </tbody></table>

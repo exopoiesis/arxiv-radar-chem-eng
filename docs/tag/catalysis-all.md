@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="active-sites-all.html">active-sites</a> · <a href="adsorption-all.html">adsorption</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="microkinetic-modeling-all.html">microkinetic-modeling</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
+<td>Songbo Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14445.html">Data-driven modeling of hypersonic flows in chemical non-equilibrium with catalytic surfaces</a></div><div class="paper-tags"><a href="heat-transfer-all.html">heat-transfer</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Konstantinos Sarras et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14445">2608.14445</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11062.html">Accelerated Discovery of Materials with Extreme Work Functions through Uncertainty-Aware Multi-Fidelity Screening</a></div></td>

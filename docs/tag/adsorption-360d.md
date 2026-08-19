@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14990.html">Discovering Physically Interpretable Mathematical Expression for Predicting CO2 Adsorption in Metal-Organic Frameworks via Machine Learning-Symbolic Regression</a></div><div class="paper-tags"><a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Yimin Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14990">2608.14990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="active-sites-360d.html">active-sites</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="microkinetic-modeling-360d.html">microkinetic-modeling</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td>Songbo Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="adsorption-isotherms-360d.html">adsorption-isotherms</a> · <a href="gaussian-process-360d.html">gaussian-process</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fault-detection — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="fault-detection-7d.html">7d</a> <a href="fault-detection-30d.html">30d</a> <a href="fault-detection-90d.html">90d</a> <strong>360d</strong> <a href="fault-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16759.html">Novel methodology for obtaining design structure matrices using network identification</a></div></td>
+<td>E. M. M. et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16759">2608.16759</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10941.html">Physics-informed Diffusion Generative Model for Time-Series Data Synthesis in Dynamic Systems</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="generative-models-360d.html">generative-models</a></div></td>

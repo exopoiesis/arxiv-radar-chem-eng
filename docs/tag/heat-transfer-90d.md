@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14445.html">Data-driven modeling of hypersonic flows in chemical non-equilibrium with catalytic surfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Konstantinos Sarras et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14445">2608.14445</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
 <td>Haicheng Qu et al.</td>
@@ -38,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27722.html">NUCLEUS-MoE: Unified Model of Pool Boiling for Liquid Cooling</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Arthur Feeney et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27722">2605.27722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20631.html">Probing Lattice Dynamics in Real-Space and Real-Time</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
-<td>Navdeep Rana</td>
-<td><a href="http://arxiv.org/abs/2605.20631">2605.20631</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-engineering — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <strong>90d</strong> <a href="chemical-engineering-360d.html">360d</a> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="process-modeling-90d.html">process-modeling</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Fateme Mohammad Mohammadi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10682">2606.10682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20631.html">Probing Lattice Dynamics in Real-Space and Real-Time</a></div><div class="paper-tags"><a href="heat-transfer-90d.html">heat-transfer</a></div></td>
-<td>Navdeep Rana</td>
-<td><a href="http://arxiv.org/abs/2605.20631">2605.20631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21211.html">Reinforcement Learning-based Control via Y-wise Affine Neural Networks: Comparative Case Studies for Chemical Processes</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a> · <a href="process-systems-engineering-90d.html">process-systems-engineering</a></div></td>
-<td>Austin Braniff et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21211">2605.21211</a></td>
 </tr>
 </tbody></table>
