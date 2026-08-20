@@ -5,15 +5,27 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-08-19._
+_Updated 2026-08-20._
 
-**1235** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1237** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/experimental-design-30d.html">experimental-design</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/system-identification-30d.html">system-identification</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Milad Panahi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17591">2608.17591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17806.html">A geometric reformulation of the bilevel parameter optimization problem to a single level non-linear programming problem with applications to phase equilibria</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-design-30d.html">process-design</a> · <a href="tag/separations-30d.html">separations</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
+<td>Stefan C. Endres et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17806">2608.17806</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16432.html">Real-Time Control of Sustainable Data Centers: A Two-Layer Model Predictive Control Framework with Workload Flexibility and Heat Recovery</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-08-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24075.html">Data-Driven Sequential Market Optimization for Front-of-the-Meter Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
 <td>Steffen Kortmann et al.</td>
 <td><a href="http://arxiv.org/abs/2607.24075">2607.24075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24083.html">Learning Reusable Hybrid Motion Priors for Humanoid Locomotion from Motion Imitation</a></div><div class="paper-tags"><a href="tag/distillation-30d.html">distillation</a></div></td>
-<td>Valerio Belli et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24083">2607.24083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/generative-models-30d.html">generative-models</a></div></td>
-<td>Hayoung Doo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24272">2607.24272</a></td>
 </tr>
 </tbody></table>

@@ -688,5 +688,63 @@
    "Process Control & Optimization"
   ],
   "updated": "2026-08-17"
+ },
+ "2608.17591": {
+  "abstract": "We address the inverse problem of reactive transport in heterogeneous porous media, where unknown model parameters must be inferred from sparse experimental observations. The problem is complicated by strong nonlinearities, spatial heterogeneity, and limited data availability. We propose a Conditioned-on-Design Bayesian Physics-Informed Neural Network (CoDe-BPINN), which combines a domain-decomposed PINN solver with a Bayesian inference network that learns the conditional distribution of model parameters given experimental design variables. The framework is trained by maximizing a physics-informed Evidence Lower Bound (ELBO), enabling simultaneous reconstruction of spatiotemporal concentration fields, probabilistic parameter estimation, and uncertainty quantification. We demonstrate the approach using laboratory experiments on contaminant transport through a multilayer porous column with an iodinated contrast medium. The model accurately reproduces breakthrough dynamics while revealing systematic parameter dependence on flow conditions. In particular, it identifies a nonlinear decrease in effective sorption capacity with increasing flow rate and porosity, consistent with kinetic limitations and reduced adsorbent mass. The Bayesian formulation also uncovers a strong negative correlation between sorption affinity and sorption capacity, quantifying the intrinsic non-identifiability of the inverse problem. CoDe-BPINN provides a robust framework for parameter inference and uncertainty quantification in data-scarce reactive transport problems.",
+  "authors": [
+   "Milad Panahi",
+   "Giovanni Michele Porta",
+   "Monica Riva",
+   "Alberto Guadagnini"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "math.PR"
+  ],
+  "comment": "27 pages, 9 figures",
+  "first_author": "Milad Panahi",
+  "pdf_url": "http://arxiv.org/pdf/2608.17591",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-08-18",
+  "tags": [
+   "adsorption",
+   "bayesian-inference",
+   "experimental-design",
+   "physics-informed-ml",
+   "system-identification",
+   "uncertainty-quantification"
+  ],
+  "title": "Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17806": {
+  "abstract": "Phase equilibrium problems are central to chemical engineering, underpinning tasks ranging from separation process design to the development of thermodynamic models. A particularly challenging computational task is the generation of phase envelopes: rigorously fitting thermodynamic models to real world data with well behaved predictions requires solving a computationally expensive bilevel optimization problem. We present a geometric reformulation of this parameter estimation problem that restates the bilevel program as a single level problem that is significantly easier to solve. The solution of the single level problem is proven to be the globally optimal solution of the bilevel problem when specialized global optimization solvers are used. In addition, the method retains the constraints that guarantee a well behaved fitted model, such as enforcing the correct number of phase splits, excluding spurious phases, and ensuring stability in regions of instability. This allows the practitioner to reliably and efficiently fit mathematically complex thermodynamic models to data, and potentially enables highly accurate and rigorous modelling of problems in computational thermodynamics that were previously intractable. Finally, an algorithm is presented that is proven to converge for any black box thermodynamic model. Only an expression of the Gibbs free energy is required, no derivatives are needed, and convergence is guaranteed for the broadest class of non-smooth, non-continuous models.",
+  "authors": [
+   "Stefan C. Endres",
+   "Lutz Mädler"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Stefan C. Endres",
+  "pdf_url": "http://arxiv.org/pdf/2608.17806",
+  "primary_category": "math.OC",
+  "published": "2026-08-18",
+  "tags": [
+   "chemical-engineering",
+   "process-design",
+   "separations",
+   "system-identification"
+  ],
+  "title": "A geometric reformulation of the bilevel parameter optimization problem to a single level non-linear programming problem with applications to phase equilibria",
+  "topics": [
+   "Process Control & Optimization",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-08-18"
  }
 }
