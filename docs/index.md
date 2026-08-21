@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-08-20._
+_Updated 2026-08-21._
 
-**1237** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1238** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18473.html">A Locally Deployable Tool-Grounded LLM Multi-agent Framework for Automating Methane Emission Analysis and Reporting</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
+<td>Yang Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18473">2608.18473</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/experimental-design-30d.html">experimental-design</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/system-identification-30d.html">system-identification</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-08-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22280.html">Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/multiphase-flow-30d.html">multiphase-flow</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Harish Ramachandran et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22280">2607.22280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24075.html">Data-Driven Sequential Market Optimization for Front-of-the-Meter Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
-<td>Steffen Kortmann et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24075">2607.24075</a></td>
 </tr>
 </tbody></table>

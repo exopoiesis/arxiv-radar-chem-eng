@@ -3,14 +3,14 @@
   count: 7
   total: 156
   group: energy
+- name: large-language-models
+  count: 7
+  total: 119
+  group: architectures
 - name: chemical-engineering
   count: 6
   total: 125
   group: domain
-- name: large-language-models
-  count: 6
-  total: 118
-  group: architectures
 - name: catalysis
   count: 5
   total: 162
@@ -23,14 +23,6 @@
   count: 4
   total: 32
   group: modeling
-- name: bayesian-inference
-  count: 3
-  total: 59
-  group: methods
-- name: electrochemical-systems
-  count: 3
-  total: 68
-  group: energy
 - name: gaussian-process
   count: 3
   total: 58
@@ -55,10 +47,18 @@
   count: 2
   total: 31
   group: energy
+- name: bayesian-inference
+  count: 2
+  total: 59
+  group: methods
 - name: cfd
   count: 2
   total: 91
   group: fluids
+- name: electrochemical-systems
+  count: 2
+  total: 68
+  group: energy
 - name: energy-systems
   count: 2
   total: 39
@@ -167,13 +167,13 @@
   count: 1
   total: 8
   group: control
-- name: reduced-order-modeling
-  count: 1
-  total: 14
-  group: modeling
 - name: separations
   count: 1
   total: 65
+  group: separations
+- name: wastewater-treatment
+  count: 1
+  total: 26
   group: separations
 - name: zeolites
   count: 1
@@ -331,6 +331,10 @@
   count: 0
   total: 5
   group: energy
+- name: reduced-order-modeling
+  count: 0
+  total: 14
+  group: modeling
 - name: reinforcement-learning-control
   count: 0
   total: 0
@@ -367,7 +371,3 @@
   count: 0
   total: 13
   group: fluids
-- name: wastewater-treatment
-  count: 0
-  total: 25
-  group: separations
