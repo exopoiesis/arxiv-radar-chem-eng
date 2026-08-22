@@ -7,18 +7,9 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>heat-transfer — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">0 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="heat-transfer-30d.html">30d</a> <a href="heat-transfer-90d.html">90d</a> <a href="heat-transfer-360d.html">360d</a> <a href="heat-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-<table class="papers">
-<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
-<tbody>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14445.html">Data-driven modeling of hypersonic flows in chemical non-equilibrium with catalytic surfaces</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Konstantinos Sarras et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14445">2608.14445</a></td>
-</tr>
-</tbody></table>
+_No papers in this window._
