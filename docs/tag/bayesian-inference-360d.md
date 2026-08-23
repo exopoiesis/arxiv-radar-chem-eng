@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10985.html">Bridging Structure and Activity in Nanocatalysts via Machine Learning and Global Structure Representations</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="microkinetic-modeling-360d.html">microkinetic-modeling</a></div></td>
 <td>Sofia Zinzani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10985">2509.10985</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09022.html">Disentangling the Effects of Simultaneous Environmental Variables on Perovskite Synthesis and Device Performance via Interpretable Machine Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="crystallization-360d.html">crystallization</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Tianran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09022">2509.09022</a></td>
 </tr>
 </tbody></table>

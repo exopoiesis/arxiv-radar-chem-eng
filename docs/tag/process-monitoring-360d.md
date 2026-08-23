@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-monitoring — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="process-monitoring-7d.html">7d</a> <a href="process-monitoring-30d.html">30d</a> <a href="process-monitoring-90d.html">90d</a> <strong>360d</strong> <a href="process-monitoring-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17809.html">In-Process Monitoring of Gear Power Honing Using Vibration Signal Analysis and Machine Learning</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
 <td>Massimo Capurso et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17809">2510.17809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20021.html">FairLoop: Software Support for Human-Centric Fairness in Predictive Business Process Monitoring</a></div></td>
-<td>Felix Möhrlein et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20021">2508.20021</a></td>
 </tr>
 </tbody></table>

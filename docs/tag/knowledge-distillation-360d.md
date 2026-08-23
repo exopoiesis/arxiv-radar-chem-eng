@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>knowledge-distillation — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="knowledge-distillation-7d.html">7d</a> <a href="knowledge-distillation-30d.html">30d</a> <a href="knowledge-distillation-90d.html">90d</a> <strong>360d</strong> <a href="knowledge-distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11574.html">LLM on a Budget: Active Knowledge Distillation for Efficient Classification of Large Text Corpora</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="distillation-360d.html">distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Viviana Luccioli et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11574">2511.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09022.html">Disentangling the Effects of Simultaneous Environmental Variables on Perovskite Synthesis and Device Performance via Interpretable Machine Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="crystallization-360d.html">crystallization</a></div></td>
-<td>Tianran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09022">2509.09022</a></td>
 </tr>
 </tbody></table>
