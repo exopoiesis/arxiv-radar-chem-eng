@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fuel-cells — 360d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <a href="fuel-cells-90d.html">90d</a> <strong>360d</strong> <a href="fuel-cells-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17808.html">Machine Learning-Based Performance Evaluation of a Solar-Powered Hydrogen Fuel Cell Hybrid in a Radio-Controlled Electric Vehicle</a></div><div class="paper-tags"><a href="electrolysis-360d.html">electrolysis</a></div></td>
 <td>Amirhesam Aghanouri et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17808">2510.17808</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01727.html">Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts during the oxygen reduction reaction</a></div></td>
-<td>Chaehwa Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01727">2411.01727</a></td>
 </tr>
 </tbody></table>

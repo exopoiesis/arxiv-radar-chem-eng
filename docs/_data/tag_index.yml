@@ -7,14 +7,14 @@
   count: 6
   total: 125
   group: domain
-- name: energy-storage
-  count: 6
-  total: 156
-  group: energy
 - name: catalysis
   count: 5
   total: 162
   group: reactions
+- name: energy-storage
+  count: 5
+  total: 156
+  group: energy
 - name: adsorption
   count: 4
   total: 91
@@ -23,10 +23,6 @@
   count: 4
   total: 32
   group: modeling
-- name: gaussian-process
-  count: 3
-  total: 58
-  group: methods
 - name: heat-transfer
   count: 3
   total: 46
@@ -35,18 +31,10 @@
   count: 3
   total: 77
   group: control
-- name: physics-informed-ml
-  count: 3
-  total: 49
-  group: methods
 - name: surrogate-modeling
   count: 3
   total: 93
   group: modeling
-- name: battery-modeling
-  count: 2
-  total: 31
-  group: energy
 - name: bayesian-inference
   count: 2
   total: 59
@@ -63,22 +51,22 @@
   count: 2
   total: 39
   group: energy
-- name: experimental-design
-  count: 2
-  total: 21
-  group: methods
 - name: fault-detection
   count: 2
   total: 21
   group: monitoring
+- name: gaussian-process
+  count: 2
+  total: 58
+  group: methods
 - name: generative-models
   count: 2
   total: 32
   group: architectures
-- name: molecular-dynamics
+- name: physics-informed-ml
   count: 2
-  total: 71
-  group: materials
+  total: 49
+  group: methods
 - name: reaction-kinetics
   count: 2
   total: 22
@@ -95,9 +83,9 @@
   count: 1
   total: 3
   group: separations
-- name: carbon-capture
+- name: battery-modeling
   count: 1
-  total: 48
+  total: 31
   group: energy
 - name: catalyst-design
   count: 1
@@ -127,6 +115,10 @@
   count: 1
   total: 15
   group: reactions
+- name: experimental-design
+  count: 1
+  total: 21
+  group: methods
 - name: heterogeneous-catalysis
   count: 1
   total: 17
@@ -143,6 +135,10 @@
   count: 1
   total: 15
   group: reactions
+- name: molecular-dynamics
+  count: 1
+  total: 71
+  group: materials
 - name: multiphase-flow
   count: 1
   total: 13
@@ -199,6 +195,10 @@
   count: 0
   total: 2
   group: fluids
+- name: carbon-capture
+  count: 0
+  total: 48
+  group: energy
 - name: chromatography
   count: 0
   total: 6
