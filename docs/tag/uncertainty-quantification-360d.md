@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19710.html">Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Somjit Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19710">2509.19710</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00685.html">Stochastic Model Predictive Control of Charging Energy Hubs with Conformal Prediction</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="mpc-360d.html">mpc</a></div></td>
-<td>Diego Fernández-Zapico et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00685">2504.00685</a></td>
 </tr>
 </tbody></table>

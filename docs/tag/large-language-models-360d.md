@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,11 +446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21471.html">LUMIR: an LLM-Driven Unified Agent Framework for Multi-task Infrared Spectroscopy Reasoning</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
 <td>Zujie Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21471">2507.21471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21529.html">Maybe you don&#x27;t need a U-Net: convolutional feature upsampling for materials micrograph segmentation</a></div><div class="paper-tags"><a href="battery-modeling-360d.html">battery-modeling</a></div></td>
-<td>Ronan Docherty et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21529">2508.21529</a></td>
 </tr>
 </tbody></table>

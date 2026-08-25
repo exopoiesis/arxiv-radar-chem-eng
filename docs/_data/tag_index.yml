@@ -71,10 +71,6 @@
   count: 2
   total: 22
   group: reactions
-- name: uncertainty-quantification
-  count: 2
-  total: 57
-  group: methods
 - name: active-sites
   count: 1
   total: 14
@@ -99,10 +95,6 @@
   count: 1
   total: 130
   group: materials
-- name: digital-twin
-  count: 1
-  total: 51
-  group: monitoring
 - name: distillation
   count: 1
   total: 52
@@ -167,6 +159,10 @@
   count: 1
   total: 65
   group: separations
+- name: uncertainty-quantification
+  count: 1
+  total: 57
+  group: methods
 - name: wastewater-treatment
   count: 1
   total: 26
@@ -211,6 +207,10 @@
   count: 0
   total: 6
   group: reactions
+- name: digital-twin
+  count: 0
+  total: 51
+  group: monitoring
 - name: electrolysis
   count: 0
   total: 20

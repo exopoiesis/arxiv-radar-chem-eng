@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17523.html">Learning Reaction-Diffusion Kinetics from Mechanical Information</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
 <td>Royal C. Ihuaenyi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17523">2508.17523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00685.html">Stochastic Model Predictive Control of Charging Energy Hubs with Conformal Prediction</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Diego Fernández-Zapico et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00685">2504.00685</a></td>
 </tr>
 </tbody></table>

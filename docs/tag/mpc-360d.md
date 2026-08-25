@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mpc — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <strong>360d</strong> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03760.html">Maximum Likelihood Identification of Linear Models with Integrating Disturbances for Offset-Free Control</a></div></td>
 <td>Steven J. Kuntz et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03760">2406.03760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00685.html">Stochastic Model Predictive Control of Charging Energy Hubs with Conformal Prediction</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Diego Fernández-Zapico et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00685">2504.00685</a></td>
 </tr>
 </tbody></table>

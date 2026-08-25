@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="experimental-design-30d.html">experimental-design</a> · <a href="physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="system-identification-30d.html">system-identification</a></div></td>
 <td>Milad Panahi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17591">2608.17591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23291.html">$^{15}$C inelastic $1/2^+ \rightarrow 5/2^+$ excitation: A single-particle versus a collective process</a></div></td>
-<td>C. Beckman et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23291">2607.23291</a></td>
 </tr>
 </tbody></table>
