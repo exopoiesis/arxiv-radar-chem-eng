@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21525.html">Machine-learned exchange-correlation functionals for molecules, solids, and reactive surfaces</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a></div></td>
+<td>Mohamed S. Abdallah et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21525">2608.21525</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="generative-models-90d.html">generative-models</a></div></td>
 <td>Hayoung Doo et al.</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="hydrogen-production-90d.html">hydrogen-production</a></div></td>
 <td>Yanmei Zang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29821">2605.29821</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Laurence I. Midgley et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
 </tr>
 </tbody></table>

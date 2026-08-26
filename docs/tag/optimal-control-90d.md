@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>optimal-control — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <strong>90d</strong> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04725.html">GPU-Accelerated Direct Transcription-Based Nonlinear Model Predictive Control</a></div><div class="paper-tags"><a href="distillation-90d.html">distillation</a> · <a href="mpc-90d.html">mpc</a></div></td>
 <td>Evelyn Gondosiswanto et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04725">2606.04725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28340.html">Decision-focused learning for optimal PV-Battery scheduling</a></div></td>
-<td>Joris Depoortere et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28340">2605.28340</a></td>
 </tr>
 </tbody></table>

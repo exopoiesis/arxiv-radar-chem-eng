@@ -5,15 +5,33 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-08-25._
+_Updated 2026-08-26._
 
-**1238** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1241** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23420.html">Systematic Bias in Green Patent Classification: Silent Green and False Green</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/separations-30d.html">separations</a></div></td>
+<td>Hamid Bekamiri et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23420">2608.23420</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21525.html">Machine-learned exchange-correlation functionals for molecules, solids, and reactive surfaces</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a></div></td>
+<td>Mohamed S. Abdallah et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21525">2608.21525</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
+<td>Chen Yuntong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18473.html">A Locally Deployable Tool-Grounded LLM Multi-agent Framework for Automating Methane Emission Analysis and Reporting</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-08-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02360.html">Aerodynamic Drag and Heat Transfer Corrections for Dehydrated Pollen Particles: CFD-Based Modeling of Airborne Allergen Transport in Smart Urban Environments</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
 <td>Omar Hamad et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02360">2608.02360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02599.html">Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</a></div><div class="paper-tags"><a href="tag/energy-systems-30d.html">energy-systems</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Junjie Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02599">2608.02599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26594.html">A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Zhoupeng Shou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26594">2607.26594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22280.html">Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/multiphase-flow-30d.html">multiphase-flow</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Harish Ramachandran et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22280">2607.22280</a></td>
 </tr>
 </tbody></table>

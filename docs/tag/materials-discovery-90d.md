@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
+<td>Chen Yuntong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Alexandros Ntagiantas et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Anand Babu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29179.html">Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
-<td>Reid A. Coyle et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29179">2605.29179</a></td>
 </tr>
 </tbody></table>
