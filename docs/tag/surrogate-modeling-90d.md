@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
+<td>Yuki K. Wakabayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14445.html">Data-driven modeling of hypersonic flows in chemical non-equilibrium with catalytic surfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="heat-transfer-90d.html">heat-transfer</a></div></td>
 <td>Konstantinos Sarras et al.</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
 <td>Nicolas J. Tricard et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="digital-twin-90d.html">digital-twin</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Minseo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
 </tr>
 </tbody></table>

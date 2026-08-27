@@ -866,5 +866,109 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2026-08-24"
+ },
+ "2608.25248": {
+  "abstract": "System operators will probably allow virtual power plants (VPPs) to submit their feasible region (FR) for market clearing and dispatch. A VPP needs to determine its FR to submit as a whole based on the individual operation model of its internal distributed energy resources (DERs), which is an FR aggregation problem. Existing FR aggregation approaches rely on analytical methods, which have issues with generality and adaptability. In this paper, we propose a data-driven approach to approximate the energy-regulation FR of VPPs. It adopts the virtual battery model to approximate the aggregate FR of a VPP and determines the model parameters through inverse optimization based on generated multi-scenario operation data using the original operation model. Numerical tests verified the accuracy of the proposed method. We believe that our work helps to better leverage the flexibility of DERs.",
+  "authors": [
+   "Ruike Lyu",
+   "Hongye Guo",
+   "Qixin Chen"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": "Published in: 2024 IEEE Power & Energy Society General Meeting (PESGM)",
+  "first_author": "Ruike Lyu",
+  "pdf_url": "http://arxiv.org/pdf/2608.25248",
+  "primary_category": "math.OC",
+  "published": "2026-08-26",
+  "tags": [
+   "battery-modeling"
+  ],
+  "title": "Approximating Energy-Regulation Feasible Region of Virtual Power Plants: A Data-driven Inverse Optimization Approach",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25443": {
+  "abstract": "Efficient determination of the effective multiplication factor (keff) is an important computational task in reactor core neutronics analysis. Physics-informed neural networks (PINNs) incorporate neutron diffusion equations and boundary conditions into network training to efficiently determine the neutron flux distribution and keff. To further improve the efficiency of keff calculations using PINNs, a Joint Initialization Physics-Informed Neural Network (JI-PINN) is proposed in this work. In this method, a low-resolution approximate solution to the K-eigenvalue problem is used to construct a joint initial state for the flux network parameters and keff, and both are then jointly optimized under physical constraints. The proposed method was validated on a two-dimensional two-group two-material case, the IAEA 2D benchmark, a two-dimensional two-group four-material case, and a three-dimensional single-group case. For these test cases, the total computational time was reduced by 25.4%, 38.2%, 49.4%, and 28.9%, respectively, while comparable solution accuracy was maintained. The occurrence of anomalous results associated with marked deviations of keff from the reference value was also reduced. The proposed method provides a more efficient and robust initialization strategy for solving neutron diffusion K-eigenvalue problem with PINNs.",
+  "authors": [
+   "Qin Hang",
+   "Yangdi Yi",
+   "Jiayi Li",
+   "Xu Wang",
+   "Heng Zhang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Qin Hang",
+  "pdf_url": "http://arxiv.org/pdf/2608.25443",
+  "primary_category": "cs.LG",
+  "published": "2026-08-26",
+  "tags": [
+   "physics-informed-ml"
+  ],
+  "title": "Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26016": {
+  "abstract": "Self-driving laboratories (SDLs) are transforming materials research by closing the loop among synthesis, characterization, data analysis and experimental decision making. Bayesian optimization (BO) is a decision engine for these loops because it can select experiments from scarce and noisy data while balancing exploitation and exploration. Yet real materials campaigns often depart from the standard black-box setting, involving failed or missing experiments, noise and drift, mixed variables, constraints, multiple objectives, variable cost and fidelity, transfer from historical data, batch or asynchronous operation, and prior physics knowledge. This review presents BO for materials SDLs through the lens of these practical challenges. We summarize Gaussian-process-based BO and the formulation of materials goals as quantitative objectives, then discuss major choices in surrogate modelling and acquisition. Particular emphasis is placed on physics-informed Bayesian optimization (PIBO), in which domain knowledge enters through representations, priors, kernels, acquisition functions, and constraints. We survey achievements enabled by BO and related active-learning approaches across semiconductors, catalysis, chemical reactions, batteries, alloys, functional materials and quantum materials, highlighting advances beyond parameter optimization, including new materials and synthesis routes, improved functional performance, and reusable scientific knowledge. We conclude by outlining open problems for BO-driven materials SDLs, including nonstationarity, multimodal observations, adaptive problem formulation, and scientific reasoning by humans, large language models and research agents. Addressing these challenges may advance SDLs beyond efficient optimization toward interpretable and knowledge-generating experimentation.",
+  "authors": [
+   "Yuki K. Wakabayashi",
+   "Takuma Otsuka"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yuki K. Wakabayashi",
+  "pdf_url": "http://arxiv.org/pdf/2608.26016",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-26",
+  "tags": [
+   "bayesian-inference",
+   "catalysis",
+   "large-language-models",
+   "surrogate-modeling"
+  ],
+  "title": "Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows",
+  "topics": [
+   "Process Modeling & System Identification",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26064": {
+  "abstract": "Highly resolved computational fluid dynamics (CFD) simulations are essential for design but too expensive for dense design-space sampling. This chapter presents an AI-driven CFD workflow that combines scalar-response modeling and reduced-order dynamics using jet-in-cross-flow examples. A reacting hydrogen jet-in-cross-flow study is first used to train a multilayer perceptron (MLP) mapping injector spacing to unburnt hydrogen throughput, wall heat transfer, and bulk temperature concentration, with shape-preserving interpolation as a baseline. The CFD samples show a non-monotonic spacing response, and the MLP identifies an intermediate-to-wide favorable region near eight jet diameters. Leave-one-sample-out validation shows strong dependence on the predicted quantity: the bulk temperature concentration is robust, while heat transfer and unburnt hydrogen throughput are substantially harder to predict. Sparse Identification of Nonlinear Dynamics (SINDy) is then used as a reduced-order modeling framework for field-derived Reynolds-stress statistics. The parametric SINDy model provides compact field-level predictions at simulated and out-of-sample spacings, though its aggregate spacing-mean Reynolds-stress error is $6.7\\%$ higher than the POD-basis reconstruction because of degradation at selected cases. The broader conclusion is that AI-driven CFD is not a single-model prescription: MLPs are effective for fast scalar responses, while POD--SINDy is better suited when transient reduced dynamics and field-derived statistics are central to the question.",
+  "authors": [
+   "Kaku E. Eduku",
+   "Pavel P. Popov",
+   "Gustaaf Jacobs"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "18 pages, 4 figures. Book chapter manuscript. Companion Python/JAX software available at https://github.com/KjayJunIOR/parametric-sindy-jax-gridsearch",
+  "first_author": "Kaku E. Eduku",
+  "pdf_url": "http://arxiv.org/pdf/2608.26064",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-26",
+  "tags": [
+   "cfd",
+   "heat-transfer",
+   "reduced-order-modeling"
+  ],
+  "title": "Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-08-26"
  }
 }

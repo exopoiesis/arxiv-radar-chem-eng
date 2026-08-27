@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Yuki K. Wakabayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23420.html">Systematic Bias in Green Patent Classification: Silent Green and False Green</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="separations-360d.html">separations</a></div></td>
 <td>Hamid Bekamiri et al.</td>
@@ -452,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11574.html">LLM on a Budget: Active Knowledge Distillation for Efficient Classification of Large Text Corpora</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Viviana Luccioli et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11574">2511.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21471.html">LUMIR: an LLM-Driven Unified Agent Framework for Multi-task Infrared Spectroscopy Reasoning</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Zujie Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21471">2507.21471</a></td>
 </tr>
 </tbody></table>

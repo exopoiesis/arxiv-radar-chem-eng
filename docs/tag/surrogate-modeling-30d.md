@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="large-language-models-30d.html">large-language-models</a></div></td>
+<td>Yuki K. Wakabayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14445.html">Data-driven modeling of hypersonic flows in chemical non-equilibrium with catalytic surfaces</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="heat-transfer-30d.html">heat-transfer</a></div></td>
 <td>Konstantinos Sarras et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11058.html">Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER</a></div><div class="paper-tags"><a href="gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Yashika Ghai et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11058">2608.11058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22280.html">Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a> · <a href="multiphase-flow-30d.html">multiphase-flow</a></div></td>
-<td>Harish Ramachandran et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22280">2607.22280</a></td>
 </tr>
 </tbody></table>

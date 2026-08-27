@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="heat-transfer-90d.html">heat-transfer</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>Kaku E. Eduku et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26064">2608.26064</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13214.html">Flow-thermochemistry coupling governs pressure-dependent CO$_2$ conversion in vortex-stabilized microwave plasma reactors: Insights from three-dimensional CFD modeling</a></div></td>
 <td>Qinghao Shen et al.</td>
@@ -56,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
 <td>Nicolas J. Tricard et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Minseo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
 </tr>
 </tbody></table>

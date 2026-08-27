@@ -5,15 +5,39 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-08-26._
+_Updated 2026-08-27._
 
-**1241** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1245** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25248.html">Approximating Energy-Regulation Feasible Region of Virtual Power Plants: A Data-driven Inverse Optimization Approach</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a></div></td>
+<td>Ruike Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25248">2608.25248</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25443.html">Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
+<td>Qin Hang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25443">2608.25443</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Yuki K. Wakabayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>Kaku E. Eduku et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26064">2608.26064</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23420.html">Systematic Bias in Green Patent Classification: Silent Green and False Green</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/separations-30d.html">separations</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-08-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Alexandros Ntagiantas et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04651">2608.04651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05081.html">Nonparametric Estimation under General Nonlinear ODE Constraints: A Comparison with Parametric ODE-Fitting Methods</a></div><div class="paper-tags"><a href="tag/reaction-kinetics-30d.html">reaction-kinetics</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
-<td>Chunlei Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05081">2608.05081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05120.html">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/reaction-kinetics-30d.html">reaction-kinetics</a></div></td>
-<td>Roberto Aliaga Medina et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05120">2608.05120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03760.html">Guided Synthesis of EMT Zeolites by Machine Learning</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/zeolites-30d.html">zeolites</a></div></td>
-<td>Emmanuel A. Olanrewaju et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03760">2608.03760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02360.html">Aerodynamic Drag and Heat Transfer Corrections for Dehydrated Pollen Particles: CFD-Based Modeling of Airborne Allergen Transport in Smart Urban Environments</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
-<td>Omar Hamad et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02360">2608.02360</a></td>
 </tr>
 </tbody></table>
