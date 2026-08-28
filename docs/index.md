@@ -5,15 +5,27 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-08-27._
+_Updated 2026-08-28._
 
-**1245** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1247** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27162.html">Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a></div></td>
+<td>Thorsten Tegetmeyer-Kleine et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27162">2608.27162</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06203.html">Beyond Electrons: A Theoretical Framework for Near-Field Radiative Thermal Computing and Neural-Network-Inspired Processing</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
+<td>Hexiang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06203">2608.06203</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25248.html">Approximating Energy-Regulation Feasible Region of Virtual Power Plants: A Data-driven Inverse Optimization Approach</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-08-27._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div><div class="paper-tags"><a href="tag/system-identification-30d.html">system-identification</a></div></td>
 <td>Gianmarco Pinton</td>
 <td><a href="http://arxiv.org/abs/2608.06321">2608.06321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06360.html">PyOMES: an open-source framework for biochemical process modelling</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-modeling-30d.html">process-modeling</a> · <a href="tag/process-simulation-30d.html">process-simulation</a></div></td>
-<td>Ethan Errington et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06360">2608.06360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Alexandros Ntagiantas et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04651">2608.04651</a></td>
 </tr>
 </tbody></table>

@@ -15,14 +15,14 @@
   count: 5
   total: 92
   group: separations
+- name: heat-transfer
+  count: 5
+  total: 48
+  group: transport
 - name: energy-storage
   count: 4
   total: 156
   group: energy
-- name: heat-transfer
-  count: 4
-  total: 47
-  group: transport
 - name: system-identification
   count: 4
   total: 32
@@ -35,6 +35,10 @@
   count: 3
   total: 92
   group: fluids
+- name: electrochemical-systems
+  count: 3
+  total: 69
+  group: energy
 - name: mpc
   count: 3
   total: 77
@@ -50,10 +54,6 @@
 - name: battery-modeling
   count: 2
   total: 32
-  group: energy
-- name: electrochemical-systems
-  count: 2
-  total: 68
   group: energy
 - name: energy-systems
   count: 2
