@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10985.html">Bridging Structure and Activity in Nanocatalysts via Machine Learning and Global Structure Representations</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="microkinetic-modeling-360d.html">microkinetic-modeling</a></div></td>
 <td>Sofia Zinzani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10985">2509.10985</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17523.html">Learning Reaction-Diffusion Kinetics from Mechanical Information</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
-<td>Royal C. Ihuaenyi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17523">2508.17523</a></td>
 </tr>
 </tbody></table>

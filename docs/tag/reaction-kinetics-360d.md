@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-kinetics — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="reaction-kinetics-7d.html">7d</a> <a href="reaction-kinetics-30d.html">30d</a> <a href="reaction-kinetics-90d.html">90d</a> <strong>360d</strong> <a href="reaction-kinetics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06056.html">A novel biomass fluidized bed gasification model coupled with machine learning and CFD simulation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="multiphase-flow-360d.html">multiphase-flow</a></div></td>
 <td>Chun Wang</td>
 <td><a href="http://arxiv.org/abs/2509.06056">2509.06056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17523.html">Learning Reaction-Diffusion Kinetics from Mechanical Information</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
-<td>Royal C. Ihuaenyi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17523">2508.17523</a></td>
 </tr>
 </tbody></table>
