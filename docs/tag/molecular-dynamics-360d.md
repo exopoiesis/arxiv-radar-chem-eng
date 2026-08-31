@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08734.html">DEQuify your force field: More efficient simulations using deep equilibrium models</a></div></td>
 <td>Andreas Burger et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08734">2509.08734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Kai Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04291">2509.04291</a></td>
 </tr>
 </tbody></table>
