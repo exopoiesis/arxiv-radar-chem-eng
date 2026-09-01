@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>carbon-capture — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="carbon-capture-7d.html">7d</a> <a href="carbon-capture-30d.html">30d</a> <a href="carbon-capture-90d.html">90d</a> <strong>360d</strong> <a href="carbon-capture-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25538.html">Steering an Active Learning Workflow Towards Novel Materials Discovery via Queue Prioritization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="generative-models-360d.html">generative-models</a></div></td>
 <td>Marcus Schwarting et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25538">2509.25538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05241.html">Deep Learning-Enhanced for Amine Emission Monitoring and Performance Analysis in Industrial Carbon Capture Plants</a></div></td>
-<td>Lokendra Poudel et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05241">2509.05241</a></td>
 </tr>
 </tbody></table>
