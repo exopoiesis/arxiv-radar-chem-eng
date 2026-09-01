@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,29 +980,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
 <td>Markus Grimm et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13607.html">Atomistic evolution of active sites in multi-component heterogeneous catalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="active-sites-all.html">active-sites</a></div></td>
-<td>Cameron J. Owen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13607">2407.13607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18935.html">A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery</a></div><div class="paper-tags"><a href="catalyst-design-all.html">catalyst-design</a></div></td>
-<td>Parastoo Semnani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18935">2407.18935</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-production-all.html">hydrogen-production</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
-<td>Rui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03493.html">In-Depth Exploration of Catalytic Sites on Amorphous Solid Water: I. The Astrosynthesis of Aminomethanol</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Giulia M. Bovolenta et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03493">2407.03493</a></td>
 </tr>
 </tbody></table>

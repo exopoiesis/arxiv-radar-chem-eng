@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-sites — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="active-sites-7d.html">7d</a> <a href="active-sites-30d.html">30d</a> <a href="active-sites-90d.html">90d</a> <a href="active-sites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06225.html">Single Atom Catalysts with Halogen Ligands: Elevating the HER Performance of Pd-anchored MoS2 monolayer</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="experimental-design-all.html">experimental-design</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="hydrogen-production-all.html">hydrogen-production</a></div></td>
 <td>Feng Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2503.06225">2503.06225</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13607.html">Atomistic evolution of active sites in multi-component heterogeneous catalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="catalysis-all.html">catalysis</a></div></td>
-<td>Cameron J. Owen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13607">2407.13607</a></td>
 </tr>
 </tbody></table>

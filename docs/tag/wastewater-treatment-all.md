@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>wastewater-treatment — all</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="wastewater-treatment-7d.html">7d</a> <a href="wastewater-treatment-30d.html">30d</a> <a href="wastewater-treatment-90d.html">90d</a> <a href="wastewater-treatment-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,35 +140,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02315.html">Machine learning-based input-augmented Koopman modeling and predictive control of nonlinear processes</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="mpc-all.html">mpc</a> · <a href="optimal-control-all.html">optimal-control</a></div></td>
 <td>Zhaoyang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02315">2408.02315</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19543.html">Global Optimization via Quadratic Disjunctive Programming for Water Networks Design with Energy Recovery</a></div><div class="paper-tags"><a href="membrane-separation-all.html">membrane-separation</a> · <a href="process-design-all.html">process-design</a></div></td>
-<td>Carolina Tristán et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19543">2407.19543</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21045.html">Unlocking the Potential: Benchmarking Large Language Models in Water Engineering and Research</a></div><div class="paper-tags"><a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Boyan Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21045">2407.21045</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12478.html">Efficient Economic Model Predictive Control of Water Treatment Process with Learning-based Koopman Operator</a></div><div class="paper-tags"><a href="economic-mpc-all.html">economic-mpc</a> · <a href="mpc-all.html">mpc</a></div></td>
-<td>Minghao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12478">2405.12478</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05959.html">Time Series Dataset for Modeling and Forecasting of $N_2O$ in Wastewater Treatment</a></div></td>
-<td>Laura Debel Hansen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05959">2407.05959</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05346.html">Wastewater Treatment Plant Data for Nutrient Removal System</a></div><div class="paper-tags"><a href="digital-twin-all.html">digital-twin</a></div></td>
-<td>Esmaeel Mohammadi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05346">2407.05346</a></td>
 </tr>
 </tbody></table>

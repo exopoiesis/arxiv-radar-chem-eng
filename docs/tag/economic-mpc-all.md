@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>economic-mpc — all</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="economic-mpc-7d.html">7d</a> <a href="economic-mpc-30d.html">30d</a> <a href="economic-mpc-90d.html">90d</a> <a href="economic-mpc-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.19661.html">Experimental implementation of an economic model predictive control for froth flotation</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a> · <a href="optimal-control-all.html">optimal-control</a> · <a href="separations-all.html">separations</a></div></td>
 <td>Paulina Quintanilla et al.</td>
 <td><a href="http://arxiv.org/abs/2410.19661">2410.19661</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12478.html">Efficient Economic Model Predictive Control of Water Treatment Process with Learning-based Koopman Operator</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a> · <a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>
-<td>Minghao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12478">2405.12478</a></td>
 </tr>
 </tbody></table>

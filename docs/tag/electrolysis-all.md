@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrolysis — all</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="electrolysis-7d.html">7d</a> <a href="electrolysis-30d.html">30d</a> <a href="electrolysis-90d.html">90d</a> <a href="electrolysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05086.html">Exploring the Optimal Size of Grid-forming Energy Storage in an Off-grid Renewable P2H System under Multi-timescale Energy Management</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
 <td>Jie Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05086">2409.05086</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18852.html">ESDIRK-based nonlinear model predictive control for stochastic differential-algebraic equations</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a> · <a href="optimal-control-all.html">optimal-control</a></div></td>
-<td>Anders Hilmar Damm Christensen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18852">2407.18852</a></td>
 </tr>
 </tbody></table>

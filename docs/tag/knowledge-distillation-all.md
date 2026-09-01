@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>knowledge-distillation — all</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="knowledge-distillation-7d.html">7d</a> <a href="knowledge-distillation-30d.html">30d</a> <a href="knowledge-distillation-90d.html">90d</a> <a href="knowledge-distillation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,35 +380,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14146.html">TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines</a></div></td>
 <td>Hymalai Bello et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14146">2408.14146</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19409.html">LLAVADI: What Matters For Multimodal Large Language Models Distillation</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Shilin Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19409">2407.19409</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16154.html">DDK: Distilling Domain Knowledge for Efficient Large Language Models</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Jiaheng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16154">2407.16154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10068.html">Multi-Granularity Semantic Revision for Large Language Model Distillation</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
-<td>Xiaoyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10068">2407.10068</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04208.html">AMD: Automatic Multi-step Distillation of Large-scale Vision Models</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a></div></td>
-<td>Cheng Han et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04208">2407.04208</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04376.html">DeepLNE++ leveraging knowledge distillation for accelerated multi-state path-like collective variables</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Thorben Fröhlking et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04376">2407.04376</a></td>
 </tr>
 </tbody></table>

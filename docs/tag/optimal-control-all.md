@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>optimal-control — all</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <a href="optimal-control-90d.html">90d</a> <a href="optimal-control-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02315.html">Machine learning-based input-augmented Koopman modeling and predictive control of nonlinear processes</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="mpc-all.html">mpc</a> · <a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>
 <td>Zhaoyang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02315">2408.02315</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18852.html">ESDIRK-based nonlinear model predictive control for stochastic differential-algebraic equations</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a> · <a href="mpc-all.html">mpc</a></div></td>
-<td>Anders Hilmar Damm Christensen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18852">2407.18852</a></td>
 </tr>
 </tbody></table>

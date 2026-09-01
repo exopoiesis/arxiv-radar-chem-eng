@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 1247 papers across 26 months.
+**Total corpus:** 1216 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>

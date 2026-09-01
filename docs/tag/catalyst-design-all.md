@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalyst-design — all</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <a href="catalyst-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20397.html">Explainable Data-driven Modeling of Adsorption Energy in Heterogeneous Catalysis</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="catalysis-all.html">catalysis</a></div></td>
 <td>Tirtha Vinchurkar et al.</td>
 <td><a href="http://arxiv.org/abs/2405.20397">2405.20397</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18935.html">A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Parastoo Semnani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18935">2407.18935</a></td>
 </tr>
 </tbody></table>

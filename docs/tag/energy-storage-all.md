@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>energy-storage — all</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,17 +938,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09989.html">Adaptive BESS and Grid Setpoints Optimization: A Model-Free Framework for Efficient Battery Management under Dynamic Tariff Pricing</a></div></td>
 <td>Alaa Selim et al.</td>
 <td><a href="http://arxiv.org/abs/2408.09989">2408.09989</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16036.html">Transformer-based Capacity Prediction for Lithium-ion Batteries with Data Augmentation</a></div></td>
-<td>Gift Modekwe et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16036">2407.16036</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10278.html">Strategies for Resilience and Battery Life Extension in the Face of Communication Losses for Isolated Microgrids</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a></div></td>
-<td>Mohammad Hossein Nejati Amiri et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10278">2407.10278</a></td>
 </tr>
 </tbody></table>

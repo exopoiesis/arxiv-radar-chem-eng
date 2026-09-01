@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,17 +332,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04073.html">Accelerating crystal structure search through active learning with neural networks for rapid relaxations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Stefaan S. P. Hessmann et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04073">2408.04073</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13607.html">Atomistic evolution of active sites in multi-component heterogeneous catalysts</a></div><div class="paper-tags"><a href="active-sites-all.html">active-sites</a> · <a href="catalysis-all.html">catalysis</a></div></td>
-<td>Cameron J. Owen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13607">2407.13607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-production-all.html">hydrogen-production</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
-<td>Rui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
 </tr>
 </tbody></table>

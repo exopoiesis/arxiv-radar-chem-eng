@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>system-identification — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20219.html">System Identification for Lithium-Ion Batteries with Nonlinear Coupled Electro-Thermal Dynamics via Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
 <td>Hao Tu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.20219">2405.20219</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08871.html">Quantifying the Influence of Combined Lung and Kidney Support Using a Cardiovascular Model and Sensitivity Analysis-Informed Parameter Identification</a></div><div class="paper-tags"><a href="digital-twin-all.html">digital-twin</a></div></td>
-<td>Jan-Niklas Thiel et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08871">2407.08871</a></td>
 </tr>
 </tbody></table>

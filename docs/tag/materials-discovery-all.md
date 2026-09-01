@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,17 +284,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07608.html">MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials</a></div><div class="paper-tags"><a href="generative-models-all.html">generative-models</a></div></td>
 <td>Yan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07608">2408.07608</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12621.html">Distinguishing Isotropic and Anisotropic Signals for X-ray Total Scattering using Machine Learning</a></div></td>
-<td>Danielle N. Alverson et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12621">2407.12621</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-production-all.html">hydrogen-production</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
-<td>Rui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
 </tr>
 </tbody></table>

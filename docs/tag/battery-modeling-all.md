@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-modeling — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="battery-modeling-7d.html">7d</a> <a href="battery-modeling-30d.html">30d</a> <a href="battery-modeling-90d.html">90d</a> <a href="battery-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09331.html">Efficient Online Inference and Learning in Partially Known Nonlinear State-Space Models by Learning Expressive Degrees of Freedom Offline</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="system-identification-all.html">system-identification</a></div></td>
 <td>Jan-Hendrik Ewering et al.</td>
 <td><a href="http://arxiv.org/abs/2409.09331">2409.09331</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20262.html">A Neural-Network-Embedded Equivalent Circuit Model for Lithium-ion Battery State Estimation</a></div></td>
-<td>Zelin Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20262">2407.20262</a></td>
 </tr>
 </tbody></table>

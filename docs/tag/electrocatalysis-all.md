@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrocatalysis — all</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <a href="electrocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12846.html">Data-Driven Catalyst Design: A Machine Learning Approach to Predicting Electrocatalytic Performance in Hydrogen Evolution and Oxygen Evolution Reactions</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="hydrogen-production-all.html">hydrogen-production</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Vipin K E et al.</td>
 <td><a href="http://arxiv.org/abs/2412.12846">2412.12846</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17740.html">Machine Learning Potential for Electrochemical Interfaces with Hybrid Representation of Dielectric Response</a></div><div class="paper-tags"><a href="electrochemical-systems-all.html">electrochemical-systems</a></div></td>
-<td>Jia-Xin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17740">2407.17740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="catalysis-all.html">catalysis</a> · <a href="hydrogen-production-all.html">hydrogen-production</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
-<td>Rui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>energy-systems — all</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="energy-systems-7d.html">7d</a> <a href="energy-systems-30d.html">30d</a> <a href="energy-systems-90d.html">90d</a> <a href="energy-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.14347.html">A Scientific Machine Learning Approach for Predicting and Forecasting Battery Degradation in Electric Vehicles</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Sharv Murgai et al.</td>
 <td><a href="http://arxiv.org/abs/2410.14347">2410.14347</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15313.html">Should we use model-free or model-based control? A case study of battery management systems</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a></div></td>
-<td>Mohamad Fares El Hajj Chehade et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15313">2407.15313</a></td>
 </tr>
 </tbody></table>
