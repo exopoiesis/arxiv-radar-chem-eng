@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>large-language-models — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <strong>90d</strong> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12057.html">ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development</a></div><div class="paper-tags"><a href="redox-flow-batteries-90d.html">redox-flow-batteries</a></div></td>
 <td>Rui Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12057">2606.12057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="digital-twin-90d.html">digital-twin</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05050">2606.05050</a></td>
 </tr>
 </tbody></table>
