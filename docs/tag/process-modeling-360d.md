@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-modeling — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="process-modeling-7d.html">7d</a> <a href="process-modeling-30d.html">30d</a> <a href="process-modeling-90d.html">90d</a> <strong>360d</strong> <a href="process-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03883.html">Multi-Scale Hybrid Modeling to Predict Cell Culture Process with Metabolic Phase Transitions</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="experimental-design-360d.html">experimental-design</a> · <a href="process-control-360d.html">process-control</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
 <td>Keqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03883">2412.03883</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06041.html">Multi-Stage Graph Neural Networks for Data-Driven Prediction of Natural Convection in Enclosed Cavities</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="heat-transfer-360d.html">heat-transfer</a></div></td>
-<td>Mohammad Ahangarkiasari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06041">2509.06041</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multiphase-flow — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="multiphase-flow-7d.html">7d</a> <a href="multiphase-flow-30d.html">30d</a> <a href="multiphase-flow-90d.html">90d</a> <strong>360d</strong> <a href="multiphase-flow-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15949.html">PINNs4Drops: Video-conditioned physics-informed neural networks for two-phase flow reconstruction</a></div><div class="paper-tags"><a href="fuel-cells-360d.html">fuel-cells</a> · <a href="physics-informed-ml-360d.html">physics-informed-ml</a></div></td>
 <td>Maximilian Dreisbach et al.</td>
 <td><a href="http://arxiv.org/abs/2411.15949">2411.15949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06056.html">A novel biomass fluidized bed gasification model coupled with machine learning and CFD simulation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
-<td>Chun Wang</td>
-<td><a href="http://arxiv.org/abs/2509.06056">2509.06056</a></td>
 </tr>
 </tbody></table>
