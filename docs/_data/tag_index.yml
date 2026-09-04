@@ -4,7 +4,7 @@
   total: 161
   group: reactions
 - name: large-language-models
-  count: 7
+  count: 6
   total: 118
   group: architectures
 - name: adsorption
@@ -31,6 +31,10 @@
   count: 3
   total: 60
   group: methods
+- name: cfd
+  count: 3
+  total: 93
+  group: fluids
 - name: electrochemical-systems
   count: 3
   total: 67
@@ -47,10 +51,6 @@
   count: 2
   total: 31
   group: energy
-- name: cfd
-  count: 2
-  total: 92
-  group: fluids
 - name: fault-detection
   count: 2
   total: 20
@@ -95,10 +95,6 @@
   count: 1
   total: 3
   group: separations
-- name: crystallization
-  count: 1
-  total: 19
-  group: separations
 - name: dft
   count: 1
   total: 129
@@ -123,6 +119,10 @@
   count: 1
   total: 32
   group: architectures
+- name: graph-neural-networks
+  count: 1
+  total: 38
+  group: architectures
 - name: microkinetic-modeling
   count: 1
   total: 15
@@ -135,6 +135,10 @@
   count: 1
   total: 13
   group: reactions
+- name: packed-bed
+  count: 1
+  total: 4
+  group: fluids
 - name: process-control
   count: 1
   total: 49
@@ -162,10 +166,6 @@
 - name: wastewater-treatment
   count: 1
   total: 21
-  group: separations
-- name: zeolites
-  count: 1
-  total: 6
   group: separations
 - name: active-learning
   count: 0
@@ -203,6 +203,10 @@
   count: 0
   total: 6
   group: reactions
+- name: crystallization
+  count: 0
+  total: 19
+  group: separations
 - name: digital-twin
   count: 0
   total: 49
@@ -235,10 +239,6 @@
   count: 0
   total: 8
   group: separations
-- name: graph-neural-networks
-  count: 0
-  total: 37
-  group: architectures
 - name: hydrogen-evolution
   count: 0
   total: 16
@@ -283,10 +283,6 @@
   count: 0
   total: 38
   group: control
-- name: packed-bed
-  count: 0
-  total: 3
-  group: fluids
 - name: packed-bed-reactors
   count: 0
   total: 2
@@ -371,3 +367,7 @@
   count: 0
   total: 13
   group: fluids
+- name: zeolites
+  count: 0
+  total: 6
+  group: separations

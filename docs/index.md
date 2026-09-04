@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-09-03._
+_Updated 2026-09-04._
 
-**1216** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1217** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/packed-bed-30d.html">packed-bed</a></div></td>
+<td>Guilherme Gottems et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02656">2609.02656</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27162.html">Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-09-03._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-isotherms-30d.html">adsorption-isotherms</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Rahul Soni et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05603">2608.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div><div class="paper-tags"><a href="tag/system-identification-30d.html">system-identification</a></div></td>
-<td>Gianmarco Pinton</td>
-<td><a href="http://arxiv.org/abs/2608.06321">2608.06321</a></td>
 </tr>
 </tbody></table>

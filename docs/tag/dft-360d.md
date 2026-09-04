@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,11 +452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08143.html">Electronic Fluctuations and Ionic Dynamics in Molten Silver Iodide</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="ionic-liquids-360d.html">ionic-liquids</a></div></td>
 <td>Harender S. Dhattarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08143">2509.08143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01403.html">Accelerating point defect photo-emission calculations with machine learning interatomic potentials</a></div></td>
-<td>Kartikeya Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01403">2505.01403</a></td>
 </tr>
 </tbody></table>

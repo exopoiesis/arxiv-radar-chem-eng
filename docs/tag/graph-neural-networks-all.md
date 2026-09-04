@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>graph-neural-networks — all</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <a href="graph-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="packed-bed-all.html">packed-bed</a></div></td>
+<td>Guilherme Gottems et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02656">2609.02656</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18591.html">GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>

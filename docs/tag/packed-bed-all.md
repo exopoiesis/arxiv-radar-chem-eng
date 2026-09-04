@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>packed-bed — all</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="packed-bed-7d.html">7d</a> <a href="packed-bed-30d.html">30d</a> <a href="packed-bed-90d.html">90d</a> <a href="packed-bed-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
+<td>Guilherme Gottems et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02656">2609.02656</a></td>
+</tr>
 <tr class="paper">
 <td>2025-02-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10674.html">Correlations for the Interphase Drag in the Two-Fluid Model of Gas--Liquid Flows through Packed-Bed Reactors</a></div><div class="paper-tags"><a href="packed-bed-reactors-all.html">packed-bed-reactors</a></div></td>
