@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ionic-liquids — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="ionic-liquids-7d.html">7d</a> <a href="ionic-liquids-30d.html">30d</a> <a href="ionic-liquids-90d.html">90d</a> <strong>360d</strong> <a href="ionic-liquids-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07249.html">A Fast, Accurate, and Reactive Equivariant Foundation Potential</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Tsz Wai Ko et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07249">2511.07249</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08143.html">Electronic Fluctuations and Ionic Dynamics in Molten Silver Iodide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
-<td>Harender S. Dhattarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08143">2509.08143</a></td>
 </tr>
 </tbody></table>
