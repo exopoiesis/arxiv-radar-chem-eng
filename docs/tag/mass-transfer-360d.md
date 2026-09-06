@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mass-transfer — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="mass-transfer-7d.html">7d</a> <a href="mass-transfer-30d.html">30d</a> <a href="mass-transfer-90d.html">90d</a> <strong>360d</strong> <a href="mass-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15293.html">Constrained bilinear optimal control of reactive evolution equations</a></div><div class="paper-tags"><a href="optimal-control-360d.html">optimal-control</a></div></td>
 <td>Zhexian Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15293">2510.15293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08394.html">A CFD model for heat and mass transfer leading to plume formation within Wet Cooling Towers</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Luc Favre et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08394">2509.08394</a></td>
 </tr>
 </tbody></table>

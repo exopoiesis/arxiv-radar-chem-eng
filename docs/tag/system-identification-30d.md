@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>system-identification — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <strong>30d</strong> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <a href="system-identification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17806.html">A geometric reformulation of the bilevel parameter optimization problem to a single level non-linear programming problem with applications to phase equilibria</a></div><div class="paper-tags"><a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="process-design-30d.html">process-design</a> · <a href="separations-30d.html">separations</a></div></td>
 <td>Stefan C. Endres et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17806">2608.17806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div></td>
-<td>Gianmarco Pinton</td>
-<td><a href="http://arxiv.org/abs/2608.06321">2608.06321</a></td>
 </tr>
 </tbody></table>
