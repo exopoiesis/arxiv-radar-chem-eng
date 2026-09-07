@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mpc — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <strong>360d</strong> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11470.html">Partitioning techniques for non-centralized predictive control: A systematic review and novel theoretical insights</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
 <td>Alessandro Riccardi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11470">2509.11470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03760.html">Maximum Likelihood Identification of Linear Models with Integrating Disturbances for Offset-Free Control</a></div></td>
-<td>Steven J. Kuntz et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03760">2406.03760</a></td>
 </tr>
 </tbody></table>
