@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11470.html">Partitioning techniques for non-centralized predictive control: A systematic review and novel theoretical insights</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
 <td>Alessandro Riccardi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11470">2509.11470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10292.html">Is cosmic dust porous?</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Alexey Potapov et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10292">2509.10292</a></td>
 </tr>
 </tbody></table>

@@ -119,10 +119,6 @@
   count: 1
   total: 4
   group: fluids
-- name: process-control
-  count: 1
-  total: 49
-  group: control
 - name: process-design
   count: 1
   total: 37
@@ -291,6 +287,10 @@
   count: 0
   total: 1
   group: separations
+- name: process-control
+  count: 0
+  total: 49
+  group: control
 - name: process-intensification
   count: 0
   total: 1
