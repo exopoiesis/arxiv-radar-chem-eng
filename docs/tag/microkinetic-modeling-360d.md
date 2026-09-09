@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>microkinetic-modeling — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="microkinetic-modeling-7d.html">7d</a> <a href="microkinetic-modeling-30d.html">30d</a> <a href="microkinetic-modeling-90d.html">90d</a> <strong>360d</strong> <a href="microkinetic-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04922.html">Atomistic Insights into the Degradation of Metal Phthalocyanine Catalysts during Oxygen Reduction Reaction</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
 <td>Huanhuan Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04922">2510.04922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10985.html">Bridging Structure and Activity in Nanocatalysts via Machine Learning and Global Structure Representations</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a></div></td>
-<td>Sofia Zinzani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10985">2509.10985</a></td>
 </tr>
 </tbody></table>
