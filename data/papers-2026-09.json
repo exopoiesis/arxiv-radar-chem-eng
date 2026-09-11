@@ -1,4 +1,29 @@
 {
+ "2609.01604": {
+  "abstract": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack perturbation taxonomy across the Readability and Adequacy dimensions of NLG quality, a generation pipeline that produces paired clean and corrupt summaries with controlled error intensity and explicit token-level modification maps, and a four-experiment battery of causal tracing, logit-lens vocabulary projection, and attention-head knockout applied to Themis (Llama-3-8B) and Prometheus (Mistral-7B). Both evaluators implement a structured, coherent evaluation pipeline operating in two stages: below layer 15, attention performs local error comparison and routes the result to the final input position; above it, the MLP cascade integrates the signal and writes the rating, with the decision crystallizing in the residual stream at a sharp late layer (L = 26 on Themis, L = 25 on Prometheus). Furthermore, a base-model control at the same scale (Llama-3-8B) reproduces the routing architecture and crystallization but not the stage separation, isolating the two mechanisms that fine-tuning specifically installs, suppression of below-L15 MLP contribution at the last position and a two-layer advance of the crystallization depth, indicating that fine-tuning sculpts an existing substrate rather than building the pipeline from scratch. We release the source code and data at https://github.com/himil-v/judge-mech",
+  "authors": [
+   "Himil Vasava",
+   "Ming Jiang"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": "Accepted at EMNLP 2026 Main Conference",
+  "first_author": "Himil Vasava",
+  "pdf_url": "http://arxiv.org/pdf/2609.01604",
+  "primary_category": "cs.CL",
+  "published": "2026-09-01",
+  "tags": [
+   "crystallization",
+   "large-language-models"
+  ],
+  "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-09-01"
+ },
  "2609.02656": {
   "abstract": "High-order CFD simulations provide detailed resolution of the heterogeneous interstitial flow in pebble-bed reactors, but their computational cost is high, especially during the initial flow-development period required to reach statistically stationary conditions. This work investigates the use of a Super-Resolution Graph Neural Network (SR-GNN) to improve the initialization of high-order NekRS simulations. Lower-order P = 2 velocity fields are used as inputs to reconstruct higher-order representations, which are then used as initial conditions for P = 7 restart simulations. The approach is evaluated using a 146-pebble bed at Re = 1000, Re = 2500, and Re = 5000, with pressure-drop convergence used as the main figure of merit. The SR-GNN models were trained using paired low- and high-order snapshots and were first evaluated through qualitative inference comparisons. High-order restart simulations showed that, for Re = 1000 and Re = 2500, the SR-GNN initialized cases produced pressure-drop histories similar to direct restarts from true P = 2 fields. For Re = 5000, however, the super-resolved field restart approached the statistically stationary P = 7 pressure-drop range faster than both the direct P = 2 restart and the reference P = 7 simulation initialized from a uniform velocity field. The trained Re = 5000 model was also applied to a larger 1568-pebble bed, demonstrating qualitative applicability of the workflow to a significantly larger packed-bed geometry. These results indicate that SR-GNN-based initialization is a promising strategy for reducing high-order flow-development cost, while also motivating further work on broader Reynolds-number and geometry generalization.",
   "authors": [
@@ -37,5 +62,87 @@
    "Computational Fluid Dynamics & Multiphase Flow"
   ],
   "updated": "2026-09-01"
+ },
+ "2609.06513": {
+  "abstract": "A time fractional extension of the Hunter Saxton equation is examined, in which the temporal derivative of u_x is replaced by a Caputo derivative of order 0 < alpha <= 1. This modification introduces memory effects into a model traditionally associated with director field dynamics in nematic liquid crystals. By employing a fractional separation of variables strategy together with the exponential spatial profile phi(x) = exp(b+x), which cancels the nonlinear structure exactly, the governing nonlinear partial differential equation is reduced to a fractional relaxation ODE, whose closed form solution is the one-parameter Mittag Leffler function. The exact analytic solution is derived algebraically from the separation process. This appears to be the first exact closed form solution of the Caputo time fractional Hunter Saxton equation. The result is validated symbolically using the MathHandbook computer-algebra system. Quantitative analysis in both the fractional (0 < alpha < 1) and classical (alpha -> 1) limits demonstrates how fractional-order memory slows temporal relaxation relative to the exponential baseline. The solution provides a reliable benchmark for numerical schemes and clarifies how fractional dynamics influence nonlinear wave propagation in orientationally ordered fluids.",
+  "authors": [
+   "Weiguang Huang"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "math-ph",
+   "math.AP",
+   "math.DS"
+  ],
+  "comment": null,
+  "first_author": "Weiguang Huang",
+  "pdf_url": "http://arxiv.org/pdf/2609.06513",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-06",
+  "tags": [
+   "separations"
+  ],
+  "title": "Exact Analytic Solution for the Time-Fractional Hunter-Saxton Equation with Caputo derivative",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-09-06"
+ },
+ "2609.07287": {
+  "abstract": "Contact binary systems exhibit complex evolutionary behavior governed by mass transfer, angular momentum loss (AML), and Roche geometry. The fillout factor ($f$) is widely used as a descriptor of the degree of overcontact, yet its physical and statistical role remains nonuniformly defined across the literature. We used a compiled observational sample of W UMa-type contact binaries to construct a data-driven classification framework based on $f$ and its relation to fundamental system parameters. Unsupervised clustering applied to the one-dimensional $f$ distribution reveals a robust three-class structure corresponding to shallow-, medium-, and deep-contact configurations. The statistically determined boundaries are located at $f \\simeq 0.257$ and $f \\simeq 0.561$, with a stable silhouette score of $S \\simeq 0.613$. The stability of this classification is confirmed through perturbation tests in $f$ and parameter-conditioned samples. A random forest regression model shows that 60.7\\% of the variance in $f$ can be explained by the considered physical and geometric system parameters, with geometric parameters providing the largest predictive contribution. Among the considered parameters, the mass ratio emerges as the dominant predictor. The identified subclasses therefore appear to reflect a continuous geometric sequence rather than discrete physical states, governed by the progressive evolution of the Roche equipotential configuration under mass transfer and AML. Notably, the second boundary separating medium- and deep-contact systems shows lower stability than the first boundary, suggesting that the transition toward deep contact may be more sensitive to the physical composition of the analyzed sample.",
+  "authors": [
+   "A. Poro",
+   "K. Li",
+   "E. Paki",
+   "F. Alicavus",
+   "N. Alan"
+  ],
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "comment": "Accepted by the A&A journal",
+  "first_author": "A. Poro",
+  "pdf_url": "http://arxiv.org/pdf/2609.07287",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-09-07",
+  "tags": [
+   "mass-transfer"
+  ],
+  "title": "Statistical structure and physical interpretation of the fillout factor distribution in contact binary stars",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-09-07"
+ },
+ "2609.08742": {
+  "abstract": "Metal phthalocyanines (MPc) are a versatile molecular platform for applications ranging from organic optoelectronic devices to single-atom catalysis (SAC). Their adsorption and layer formation on the prototypical transparent electrode substrates of organic optoelectronic devices is directly relevant for charge injection and transport across the organic-oxide interface. Moreover, the well-defined M-N$_4$ coordination of the metal cation defines their activity as SACs for (electro-)catalysis. Here, the adsorption of the metal-free phthalocyanine (H$_2$Pc) is characterized on In$_2$O$_3$(111) using low-temperature STM, nc-AFM, and STS. In$_2$O$_3$ is not only a model system of indium tin oxide (ITO) but also an active catalytic material for CO$_2$ reduction. H$_2$Pc adsorbs in the same site and configuration reported for copper phthalocyanine [J. Mater. Chem. C 13, 17650-17661 (2025)] and for the majority of cobalt phthalocyanine [Surf. Sci. 722, 122065 (2022)]. Despite this shared preference in adsorption site, H$_2$Pc cannot be organized into extended and ordered monolayer structures by gentle annealing: the molecule starts to decompose at $\\approx$50$^\\circ$C, well below the temperature used to grow monolayers of CoPc and CuPc. Self-metalation is not observed on stoichiometric In$_2$O$_3$(111). On the reduced surface where In$^0$ adatoms are present, new H$_2$Pc-related features appear but cannot be identified by imaging only. The comparison of H$_2$Pc with CoPc and CuPc identifies distinct roles of the central metal ion in the metal-Pc/In$_2$O$_3$(111) systems: it acts as a structural anchor that stabilizes the macrocycle against decomposition on the surface, and it modifies the frontier-orbital character in ways that determine whether a second adsorption configuration is populated.",
+  "authors": [
+   "Viktoria Waidbacher",
+   "Sarah Tobisch",
+   "Faith J. Lewis",
+   "Moritz Eder",
+   "Michael Schmid",
+   "Gareth Parkinson",
+   "Ulrike Diebold",
+   "Margareta Wagner"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Viktoria Waidbacher",
+  "pdf_url": "http://arxiv.org/pdf/2609.08742",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-08",
+  "tags": [
+   "adsorption",
+   "catalysis",
+   "mpc"
+  ],
+  "title": "The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-09-08"
  }
 }

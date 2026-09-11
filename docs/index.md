@@ -5,15 +5,39 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-09-10._
+_Updated 2026-09-11._
 
-**1217** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1221** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Viktoria Waidbacher et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.07287.html">Statistical structure and physical interpretation of the fillout factor distribution in contact binary stars</a></div><div class="paper-tags"><a href="tag/mass-transfer-30d.html">mass-transfer</a></div></td>
+<td>A. Poro et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07287">2609.07287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.06513.html">Exact Analytic Solution for the Time-Fractional Hunter-Saxton Equation with Caputo derivative</a></div><div class="paper-tags"><a href="tag/separations-30d.html">separations</a></div></td>
+<td>Weiguang Huang</td>
+<td><a href="http://arxiv.org/abs/2609.06513">2609.06513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01604.html">Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Himil Vasava et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01604">2609.01604</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/packed-bed-30d.html">packed-bed</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-09-10._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11062.html">Accelerated Discovery of Materials with Extreme Work Functions through Uncertainty-Aware Multi-Fidelity Screening</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
 <td>Jun Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11062">2608.11062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.08253.html">SuperLocalMemory 4.0: The Governed Memory Operating System for AI Agents</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
-<td>Varun Pratap Bhardwaj et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08253">2608.08253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
-<td>Haicheng Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06697">2608.06697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.07273.html">Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics</a></div><div class="paper-tags"><a href="tag/economic-mpc-30d.html">economic-mpc</a> · <a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/energy-systems-30d.html">energy-systems</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Azzam Abdul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07273">2608.07273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-isotherms-30d.html">adsorption-isotherms</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Rahul Soni et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05603">2608.05603</a></td>
 </tr>
 </tbody></table>
