@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13916.html">Inverse Design of Amorphous Materials with Targeted Properties</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Jonas A. Finkler et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13916">2509.13916</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13479.html">From Data to Alloys Predicting and Screening High Entropy Alloys for High Hardness Using Machine Learning</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Rahul Bouri et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13479">2509.13479</a></td>
 </tr>
 </tbody></table>
