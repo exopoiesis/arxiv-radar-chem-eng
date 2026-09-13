@@ -11,10 +11,6 @@
   count: 5
   total: 93
   group: separations
-- name: cfd
-  count: 3
-  total: 93
-  group: fluids
 - name: electrochemical-systems
   count: 3
   total: 67
@@ -43,6 +39,10 @@
   count: 2
   total: 60
   group: methods
+- name: cfd
+  count: 2
+  total: 93
+  group: fluids
 - name: metal-organic-frameworks
   count: 2
   total: 33
