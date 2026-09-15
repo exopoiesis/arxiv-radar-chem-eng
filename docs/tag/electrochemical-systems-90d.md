@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <strong>90d</strong> <a href="electrochemical-systems-360d.html">360d</a> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="system-identification-90d.html">system-identification</a></div></td>
 <td>Feng Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28507">2606.28507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17382.html">Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory</a></div></td>
-<td>Ryoma Iki et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17382">2606.17382</a></td>
 </tr>
 </tbody></table>
