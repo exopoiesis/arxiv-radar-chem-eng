@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="gaussian-process-90d.html">gaussian-process</a></div></td>
+<td>Joshua W. Sin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="mpc-90d.html">mpc</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jaehong Kwon et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="dft-90d.html">dft</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Zongmin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
 </tr>
 </tbody></table>

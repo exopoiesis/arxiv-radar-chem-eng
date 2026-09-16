@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14776.html">Comparative Evaluation of MILP, MPC, and Reinforcement Learning for Commercial Battery Dispatch Under Time-of-Use Tariffs</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="energy-systems-90d.html">energy-systems</a></div></td>
+<td>Hafiz Majid Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14776">2609.14776</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04398.html">Grid-Mode-Aware Model Predictive Control of Hybrid Energy Storage Systems for AI Data Center Power Smoothing</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a></div></td>
+<td>Xin Chen</td>
+<td><a href="http://arxiv.org/abs/2609.04398">2609.04398</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-17</td>
@@ -44,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Takumi Shioda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18799.html">A Theory-Guided Advanced Regulatory Control Synthesis for Cooling-Limited Exothermic Semi-Batch Reactors</a></div></td>
-<td>Chenchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18799">2606.18799</a></td>
 </tr>
 </tbody></table>

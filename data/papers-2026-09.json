@@ -63,6 +63,61 @@
   ],
   "updated": "2026-09-01"
  },
+ "2609.03531": {
+  "abstract": "Thyristor rectifiers (TRs) are cost-effective electrolysis power supplies for renewable power-to-hydrogen (ReP2H) systems, but their harmonics may violate grid-code limits. In contrast to conventional solutions that rely on higher-pulse (such as 24-pulse) rectifiers, this paper proposes an operational harmonic coordination scheme that enables low-cost 12-pulse TRs to meet harmonic requirements through coordinated operation. First, a harmonic model quantifies the effects of rectifier transformer (RCT) tap positions and electrolytic currents, enabling harmonic cancellation among multiple electrolyzers (ELZs). A two-layer framework then coordinates hydrogen production and harmonic mitigation. Hourly scheduling determines ELZ commitment within the harmonic feasible region under renewable uncertainty using stochastic programming and a modified progressive hedging algorithm, while minute-level dispatch tracks renewable power and mitigates harmonics. A decomposition algorithm separates production dispatch from harmonic mitigation to improve computational efficiency. Case studies based on real-life projects show that the proposed method increases profit by 31% over current-only regulation. Annual simulations further show that coordinated 12-pulse TRs can replace 24-pulse rectifiers for harmonic compliance by exchanging additional RCT tap actions for lower transformer investment, reducing rectification-stage cost by 37.5%.",
+  "authors": [
+   "Yangjun Zeng",
+   "Yiwei Qiu",
+   "Jie Zhu",
+   "Yi Zhou",
+   "Tao Wu",
+   "Xin Meng",
+   "Shi Chen",
+   "Buxiang Zhou",
+   "Kaigui Xie"
+  ],
+  "categories": [
+   "math.OC",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Yangjun Zeng",
+  "pdf_url": "http://arxiv.org/pdf/2609.03531",
+  "primary_category": "math.OC",
+  "published": "2026-09-03",
+  "tags": [
+   "electrolysis",
+   "hydrogen-production"
+  ],
+  "title": "Beyond Higher-Pulse Rectification: Operational Harmonic Coordination in Renewable P2H Systems",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04398": {
+  "abstract": "To facilitate the grid-friendly integration of highly variable AI data center loads, this paper proposes a grid-mode-aware model predictive control (G-MPC) framework for managing a hybrid energy storage system (HESS) to smooth grid-side power demand. The framework optimally coordinates a battery energy storage system (BESS) and a supercapacitor (SC) by solving a multi-step optimization problem in a receding-horizon manner. In particular, band-pass filter dynamics are directly embedded in the G-MPC formulation to extract and suppress grid-side power components associated with vulnerable grid oscillatory modes, thus mitigating load-induced grid oscillations. The resulting G-MPC optimization jointly minimizes violations of grid-side power-envelope, ramp-rate, and modal-power requirements and the degradation and power-ramping costs of the BESS and SC, while satisfying power limits, state-of-charge limits, and other operational constraints. To enable real-time implementation, a fix-and-re-optimize algorithm is developed to solve each G-MPC problem efficiently while preventing simultaneous charging and discharging. Extensive simulations demonstrate the effectiveness, flexibility, and computational efficiency of the proposed framework. The results also highlight the importance of explicitly suppressing power components associated with vulnerable grid modes, rather than merely reducing overall load variations, to effectively mitigate grid oscillations.",
+  "authors": [
+   "Xin Chen"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Xin Chen",
+  "pdf_url": "http://arxiv.org/pdf/2609.04398",
+  "primary_category": "eess.SY",
+  "published": "2026-09-03",
+  "tags": [
+   "energy-storage",
+   "mpc"
+  ],
+  "title": "Grid-Mode-Aware Model Predictive Control of Hybrid Energy Storage Systems for AI Data Center Power Smoothing",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-09-03"
+ },
  "2609.06513": {
   "abstract": "A time fractional extension of the Hunter Saxton equation is examined, in which the temporal derivative of u_x is replaced by a Caputo derivative of order 0 < alpha <= 1. This modification introduces memory effects into a model traditionally associated with director field dynamics in nematic liquid crystals. By employing a fractional separation of variables strategy together with the exponential spatial profile phi(x) = exp(b+x), which cancels the nonlinear structure exactly, the governing nonlinear partial differential equation is reduced to a fractional relaxation ODE, whose closed form solution is the one-parameter Mittag Leffler function. The exact analytic solution is derived algebraically from the separation process. This appears to be the first exact closed form solution of the Caputo time fractional Hunter Saxton equation. The result is validated symbolically using the MathHandbook computer-algebra system. Quantitative analysis in both the fractional (0 < alpha < 1) and classical (alpha -> 1) limits demonstrates how fractional-order memory slows temporal relaxation relative to the exponential baseline. The solution provides a reliable benchmark for numerical schemes and clarifies how fractional dynamics influence nonlinear wave propagation in orientationally ordered fluids.",
   "authors": [
@@ -144,5 +199,139 @@
    "Separation Processes & Transport Phenomena"
   ],
   "updated": "2026-09-08"
+ },
+ "2609.09665": {
+  "abstract": "Physics-based battery models provide internal electrochemical states for estimation and control, but solving the partial differential equations governing solid diffusion can be computationally expensive. This paper therefore develops an analytical Koopman spectral reduced-order model for the single particle model. The Koopman eigenfunctionals and eigenvalues are derived directly from the eigenfunctions of the self-adjoint zero-flux diffusion operator. The zero mode represents the volume average concentration, the nonzero modes describe decaying radial gradients, and projection of the current dependent surface flux yields a linear state-space model that reconstructs the average, surface, and full radial concentrations. Unlike data-driven Koopman models, the proposed formulation requires neither training data nor empirical lifting functions. Compared with a 400 control volume finite volume model (FVM) during a constant 1C discharge, the 80 Koopman mode model achieves negative and positive surface concentration RMSE values of $1.26\\times10^{-5}\\,\\mathrm{mol/m^{3}}$ and $4.10\\times10^{-6}\\,\\mathrm{mol/m^{3}}$, a terminal voltage RMSE of $8.42\\times10^{-4}\\,\\mathrm{V}$. The models with 5 and 80 Koopman modes were approximately 225 and 31 times faster than the FVM model, respectively. These results demonstrate a physically interpretable and computationally efficient representation of battery diffusion dynamics.",
+  "authors": [
+   "Jihoon Moon"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Jihoon Moon",
+  "pdf_url": "http://arxiv.org/pdf/2609.09665",
+  "primary_category": "eess.SY",
+  "published": "2026-09-09",
+  "tags": [
+   "electrochemical-systems",
+   "reduced-order-modeling"
+  ],
+  "title": "Koopman Spectral Reduced-Order Modeling of Spherical Diffusion in Lithium-Ion Batteries",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-09-09"
+ },
+ "2609.11790": {
+  "abstract": "Optimising chemical reactions across multiple objectives, such as yield, selectivity, and safety, is central to chemical synthesis, and model-driven approaches depend critically on how reaction components are represented. Established featurisations are either chemically uninformative, as with one-hot encodings, or, as with molecular descriptors, do not readily extend across chemically distinct components. For structurally and functionally diverse components, it is therefore unclear what a shared representation should contain. Constructing such a representation is itself a challenging research undertaking that must be revisited for each new reaction system. Here we bypass this step by learning the reaction representation dynamically from text. Textual descriptions of reaction conditions are encoded by a fine-tuned language model trained jointly with Gaussian process surrogates, yielding task-adaptive representations within a multi-objective Bayesian optimisation loop. Across nickel- and palladium-catalysed cross-couplings in both sequential and parallel experimentation regimes, this approach reaches optimisation convergence in fewer experiments than descriptor libraries or one-hot encoding. Applied prospectively to a palladium-catalysed cyanation spanning mixed ligand denticity and heterogeneous additives, and to a three-objective asymmetric hydrogenation across chiral iridium and ruthenium catalyst families, two rounds of high-throughput experimentation (192 reactions, under 3% of each design space) delivered conditions translating directly to gram scale in 94% and 84% isolated yield, the latter at 99.6% enantiomeric excess.",
+  "authors": [
+   "Joshua W. Sin",
+   "David Ming Segura",
+   "Bojana Ranković",
+   "Siu Lun Chau",
+   "Marius D. R. Lutz",
+   "Andrea Anelli",
+   "Ryan P. Burwood",
+   "Kurt Püntener",
+   "Maximilian J. Notheis",
+   "Raphael Bigler",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Joshua W. Sin",
+  "pdf_url": "http://arxiv.org/pdf/2609.11790",
+  "primary_category": "cs.LG",
+  "published": "2026-09-10",
+  "tags": [
+   "bayesian-inference",
+   "catalysis",
+   "gaussian-process"
+  ],
+  "title": "Dynamic language model representations for multi-objective reaction optimisation",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.12968": {
+  "abstract": "Optimal dispatch of battery energy storage systems requires balancing energy arbitrage against cycle-induced degradation, which is accurately quantified through rainflow cycle counting. However, rainflow's combinatorial, nondifferentiable algorithm is incompatible with both convex optimization and gradient-based neural network training. We present a self-supervised mixed-integer differentiable predictive control framework that trains neural policies directly on exact rainflow degradation through a novel differentiable rainflow layer combining exact gradients at state-of-charge extrema with dense proxy gradients on incremental changes, enabling stable end-to-end training while preserving true degradation physics. A mixed-integer differentiable architecture enforces power balance, dynamics, and mode exclusivity, with a safety filter guaranteeing constraint satisfaction. We evaluate the framework on 3,650 real battery-day scenarios (a 10-battery fleet over 365 days) spanning three utility regions (SDG&E California, Xcel Energy Colorado, APS Arizona) with diverse time-of-use pricing structures. A single-battery trained policy achieves a 0.35% performance gap on its training distribution with over 200x speedup, while fleet-wide training generalizes across all households and utility regions, achieving a 3.33% performance gap with 564x computational speedup (62 seconds vs. 9.7 hours) and 100% feasibility. The millisecond-scale inference reduces computation by over two orders of magnitude compared to mixed-integer solvers, enabling practical deployment at scale.",
+  "authors": [
+   "Eshagh Safarzadeh Ravajiri",
+   "Jan Drgona",
+   "Mahdi Mehrtash",
+   "Benjamin F. Hobbs"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "12 pages. Submitted to IEEE Transactions on Smart Grid",
+  "first_author": "Eshagh Safarzadeh Ravajiri",
+  "pdf_url": "http://arxiv.org/pdf/2609.12968",
+  "primary_category": "eess.SY",
+  "published": "2026-09-11",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "End-to-End Battery Dispatch with Exact Rainflow Degradation via Mixed-Integer Differentiable Predictive Control",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-09-11"
+ },
+ "2609.13441": {
+  "abstract": "Reconstructing stationary space-time Gaussian processes at unobserved locations is costly when many sites share regular temporal records. We develop a spectral likelihood combining a temporal discrete Fourier transform (DFT) with a Hilbert-space Gaussian process (HSGP) representation of frequency-specific spatial covariance. We derive the exact covariance of the finite-record DFT coefficients and use a Whittle likelihood that approximates distinct frequencies as independent spatial problems. At each temporal frequency, HSGP approximates spatial covariance by evaluating the sampled spectral multiplier at retained Laplacian eigenfrequencies. For models specified by a joint spectral density whose half-spectrum lacks a convenient closed form, this construction avoids repeated Fourier inversion. The fixed spatial basis also permits cached feature projections to be reused in likelihood fitting and held-site reconstruction, with approximation accuracy depending on domain extension and basis size. In a simulation study of such a model, HSGP achieved reconstruction accuracy comparable to a high-accuracy quadrature reference while reducing mean fitting time by 69%. Additional applications to wind-field reconstruction tasks examine the effects of basis rank, temporal record length, and separability, and demonstrate accurate inference on held-out test sites when sufficiently rich bases are used. Taken together, the results indicate that computational savings are attainable when the spectral multiplier can be evaluated directly, numerical spatial inversion is costly, and an adequate basis has rank lower than the number of fitting sites.",
+  "authors": [
+   "Xin Huang",
+   "Jia Li",
+   "Jun Yu"
+  ],
+  "categories": [
+   "stat.ME"
+  ],
+  "comment": "29 pages, 7 figures",
+  "first_author": "Xin Huang",
+  "pdf_url": "http://arxiv.org/pdf/2609.13441",
+  "primary_category": "stat.ME",
+  "published": "2026-09-11",
+  "tags": [
+   "dft",
+   "gaussian-process"
+  ],
+  "title": "Temporal Fourier Likelihoods with Spatial Hilbert-Space Gaussian Process Approximations",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-09-11"
+ },
+ "2609.14776": {
+  "abstract": "Battery energy storage systems (BESS) paired with rooftop photovoltaics (PVs) can deliver measurable cost savings under time-of-use (TOU) electricity tariffs; however, the relative performance of model-based and model-free dispatch strategies remains insufficiently benchmarked on full-year, real-world commercial datasets. This paper presents a full-year (2023) comparative evaluation of three BESS dispatch approaches using data from a commercial PV installation operating under a TOU tariff. The examined strategies include: (i) a mixed-integer linear programming (MILP) formulation with perfect foresight, providing an oracle performance benchmark under the assumed model; (ii) a model predictive control (MPC) scheme based on a day-ahead persistence forecast, representing a low-complexity deployable approach; and (iii) a soft actor-critic (SAC) deep reinforcement learning agent trained under causal information constraints. The MILP benchmark achieves an annual cost reduction of 24.6\\% relative to a no-storage baseline. The persistence-based MPC approach recovers 99.2\\% of this benchmark using only prior-day data. In contrast, the evaluated SAC agent yields an annual cost higher than the no-storage baseline. This outcome is analyzed in the context of known challenges in reinforcement learning for energy systems, including limited observability and reward design. Overall, the results indicate that, for the studied dataset and tariff structure, persistence-based MPC captures nearly all achievable economic benefits under practical deployment constraints, whereas the considered RL configuration does not yield competitive performance under the same information limitations.",
+  "authors": [
+   "Hafiz Majid Hussain",
+   "Wajiha Samar",
+   "Lurian Klein",
+   "Pedro Nardelli"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Hafiz Majid Hussain",
+  "pdf_url": "http://arxiv.org/pdf/2609.14776",
+  "primary_category": "eess.SY",
+  "published": "2026-09-13",
+  "tags": [
+   "energy-storage",
+   "energy-systems",
+   "mpc"
+  ],
+  "title": "Comparative Evaluation of MILP, MPC, and Reinforcement Learning for Commercial Battery Dispatch Under Time-of-Use Tariffs",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-09-13"
  }
 }

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="mpc-7d.html">mpc</a></div></td>
-<td>Viktoria Waidbacher et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="gaussian-process-7d.html">gaussian-process</a></div></td>
+<td>Joshua W. Sin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
 </tr>
 </tbody></table>
