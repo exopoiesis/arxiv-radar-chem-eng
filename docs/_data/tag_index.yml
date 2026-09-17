@@ -7,14 +7,6 @@
   count: 5
   total: 119
   group: architectures
-- name: mpc
-  count: 5
-  total: 76
-  group: control
-- name: energy-storage
-  count: 4
-  total: 157
-  group: energy
 - name: adsorption
   count: 3
   total: 93
@@ -23,10 +15,14 @@
   count: 3
   total: 61
   group: methods
-- name: electrochemical-systems
+- name: energy-storage
   count: 3
-  total: 68
+  total: 157
   group: energy
+- name: mpc
+  count: 3
+  total: 76
+  group: control
 - name: separations
   count: 3
   total: 66
@@ -39,6 +35,10 @@
   count: 2
   total: 130
   group: materials
+- name: electrochemical-systems
+  count: 2
+  total: 68
+  group: energy
 - name: gaussian-process
   count: 2
   total: 60
@@ -87,10 +87,6 @@
   count: 1
   total: 21
   group: methods
-- name: fault-detection
-  count: 1
-  total: 20
-  group: monitoring
 - name: graph-neural-networks
   count: 1
   total: 38
@@ -195,6 +191,10 @@
   count: 0
   total: 13
   group: reactions
+- name: fault-detection
+  count: 0
+  total: 20
+  group: monitoring
 - name: fixed-bed
   count: 0
   total: 5
