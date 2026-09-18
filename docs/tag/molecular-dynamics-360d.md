@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
+<td>Jaehyung Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
+<td>Vsevolod Viliuga et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-isotherms-360d.html">adsorption-isotherms</a> · <a href="gaussian-process-360d.html">gaussian-process</a></div></td>
@@ -188,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03824.html">Proximal Diffusion Neural Sampler</a></div><div class="paper-tags"><a href="optimal-control-360d.html">optimal-control</a></div></td>
 <td>Wei Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03824">2510.03824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17833.html">How Realistic are Idealized Copper Surfaces? A Machine Learning Study of Rough Copper-Water Interfaces</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a></div></td>
-<td>Linus C. Erhard et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17833">2509.17833</a></td>
 </tr>
 </tbody></table>

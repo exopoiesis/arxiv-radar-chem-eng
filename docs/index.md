@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-09-17._
+_Updated 2026-09-18._
 
-**1228** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1240** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,64 @@ _Updated 2026-09-17._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18638.html">A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Maiken Borud Omtveit et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18638">2609.18638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19837.html">Machine Learning for High-Entropy Catalysts: Methods and Applications</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Hao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19837">2609.19837</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20038.html">Comparing statistical learning models in wastewater-based epidemiology: An application to norovirus</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Caelan McNamara et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20038">2609.20038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="tag/carbon-capture-30d.html">carbon-capture</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.16680.html">little m: An AI Agent for Industrial Process Optimization</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Yongchao Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16680">2609.16680</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18917.html">Influence of fluidizing medium on hydrodynamics and particle mixing in a binary fluidized bed: a CFD-DEM study</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/multiphase-flow-30d.html">multiphase-flow</a></div></td>
+<td>Ravinder Nath et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18917">2609.18917</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jaehyung Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14906.html">Neural-Network Solutions to Real-Space Charge Density and Generalization</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
+<td>Yuxuan Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14906">2609.14906</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14776.html">Comparative Evaluation of MILP, MPC, and Reinforcement Learning for Commercial Battery Dispatch Under Time-of-Use Tariffs</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/energy-systems-30d.html">energy-systems</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
 <td>Hafiz Majid Hussain et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14776">2609.14776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Tsz Wai Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-11</td>
@@ -46,6 +100,12 @@ _Updated 2026-09-17._
 </tr>
 <tr class="paper">
 <td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Vsevolod Viliuga et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
@@ -70,9 +130,21 @@ _Updated 2026-09-17._
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04011.html">Differentiable Hybrid Modelling for Learning and Optimising Chemical Transport Processes from Experimental Data</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-design-30d.html">process-design</a></div></td>
+<td>Arthur Jessop et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04011">2609.04011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04398.html">Grid-Mode-Aware Model Predictive Control of Hybrid Energy Storage Systems for AI Data Center Power Smoothing</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
 <td>Xin Chen</td>
 <td><a href="http://arxiv.org/abs/2609.04398">2609.04398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02453.html">Addressing Trust in AI Systems through Education: A Didactic Perspective</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Pierre Haritz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02453">2609.02453</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -121,77 +193,5 @@ _Updated 2026-09-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
 <td>Kaku E. Eduku et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26064">2608.26064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23420.html">Systematic Bias in Green Patent Classification: Silent Green and False Green</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/separations-30d.html">separations</a></div></td>
-<td>Hamid Bekamiri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23420">2608.23420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21525.html">Machine-learned exchange-correlation functionals for molecules, solids, and reactive surfaces</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a></div></td>
-<td>Mohamed S. Abdallah et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21525">2608.21525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
-<td>Chen Yuntong et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18473.html">A Locally Deployable Tool-Grounded LLM Multi-agent Framework for Automating Methane Emission Analysis and Reporting</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
-<td>Yang Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18473">2608.18473</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/experimental-design-30d.html">experimental-design</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/system-identification-30d.html">system-identification</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Milad Panahi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17591">2608.17591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17806.html">A geometric reformulation of the bilevel parameter optimization problem to a single level non-linear programming problem with applications to phase equilibria</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-design-30d.html">process-design</a> · <a href="tag/separations-30d.html">separations</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
-<td>Stefan C. Endres et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17806">2608.17806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16432.html">Real-Time Control of Sustainable Data Centers: A Two-Layer Model Predictive Control Framework with Workload Flexibility and Heat Recovery</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Wenyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16432">2608.16432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16759.html">Novel methodology for obtaining design structure matrices using network identification</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a></div></td>
-<td>E. M. M. et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16759">2608.16759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16820.html">Battery-Swapping Station Operation Under Forecast Uncertainty: A Scenario-Based Stochastic MPC Framework</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Zhiyuan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16820">2608.16820</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14990.html">Discovering Physically Interpretable Mathematical Expression for Predicting CO2 Adsorption in Metal-Organic Frameworks via Machine Learning-Symbolic Regression</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
-<td>Yimin Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14990">2608.14990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.15396.html">Large Language Model Assisted Operational Monitoring for Battery Energy Storage System Integrated Power Distribution Networks</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Azmeer Akhtar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15396">2608.15396</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="tag/active-sites-30d.html">active-sites</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/microkinetic-modeling-30d.html">microkinetic-modeling</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
-<td>Songbo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
 </tr>
 </tbody></table>

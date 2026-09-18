@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20038.html">Comparing statistical learning models in wastewater-based epidemiology: An application to norovirus</a></div></td>
+<td>Caelan McNamara et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20038">2609.20038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="generative-models-90d.html">generative-models</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="experimental-design-90d.html">experimental-design</a> · <a href="physics-informed-ml-90d.html">physics-informed-ml</a> · <a href="system-identification-90d.html">system-identification</a></div></td>
@@ -38,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Philipp Denzel et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21728.html">Embedding Linear Equality Constraints in Probabilistic Neural Networks for Dynamic Modelling</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="process-systems-engineering-90d.html">process-systems-engineering</a></div></td>
-<td>Matthew Marsh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21728">2606.21728</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Tsz Wai Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="mpc-90d.html">mpc</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
@@ -80,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jiwen Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21523.html">Accelerating Simulation and Optimisation of Cyclic Adsorption Processes with Differentiable Programming</a></div><div class="paper-tags"><a href="carbon-capture-90d.html">carbon-capture</a> · <a href="process-design-90d.html">process-design</a></div></td>
-<td>Alex Glover et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21523">2606.21523</a></td>
 </tr>
 </tbody></table>

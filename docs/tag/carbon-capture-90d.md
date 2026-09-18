@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="generative-models-90d.html">generative-models</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22804.html">LithoFormer: A Robust Framework for Stratigraphic Inference via Transformers</a></div></td>
 <td>Shwetha Salimath et al.</td>
@@ -26,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13232.html">Design of Carbon Capture Processes Under Part-load Operating Conditions</a></div></td>
 <td>David Y. Shu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13232">2607.13232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21523.html">Accelerating Simulation and Optimisation of Cyclic Adsorption Processes with Differentiable Programming</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="process-design-90d.html">process-design</a></div></td>
-<td>Alex Glover et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21523">2606.21523</a></td>
 </tr>
 </tbody></table>

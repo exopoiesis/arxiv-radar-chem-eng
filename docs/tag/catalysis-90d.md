@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19837.html">Machine Learning for High-Entropy Catalysts: Methods and Applications</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a></div></td>
+<td>Hao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19837">2609.19837</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Tsz Wai Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="gaussian-process-90d.html">gaussian-process</a></div></td>
 <td>Joshua W. Sin et al.</td>
 <td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-models-90d.html">generative-models</a> · <a href="graph-neural-networks-90d.html">graph-neural-networks</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Vsevolod Viliuga et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-08</td>
@@ -134,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22926.html">Reaction-Network-Level Discovery of Ammonia Synthesis Catalysts via Ten-Million-Scale Generative Exploration</a></div><div class="paper-tags"><a href="ammonia-synthesis-90d.html">ammonia-synthesis</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Ruili Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22926">2606.22926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jaehong Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
 </tr>
 </tbody></table>

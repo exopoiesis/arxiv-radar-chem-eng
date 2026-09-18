@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19837.html">Machine Learning for High-Entropy Catalysts: Methods and Applications</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Hao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19837">2609.19837</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16680.html">little m: An AI Agent for Industrial Process Optimization</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
+<td>Yongchao Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16680">2609.16680</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Tsz Wai Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01604.html">Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation</a></div><div class="paper-tags"><a href="crystallization-360d.html">crystallization</a></div></td>
