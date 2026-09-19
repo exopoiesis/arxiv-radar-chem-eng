@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>porous-materials — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="porous-materials-7d.html">7d</a> <a href="porous-materials-30d.html">30d</a> <a href="porous-materials-90d.html">90d</a> <strong>360d</strong> <a href="porous-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03649.html">Uncertainty quantification of reacting fluids interacting with porous media using a hybrid physics-based and data-driven approach</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Diba Behnoudfar et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03649">2510.03649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18573.html">Interaction Topological Transformer for Multiscale Learning in Porous Materials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="separations-360d.html">separations</a></div></td>
-<td>Dong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18573">2509.18573</a></td>
 </tr>
 </tbody></table>

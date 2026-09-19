@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18975.html">Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
 <td>Dilshod Nematov et al.</td>
 <td><a href="http://arxiv.org/abs/2503.18975">2503.18975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18573.html">Interaction Topological Transformer for Multiscale Learning in Porous Materials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="porous-materials-360d.html">porous-materials</a> · <a href="separations-360d.html">separations</a></div></td>
-<td>Dong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18573">2509.18573</a></td>
 </tr>
 </tbody></table>

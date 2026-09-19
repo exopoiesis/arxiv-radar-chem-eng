@@ -4,7 +4,7 @@
   total: 166
   group: reactions
 - name: large-language-models
-  count: 8
+  count: 7
   total: 122
   group: architectures
 - name: dft
@@ -139,10 +139,6 @@
   count: 1
   total: 93
   group: modeling
-- name: wastewater-treatment
-  count: 1
-  total: 21
-  group: separations
 - name: active-learning
   count: 0
   total: 53
@@ -367,6 +363,10 @@
   count: 0
   total: 13
   group: fluids
+- name: wastewater-treatment
+  count: 0
+  total: 21
+  group: separations
 - name: zeolites
   count: 0
   total: 6
