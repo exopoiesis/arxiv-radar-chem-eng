@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-control — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="process-control-7d.html">7d</a> <a href="process-control-30d.html">30d</a> <a href="process-control-90d.html">90d</a> <strong>360d</strong> <a href="process-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23305.html">ICS-SimLab: A Containerized Approach for Simulating Industrial Control Systems for Cyber Security Research</a></div><div class="paper-tags"><a href="wastewater-treatment-360d.html">wastewater-treatment</a></div></td>
 <td>Jaxson Brown et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23305">2509.23305</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17809.html">In-Process Monitoring of Gear Power Honing Using Vibration Signal Analysis and Machine Learning</a></div><div class="paper-tags"><a href="process-monitoring-360d.html">process-monitoring</a></div></td>
-<td>Massimo Capurso et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17809">2510.17809</a></td>
 </tr>
 </tbody></table>

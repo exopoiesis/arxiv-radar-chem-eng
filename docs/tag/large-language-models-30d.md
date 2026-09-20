@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>large-language-models — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <strong>30d</strong> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23420.html">Systematic Bias in Green Patent Classification: Silent Green and False Green</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="separations-30d.html">separations</a></div></td>
 <td>Hamid Bekamiri et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23420">2608.23420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
-<td>Chen Yuntong et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
 </tr>
 </tbody></table>

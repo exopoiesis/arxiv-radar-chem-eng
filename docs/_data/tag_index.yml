@@ -4,7 +4,7 @@
   total: 166
   group: reactions
 - name: large-language-models
-  count: 7
+  count: 6
   total: 122
   group: architectures
 - name: dft
@@ -63,10 +63,6 @@
   count: 2
   total: 16
   group: energy
-- name: materials-discovery
-  count: 2
-  total: 46
-  group: materials
 - name: molecular-dynamics
   count: 2
   total: 72
@@ -115,10 +111,10 @@
   count: 1
   total: 13
   group: transport
-- name: metal-organic-frameworks
+- name: materials-discovery
   count: 1
-  total: 33
-  group: separations
+  total: 46
+  group: materials
 - name: multiphase-flow
   count: 1
   total: 14
@@ -242,6 +238,10 @@
 - name: membrane-separation
   count: 0
   total: 4
+  group: separations
+- name: metal-organic-frameworks
+  count: 0
+  total: 33
   group: separations
 - name: microkinetic-modeling
   count: 0
