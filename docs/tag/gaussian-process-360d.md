@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gaussian-process — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <a href="gaussian-process-90d.html">90d</a> <strong>360d</strong> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10621.html">SDG-L: A Semiparametric Deep Gaussian Process based Framework for Battery Capacity Prediction</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Hanbing Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10621">2510.10621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21678.html">Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Isaac Onyango et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21678">2509.21678</a></td>
 </tr>
 </tbody></table>
