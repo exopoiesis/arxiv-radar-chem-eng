@@ -7,6 +7,14 @@
   count: 6
   total: 122
   group: architectures
+- name: energy-storage
+  count: 5
+  total: 159
+  group: energy
+- name: mpc
+  count: 4
+  total: 77
+  group: control
 - name: cfd
   count: 3
   total: 94
@@ -15,18 +23,10 @@
   count: 3
   total: 132
   group: materials
-- name: energy-storage
-  count: 3
-  total: 157
-  group: energy
 - name: graph-neural-networks
   count: 3
   total: 40
   group: architectures
-- name: mpc
-  count: 3
-  total: 76
-  group: control
 - name: process-control
   count: 3
   total: 52
@@ -35,6 +35,10 @@
   count: 2
   total: 94
   group: separations
+- name: battery-modeling
+  count: 2
+  total: 32
+  group: energy
 - name: bayesian-inference
   count: 2
   total: 61
@@ -75,14 +79,14 @@
   count: 2
   total: 66
   group: separations
+- name: surrogate-modeling
+  count: 2
+  total: 94
+  group: modeling
 - name: uncertainty-quantification
   count: 2
   total: 59
   group: methods
-- name: battery-modeling
-  count: 1
-  total: 31
-  group: energy
 - name: carbon-capture
   count: 1
   total: 48
@@ -98,6 +102,10 @@
 - name: energy-systems
   count: 1
   total: 39
+  group: energy
+- name: fuel-cells
+  count: 1
+  total: 44
   group: energy
 - name: mass-transfer
   count: 1
@@ -123,10 +131,6 @@
   count: 1
   total: 38
   group: control
-- name: surrogate-modeling
-  count: 1
-  total: 93
-  group: modeling
 - name: active-learning
   count: 0
   total: 53
@@ -207,10 +211,6 @@
   count: 0
   total: 5
   group: reactions
-- name: fuel-cells
-  count: 0
-  total: 43
-  group: energy
 - name: gas-separation
   count: 0
   total: 8

@@ -668,5 +668,140 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-09-17"
+ },
+ "2609.22376": {
+  "abstract": "Quantitative analysis of experimental powder X-ray diffraction data remains challenging when evaluating complex multiphase materials and noisy measurements. We introduce a hybrid quantum neural network framework designed to extract quantitative parameters, such as phase weight fractions and scale factors, directly from one-dimensional powder diffraction patterns without iterative refinement. The model combines noise-aware classical simulator pre-training with fast downstream fine-tuning on quantum processing unit features, ensuring stability against hardware decoherence. We demonstrate the practical utility of this approach by deploying the trained network onto an IBM quantum computer to analyse experimental X-ray diffraction computed tomography datasets from a three-phase solid oxide fuel cell containing ca. 10,000 patterns and a four-phase lithium-ion battery containing ca. 20,000 patterns). The network successfully reconstructs quantitative spatial phase maps in strong agreement with classical Rietveld refinement, paving the way for using quantum computing hardware to analyse real-world materials characterisation data.",
+  "authors": [
+   "H. Dong",
+   "S. D. M. Jacques",
+   "M. Q. Hlatshwayo",
+   "E. Papoutsellis",
+   "K. Georgopoulos",
+   "A. M. Beale",
+   "A. Vamvakeros"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "H. Dong",
+  "pdf_url": "http://arxiv.org/pdf/2609.22376",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "battery-modeling",
+   "fuel-cells"
+  ],
+  "title": "A Hybrid Quantum Neural Network to Analyse Big Experimental Powder X-ray Diffraction Data",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.22585": {
+  "abstract": "We introduce TWIG (Time-Causal Wavelet Operator for Irregular Graphs), a graph-native neural operator for autoregressive surrogate modeling on static irregular graphs. TWIG transforms each node history into causal multiscale temporal features that separate recent variation from progressively slower memory components, then propagates these features through graph-wavelet operator blocks with gated pointwise channel mixing. The architecture is causal by construction and designed for closed-loop forecasting, where predictions are recursively reused as future inputs. We evaluate TWIG on three irregular-domain forecasting problems spanning regional diffusion, three-dimensional subsurface hydrology, and aerodynamic flow, with graphs ranging from 400 to 5,233 nodes and model capacities from approximately 70k to 10M parameters. TWIG achieves the lowest aggregate rollout errors on the subsurface-hydrology and regional-diffusion benchmarks and ranks second on the 10M-parameter aerodynamic-flow benchmark, behind the GPS Transformer. Across all three settings, TWIG consistently outperforms the corresponding non-time-causal Graph WNO baseline. These results demonstrate that TWIG provides an effective and scalable approach to stable autoregressive forecasting of dynamical fields on irregular graphs.",
+  "authors": [
+   "Subashree Venkatasubramanian",
+   "David A. Barajas-Solano",
+   "Chuyang Liu",
+   "Daniel M. Tartakovsky",
+   "Dipankar Dwivedi"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "23 pages, 5 figures. Preprint",
+  "first_author": "Subashree Venkatasubramanian",
+  "pdf_url": "http://arxiv.org/pdf/2609.22585",
+  "primary_category": "cs.LG",
+  "published": "2026-09-18",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "TWIG: A Time-Causal Wavelet Operator for Autoregressive Forecasting on Irregular Graphs",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.22843": {
+  "abstract": "Accurate and timely detection of degradation in lithium-ion batteries is crucial to ensure safety, reliability, and longevity in high-demand applications such as electric vehicles and energy storage systems. Traditional incremental capacity (IC) analysis methods require low-current cycling for discharge measurements, limiting their practical use in real-time battery management. This paper proposes a novel neural network-based framework that predicts discharge IC features directly from charging signals, eliminating the need for low-current discharge. Trained on a comprehensive dataset of 53 battery cells cycled under diverse fast-charging protocols, the model demonstrates robust generalization ability, effectively estimating degradation indicators on unseen battery data. Among several architectures evaluated, the LSTM model provides the best balance of prediction accuracy and computational efficiency. The proposed approach enables real-time integration into Battery Management Systems (BMS), enhancing degradation monitoring without disrupting normal battery operation. This paper presents a study to bridge IC analysis with practical, fast-charging scenarios, marking a significant step towards intelligent and scalable battery health monitoring.",
+  "authors": [
+   "Amir Madmolilvand",
+   "Farzaneh Abdollahi"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.LG",
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Amir Madmolilvand",
+  "pdf_url": "http://arxiv.org/pdf/2609.22843",
+  "primary_category": "eess.SY",
+  "published": "2026-09-19",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Intelligent Degradation Monitoring in Lithium-ion Batteries via Discharge Incremental Capacity Feature Estimation",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-09-19"
+ },
+ "2609.23549": {
+  "abstract": "Screening oxygen-evolution catalysts on combinatorial libraries requires deciding which candidates receive the remaining measurements. The deciding activity lies beyond each candidate's measured potential window and often above every activity recorded during fitting. We predict it by physics-residual machine learning: the Tafel equation extrapolates the candidate's own measured current and slope, a learned residual attenuated with feature-space distance corrects the magnitude, and an applicability-domain score identifies predictions above the training range before measurement. In a separately fabricated 322-candidate library, 282 above the training maximum, two measurements per candidate gave a mean absolute error of 0.203 mA cm$^{-2}$ against 1.330 for the selected data-driven machine-learning model. Errors inside the training range remained comparable, and 35 labelled catalysts were enough to fit it. In two independent datasets the same construction lowered the overpotential error by 29 to 52%. Campaigns can therefore shorten each measurement and still rank the most active compositions.",
+  "authors": [
+   "Yong-Woon Kim",
+   "Jihyeok Lee",
+   "Sungtae Park",
+   "Sooseok Choi",
+   "Yung-Cheol Byun"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.ET"
+  ],
+  "comment": null,
+  "first_author": "Yong-Woon Kim",
+  "pdf_url": "http://arxiv.org/pdf/2609.23549",
+  "primary_category": "cs.LG",
+  "published": "2026-09-20",
+  "tags": [],
+  "title": "Physics-residual machine learning predicts oxygen-evolution catalyst activity beyond the training range from sparse polarization measurements",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-09-20"
+ },
+ "2609.23590": {
+  "abstract": "Battery energy storage system (BESS) dispatch must preserve operational feasibility while declining price spreads reduce the margin available to pay for cycling. We study a proximal policy optimization (PPO) controller whose pre-selection physical action mask and emergency projection are separated from a causal, forecast-informed economic advisory. All forecast-dependent methods receive the same causal 24-step forecast and grid-side settlement. Across five PPO seeds, advice-on net profit is 30.59 and 18.04 USD per 336-hour T1 and T2 window, versus 36.77 and 22.94 USD for proxy-cost MPC; PPO remains below this reference in both periods. Advice raises T2 profit from 16.45 to 18.04 USD while reducing throughput, but is immaterial in T1. On disjoint weekly blocks, PPO is stable under daily, weekly, and blended seasonal forecasts, weakens under persistence, and remains below proxy-cost MPC. Paired diagnostics localize changes to the observed 5-10 USD/MWh regime with mixed SoC-dependent effects. An M0-M6 ablation shows that mask removal sends thousands of infeasible requests to projection, while removing both physical layers exposes ramp violations. The evidence separates economic screening from feasibility enforcement without claiming formal safety, lifecycle-optimal aging, or RL dominance.",
+  "authors": [
+   "Kuanlin Chen",
+   "Chen-Wei Kuo",
+   "Cheng-En Ou"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "eess.SY"
+  ],
+  "comment": "Accepted for publication at IEEE IECON 2026. 6 pages, 3 figures, 3 tables",
+  "first_author": "Kuanlin Chen",
+  "pdf_url": "http://arxiv.org/pdf/2609.23590",
+  "primary_category": "cs.LG",
+  "published": "2026-09-20",
+  "tags": [
+   "energy-storage",
+   "mpc"
+  ],
+  "title": "Cost-Aware Reinforcement Learning with Action Masking and Projection for Battery Energy Storage Dispatch under Suppressed-Spread Market Shifts",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems",
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-09-20"
  }
 }

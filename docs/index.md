@@ -5,15 +5,39 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-09-21._
+_Updated 2026-09-22._
 
-**1240** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1245** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.23549.html">Physics-residual machine learning predicts oxygen-evolution catalyst activity beyond the training range from sparse polarization measurements</a></div></td>
+<td>Yong-Woon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23549">2609.23549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.23590.html">Cost-Aware Reinforcement Learning with Action Masking and Projection for Battery Energy Storage Dispatch under Suppressed-Spread Market Shifts</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Kuanlin Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23590">2609.23590</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22843.html">Intelligent Degradation Monitoring in Lithium-ion Batteries via Discharge Incremental Capacity Feature Estimation</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
+<td>Amir Madmolilvand et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22843">2609.22843</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22585.html">TWIG: A Time-Causal Wavelet Operator for Autoregressive Forecasting on Irregular Graphs</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Subashree Venkatasubramanian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22585">2609.22585</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18638.html">A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
@@ -37,6 +61,12 @@ _Updated 2026-09-21._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="tag/carbon-capture-30d.html">carbon-capture</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Jiachen Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22376.html">A Hybrid Quantum Neural Network to Analyse Big Experimental Powder X-ray Diffraction Data</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/fuel-cells-30d.html">fuel-cells</a></div></td>
+<td>H. Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22376">2609.22376</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-16</td>
@@ -163,35 +193,5 @@ _Updated 2026-09-21._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27162.html">Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a></div></td>
 <td>Thorsten Tegetmeyer-Kleine et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27162">2608.27162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06203.html">Beyond Electrons: A Theoretical Framework for Near-Field Radiative Thermal Computing and Neural-Network-Inspired Processing</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
-<td>Hexiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06203">2608.06203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25248.html">Approximating Energy-Regulation Feasible Region of Virtual Power Plants: A Data-driven Inverse Optimization Approach</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a></div></td>
-<td>Ruike Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25248">2608.25248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25443.html">Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Qin Hang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25443">2608.25443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Yuki K. Wakabayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
-<td>Kaku E. Eduku et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26064">2608.26064</a></td>
 </tr>
 </tbody></table>
