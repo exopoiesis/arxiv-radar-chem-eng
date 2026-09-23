@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-09-22._
+_Updated 2026-09-23._
 
-**1245** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1246** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25436.html">Physics-constrained inference of somatic dynamics from dendritic recordings with sparse somatic supervision in weakly coupled two-compartment neuron model</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
+<td>Abdeltif Oujbara et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25436">2609.25436</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.23549.html">Physics-residual machine learning predicts oxygen-evolution catalyst activity beyond the training range from sparse polarization measurements</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-09-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/packed-bed-30d.html">packed-bed</a></div></td>
 <td>Guilherme Gottems et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02656">2609.02656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27162.html">Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a></div></td>
-<td>Thorsten Tegetmeyer-Kleine et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27162">2608.27162</a></td>
 </tr>
 </tbody></table>

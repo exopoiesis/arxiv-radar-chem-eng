@@ -71,6 +71,10 @@
   count: 2
   total: 72
   group: materials
+- name: physics-informed-ml
+  count: 2
+  total: 51
+  group: methods
 - name: reduced-order-modeling
   count: 2
   total: 16
@@ -123,10 +127,6 @@
   count: 1
   total: 4
   group: fluids
-- name: physics-informed-ml
-  count: 1
-  total: 50
-  group: methods
 - name: process-design
   count: 1
   total: 38
