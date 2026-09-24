@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>optimal-control — all</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <a href="optimal-control-90d.html">90d</a> <a href="optimal-control-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
+<td>Jialiang Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08119.html">Cost of Sensing in Optimal Control: Basic Formulations, Examples, and Applications</a></div><div class="paper-tags"><a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>

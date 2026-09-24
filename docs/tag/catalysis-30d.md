@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div><div class="paper-tags"><a href="optimal-control-30d.html">optimal-control</a></div></td>
+<td>Jialiang Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19837.html">Machine Learning for High-Entropy Catalysts: Methods and Applications</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a></div></td>
 <td>Hao Chen et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="large-language-models-30d.html">large-language-models</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Yuki K. Wakabayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23420.html">Systematic Bias in Green Patent Classification: Silent Green and False Green</a></div><div class="paper-tags"><a href="large-language-models-30d.html">large-language-models</a> · <a href="separations-30d.html">separations</a></div></td>
-<td>Hamid Bekamiri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23420">2608.23420</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,39 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-09-23._
+_Updated 2026-09-24._
 
-**1246** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1250** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.27562.html">Europa smooth plains formation: a SPH cryovolcanic model</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
+<td>Bastien Bodin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27562">2609.27562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25774.html">Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
+<td>Run-Ze Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25774">2609.25774</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Jialiang Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.27050.html">Merging Large Language Models and Battery Physics for User-Aware Electric Vehicle Driving Management</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Yukta Pareek et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27050">2609.27050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25436.html">Physics-constrained inference of somatic dynamics from dendritic recordings with sparse somatic supervision in weakly coupled two-compartment neuron model</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-09-23._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04011.html">Differentiable Hybrid Modelling for Learning and Optimising Chemical Transport Processes from Experimental Data</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-design-30d.html">process-design</a></div></td>
 <td>Arthur Jessop et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04011">2609.04011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04398.html">Grid-Mode-Aware Model Predictive Control of Hybrid Energy Storage Systems for AI Data Center Power Smoothing</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Xin Chen</td>
-<td><a href="http://arxiv.org/abs/2609.04398">2609.04398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02453.html">Addressing Trust in AI Systems through Education: A Didactic Perspective</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
-<td>Pierre Haritz et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02453">2609.02453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01604.html">Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Himil Vasava et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01604">2609.01604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/packed-bed-30d.html">packed-bed</a></div></td>
-<td>Guilherme Gottems et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02656">2609.02656</a></td>
 </tr>
 </tbody></table>
