@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="electrochemical-systems-7d.html">electrochemical-systems</a> · <a href="electrolysis-7d.html">electrolysis</a> · <a href="oxygen-evolution-7d.html">oxygen-evolution</a></div></td>
+<td>Ken J. Jenewein et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div><div class="paper-tags"><a href="optimal-control-7d.html">optimal-control</a></div></td>
 <td>Jialiang Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19837.html">Machine Learning for High-Entropy Catalysts: Methods and Applications</a></div><div class="paper-tags"><a href="large-language-models-7d.html">large-language-models</a></div></td>
-<td>Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19837">2609.19837</a></td>
 </tr>
 </tbody></table>

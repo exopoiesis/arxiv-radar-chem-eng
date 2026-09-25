@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,11 +374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08301.html">Design of chemical recycling processes for PUR foam under uncertainty</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="process-design-360d.html">process-design</a> · <a href="process-simulation-360d.html">process-simulation</a></div></td>
 <td>Patrick Lotz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08301">2510.08301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06638.html">Reusable Surrogate Models for Distillation Columns</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Martin Bubel et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06638">2509.06638</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10411.html">Discovering interpretable piecewise nonlinear model predictive control laws via symbolic decision trees</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
 <td>Ilias Mitrai</td>
 <td><a href="http://arxiv.org/abs/2510.10411">2510.10411</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06638.html">Reusable Surrogate Models for Distillation Columns</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="distillation-360d.html">distillation</a></div></td>
-<td>Martin Bubel et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06638">2509.06638</a></td>
 </tr>
 </tbody></table>

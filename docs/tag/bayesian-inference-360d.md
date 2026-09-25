@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="electrolysis-360d.html">electrolysis</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td>Ken J. Jenewein et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="gaussian-process-360d.html">gaussian-process</a></div></td>
 <td>Joshua W. Sin et al.</td>
@@ -218,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03893.html">BONSAI: Structure-exploiting robust Bayesian optimization for networked black-box systems under uncertainty</a></div><div class="paper-tags"><a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
 <td>Akshay Kudva et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03893">2510.03893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18975.html">Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Dilshod Nematov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18975">2503.18975</a></td>
 </tr>
 </tbody></table>

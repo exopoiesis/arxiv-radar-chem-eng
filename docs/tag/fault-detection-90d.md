@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>fault-detection — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="fault-detection-7d.html">7d</a> <a href="fault-detection-30d.html">30d</a> <strong>90d</strong> <a href="fault-detection-360d.html">360d</a> <a href="fault-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10941.html">Physics-informed Diffusion Generative Model for Time-Series Data Synthesis in Dynamic Systems</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="generative-models-90d.html">generative-models</a></div></td>
 <td>Haiteng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10941">2608.10941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28011.html">From Detection to Action: Using LLM Agents for Fault-Tolerant Control</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Javal Vyas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28011">2606.28011</a></td>
 </tr>
 </tbody></table>

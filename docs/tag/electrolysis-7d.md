@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18638.html">A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data</a></div><div class="paper-tags"><a href="hydrogen-production-7d.html">hydrogen-production</a> · <a href="process-control-7d.html">process-control</a></div></td>
-<td>Maiken Borud Omtveit et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18638">2609.18638</a></td>
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="catalysis-7d.html">catalysis</a> · <a href="electrochemical-systems-7d.html">electrochemical-systems</a> · <a href="oxygen-evolution-7d.html">oxygen-evolution</a></div></td>
+<td>Ken J. Jenewein et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
 </tr>
 </tbody></table>

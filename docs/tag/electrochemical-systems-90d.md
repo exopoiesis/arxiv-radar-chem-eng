@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electrolysis-90d.html">electrolysis</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
+<td>Ken J. Jenewein et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09665.html">Koopman Spectral Reduced-Order Modeling of Spherical Diffusion in Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Jihoon Moon</td>
@@ -56,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="energy-storage-90d.html">energy-storage</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="molecular-simulation-90d.html">molecular-simulation</a></div></td>
 <td>Sheng Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28507.html">Rapid and robust parameter estimation for electrochemical battery models via BOLT: A batch-optimized local-to-global technique</a></div><div class="paper-tags"><a href="digital-twin-90d.html">digital-twin</a> · <a href="system-identification-90d.html">system-identification</a></div></td>
-<td>Feng Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28507">2606.28507</a></td>
 </tr>
 </tbody></table>

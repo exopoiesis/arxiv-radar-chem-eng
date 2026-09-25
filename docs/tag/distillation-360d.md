@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>distillation — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="distillation-7d.html">7d</a> <a href="distillation-30d.html">30d</a> <a href="distillation-90d.html">90d</a> <strong>360d</strong> <a href="distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,17 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11615.html">LLM-Oriented Token-Adaptive Knowledge Distillation</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Xurong Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11615">2510.11615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10774.html">BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation</a></div></td>
-<td>Youping Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10774">2508.10774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06638.html">Reusable Surrogate Models for Distillation Columns</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Martin Bubel et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06638">2509.06638</a></td>
 </tr>
 </tbody></table>
