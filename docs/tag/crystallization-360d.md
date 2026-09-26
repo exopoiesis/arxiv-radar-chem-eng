@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystallization — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="crystallization-7d.html">7d</a> <a href="crystallization-30d.html">30d</a> <a href="crystallization-90d.html">90d</a> <strong>360d</strong> <a href="crystallization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05354.html">Antisolvent-Assisted Growth of Centimeter-Scale CsPbBr$_3$ Perovskite Single Crystals: A Theory-Guided Approach</a></div><div class="paper-tags"><a href="experimental-design-360d.html">experimental-design</a></div></td>
 <td>I. O. Simonenko et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05354">2511.05354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26548.html">Automated and Scalable SEM Image Analysis of Perovskite Solar Cell Materials via a Deep Segmentation Framework</a></div><div class="paper-tags"><a href="process-monitoring-360d.html">process-monitoring</a></div></td>
-<td>Jian Guo Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26548">2509.26548</a></td>
 </tr>
 </tbody></table>

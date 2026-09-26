@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-09-25._
+_Updated 2026-09-26._
 
-**1251** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1253** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -25,6 +25,18 @@ _Updated 2026-09-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.27562.html">Europa smooth plains formation: a SPH cryovolcanic model</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
 <td>Bastien Bodin et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27562">2609.27562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28658.html">General model for shear stress and surface pressure distributions for flow over spheres</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a></div></td>
+<td>Bryce Daniels et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28658">2609.28658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28698.html">Safe Receding Horizon Mixed-Integer Differentiable Predictive Control for Degradation-Aware Battery Dispatch</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Eshagh Safarzadeh Ravajiri et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28698">2609.28698</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-22</td>
@@ -181,17 +193,5 @@ _Updated 2026-09-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.07287.html">Statistical structure and physical interpretation of the fillout factor distribution in contact binary stars</a></div><div class="paper-tags"><a href="tag/mass-transfer-30d.html">mass-transfer</a></div></td>
 <td>A. Poro et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07287">2609.07287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.06513.html">Exact Analytic Solution for the Time-Fractional Hunter-Saxton Equation with Caputo derivative</a></div><div class="paper-tags"><a href="tag/separations-30d.html">separations</a></div></td>
-<td>Weiguang Huang</td>
-<td><a href="http://arxiv.org/abs/2609.06513">2609.06513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03531.html">Beyond Higher-Pulse Rectification: Operational Harmonic Coordination in Renewable P2H Systems</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/hydrogen-production-30d.html">hydrogen-production</a></div></td>
-<td>Yangjun Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03531">2609.03531</a></td>
 </tr>
 </tbody></table>

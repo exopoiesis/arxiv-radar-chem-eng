@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03649.html">Uncertainty quantification of reacting fluids interacting with porous media using a hybrid physics-based and data-driven approach</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a> · <a href="porous-materials-360d.html">porous-materials</a></div></td>
 <td>Diba Behnoudfar et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03649">2510.03649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26293.html">Reservoir computing based predictive reduced order model for steel grade intermixing in an industrial continuous casting tundish</a></div><div class="paper-tags"><a href="process-monitoring-360d.html">process-monitoring</a></div></td>
-<td>Harshith Gowrachari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26293">2509.26293</a></td>
 </tr>
 </tbody></table>
