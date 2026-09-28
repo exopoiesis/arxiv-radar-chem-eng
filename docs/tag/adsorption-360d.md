@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,11 +350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07698.html">Chromium-doped uranium dioxide fuels: A review</a></div></td>
 <td>Mack Wesley Cleveland et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07698">2510.07698</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Lena Podina et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
 </tr>
 </tbody></table>

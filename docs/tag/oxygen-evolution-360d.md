@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oxygen-evolution — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="oxygen-evolution-7d.html">7d</a> <a href="oxygen-evolution-30d.html">30d</a> <a href="oxygen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="oxygen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05938.html">Adsorption energies are necessary but not sufficient to identify good catalysts</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Shahana Chatterjee et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05938">2512.05938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Lena Podina et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
 </tr>
 </tbody></table>

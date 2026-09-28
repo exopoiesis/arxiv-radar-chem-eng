@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -560,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08301.html">Design of chemical recycling processes for PUR foam under uncertainty</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="process-design-360d.html">process-design</a> · <a href="process-simulation-360d.html">process-simulation</a></div></td>
 <td>Patrick Lotz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08301">2510.08301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="generative-models-360d.html">generative-models</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Lena Podina et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
 </tr>
 </tbody></table>

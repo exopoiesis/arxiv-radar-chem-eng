@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-monitoring — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="process-monitoring-7d.html">7d</a> <a href="process-monitoring-30d.html">30d</a> <a href="process-monitoring-90d.html">90d</a> <strong>360d</strong> <a href="process-monitoring-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03460.html">Learning From Limited Data and Feedback for Cell Culture Process Monitoring: A Comparative Study</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a> · <a href="soft-sensors-360d.html">soft-sensors</a></div></td>
 <td>Johnny Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03460">2512.03460</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17827.html">Frequency multiplication in Terahertz band using AlGaN/GaN plasmonic crystals</a></div></td>
-<td>Michael Shur et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17827">2510.17827</a></td>
 </tr>
 </tbody></table>
