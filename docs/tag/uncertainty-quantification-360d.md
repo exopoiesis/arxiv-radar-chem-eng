@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14197.html">Neural Networks for Bayesian Inverse Problems Governed by a Nonlinear ODE</a></div><div class="paper-tags"><a href="system-identification-360d.html">system-identification</a></div></td>
 <td>German Villalobos et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14197">2510.14197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02839.html">Knowledge-Aware Modeling with Frequency Adaptive Learning for Battery Health Prognostics</a></div><div class="paper-tags"><a href="energy-systems-360d.html">energy-systems</a></div></td>
-<td>Vijay Babu Pamshetti et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02839">2510.02839</a></td>
 </tr>
 </tbody></table>
