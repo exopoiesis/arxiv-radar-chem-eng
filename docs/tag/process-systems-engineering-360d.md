@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-systems-engineering — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="process-systems-engineering-7d.html">7d</a> <a href="process-systems-engineering-30d.html">30d</a> <a href="process-systems-engineering-90d.html">90d</a> <strong>360d</strong> <a href="process-systems-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24272.html">Survey and Tutorial of Reinforcement Learning Methods in Process Systems Engineering</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a> · <a href="process-design-360d.html">process-design</a></div></td>
 <td>Maximilian Bloor et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24272">2510.24272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03893.html">BONSAI: Structure-exploiting robust Bayesian optimization for networked black-box systems under uncertainty</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Akshay Kudva et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03893">2510.03893</a></td>
 </tr>
 </tbody></table>

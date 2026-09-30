@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06546.html">RAISE: A self-driving laboratory for interfacial property formulation discovery</a></div></td>
 <td>Mohammad Nazeri et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06546">2510.06546</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03893.html">BONSAI: Structure-exploiting robust Bayesian optimization for networked black-box systems under uncertainty</a></div><div class="paper-tags"><a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
-<td>Akshay Kudva et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03893">2510.03893</a></td>
 </tr>
 </tbody></table>

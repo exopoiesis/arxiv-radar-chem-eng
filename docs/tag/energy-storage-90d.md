@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-storage — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <strong>90d</strong> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12951.html">Optimal Assembly of Repurposed Lithium-Ion Battery Packs under Cell Heterogeneity and Screening Uncertainty</a></div></td>
 <td>Hassan Zahid Butt et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12951">2607.12951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="molecular-simulation-90d.html">molecular-simulation</a></div></td>
-<td>Sheng Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
 </tr>
 </tbody></table>

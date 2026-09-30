@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13033.html">A Liquid-Fueled Reactor Network Model for Enhanced NOx Prediction in Gas Turbine Combustors</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Philip John et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13033">2510.13033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03649.html">Uncertainty quantification of reacting fluids interacting with porous media using a hybrid physics-based and data-driven approach</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a> · <a href="porous-materials-360d.html">porous-materials</a></div></td>
-<td>Diba Behnoudfar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03649">2510.03649</a></td>
 </tr>
 </tbody></table>

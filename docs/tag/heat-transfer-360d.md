@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>heat-transfer — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <a href="heat-transfer-30d.html">30d</a> <a href="heat-transfer-90d.html">90d</a> <strong>360d</strong> <a href="heat-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07427.html">Novel Numerical Method for Simultaneous Design and Control Optimization of Seasonal Thermal Energy Storage Systems</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="energy-systems-360d.html">energy-systems</a> · <a href="optimal-control-360d.html">optimal-control</a></div></td>
 <td>Wonsun Song et al.</td>
 <td><a href="http://arxiv.org/abs/2501.07427">2501.07427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03649.html">Uncertainty quantification of reacting fluids interacting with porous media using a hybrid physics-based and data-driven approach</a></div><div class="paper-tags"><a href="porous-materials-360d.html">porous-materials</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Diba Behnoudfar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03649">2510.03649</a></td>
 </tr>
 </tbody></table>

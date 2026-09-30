@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>digital-twin — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="digital-twin-7d.html">7d</a> <a href="digital-twin-30d.html">30d</a> <strong>90d</strong> <a href="digital-twin-360d.html">360d</a> <a href="digital-twin-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04390.html">Machine-Learning-Enabled Full-State Reconstruction of Fusion Plasmas from Minimal Sensor Measurements</a></div></td>
 <td>Maryam Reza et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04390">2607.04390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00926.html">Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Midhun Parakkal Unni et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00926">2607.00926</a></td>
 </tr>
 </tbody></table>
