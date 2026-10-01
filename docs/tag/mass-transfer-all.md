@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mass-transfer — all</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="mass-transfer-7d.html">7d</a> <a href="mass-transfer-30d.html">30d</a> <a href="mass-transfer-90d.html">90d</a> <a href="mass-transfer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11099.html">CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="distillation-all.html">distillation</a></div></td>
 <td>Sebastian Blauth et al.</td>
 <td><a href="http://arxiv.org/abs/2407.11099">2407.11099</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05551.html">Numerical Study of CO2 Conversion to SAF in a Fixed Bed Catalytic Reactor</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="cfd-all.html">cfd</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="reactor-design-all.html">reactor-design</a></div></td>
-<td>Shan Ruiqin et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05551">2408.05551</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,23 +788,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07664.html">Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling</a></div><div class="paper-tags"><a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
 <td>Nicholas Beaver et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07664">2409.07664</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10844.html">Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Joseph Musielewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10844">2407.10844</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11238.html">GAP-DFT: A graph-based alchemical perturbation density functional theory for catalytic high-entropy alloys</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="gaussian-process-all.html">gaussian-process</a></div></td>
-<td>Mohamed Hendy et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11238">2408.11238</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04073.html">Accelerating crystal structure search through active learning with neural networks for rapid relaxations</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
-<td>Stefaan S. P. Hessmann et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04073">2408.04073</a></td>
 </tr>
 </tbody></table>

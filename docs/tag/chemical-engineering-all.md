@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-engineering — all</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <a href="chemical-engineering-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,41 +722,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15393.html">Approximated Orthogonal Projection Unit: Stabilizing Regression Network Training Using Natural Gradient</a></div><div class="paper-tags"><a href="soft-sensors-all.html">soft-sensors</a></div></td>
 <td>Shaoqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.15393">2409.15393</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13927.html">Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Mahadi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13927">2408.13927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11373.html">Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="co2-reduction-all.html">co2-reduction</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11373">2408.11373</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06580.html">Fast Explicit Machine Learning-Based Model Predictive Control of Nonlinear Processes Using Input Convex Neural Networks</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a> · <a href="optimal-control-all.html">optimal-control</a></div></td>
-<td>Wenlong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06580">2408.06580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05551.html">Numerical Study of CO2 Conversion to SAF in a Fixed Bed Catalytic Reactor</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="cfd-all.html">cfd</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="mass-transfer-all.html">mass-transfer</a> · <a href="reactor-design-all.html">reactor-design</a></div></td>
-<td>Shan Ruiqin et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05551">2408.05551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02315.html">Machine learning-based input-augmented Koopman modeling and predictive control of nonlinear processes</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a> · <a href="optimal-control-all.html">optimal-control</a> · <a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>
-<td>Zhaoyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02315">2408.02315</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="catalysis-all.html">catalysis</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
-<td>Markus Grimm et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
 </tr>
 </tbody></table>

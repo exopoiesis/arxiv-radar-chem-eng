@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>energy-storage — all</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,17 +962,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05086.html">Exploring the Optimal Size of Grid-forming Energy Storage in an Off-grid Renewable P2H System under Multi-timescale Energy Management</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a></div></td>
 <td>Jie Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05086">2409.05086</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20802.html">A Machine Learning Approach to Boost the Vehicle-2-Grid Scheduling</a></div></td>
-<td>Gabriele Agliardi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20802">2407.20802</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09989.html">Adaptive BESS and Grid Setpoints Optimization: A Model-Free Framework for Efficient Battery Management under Dynamic Tariff Pricing</a></div></td>
-<td>Alaa Selim et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09989">2408.09989</a></td>
 </tr>
 </tbody></table>

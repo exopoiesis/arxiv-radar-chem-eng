@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>graph-neural-networks — all</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <a href="graph-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10458.html">Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks</a></div><div class="paper-tags"><a href="electrochemical-systems-all.html">electrochemical-systems</a></div></td>
 <td>Zirui Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10458">2407.10458</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10844.html">Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Joseph Musielewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10844">2407.10844</a></td>
 </tr>
 </tbody></table>

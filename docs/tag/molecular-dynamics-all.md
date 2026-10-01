@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,23 +428,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11037.html">A High-Dimensional Neural Network Potential for Co$_3$O$_4$</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Amir Omranpour et al.</td>
 <td><a href="http://arxiv.org/abs/2409.11037">2409.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00210.html">Quantitative Prediction of Protein-Polyelectrolyte Binding Thermodynamics: Adsorption of Heparin-Analog Polysulfates to the SARS-CoV-2 Spike Protein RBD</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a></div></td>
-<td>Lenard Neander et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00210">2409.00210</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12939.html">A cost-effective strategy of enhancing machine learning potentials by transfer learning from a multicomponent dataset on ænet-PyTorch</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="transfer-learning-all.html">transfer-learning</a></div></td>
-<td>An Niza El Aisnadaa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12939">2408.12939</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02461.html">Uncertainty Quantification and Propagation in Atomistic Machine Learning</a></div><div class="paper-tags"><a href="microkinetic-modeling-all.html">microkinetic-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Jin Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02461">2405.02461</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,11 +584,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07545.html">Hammering at the entropy: A GENERIC-guided approach to learning polymeric rheological constitutive equations using PINNs</a></div><div class="paper-tags"><a href="physics-informed-ml-all.html">physics-informed-ml</a></div></td>
 <td>David Nieto Simavilla et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07545">2409.07545</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05551.html">Numerical Study of CO2 Conversion to SAF in a Fixed Bed Catalytic Reactor</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="mass-transfer-all.html">mass-transfer</a> · <a href="reactor-design-all.html">reactor-design</a></div></td>
-<td>Shan Ruiqin et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05551">2408.05551</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mpc — all</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <a href="mpc-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,17 +470,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12398.html">Robust model predictive control for large-scale distributed parameter systems under uncertainty</a></div><div class="paper-tags"><a href="packed-bed-all.html">packed-bed</a></div></td>
 <td>Min Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2410.12398">2410.12398</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06580.html">Fast Explicit Machine Learning-Based Model Predictive Control of Nonlinear Processes Using Input Convex Neural Networks</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="optimal-control-all.html">optimal-control</a></div></td>
-<td>Wenlong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06580">2408.06580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02315.html">Machine learning-based input-augmented Koopman modeling and predictive control of nonlinear processes</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="optimal-control-all.html">optimal-control</a> · <a href="wastewater-treatment-all.html">wastewater-treatment</a></div></td>
-<td>Zhaoyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02315">2408.02315</a></td>
 </tr>
 </tbody></table>

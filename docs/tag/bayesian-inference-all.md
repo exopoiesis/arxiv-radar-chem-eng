@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,17 +374,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09331.html">Efficient Online Inference and Learning in Partially Known Nonlinear State-Space Models by Learning Expressive Degrees of Freedom Offline</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="system-identification-all.html">system-identification</a></div></td>
 <td>Jan-Hendrik Ewering et al.</td>
 <td><a href="http://arxiv.org/abs/2409.09331">2409.09331</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20219.html">System Identification for Lithium-Ion Batteries with Nonlinear Coupled Electro-Thermal Dynamics via Bayesian Optimization</a></div><div class="paper-tags"><a href="system-identification-all.html">system-identification</a></div></td>
-<td>Hao Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20219">2405.20219</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
-<td>Markus Grimm et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
 </tr>
 </tbody></table>

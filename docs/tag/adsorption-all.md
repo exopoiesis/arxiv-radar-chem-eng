@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption — all</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <a href="adsorption-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,17 +566,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.11783.html">Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="catalysis-all.html">catalysis</a> · <a href="co2-reduction-all.html">co2-reduction</a> · <a href="dft-all.html">dft</a> · <a href="electrolysis-all.html">electrolysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="hydrogen-production-all.html">hydrogen-production</a></div></td>
 <td>Jehad Abed et al.</td>
 <td><a href="http://arxiv.org/abs/2411.11783">2411.11783</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00210.html">Quantitative Prediction of Protein-Polyelectrolyte Binding Thermodynamics: Adsorption of Heparin-Analog Polysulfates to the SARS-CoV-2 Spike Protein RBD</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lenard Neander et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00210">2409.00210</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11373.html">Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="co2-reduction-all.html">co2-reduction</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11373">2408.11373</a></td>
 </tr>
 </tbody></table>

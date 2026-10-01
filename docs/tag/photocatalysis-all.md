@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>photocatalysis — all</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <a href="photocatalysis-90d.html">90d</a> <a href="photocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06997.html">An Integro-differential Model of Cadmium Yellow Photodegradation</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a></div></td>
 <td>Maurizio Ceseri et al.</td>
 <td><a href="http://arxiv.org/abs/2411.06997">2411.06997</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13927.html">Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a></div></td>
-<td>Mahadi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13927">2408.13927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11373.html">Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="co2-reduction-all.html">co2-reduction</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11373">2408.11373</a></td>
 </tr>
 </tbody></table>

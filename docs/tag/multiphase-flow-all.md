@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multiphase-flow — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="multiphase-flow-7d.html">7d</a> <a href="multiphase-flow-30d.html">30d</a> <a href="multiphase-flow-90d.html">90d</a> <a href="multiphase-flow-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20801.html">History-Matching of Imbibition Flow in Multiscale Fractured Porous Media Using Physics-Informed Neural Networks (PINNs)</a></div><div class="paper-tags"><a href="physics-informed-ml-all.html">physics-informed-ml</a></div></td>
 <td>Jassem Abbasi et al.</td>
 <td><a href="http://arxiv.org/abs/2410.20801">2410.20801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01383.html">PLIC-Net: A Machine Learning Approach for 3D Interface Reconstruction in Volume of Fluid Methods</a></div></td>
-<td>Andrew Cahaly et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01383">2408.01383</a></td>
 </tr>
 </tbody></table>

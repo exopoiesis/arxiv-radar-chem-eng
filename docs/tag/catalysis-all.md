@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,47 +980,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11037.html">A High-Dimensional Neural Network Potential for Co$_3$O$_4$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Amir Omranpour et al.</td>
 <td><a href="http://arxiv.org/abs/2409.11037">2409.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10844.html">Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Joseph Musielewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10844">2407.10844</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13927.html">Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Mahadi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13927">2408.13927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12939.html">A cost-effective strategy of enhancing machine learning potentials by transfer learning from a multicomponent dataset on ænet-PyTorch</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="transfer-learning-all.html">transfer-learning</a></div></td>
-<td>An Niza El Aisnadaa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12939">2408.12939</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11373.html">Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="co2-reduction-all.html">co2-reduction</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11373">2408.11373</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11238.html">GAP-DFT: A graph-based alchemical perturbation density functional theory for catalytic high-entropy alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gaussian-process-all.html">gaussian-process</a></div></td>
-<td>Mohamed Hendy et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11238">2408.11238</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05551.html">Numerical Study of CO2 Conversion to SAF in a Fixed Bed Catalytic Reactor</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="fixed-bed-all.html">fixed-bed</a> · <a href="mass-transfer-all.html">mass-transfer</a> · <a href="reactor-design-all.html">reactor-design</a></div></td>
-<td>Shan Ruiqin et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05551">2408.05551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
-<td>Markus Grimm et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
 </tr>
 </tbody></table>

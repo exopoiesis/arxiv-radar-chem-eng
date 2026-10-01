@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>process-monitoring — all</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="process-monitoring-7d.html">7d</a> <a href="process-monitoring-30d.html">30d</a> <a href="process-monitoring-90d.html">90d</a> <a href="process-monitoring-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01276.html">Online Fault Detection and Classification of Chemical Process Systems Leveraging Statistical Process Control and Riemannian Geometric Analysis</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="fault-detection-all.html">fault-detection</a> · <a href="process-control-all.html">process-control</a></div></td>
 <td>Alireza Miraliakbar et al.</td>
 <td><a href="http://arxiv.org/abs/2504.01276">2504.01276</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07097.html">Attention Please: What Transformer Models Really Learn for Process Prediction</a></div></td>
-<td>Martin Käppel et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07097">2408.07097</a></td>
 </tr>
 </tbody></table>

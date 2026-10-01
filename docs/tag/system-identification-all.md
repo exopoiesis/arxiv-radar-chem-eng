@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>system-identification — all</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09331.html">Efficient Online Inference and Learning in Partially Known Nonlinear State-Space Models by Learning Expressive Degrees of Freedom Offline</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="gaussian-process-all.html">gaussian-process</a></div></td>
 <td>Jan-Hendrik Ewering et al.</td>
 <td><a href="http://arxiv.org/abs/2409.09331">2409.09331</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20219.html">System Identification for Lithium-Ion Batteries with Nonlinear Coupled Electro-Thermal Dynamics via Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Hao Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20219">2405.20219</a></td>
 </tr>
 </tbody></table>
