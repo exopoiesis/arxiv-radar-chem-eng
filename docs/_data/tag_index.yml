@@ -8,7 +8,7 @@
   total: 158
   group: energy
 - name: large-language-models
-  count: 6
+  count: 5
   total: 123
   group: architectures
 - name: mpc
@@ -16,7 +16,7 @@
   total: 76
   group: control
 - name: cfd
-  count: 4
+  count: 3
   total: 95
   group: fluids
 - name: dft
@@ -27,10 +27,6 @@
   count: 3
   total: 22
   group: energy
-- name: graph-neural-networks
-  count: 3
-  total: 39
-  group: architectures
 - name: process-control
   count: 3
   total: 52
@@ -59,6 +55,10 @@
   count: 2
   total: 33
   group: architectures
+- name: graph-neural-networks
+  count: 2
+  total: 39
+  group: architectures
 - name: heat-transfer
   count: 2
   total: 50
@@ -83,10 +83,6 @@
   count: 1
   total: 118
   group: domain
-- name: crystallization
-  count: 1
-  total: 20
-  group: separations
 - name: energy-systems
   count: 1
   total: 39
@@ -115,10 +111,6 @@
   count: 1
   total: 14
   group: reactions
-- name: packed-bed
-  count: 1
-  total: 4
-  group: fluids
 - name: physics-informed-ml
   count: 1
   total: 51
@@ -187,6 +179,10 @@
   count: 0
   total: 5
   group: reactions
+- name: crystallization
+  count: 0
+  total: 20
+  group: separations
 - name: digital-twin
   count: 0
   total: 49
@@ -267,6 +263,10 @@
   count: 0
   total: 5
   group: materials
+- name: packed-bed
+  count: 0
+  total: 4
+  group: fluids
 - name: packed-bed-reactors
   count: 0
   total: 2
