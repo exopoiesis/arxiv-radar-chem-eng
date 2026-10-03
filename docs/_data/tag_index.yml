@@ -27,10 +27,6 @@
   count: 3
   total: 22
   group: energy
-- name: process-control
-  count: 3
-  total: 52
-  group: control
 - name: adsorption
   count: 2
   total: 92
@@ -71,6 +67,10 @@
   count: 2
   total: 69
   group: materials
+- name: process-control
+  count: 2
+  total: 52
+  group: control
 - name: uncertainty-quantification
   count: 2
   total: 57
