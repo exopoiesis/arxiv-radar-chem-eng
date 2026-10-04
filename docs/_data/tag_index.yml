@@ -4,7 +4,7 @@
   total: 161
   group: reactions
 - name: energy-storage
-  count: 6
+  count: 5
   total: 158
   group: energy
 - name: large-language-models
@@ -12,7 +12,7 @@
   total: 123
   group: architectures
 - name: mpc
-  count: 5
+  count: 4
   total: 76
   group: control
 - name: cfd
@@ -23,10 +23,6 @@
   count: 3
   total: 129
   group: materials
-- name: electrolysis
-  count: 3
-  total: 22
-  group: energy
 - name: adsorption
   count: 2
   total: 92
@@ -42,6 +38,10 @@
 - name: electrochemical-systems
   count: 2
   total: 69
+  group: energy
+- name: electrolysis
+  count: 2
+  total: 22
   group: energy
 - name: gaussian-process
   count: 2
@@ -59,10 +59,6 @@
   count: 2
   total: 50
   group: transport
-- name: hydrogen-production
-  count: 2
-  total: 16
-  group: energy
 - name: molecular-dynamics
   count: 2
   total: 69
@@ -79,10 +75,6 @@
   count: 1
   total: 48
   group: energy
-- name: chemical-engineering
-  count: 1
-  total: 118
-  group: domain
 - name: energy-systems
   count: 1
   total: 39
@@ -90,6 +82,10 @@
 - name: fuel-cells
   count: 1
   total: 44
+  group: energy
+- name: hydrogen-production
+  count: 1
+  total: 16
   group: energy
 - name: mass-transfer
   count: 1
@@ -115,10 +111,6 @@
   count: 1
   total: 51
   group: methods
-- name: process-design
-  count: 1
-  total: 38
-  group: control
 - name: reduced-order-modeling
   count: 1
   total: 16
@@ -167,6 +159,10 @@
   count: 0
   total: 33
   group: reactions
+- name: chemical-engineering
+  count: 0
+  total: 118
+  group: domain
 - name: chromatography
   count: 0
   total: 6
@@ -287,6 +283,10 @@
   count: 0
   total: 1
   group: separations
+- name: process-design
+  count: 0
+  total: 38
+  group: control
 - name: process-intensification
   count: 0
   total: 1

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -488,11 +488,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18728.html">A Unified Predictive and Generative Solution for Liquid Electrolyte Formulation</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="molecular-simulation-360d.html">molecular-simulation</a></div></td>
 <td>Zhenze Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18728">2504.18728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05598.html">Unveiling the Lithium-Ion Transport Mechanism in Li2ZrCl6 Solid-State Electrolyte via Deep Learning-Accelerated Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hanzeng Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05598">2508.05598</a></td>
 </tr>
 </tbody></table>
