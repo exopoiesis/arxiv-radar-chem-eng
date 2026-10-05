@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,11 +344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09522.html">Is Platinum a Proton Blocking Catalyst?</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Aparna Saksena et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09522">2510.09522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07698.html">Chromium-doped uranium dioxide fuels: A review</a></div></td>
-<td>Mack Wesley Cleveland et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07698">2510.07698</a></td>
 </tr>
 </tbody></table>

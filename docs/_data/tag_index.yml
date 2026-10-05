@@ -4,16 +4,16 @@
   total: 161
   group: reactions
 - name: energy-storage
-  count: 5
-  total: 158
+  count: 7
+  total: 160
   group: energy
 - name: large-language-models
   count: 5
   total: 123
   group: architectures
 - name: mpc
-  count: 4
-  total: 76
+  count: 5
+  total: 77
   group: control
 - name: cfd
   count: 3
@@ -22,6 +22,14 @@
 - name: dft
   count: 3
   total: 129
+  group: materials
+- name: electrolysis
+  count: 3
+  total: 23
+  group: energy
+- name: molecular-dynamics
+  count: 3
+  total: 70
   group: materials
 - name: adsorption
   count: 2
@@ -39,10 +47,6 @@
   count: 2
   total: 69
   group: energy
-- name: electrolysis
-  count: 2
-  total: 22
-  group: energy
 - name: gaussian-process
   count: 2
   total: 59
@@ -59,14 +63,18 @@
   count: 2
   total: 50
   group: transport
-- name: molecular-dynamics
+- name: optimal-control
   count: 2
-  total: 69
-  group: materials
+  total: 38
+  group: control
 - name: process-control
   count: 2
   total: 52
   group: control
+- name: surrogate-modeling
+  count: 2
+  total: 95
+  group: modeling
 - name: uncertainty-quantification
   count: 2
   total: 57
@@ -99,10 +107,6 @@
   count: 1
   total: 13
   group: fluids
-- name: optimal-control
-  count: 1
-  total: 37
-  group: control
 - name: oxygen-evolution
   count: 1
   total: 14
@@ -119,10 +123,6 @@
   count: 1
   total: 66
   group: separations
-- name: surrogate-modeling
-  count: 1
-  total: 94
-  group: modeling
 - name: wastewater-treatment
   count: 1
   total: 21

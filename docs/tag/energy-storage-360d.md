@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03508.html">Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a> · <a href="optimal-control-360d.html">optimal-control</a></div></td>
+<td>Rasa Pourjam et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03508">2610.03508</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01489.html">Building Seasonal Highways for Residential Energy Hubs: Sizing, planning and operating thermal energy storage</a></div></td>
+<td>Dario Slaifstein et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01489">2610.01489</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28698.html">Safe Receding Horizon Mixed-Integer Differentiable Predictive Control for Degradation-Aware Battery Dispatch</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
@@ -482,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07427.html">Novel Numerical Method for Simultaneous Design and Control Optimization of Seasonal Thermal Energy Storage Systems</a></div><div class="paper-tags"><a href="energy-systems-360d.html">energy-systems</a> · <a href="heat-transfer-360d.html">heat-transfer</a> · <a href="optimal-control-360d.html">optimal-control</a></div></td>
 <td>Wonsun Song et al.</td>
 <td><a href="http://arxiv.org/abs/2501.07427">2501.07427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18728.html">A Unified Predictive and Generative Solution for Liquid Electrolyte Formulation</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="molecular-simulation-360d.html">molecular-simulation</a></div></td>
-<td>Zhenze Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18728">2504.18728</a></td>
 </tr>
 </tbody></table>

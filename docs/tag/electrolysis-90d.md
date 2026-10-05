@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrolysis — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="electrolysis-7d.html">7d</a> <a href="electrolysis-30d.html">30d</a> <strong>90d</strong> <a href="electrolysis-360d.html">360d</a> <a href="electrolysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Diptendu Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01070">2610.01070</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>

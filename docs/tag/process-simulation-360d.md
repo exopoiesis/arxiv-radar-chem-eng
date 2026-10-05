@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-simulation — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="process-simulation-7d.html">7d</a> <a href="process-simulation-30d.html">30d</a> <a href="process-simulation-90d.html">90d</a> <strong>360d</strong> <a href="process-simulation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.06776.html">From Text to Simulation: A Multi-Agent LLM Workflow for Automated Chemical Process Design</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="process-design-360d.html">process-design</a></div></td>
 <td>Xufei Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2601.06776">2601.06776</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08301.html">Design of chemical recycling processes for PUR foam under uncertainty</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="process-design-360d.html">process-design</a></div></td>
-<td>Patrick Lotz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08301">2510.08301</a></td>
 </tr>
 </tbody></table>

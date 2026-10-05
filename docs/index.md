@@ -5,15 +5,33 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-10-04._
+_Updated 2026-10-05._
 
-**1232** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1235** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.03508.html">Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Rasa Pourjam et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03508">2610.03508</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Diptendu Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01070">2610.01070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01489.html">Building Seasonal Highways for Residential Energy Hubs: Sizing, planning and operating thermal energy storage</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
+<td>Dario Slaifstein et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01489">2610.01489</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/electrolysis-30d.html">electrolysis</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-10-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.09665.html">Koopman Spectral Reduced-Order Modeling of Spherical Diffusion in Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
 <td>Jihoon Moon</td>
 <td><a href="http://arxiv.org/abs/2609.09665">2609.09665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Vsevolod Viliuga et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Viktoria Waidbacher et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.07287.html">Statistical structure and physical interpretation of the fillout factor distribution in contact binary stars</a></div><div class="paper-tags"><a href="tag/mass-transfer-30d.html">mass-transfer</a></div></td>
-<td>A. Poro et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07287">2609.07287</a></td>
 </tr>
 </tbody></table>

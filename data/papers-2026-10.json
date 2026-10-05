@@ -1,0 +1,83 @@
+{
+ "2610.01070": {
+  "abstract": "Ion transport controls the macroscopic performance of solid electrolytes, battery electrodes, ion-selective membranes, electrolysis ceramics, mixed conductors, porous sorbents, and biological channels. In each case, ion transport is determined by structural characteristics, namely the available diffusion pathways and the specific bottleneck atoms that limit the ionic jumps. These are intrinsic properties of the crystalline framework, whereas temperature, carrier concentration, and correlated motion govern the transport rate. Ab initio molecular dynamics (AIMD) resolves the mechanism directly but is too costly for materials screening, and most surrogate models give only a single transport number. Here we present a calibration-free method for determining the mechanism, based on Topo-Spectral Percolation Descriptors (TSPD). TSPD obtains the transport mechanism from a single static structure in seconds. It constructs a periodic migration network whose edge barriers are computed from physics-based energetics. We then analyze the barrier-threshold topology of this network and the spectrum of its barrier-weighted graph Laplacian. To establish its validity for computational solid-state ionics, we test TSPD against AIMD ion densities and neutron diffraction data for eight materials, including cathodes and solid electrolytes, whose transport ranges from one- to three-dimensional. TSPD reproduces the established mechanism in every case and correctly identifies structures in which geometric openness does not imply viable ion percolation. The method is most informative for pathway-limited, direction-dependent transport, and it complements full dynamical simulations for strongly cooperative or nearly isotropic transport.",
+  "authors": [
+   "Diptendu Roy",
+   "Chiku Parida",
+   "Juan María García-Lastra",
+   "Arghya Bhowmik"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Diptendu Roy",
+  "pdf_url": "http://arxiv.org/pdf/2610.01070",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-01",
+  "tags": [
+   "electrolysis",
+   "molecular-dynamics",
+   "surrogate-modeling"
+  ],
+  "title": "Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01489": {
+  "abstract": "The operation of residential energy hubs with multiple energy carriers (electricity, heat, mobility) poses a significant challenge due to the energy storage differences in time-constants, round-trip efficiencies and self-discharge rates. Usually, thermal storage exhibits flexibility in yearly planning optimizations or long-term scenarios. However, as optimization horizons shrink (1-48hs) so does their supplied value due to the lower round-trip efficiencies. To avoid this early depletion during operation this paper proposes a data-driven highway to steer the short-term daily control towards long-term optimality. The proposed methodology also presents how to optimally size the thermal storage and avoid yearly simulations and how all of this is related to nonlinearities in the daily operation. The presented framework links seasonal and daily optimizations through dynamic terminal sets and value functions. The seasonally-aware nonlinear economic model predictive controller achieves the most balanced performance, with the second best mean grid cost of all MPCs at -\\texteuro 209. It also achieves better battery degradation control than its linear counterparts (between 26-34%) and the best thermal comfort of the nonlinear benchmarks. Nevertheless, the data-driven seasonal highway restrains the ability to control battery degradation and slightly increases computational time.",
+  "authors": [
+   "Dario Slaifstein",
+   "Mohammad Khosravi",
+   "Gautham Ram Chandra Mouli",
+   "Laura Ramirez-Elizondo",
+   "Pavol Bauer"
+  ],
+  "categories": [
+   "eess.SY",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Dario Slaifstein",
+  "pdf_url": "http://arxiv.org/pdf/2610.01489",
+  "primary_category": "eess.SY",
+  "published": "2026-10-01",
+  "tags": [
+   "energy-storage"
+  ],
+  "title": "Building Seasonal Highways for Residential Energy Hubs: Sizing, planning and operating thermal energy storage",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.03508": {
+  "abstract": "Multi-timescale systems present a fundamental challenge, where fast operational decisions must coexist with long-horizon sustainability targets. In this work, we propose a new hierarchical control framework via Model Predictive Control (MPC) and Reinforcement Learning (RL) to separate decision-making on two distinct timescales. The high-level MPC optimizes long-horizon setpoints at the slow dynamic and on a fast timescale, a low-level pretrained RL agent tracks these setpoints in real time to maximize short-term objectives. RL is introduced to learn nonlinear control policies, without relying on model linearizations or requiring the heavy online computation from solving repeated optimal control problems. The framework is applied to a Battery Energy Storage System (BESS) operating in frequency regulation markets to balance fast profit opportunities (seconds) and slow battery degradation (weeks to months). The design employs a degradation-aware RL agent trained offline to generate safe long-horizon setpoints, and a degradation-unaware agent fine-tuned from it for fast runtime setpoint tracking. Compared to MPC baselines, the proposed approach successfully extends battery lifetime by 84% and increases operational profit by 34%.",
+  "authors": [
+   "Rasa Pourjam",
+   "Ehecatl Antonio del Río Chanona",
+   "Paulina Quintanilla"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Rasa Pourjam",
+  "pdf_url": "http://arxiv.org/pdf/2610.03508",
+  "primary_category": "eess.SY",
+  "published": "2026-10-02",
+  "tags": [
+   "energy-storage",
+   "mpc",
+   "optimal-control"
+  ],
+  "title": "Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-10-02"
+ }
+}
