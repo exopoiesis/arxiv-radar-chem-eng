@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20502.html">Predicting the 3D microstructure of SOFC anodes from 2D SEM images using stochastic microstructure modeling and CNNs</a></div><div class="paper-tags"><a href="fuel-cells-360d.html">fuel-cells</a></div></td>
 <td>Léon F. Schröder et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20502">2510.20502</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09522.html">Is Platinum a Proton Blocking Catalyst?</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Aparna Saksena et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09522">2510.09522</a></td>
 </tr>
 </tbody></table>

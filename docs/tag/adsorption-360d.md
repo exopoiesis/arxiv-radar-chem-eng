@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,11 +338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12439.html">Kinetic modelling of the CO2 capture and utilisation on NiRu-Ca/Al dual function material via parameter estimation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Meshkat Dolat et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12439">2510.12439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09522.html">Is Platinum a Proton Blocking Catalyst?</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Aparna Saksena et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09522">2510.09522</a></td>
 </tr>
 </tbody></table>
