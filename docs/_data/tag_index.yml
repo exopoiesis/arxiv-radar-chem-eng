@@ -119,10 +119,6 @@
   count: 1
   total: 16
   group: modeling
-- name: separations
-  count: 1
-  total: 66
-  group: separations
 - name: wastewater-treatment
   count: 1
   total: 21
@@ -339,6 +335,10 @@
   count: 0
   total: 12
   group: methods
+- name: separations
+  count: 0
+  total: 66
+  group: separations
 - name: soft-sensors
   count: 0
   total: 5
