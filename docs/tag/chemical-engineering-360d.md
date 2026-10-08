@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09634.html">Safe Control of Semi-Explicit Differential-Algebraic Systems: Control Barrier Functions with SOS Verification</a></div></td>
+<td>Mohamad H. Kazma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09634">2610.09634</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02014.html">Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a> · <a href="separations-360d.html">separations</a></div></td>
+<td>Michael Baldea et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02014">2610.02014</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04011.html">Differentiable Hybrid Modelling for Learning and Optimising Chemical Transport Processes from Experimental Data</a></div><div class="paper-tags"><a href="process-design-360d.html">process-design</a></div></td>

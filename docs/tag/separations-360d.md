@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>separations — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="separations-7d.html">7d</a> <a href="separations-30d.html">30d</a> <a href="separations-90d.html">90d</a> <strong>360d</strong> <a href="separations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06155.html">Model-Guided Design of Nanoparticle Dispersity through Process-Chain Optimization</a></div><div class="paper-tags"><a href="chromatography-360d.html">chromatography</a></div></td>
+<td>Andrea Gilch et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06155">2610.06155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02014.html">Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
+<td>Michael Baldea et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02014">2610.02014</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06513.html">Exact Analytic Solution for the Time-Fractional Hunter-Saxton Equation with Caputo derivative</a></div></td>

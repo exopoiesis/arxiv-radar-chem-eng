@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02014.html">Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a> · <a href="chemical-engineering-90d.html">chemical-engineering</a> · <a href="process-systems-engineering-90d.html">process-systems-engineering</a> · <a href="separations-90d.html">separations</a></div></td>
+<td>Michael Baldea et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02014">2610.02014</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="electrolysis-90d.html">electrolysis</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
 <td>Ken J. Jenewein et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11712.html">CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="generative-models-90d.html">generative-models</a> · <a href="heterogeneous-catalysis-90d.html">heterogeneous-catalysis</a></div></td>
 <td>Jungho Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11712">2607.11712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="co2-electroreduction-90d.html">co2-electroreduction</a> · <a href="co2-reduction-90d.html">co2-reduction</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Sutanay Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
 </tr>
 </tbody></table>

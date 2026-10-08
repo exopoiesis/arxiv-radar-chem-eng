@@ -5,15 +5,45 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-10-07._
+_Updated 2026-10-08._
 
-**1235** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1241** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.09634.html">Safe Control of Semi-Explicit Differential-Algebraic Systems: Control Barrier Functions with SOS Verification</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
+<td>Mohamad H. Kazma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09634">2610.09634</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.10054.html">Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Boya Hou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10054">2610.10054</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.08493.html">Learning to Explain Solutions of Optimal Control Problems</a></div><div class="paper-tags"><a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
+<td>Jiyong Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08493">2610.08493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.06155.html">Model-Guided Design of Nanoparticle Dispersity through Process-Chain Optimization</a></div><div class="paper-tags"><a href="tag/chromatography-30d.html">chromatography</a> · <a href="tag/separations-30d.html">separations</a></div></td>
+<td>Andrea Gilch et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06155">2610.06155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.06211.html">Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Perceval Beja-Battais et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06211">2610.06211</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.03508.html">Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
@@ -31,6 +61,12 @@ _Updated 2026-10-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01489.html">Building Seasonal Highways for Residential Energy Hubs: Sizing, planning and operating thermal energy storage</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
 <td>Dario Slaifstein et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01489">2610.01489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.02014.html">Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/process-systems-engineering-30d.html">process-systems-engineering</a> · <a href="tag/separations-30d.html">separations</a></div></td>
+<td>Michael Baldea et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02014">2610.02014</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-24</td>
@@ -157,41 +193,5 @@ _Updated 2026-10-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14906.html">Neural-Network Solutions to Real-Space Charge Density and Generalization</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
 <td>Yuxuan Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14906">2609.14906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14776.html">Comparative Evaluation of MILP, MPC, and Reinforcement Learning for Commercial Battery Dispatch Under Time-of-Use Tariffs</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/energy-systems-30d.html">energy-systems</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
-<td>Hafiz Majid Hussain et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14776">2609.14776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Tsz Wai Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.12968.html">End-to-End Battery Dispatch with Exact Rainflow Degradation via Mixed-Integer Differentiable Predictive Control</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
-<td>Eshagh Safarzadeh Ravajiri et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12968">2609.12968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.13441.html">Temporal Fourier Likelihoods with Spatial Hilbert-Space Gaussian Process Approximations</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Xin Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13441">2609.13441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Joshua W. Sin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.09665.html">Koopman Spectral Reduced-Order Modeling of Spherical Diffusion in Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
-<td>Jihoon Moon</td>
-<td><a href="http://arxiv.org/abs/2609.09665">2609.09665</a></td>
 </tr>
 </tbody></table>

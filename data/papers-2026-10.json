@@ -54,6 +54,51 @@
   ],
   "updated": "2026-10-01"
  },
+ "2610.02014": {
+  "abstract": "The rapid maturation of artificial intelligence (AI) and machine learning (ML) has catalyzed a profound shift in how chemical engineering problems are formulated, analyzed, and solved. Advances in computing, data availability, and learning algorithms have enabled AI/ML methods to impact applications spanning atomic-scale simulations, materials and catalyst discovery, transport and thermodynamics, separations, process systems engineering, and industrial operations. This article provides a perspective on recent methodological developments and representative applications, emphasizing how AI/ML tools are being integrated with first-principles models to address challenges of predictive accuracy, data scarcity, extrapolation, interpretability, and model lifecycle management. Across domains, a unifying trend is the move away from purely black-box approaches toward hybrid and physics-informed frameworks that explicitly respect conservation laws, thermodynamic consistency, and known structural constraints. These approaches not only improve robustness and reliability, but also enable meaningful human-AI collaboration by providing information at an appropriate level of abstraction for the task and decision context. We conclude that AI and ML are not replacing the core principles of chemical engineering; rather, they are amplifying them. As the field advances toward increasingly autonomous, adaptive, and sustainable systems, the thoughtful integration of AI/ML with first-principles understanding and domain expertise will be essential to realizing their full potential across both research and industrial practice.",
+  "authors": [
+   "Michael Baldea",
+   "Linda J. Broadbelt",
+   "Marianthi G. Ierapetritou",
+   "Akhilesh Jain",
+   "Ankur Kumar",
+   "Thomas A. Kwan",
+   "Fèlix Llovell",
+   "Andrew J. Medford",
+   "Ilias Mitrai",
+   "Joel Paulson",
+   "Junyi Qiao",
+   "Matthew P. Rivera",
+   "Kirti C. Sahu",
+   "Lev Sarkisov",
+   "Zachary P. Smith",
+   "Calvin Tsay",
+   "Ching-Mei Wen",
+   "Victor M. Zavala",
+   "Huacheng Zhang",
+   "Dan Zhao"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Michael Baldea",
+  "pdf_url": "http://arxiv.org/pdf/2610.02014",
+  "primary_category": "cs.AI",
+  "published": "2026-10-01",
+  "tags": [
+   "catalysis",
+   "catalyst-design",
+   "chemical-engineering",
+   "process-systems-engineering",
+   "separations"
+  ],
+  "title": "Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-10-01"
+ },
  "2610.03508": {
   "abstract": "Multi-timescale systems present a fundamental challenge, where fast operational decisions must coexist with long-horizon sustainability targets. In this work, we propose a new hierarchical control framework via Model Predictive Control (MPC) and Reinforcement Learning (RL) to separate decision-making on two distinct timescales. The high-level MPC optimizes long-horizon setpoints at the slow dynamic and on a fast timescale, a low-level pretrained RL agent tracks these setpoints in real time to maximize short-term objectives. RL is introduced to learn nonlinear control policies, without relying on model linearizations or requiring the heavy online computation from solving repeated optimal control problems. The framework is applied to a Battery Energy Storage System (BESS) operating in frequency regulation markets to balance fast profit opportunities (seconds) and slow battery degradation (weeks to months). The design employs a degradation-aware RL agent trained offline to generate safe long-horizon setpoints, and a degradation-unaware agent fine-tuned from it for fast runtime setpoint tracking. Compared to MPC baselines, the proposed approach successfully extends battery lifetime by 84% and increases operational profit by 34%.",
   "authors": [
@@ -76,8 +121,140 @@
   ],
   "title": "Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems",
   "topics": [
-   "Energy, Sustainability & Electrochemical Systems"
+   "Energy, Sustainability & Electrochemical Systems",
+   "Process Control & Optimization"
   ],
   "updated": "2026-10-02"
+ },
+ "2610.06155": {
+  "abstract": "The design of high-quality nanoparticles requires the production of materials with narrow particle size distributions, as these strongly influence the functionalities of the final product. To achieve this goal, it is useful to consider a coupled process chain in which nanoparticles are first synthesized and subsequently fractionated by chromatographic separation. We introduce a novel mathematical optimization model for the integrated optimization of coupled nanoparticle synthesis and separation processes. The proposed model simultaneously accounts for process performance and economic objectives through a cost function that incorporates both production costs and achievable profit defined by the particle quality. For efficient evaluation of the synthesis model, we employ the exact method of moments. The resulting non-convex process-design problem is solved numerically using local optimization. Optimization results of our approach are demonstrated for the prototypical design of gold nanoparticles. The computational results show that optimized solutions of the coupled synthesis--separation process are capable of accurately representing both process stages while achieving optimized particle quality. The proposed model highlights the potential of mathematical optimization for the design of coupled nanoparticle production process-chains.",
+  "authors": [
+   "Andrea Gilch",
+   "Nabi E. Traoré",
+   "Frauke Liers",
+   "Lukas Pflug"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Andrea Gilch",
+  "pdf_url": "http://arxiv.org/pdf/2610.06155",
+  "primary_category": "math.OC",
+  "published": "2026-10-05",
+  "tags": [
+   "chromatography",
+   "separations"
+  ],
+  "title": "Model-Guided Design of Nanoparticle Dispersity through Process-Chain Optimization",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.06211": {
+  "abstract": "Learned models for industrial control are usually judged by aggregate accuracy, but accuracy at the component level does not guarantee safety once it is embedded in the system it is meant to serve. We study this gap on a behavior-cloning task: imitating an expert Nonlinear Model Predictive Control (NMPC) policy for load-following of a Pressurized Water Reactor (PWR), an industrial system with tight safety constraints. We propose a structured architecture encoding variables from each timescale into separate latent spaces, reflecting the physical decomposition of the system, before training a controller to imitate the expert on the product latent space. On long-horizon rollouts, separated embeddings improve both accuracy and feasibility compared with a shared-embedding baseline. Sensitivity analysis further shows that our model yields interpretable representations aligned with the system's physics. However, standalone deployment still leaves several percent of trajectories infeasible regardless of the architecture. Using our method to warmstart the NMPC optimizer rather than acting standalone, we recover full feasibility and near-optimal cost while still cutting computation time by $\\sim$15% relative to the expert controller, and even more for abrupt operating changes.",
+  "authors": [
+   "Perceval Beja-Battais",
+   "Alain Grosset{ê}te",
+   "Nicolas Vayatis"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Perceval Beja-Battais",
+  "pdf_url": "http://arxiv.org/pdf/2610.06211",
+  "primary_category": "cs.LG",
+  "published": "2026-10-05",
+  "tags": [
+   "mpc"
+  ],
+  "title": "Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.08493": {
+  "abstract": "In this paper, we propose an explainable artificial intelligence framework to explain the solution of optimal control problems predicted with graph neural networks (GNNs). The proposed approach first trains a GNN that predicts the solution of the optimal control problem for a given instance represented as a graph. Given the trained GNN, we use explainable AI algorithms to identify variables, constraints, variable-constraint connections, and parameters, i.e., nodes, edges, and features in the graph representation of the optimal control problem, that affect the prediction of the optimal solution the most. We apply the proposed approach to a case study regarding the optimal control of a continuous stirred tank reactor. First, the results show that the GNN model can accurately predict the optimal values of the manipulated variables. Application of explainable AI algorithms reveals equality and inequality constraints that are the most important for predicting the optimal solution. The inequality constraints correspond to ramping constraints, some of which are active at the optimal solution.",
+  "authors": [
+   "Jiyong Lee",
+   "Ilias Mitrai"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Jiyong Lee",
+  "pdf_url": "http://arxiv.org/pdf/2610.08493",
+  "primary_category": "eess.SY",
+  "published": "2026-10-06",
+  "tags": [
+   "graph-neural-networks",
+   "optimal-control"
+  ],
+  "title": "Learning to Explain Solutions of Optimal Control Problems",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-10-06"
+ },
+ "2610.09634": {
+  "abstract": "Differential-algebraic equation (DAE) systems arise in power networks, multibody mechanics, and chemical processes, where algebraic constraints couple dynamic and algebraic states. Standard control barrier function (CBF) methods, designed for ordinary differential equations, fail for DAE systems because the algebraic constraints impose compatibility requirements that may render safety filters infeasible. This paper develops a safety-critical control framework for semi-explicit DAE systems using CBFs that consider compatibility with the algebraic constraints, termed DAE-aware CBFs. We construct projected vector fields on the constraint manifold to account for the hidden dynamics, while ensuring compatibility conditions that keep the algebraic constraints satisfied. We then present sum of squares (SOS) verification conditions that certify both correctness and feasibility of the resulting DAE-aware CBF. The framework is validated on power system case studies.",
+  "authors": [
+   "Mohamad H. Kazma",
+   "Hongchao Zhang",
+   "Abdallah A. Albustami",
+   "Ben Wooding",
+   "Meiyi Ma",
+   "Taylor T. Johnson",
+   "Ahmad F. Taha"
+  ],
+  "categories": [
+   "eess.SY",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Mohamad H. Kazma",
+  "pdf_url": "http://arxiv.org/pdf/2610.09634",
+  "primary_category": "eess.SY",
+  "published": "2026-10-07",
+  "tags": [
+   "chemical-engineering"
+  ],
+  "title": "Safe Control of Semi-Explicit Differential-Algebraic Systems: Control Barrier Functions with SOS Verification",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.10054": {
+  "abstract": "Sampling transitions between metastable states is a central problem in dynamical systems theory and molecular dynamics in particular. A key challenge is the existence of high free-energy barriers that separate the states, making transitions extremely rare. Recent machine learning-based methods cast transition path sampling (TPS) as an optimal stochastic control (OSC) problem over a fixed time horizon, and parameterize the drift bias via a neural network trained by simulation-in-the-loop, requiring repeated biased rollouts. To address computational and performance guarantee issues of these models, we propose a new approach for the problem based on Koopman operators. Because Koopman operators are linear, their leading eigenfunctions reveal the metastable sets and provide an estimate of the committor function with no transition path information required. Furthermore, we formulate TPS as an OSC problem up to an exit time. Our time horizon is the first hitting time of the target set, and our running cost penalizes time spent in nonreactive regions by encoding the estimated committor function. We derive the optimal controller in closed form and approximate it in a reproducing kernel Hilbert space (RKHS). This reduces the problem of constructing the optimal controller to solving a single equality-constrained quadratic program, whose solution can be characterized by a linear Karush-Kuhn-Tucker (KKT) system. On the two-channel double well and alanine dipeptide, our controller increases the fraction of trajectories reaching the target from 0% to 99.8% within 1000 steps, and from 0% to 93% within 1ps, respectively.",
+  "authors": [
+   "Boya Hou",
+   "Shane Wang",
+   "Siddharth Ambekar",
+   "Maxim Raginsky",
+   "Olgica Milenkovic"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": "30 pages, 6 figures",
+  "first_author": "Boya Hou",
+  "pdf_url": "http://arxiv.org/pdf/2610.10054",
+  "primary_category": "eess.SY",
+  "published": "2026-10-07",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-10-07"
  }
 }

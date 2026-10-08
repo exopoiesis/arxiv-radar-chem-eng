@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06211.html">Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?</a></div></td>
+<td>Perceval Beja-Battais et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06211">2610.06211</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03508.html">Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="optimal-control-360d.html">optimal-control</a></div></td>
 <td>Rasa Pourjam et al.</td>
@@ -272,11 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03603.html">Artificial-reference tracking MPC with probabilistically validated performance on industrial embedded systems</a></div><div class="paper-tags"><a href="robust-control-360d.html">robust-control</a></div></td>
 <td>Victor Gracia et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03603">2511.03603</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10411.html">Discovering interpretable piecewise nonlinear model predictive control laws via symbolic decision trees</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ilias Mitrai</td>
-<td><a href="http://arxiv.org/abs/2510.10411">2510.10411</a></td>
 </tr>
 </tbody></table>

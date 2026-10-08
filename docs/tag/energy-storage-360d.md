@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23910.html">Dynamical Modeling of Temperature and Smoke Evolution in a Thermal-Runaway Event of a Large-Format Lithium-ion Battery in a Mine Tunnel</a></div></td>
 <td>Khadija Omar Said et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23910">2510.23910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10621.html">SDG-L: A Semiparametric Deep Gaussian Process based Framework for Battery Capacity Prediction</a></div><div class="paper-tags"><a href="gaussian-process-360d.html">gaussian-process</a></div></td>
-<td>Hanbing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10621">2510.10621</a></td>
 </tr>
 </tbody></table>
