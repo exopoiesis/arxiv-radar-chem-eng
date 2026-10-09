@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13033.html">A Liquid-Fueled Reactor Network Model for Enhanced NOx Prediction in Gas Turbine Combustors</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Philip John et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13033">2510.13033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08280.html">Composite B-Spline Regularized Delta Functions for the Immersed Boundary Method: Divergence-Free Interpolation and Gradient-Preserving Force Spreading</a></div></td>
-<td>Cole Gruninger et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08280">2408.08280</a></td>
 </tr>
 </tbody></table>

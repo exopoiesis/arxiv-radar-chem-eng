@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-10-08._
+_Updated 2026-10-09._
 
-**1241** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1246** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.09837.html">Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td>Hongwei Du et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09837">2610.09837</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.09634.html">Safe Control of Semi-Explicit Differential-Algebraic Systems: Control Barrier Functions with SOS Verification</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
@@ -25,6 +31,18 @@ _Updated 2026-10-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.10054.html">Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Boya Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10054">2610.10054</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.10320.html">LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical Devices</a></div><div class="paper-tags"><a href="tag/co2-reduction-30d.html">co2-reduction</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/reactor-design-30d.html">reactor-design</a></div></td>
+<td>Sebastian Castro et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10320">2610.10320</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.08040.html">Dynamic Kinetic Evaluation Favors Compositionally Diverse Multicomponent Alloy Nanoparticles for Hydrogen Evolution</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a></div></td>
+<td>Koki Otsuka et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08040">2610.08040</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-06</td>
@@ -45,6 +63,12 @@ _Updated 2026-10-08._
 <td><a href="http://arxiv.org/abs/2610.06211">2610.06211</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
+<td>Jihan Kim</td>
+<td><a href="http://arxiv.org/abs/2610.04866">2610.04866</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.03508.html">Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/mpc-30d.html">mpc</a> · <a href="tag/optimal-control-30d.html">optimal-control</a></div></td>
 <td>Rasa Pourjam et al.</td>
@@ -61,6 +85,12 @@ _Updated 2026-10-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01489.html">Building Seasonal Highways for Residential Energy Hubs: Sizing, planning and operating thermal energy storage</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
 <td>Dario Slaifstein et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01489">2610.01489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.02013.html">BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a></div></td>
+<td>Laura Zichi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02013">2610.02013</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -163,35 +193,5 @@ _Updated 2026-10-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="tag/carbon-capture-30d.html">carbon-capture</a> · <a href="tag/generative-models-30d.html">generative-models</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Jiachen Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22376.html">A Hybrid Quantum Neural Network to Analyse Big Experimental Powder X-ray Diffraction Data</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/fuel-cells-30d.html">fuel-cells</a></div></td>
-<td>H. Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22376">2609.22376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.16680.html">little m: An AI Agent for Industrial Process Optimization</a></div><div class="paper-tags"><a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
-<td>Yongchao Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16680">2609.16680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18917.html">Influence of fluidizing medium on hydrodynamics and particle mixing in a binary fluidized bed: a CFD-DEM study</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/multiphase-flow-30d.html">multiphase-flow</a></div></td>
-<td>Ravinder Nath et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18917">2609.18917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14906.html">Neural-Network Solutions to Real-Space Charge Density and Generalization</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
-<td>Yuxuan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14906">2609.14906</a></td>
 </tr>
 </tbody></table>

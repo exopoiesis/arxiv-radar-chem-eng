@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08040.html">Dynamic Kinetic Evaluation Favors Compositionally Diverse Multicomponent Alloy Nanoparticles for Hydrogen Evolution</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
+<td>Koki Otsuka et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08040">2610.08040</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02013.html">BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials</a></div><div class="paper-tags"><a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
+<td>Laura Zichi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02013">2610.02013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02014.html">Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering</a></div><div class="paper-tags"><a href="catalyst-design-all.html">catalyst-design</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="process-systems-engineering-all.html">process-systems-engineering</a> · <a href="separations-all.html">separations</a></div></td>

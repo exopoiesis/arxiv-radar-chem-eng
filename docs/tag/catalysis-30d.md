@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08040.html">Dynamic Kinetic Evaluation Favors Compositionally Diverse Multicomponent Alloy Nanoparticles for Hydrogen Evolution</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="hydrogen-evolution-30d.html">hydrogen-evolution</a></div></td>
+<td>Koki Otsuka et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08040">2610.08040</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02013.html">BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials</a></div><div class="paper-tags"><a href="heterogeneous-catalysis-30d.html">heterogeneous-catalysis</a></div></td>
+<td>Laura Zichi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02013">2610.02013</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02014.html">Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering</a></div><div class="paper-tags"><a href="catalyst-design-30d.html">catalyst-design</a> · <a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="process-systems-engineering-30d.html">process-systems-engineering</a> · <a href="separations-30d.html">separations</a></div></td>
 <td>Michael Baldea et al.</td>
@@ -50,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Joshua W. Sin et al.</td>
 <td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-models-30d.html">generative-models</a> · <a href="graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Vsevolod Viliuga et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="mpc-30d.html">mpc</a></div></td>
-<td>Viktoria Waidbacher et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
 </tr>
 </tbody></table>

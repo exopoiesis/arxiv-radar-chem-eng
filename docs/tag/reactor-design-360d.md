@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reactor-design — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="reactor-design-7d.html">7d</a> <a href="reactor-design-30d.html">30d</a> <a href="reactor-design-90d.html">90d</a> <strong>360d</strong> <a href="reactor-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10320.html">LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical Devices</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
+<td>Sebastian Castro et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10320">2610.10320</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04148.html">Evaluation of U-235 and U-238 Fission Product Yields Using Bayesian Neural Networks: Comparison of Baseline and Physics-Informed Models</a></div></td>

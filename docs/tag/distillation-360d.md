@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>distillation — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="distillation-7d.html">7d</a> <a href="distillation-30d.html">30d</a> <a href="distillation-90d.html">90d</a> <strong>360d</strong> <a href="distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.00382.html">Toward Fair Graph Neural Networks Via Dual-Teacher Knowledge Distillation</a></div><div class="paper-tags"><a href="graph-neural-networks-360d.html">graph-neural-networks</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Chengyu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2412.00382">2412.00382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11615.html">LLM-Oriented Token-Adaptive Knowledge Distillation</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Xurong Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11615">2510.11615</a></td>
 </tr>
 </tbody></table>

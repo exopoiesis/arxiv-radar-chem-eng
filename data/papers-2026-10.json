@@ -23,6 +23,7 @@
   ],
   "title": "Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures",
   "topics": [
+   "Catalysis & Materials for Chemical Engineering",
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2026-10-01"
@@ -51,6 +52,40 @@
   "title": "Building Seasonal Highways for Residential Energy Hubs: Sizing, planning and operating thermal energy storage",
   "topics": [
    "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.02013": {
+  "abstract": "Equivariant machine learning interatomic potentials (MLIPs) have revolutionized atomistic modeling, but accurate treatment of complex materials and molecular systems demands expensive models. This limits simulation length- and time-scales, with tensor products a key computational bottleneck. The recent emergence of foundation-scale MLIPs further exacerbates this challenge. We present Branch Interatomic Potential (BranchIP), a single-model framework for learned adaptive tensor product computation, trained with a novel distillation loss. In our experiments on two systems of physical interest, a heterogeneous catalysis system and a proton-conducting solid acid electrolyte, BranchIP accelerates MLIPs across model sizes by up to $2.4\\times$ while reducing memory usage by up to $2.6\\times$. This is achieved while maintaining physical fidelity. Furthermore, the learned adaptive computation provides model interpretability by revealing which interactions demand deeper computation and showing how computational depth relates to chemical complexity and dynamics.",
+  "authors": [
+   "Laura Zichi",
+   "Gil Harari",
+   "Chuin Wei Tan",
+   "Marc L. Descoteaux",
+   "Albert Zhu",
+   "Menghang Wang",
+   "Yoel Zimmermann",
+   "H. T. Kung",
+   "Boris Kozinsky"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.app-ph",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Laura Zichi",
+  "pdf_url": "http://arxiv.org/pdf/2610.02013",
+  "primary_category": "cs.LG",
+  "published": "2026-10-01",
+  "tags": [
+   "catalysis",
+   "heterogeneous-catalysis"
+  ],
+  "title": "BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2026-10-01"
  },
@@ -126,6 +161,31 @@
   ],
   "updated": "2026-10-02"
  },
+ "2610.04866": {
+  "abstract": "Here we introduce a phenomenon-first framework for materials discovery in which an LLM receives separate descriptions of guest physics, host capabilities and operating context and proposes an unusual qualitative behavior with its mechanism, distinguishing signature and falsifier. Across 80 guest-host combinations in metal-organic frameworks, the model generated 57 proposals that were frozen before evaluation or materials selection; assessment identified nine computationally tractable candidates. In a repeat and guest-only baseline, structured formulation reproducibly broadened mechanistic exploration: the original and repeat runs each covered 21 broad mechanism families versus eight for guest-only formulation despite fewer proposals. From the original run, MC-010 yielded reproducible hydration-driven reorientation of retained ethanol in experimentally reported MOFs, while MC-015 yielded a quantum-corrected reversal of H$_2$ adsorption-region preference relative to the matched classical description. These results show how structured LLM reasoning can move upstream from executing supplied objectives toward prospectively formulating qualitative materials phenomena.",
+  "authors": [
+   "Jihan Kim"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jihan Kim",
+  "pdf_url": "http://arxiv.org/pdf/2610.04866",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-04",
+  "tags": [
+   "adsorption",
+   "large-language-models",
+   "materials-discovery",
+   "metal-organic-frameworks"
+  ],
+  "title": "Phenomenon-first problem formulation with language models in metal-organic frameworks",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-10-04"
+ },
  "2610.06155": {
   "abstract": "The design of high-quality nanoparticles requires the production of materials with narrow particle size distributions, as these strongly influence the functionalities of the final product. To achieve this goal, it is useful to consider a coupled process chain in which nanoparticles are first synthesized and subsequently fractionated by chromatographic separation. We introduce a novel mathematical optimization model for the integrated optimization of coupled nanoparticle synthesis and separation processes. The proposed model simultaneously accounts for process performance and economic objectives through a cost function that incorporates both production costs and achievable profit defined by the particle quality. For efficient evaluation of the synthesis model, we employ the exact method of moments. The resulting non-convex process-design problem is solved numerically using local optimization. Optimization results of our approach are demonstrated for the prototypical design of gold nanoparticles. The computational results show that optimized solutions of the coupled synthesis--separation process are capable of accurately representing both process stages while achieving optimized particle quality. The proposed model highlights the potential of mathematical optimization for the design of coupled nanoparticle production process-chains.",
   "authors": [
@@ -175,6 +235,35 @@
    "Process Control & Optimization"
   ],
   "updated": "2026-10-05"
+ },
+ "2610.08040": {
+  "abstract": "High-entropy alloy (HEA) nanoparticles offer chemically diverse catalytic sites, but identifying optimal compositions across their large design space remains challenging. We developed a framework combining machine-learning energy prediction, thermodynamic Monte Carlo sampling, Bayesian optimization, and kinetic Monte Carlo (kMC) simulations to screen 85-atom nanoparticle models across a nine-element composition space for the hydrogen evolution reaction. Static optimization based on adsorption energies selected Pt-rich, low-component compositions, whereas kMC-based optimization ranked the multielement composition Au$_{33}$Co$_{20}$Cu$_{6}$Pd$_{26}$ highest among the evaluated candidates. Cycle-resolved analysis further showed hydrogen adsorption at Co/Pd-rich environments, migration through intermediate-binding sites, and frequent Heyrovsky desorption at weaker-binding, Au-containing environments. This pathway-level evidence supports a multisite reaction picture and illustrates how incorporating kinetics can complement static adsorption-energy screening.",
+  "authors": [
+   "Koki Otsuka",
+   "Anh Khoa Augustin Lu",
+   "Koji Shimizu",
+   "Satoshi Watanabe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "28 pages, 14 figures",
+  "first_author": "Koki Otsuka",
+  "pdf_url": "http://arxiv.org/pdf/2610.08040",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-06",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "bayesian-inference",
+   "catalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Dynamic Kinetic Evaluation Favors Compositionally Diverse Multicomponent Alloy Nanoparticles for Hydrogen Evolution",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-10-06"
  },
  "2610.08493": {
   "abstract": "In this paper, we propose an explainable artificial intelligence framework to explain the solution of optimal control problems predicted with graph neural networks (GNNs). The proposed approach first trains a GNN that predicts the solution of the optimal control problem for a given instance represented as a graph. Given the trained GNN, we use explainable AI algorithms to identify variables, constraints, variable-constraint connections, and parameters, i.e., nodes, edges, and features in the graph representation of the optimal control problem, that affect the prediction of the optimal solution the most. We apply the proposed approach to a case study regarding the optimal control of a continuous stirred tank reactor. First, the results show that the GNN model can accurately predict the optimal values of the manipulated variables. Application of explainable AI algorithms reveals equality and inequality constraints that are the most important for predicting the optimal solution. The inequality constraints correspond to ramping constraints, some of which are active at the optimal solution.",
@@ -229,6 +318,44 @@
   ],
   "updated": "2026-10-07"
  },
+ "2610.09837": {
+  "abstract": "Universal machine learning force-field generalization to multicomponent environments generated by compositional design remains insufficiently assessed. We construct a benchmark of 7,599 multicomponent configurations inspired by high-entropy design, elemental substitution and anion mixing. Eleven pretrained models are evaluated against density functional theory for energies, forces and stresses, with assessment extended to elastic, vibrational and adsorption-related properties. Force errors are analysed through training-reference coverage, local geometric heterogeneity, distance directionality and elemental response. Distances to training-reference environments reveal a qualitative association between coverage differences and increasing errors, while substantial variation remains at similar distances. Higher-error groups show greater local geometric heterogeneity, although OMat24 provides broad coverage of these environments. Relative to training-reference pair medians, errors remain low near the median, rise steeply on the compression side and increase more weakly on the extension side. After matching element pairs and absolute distance deviations, compression-side force errors are 1.81-1.95 times extension-side errors. Model-predicted pairwise interaction curves show greater curvature under compression. Fitting difficulty in independent elemental systems correlates with electronic band-energy responses to atomic displacements and Fermi-level shifts, and a similar pattern is observed in multicomponent systems. In parameter-matched comparisons, spherical-harmonic representations with maximum degrees of 2 and 4 lower test force errors for 38 and 40 of 43 elements, respectively, while differences in elemental difficulty remain. These findings inform force-field selection for experimental compositional design and identify targets for training-data sampling and model representations.",
+  "authors": [
+   "Hongwei Du",
+   "Dingyang Lv",
+   "Baole Wei",
+   "Yu Ren",
+   "Feng Yu",
+   "Xin He",
+   "Bonan Zhu",
+   "Jiahui Liu",
+   "Yongda Huang",
+   "Yongheng Li",
+   "Jianjun Liu",
+   "Siqi Shi",
+   "Hong Wang",
+   "Ziheng Lu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "28 pages, 10 figures",
+  "first_author": "Hongwei Du",
+  "pdf_url": "http://arxiv.org/pdf/2610.09837",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-07",
+  "tags": [
+   "adsorption",
+   "dft"
+  ],
+  "title": "Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-10-08"
+ },
  "2610.10054": {
   "abstract": "Sampling transitions between metastable states is a central problem in dynamical systems theory and molecular dynamics in particular. A key challenge is the existence of high free-energy barriers that separate the states, making transitions extremely rare. Recent machine learning-based methods cast transition path sampling (TPS) as an optimal stochastic control (OSC) problem over a fixed time horizon, and parameterize the drift bias via a neural network trained by simulation-in-the-loop, requiring repeated biased rollouts. To address computational and performance guarantee issues of these models, we propose a new approach for the problem based on Koopman operators. Because Koopman operators are linear, their leading eigenfunctions reveal the metastable sets and provide an estimate of the committor function with no transition path information required. Furthermore, we formulate TPS as an OSC problem up to an exit time. Our time horizon is the first hitting time of the target set, and our running cost penalizes time spent in nonreactive regions by encoding the estimated committor function. We derive the optimal controller in closed form and approximate it in a reproducing kernel Hilbert space (RKHS). This reduces the problem of constructing the optimal controller to solving a single equality-constrained quadratic program, whose solution can be characterized by a linear Karush-Kuhn-Tucker (KKT) system. On the two-channel double well and alanine dipeptide, our controller increases the fraction of trajectories reaching the target from 0% to 99.8% within 1000 steps, and from 0% to 93% within 1ps, respectively.",
   "authors": [
@@ -254,6 +381,37 @@
   "title": "Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control",
   "topics": [
    "Process Control & Optimization"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.10320": {
+  "abstract": "Multiphysics continuum models are powerful tools for studying electrochemical devices, enabling in silico reactor design and resolution of local pH, potential, and concentration fields that govern device performance but are difficult to measure experimentally. However, constructing such models requires substantial numerical expertise or reliance on proprietary software. Here, we show that frontier large language model agents can remove this implementation burden while keeping the underlying physics under researcher control. Using one-dimensional electrochemical CO2 reduction to CO in a porous gas diffusion electrode as a test case, we develop a machine-readable, human-specified modeling harness containing governing equations, parameters, numerical methods, logical build stages, and human-verifiable checkpoints. From this specification, the agent reproducibly constructs complete multiphysics models in open-source Julia. Independently built models, including fully autonomous agent-built models, agree with an equivalent COMSOL implementation to within 0.7% of the peak CO partial current density, and with one another to within 0.04%. Systematically planted errors demonstrate the importance of explicit specifications for reproducibility and reveal the agent's capabilities and limitations in debugging model physics. This framework establishes a more transparent approach to multiphysics modeling in which physical descriptions and governing equations, rather than specialized code, become the primary inputs for computational model development.",
+  "authors": [
+   "Sebastian Castro",
+   "Maya F. Schuchert",
+   "Spencer A. McCluskey",
+   "Eric W. Lees",
+   "Justin C. Bui"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI",
+   "physics.comp-ph"
+  ],
+  "comment": "25 pages, 6 figures, Supplementary Information and implementation guide provided as ancillary files",
+  "first_author": "Sebastian Castro",
+  "pdf_url": "http://arxiv.org/pdf/2610.10320",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-07",
+  "tags": [
+   "co2-reduction",
+   "electrochemical-systems",
+   "large-language-models",
+   "reactor-design"
+  ],
+  "title": "LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical Devices",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2026-10-07"
  }

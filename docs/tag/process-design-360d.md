@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-design — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <a href="process-design-90d.html">90d</a> <strong>360d</strong> <a href="process-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20921.html">LLM-guided Chemical Process Optimization with a Multi-Agent Approach</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
 <td>Tong Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20921">2506.20921</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02242.html">A Machine Learning-Fueled Modelfluid for Flowsheet Optimization</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
-<td>Martin Bubel et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02242">2509.02242</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08040.html">Dynamic Kinetic Evaluation Favors Compositionally Diverse Multicomponent Alloy Nanoparticles for Hydrogen Evolution</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
+<td>Koki Otsuka et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08040">2610.08040</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02013.html">BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials</a></div><div class="paper-tags"><a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a></div></td>
+<td>Laura Zichi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02013">2610.02013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02014.html">Atoms to Processes: The Role of Artificial Intelligence and Machine Learning in Chemical Engineering</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a> · <a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a> · <a href="separations-360d.html">separations</a></div></td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>co2-reduction — all</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <a href="co2-reduction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10320.html">LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical Devices</a></div><div class="paper-tags"><a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="reactor-design-all.html">reactor-design</a></div></td>
+<td>Sebastian Castro et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10320">2610.10320</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="co2-electroreduction-all.html">co2-electroreduction</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
