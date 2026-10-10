@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fuel-cells — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <a href="fuel-cells-90d.html">90d</a> <strong>360d</strong> <a href="fuel-cells-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,17 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20502.html">Predicting the 3D microstructure of SOFC anodes from 2D SEM images using stochastic microstructure modeling and CNNs</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a></div></td>
 <td>Léon F. Schröder et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20502">2510.20502</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04115.html">A Neural Network-based Multi-timestep Command Governor for Nonlinear Systems with Constraints</a></div></td>
-<td>Mostafaali Ayubirad et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04115">2502.04115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12655.html">AI-Assisted Physics-Informed Predictions of Degradation Behavior of Polymeric Anion Exchange Membranes</a></div></td>
-<td>William Schertzer et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12655">2510.12655</a></td>
 </tr>
 </tbody></table>

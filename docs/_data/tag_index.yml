@@ -31,10 +31,6 @@
   count: 3
   total: 95
   group: fluids
-- name: electrochemical-systems
-  count: 3
-  total: 70
-  group: energy
 - name: electrolysis
   count: 3
   total: 23
@@ -55,6 +51,10 @@
   count: 2
   total: 120
   group: domain
+- name: electrochemical-systems
+  count: 2
+  total: 70
+  group: energy
 - name: gaussian-process
   count: 2
   total: 59
@@ -155,10 +155,6 @@
   count: 1
   total: 13
   group: reactions
-- name: reduced-order-modeling
-  count: 1
-  total: 16
-  group: modeling
 - name: wastewater-treatment
   count: 1
   total: 21
@@ -327,6 +323,10 @@
   count: 0
   total: 5
   group: energy
+- name: reduced-order-modeling
+  count: 0
+  total: 16
+  group: modeling
 - name: reinforcement-learning-control
   count: 0
   total: 0
