@@ -3,14 +3,14 @@
   count: 7
   total: 164
   group: reactions
-- name: energy-storage
-  count: 7
-  total: 160
-  group: energy
 - name: large-language-models
   count: 7
   total: 125
   group: architectures
+- name: energy-storage
+  count: 6
+  total: 160
+  group: energy
 - name: mpc
   count: 5
   total: 78
@@ -19,14 +19,14 @@
   count: 4
   total: 95
   group: separations
-- name: dft
-  count: 4
-  total: 130
-  group: materials
 - name: cfd
   count: 3
   total: 95
   group: fluids
+- name: dft
+  count: 3
+  total: 130
+  group: materials
 - name: electrolysis
   count: 3
   total: 23
@@ -111,10 +111,6 @@
   count: 1
   total: 44
   group: energy
-- name: gaussian-process
-  count: 1
-  total: 59
-  group: methods
 - name: generative-models
   count: 1
   total: 33
@@ -231,6 +227,10 @@
   count: 0
   total: 8
   group: separations
+- name: gaussian-process
+  count: 0
+  total: 59
+  group: methods
 - name: ionic-liquids
   count: 0
   total: 7

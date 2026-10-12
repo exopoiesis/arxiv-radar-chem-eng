@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22240.html">Effects of successive annealing on high-field electrical transport and the upper critical field in S-substituted FeTe</a></div></td>
 <td>Ryosuke Kurihara et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22240">2510.22240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20921.html">LLM-guided Chemical Process Optimization with a Multi-Agent Approach</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a> · <a href="process-design-360d.html">process-design</a></div></td>
-<td>Tong Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20921">2506.20921</a></td>
 </tr>
 </tbody></table>
