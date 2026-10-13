@@ -7,18 +7,9 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mpc — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">0 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mpc-30d.html">30d</a> <a href="mpc-90d.html">90d</a> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-<table class="papers">
-<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
-<tbody>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06211.html">Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?</a></div></td>
-<td>Perceval Beja-Battais et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06211">2610.06211</a></td>
-</tr>
-</tbody></table>
+_No papers in this window._

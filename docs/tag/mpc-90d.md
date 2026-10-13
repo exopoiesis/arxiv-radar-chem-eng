@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mpc — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="mpc-7d.html">7d</a> <a href="mpc-30d.html">30d</a> <strong>90d</strong> <a href="mpc-360d.html">360d</a> <a href="mpc-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07273.html">Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics</a></div><div class="paper-tags"><a href="economic-mpc-90d.html">economic-mpc</a> · <a href="energy-storage-90d.html">energy-storage</a> · <a href="energy-systems-90d.html">energy-systems</a></div></td>
 <td>Azzam Abdul et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07273">2608.07273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12856.html">Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control</a></div><div class="paper-tags"><a href="energy-storage-90d.html">energy-storage</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Takumi Shioda et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12856">2607.12856</a></td>
 </tr>
 </tbody></table>
