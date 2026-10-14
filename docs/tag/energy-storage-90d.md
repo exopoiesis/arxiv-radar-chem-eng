@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-storage — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <strong>90d</strong> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19667.html">A Human-AI Teaming Framework for Deep Reinforcement Learning-Based Voltage Regulation in Distribution Networks</a></div></td>
 <td>Mahmuda Akter et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19667">2607.19667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13709.html">Predicting BESS Degradation with Uncertainty Quantification: A Probabilistic Framework for Battery Energy Storage Systems</a></div><div class="paper-tags"><a href="energy-systems-90d.html">energy-systems</a></div></td>
-<td>Melina Graner et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13709">2607.13709</a></td>
 </tr>
 </tbody></table>
