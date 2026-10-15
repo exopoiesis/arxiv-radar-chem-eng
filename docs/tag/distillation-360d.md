@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>distillation — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="distillation-7d.html">7d</a> <a href="distillation-30d.html">30d</a> <a href="distillation-90d.html">90d</a> <strong>360d</strong> <a href="distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24949.html">SCOUT: A Lightweight Framework for Scenario Coverage Assessment in Autonomous Driving</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Anil Yildiz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24949">2510.24949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16716.html">DistilLock: Safeguarding LLMs from Unauthorized Knowledge Distillation on the Edge</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Asmita Mohanty et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16716">2510.16716</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16968.html">Leave It to the Experts: Detecting Knowledge Distillation via MoE Expert Signatures</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="large-language-models-360d.html">large-language-models</a></div></td>
-<td>Pingzhi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16968">2510.16968</a></td>
 </tr>
 </tbody></table>

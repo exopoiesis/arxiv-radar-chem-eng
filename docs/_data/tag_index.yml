@@ -23,10 +23,6 @@
   count: 3
   total: 95
   group: fluids
-- name: dft
-  count: 3
-  total: 130
-  group: materials
 - name: electrolysis
   count: 3
   total: 23
@@ -51,6 +47,10 @@
   count: 2
   total: 120
   group: domain
+- name: dft
+  count: 2
+  total: 130
+  group: materials
 - name: electrochemical-systems
   count: 2
   total: 70
