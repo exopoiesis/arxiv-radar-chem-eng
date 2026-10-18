@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-sites — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="active-sites-7d.html">7d</a> <a href="active-sites-30d.html">30d</a> <a href="active-sites-90d.html">90d</a> <strong>360d</strong> <a href="active-sites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09869.html">Potential-Programmed Operando Ensembles Govern Nitrate Electroreduction</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Xue-Chun Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09869">2511.09869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19343.html">Identifying the Catalytic Descriptor of Single-Atom Catalysts in Nitrate Reduction Reaction: An Interpretable Machine-Learning Method</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Zhen Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19343">2510.19343</a></td>
 </tr>
 </tbody></table>
