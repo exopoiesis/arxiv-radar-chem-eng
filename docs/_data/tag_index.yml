@@ -55,10 +55,6 @@
   count: 2
   total: 68
   group: separations
-- name: surrogate-modeling
-  count: 2
-  total: 95
-  group: modeling
 - name: adsorption-energy
   count: 1
   total: 28
@@ -119,6 +115,10 @@
   count: 1
   total: 13
   group: reactions
+- name: surrogate-modeling
+  count: 1
+  total: 95
+  group: modeling
 - name: wastewater-treatment
   count: 1
   total: 21

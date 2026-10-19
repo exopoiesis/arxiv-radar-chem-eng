@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>carbon-capture — 360d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="carbon-capture-7d.html">7d</a> <a href="carbon-capture-30d.html">30d</a> <a href="carbon-capture-90d.html">90d</a> <strong>360d</strong> <a href="carbon-capture-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26198.html">Machine learning-based upscaling of rock permeability from pore scale to core scale: effect of training dataset size and sub-core volumes</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Yaotian Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26198">2510.26198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="porous-materials-360d.html">porous-materials</a></div></td>
-<td>Jiyu Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
 </tr>
 </tbody></table>

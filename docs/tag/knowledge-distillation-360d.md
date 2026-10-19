@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>knowledge-distillation — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="knowledge-distillation-7d.html">7d</a> <a href="knowledge-distillation-30d.html">30d</a> <a href="knowledge-distillation-90d.html">90d</a> <strong>360d</strong> <a href="knowledge-distillation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24266.html">S$^2$NN: Sub-bit Spiking Neural Networks</a></div></td>
 <td>Wenjie Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24266">2509.24266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20236.html">Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction</a></div><div class="paper-tags"><a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
-<td>Teng Jiek See et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20236">2510.20236</a></td>
 </tr>
 </tbody></table>

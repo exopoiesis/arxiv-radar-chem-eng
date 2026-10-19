@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>graph-neural-networks — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="graph-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15228.html">Accelerating High-Throughput Catalyst Screening by Direct Generation of Equilibrium Adsorption Structures</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="dft-360d.html">dft</a> · <a href="generative-models-360d.html">generative-models</a></div></td>
 <td>Songze Huo et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15228">2512.15228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20236.html">Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction</a></div><div class="paper-tags"><a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
-<td>Teng Jiek See et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20236">2510.20236</a></td>
 </tr>
 </tbody></table>
