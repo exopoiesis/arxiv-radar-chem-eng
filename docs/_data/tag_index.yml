@@ -4,7 +4,7 @@
   total: 164
   group: reactions
 - name: energy-storage
-  count: 5
+  count: 4
   total: 160
   group: energy
 - name: large-language-models
