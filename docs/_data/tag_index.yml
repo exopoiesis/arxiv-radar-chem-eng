@@ -3,22 +3,22 @@
   count: 5
   total: 164
   group: reactions
-- name: energy-storage
-  count: 4
-  total: 160
-  group: energy
 - name: large-language-models
   count: 4
   total: 125
   group: architectures
-- name: mpc
-  count: 4
-  total: 78
-  group: control
 - name: adsorption
   count: 3
   total: 95
   group: separations
+- name: energy-storage
+  count: 3
+  total: 160
+  group: energy
+- name: mpc
+  count: 3
+  total: 78
+  group: control
 - name: optimal-control
   count: 3
   total: 39
