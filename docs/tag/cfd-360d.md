@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24947.html">On the near-field evolution of a chemically reactive plume behind a ship</a></div></td>
+<td>Ramesh Kolluru et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24947">2610.24947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20470.html">Reynolds-number-dependent entrance bias in temperature polarization of lab-scale membrane distillation</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>
+<td>Soyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20470">2610.20470</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27562.html">Europa smooth plains formation: a SPH cryovolcanic model</a></div><div class="paper-tags"><a href="heat-transfer-360d.html">heat-transfer</a></div></td>

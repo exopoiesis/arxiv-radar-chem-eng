@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>flow-reactors — all</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="flow-reactors-7d.html">7d</a> <a href="flow-reactors-30d.html">30d</a> <a href="flow-reactors-90d.html">90d</a> <a href="flow-reactors-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22963.html">Streamwise dispersion with interphase mass transfer through a tube</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="chromatography-all.html">chromatography</a> · <a href="mass-transfer-all.html">mass-transfer</a></div></td>
+<td>Mingyang Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22963">2610.22963</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26695.html">Compartment Modelling of Multiphase Reactors using Unsupervised Clustering</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="mass-transfer-all.html">mass-transfer</a> · <a href="multiphase-flow-all.html">multiphase-flow</a> · <a href="optimal-control-all.html">optimal-control</a></div></td>

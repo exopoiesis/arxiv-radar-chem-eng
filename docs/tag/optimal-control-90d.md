@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>optimal-control — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <strong>90d</strong> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25556.html">Self-Supervised In-Context Operator Learning for Optimal Mixing in Incompressible Flows</a></div></td>
+<td>Weiwei Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25556">2610.25556</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15743.html">Molecular Vibronic Complexity as a Quantum Resource for Optimal Control: Nonadiabatic Mixing Creates Protected Coherence Subspaces in Dissipative Environments</a></div></td>
+<td>Elisa Palacino-González</td>
+<td><a href="http://arxiv.org/abs/2610.15743">2610.15743</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08493.html">Learning to Explain Solutions of Optimal Control Problems</a></div><div class="paper-tags"><a href="graph-neural-networks-90d.html">graph-neural-networks</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21050.html">Large Language Model-Assisted Systematic Study of Anomalous Adsorption Phenomena</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-isotherms-360d.html">adsorption-isotherms</a> · <a href="gas-separation-360d.html">gas-separation</a> · <a href="porous-materials-360d.html">porous-materials</a></div></td>
+<td>Fengxu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21050">2610.21050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="crystallization-360d.html">crystallization</a> · <a href="gaussian-process-360d.html">gaussian-process</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Hongrui Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10320.html">LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical Devices</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="reactor-design-360d.html">reactor-design</a></div></td>
@@ -26,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
 <td>Jihan Kim</td>
 <td><a href="http://arxiv.org/abs/2610.04866">2610.04866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03056.html">MOF-VERIFY: A Failure-Aware Agentic Harness for MOF Hypothesis Verification</a></div><div class="paper-tags"><a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a></div></td>
+<td>Donghyun Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03056">2610.03056</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-22</td>

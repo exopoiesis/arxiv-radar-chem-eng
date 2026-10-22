@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>porous-media-flow — all</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="porous-media-flow-7d.html">7d</a> <a href="porous-media-flow-30d.html">30d</a> <a href="porous-media-flow-90d.html">90d</a> <a href="porous-media-flow-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10314.html">PoreML: A Data-Driven Framework for Learning Multiphase Flow in Porous Media</a></div><div class="paper-tags"><a href="multiphase-flow-all.html">multiphase-flow</a></div></td>
+<td>Chunyang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10314">2610.10314</a></td>
+</tr>
 <tr class="paper">
 <td>2025-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08152.html">The Riemann problem for three-phase foam flow in porous media</a></div><div class="paper-tags"><a href="carbon-capture-all.html">carbon-capture</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>

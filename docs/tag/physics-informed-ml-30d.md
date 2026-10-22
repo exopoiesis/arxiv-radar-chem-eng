@@ -16,9 +16,9 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25436.html">Physics-constrained inference of somatic dynamics from dendritic recordings with sparse somatic supervision in weakly coupled two-compartment neuron model</a></div></td>
-<td>Abdeltif Oujbara et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25436">2609.25436</a></td>
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11108.html">Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries</a></div><div class="paper-tags"><a href="heat-transfer-30d.html">heat-transfer</a></div></td>
+<td>Weizheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11108">2610.11108</a></td>
 </tr>
 </tbody></table>

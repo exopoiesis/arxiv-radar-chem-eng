@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>system-identification — all</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26741.html">System Identification for Nonlinear Stochastic State-Space Models Using Ensemble Kalman Inversion with Application to Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a></div></td>
+<td>Farzaneh Barat et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26741">2610.26741</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11059.html">A Latent Space Optimization Approach for Symbolic Discovery of Dynamical Models</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
+<td>Tongjia Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11059">2610.11059</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="experimental-design-all.html">experimental-design</a> · <a href="physics-informed-ml-all.html">physics-informed-ml</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
