@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04483.html">Unveiling the Adsorption and Electronic Interactions of Drugs on 2D Graphsene: Insights from DFT and Machine Learning Approach</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
 <td>Chaithanya Purushottam Bhat et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04483">2511.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26813.html">PyTIE: A Python Program for the Evaluation of Degree-Based Topological Descriptors and Molecular Entropy</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
-<td>Sahaya Vijay Jeyaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26813">2510.26813</a></td>
 </tr>
 </tbody></table>

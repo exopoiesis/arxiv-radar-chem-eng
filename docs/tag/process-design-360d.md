@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-design — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <a href="process-design-90d.html">90d</a> <strong>360d</strong> <a href="process-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24272.html">Survey and Tutorial of Reinforcement Learning Methods in Process Systems Engineering</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
 <td>Maximilian Bloor et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24272">2510.24272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23422.html">Prospects towards Paired Electrolysis at Industrial Currents</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="electrolysis-360d.html">electrolysis</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Lu Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23422">2510.23422</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
+<td>Bruno S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="crystallization-90d.html">crystallization</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>
 <td>Hongrui Sheng et al.</td>
@@ -68,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-isotherms-90d.html">adsorption-isotherms</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Rahul Soni et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05603">2608.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22338.html">Uncertainty Quantification for Free Energy Calculations by Generalized Hierarchical Bayesian Inference</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Martin Skorna et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22338">2607.22338</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="gaussian-process-30d.html">gaussian-process</a></div></td>
+<td>Bruno S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18825.html">Joint Neural Posterior Estimation and Model Selection for Chemical Reaction Networks</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>J. Arturo Esquivel et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="electrolysis-30d.html">electrolysis</a> · <a href="oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
 <td>Ken J. Jenewein et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div><div class="paper-tags"><a href="optimal-control-30d.html">optimal-control</a></div></td>
-<td>Jialiang Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24135.html">Fixed Point Neural Acceleration and Inverse Surrogate Model for Battery Parameter Identification</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Hojin Cheon et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24135">2510.24135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23422.html">Prospects towards Paired Electrolysis at Industrial Currents</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrolysis-360d.html">electrolysis</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="process-design-360d.html">process-design</a></div></td>
-<td>Lu Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23422">2510.23422</a></td>
 </tr>
 </tbody></table>

@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-10-22._
+_Updated 2026-10-23._
 
-**1277** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1280** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,28 @@ _Updated 2026-10-22._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31431.html">Dimension-free regimes for unadjusted Langevin in ridge-separable models: A subspace robust Wasserstein analysis</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Yuansi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31431">2610.31431</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29953.html">A Plantwide Simulation Library for Control-Oriented Design: Analytical and Data-driven Use Cases</a></div></td>
 <td>Kyle Territo et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29953">2610.29953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
+<td>Bruno S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-19</td>
@@ -175,23 +193,5 @@ _Updated 2026-10-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11108.html">Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
 <td>Weizheng Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11108">2610.11108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.12158.html">HI intensity mapping with MeerKAT: A measurement of the 21-cm auto-spectrum on cosmological scales</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a></div></td>
-<td> MeerKLASS Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12158">2610.12158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.09634.html">Safe Control of Semi-Explicit Differential-Algebraic Systems: Control Barrier Functions with SOS Verification</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
-<td>Mohamad H. Kazma et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09634">2610.09634</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.10054.html">Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Boya Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10054">2610.10054</a></td>
 </tr>
 </tbody></table>

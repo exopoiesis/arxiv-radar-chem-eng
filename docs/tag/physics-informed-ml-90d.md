@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-ml — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="physics-informed-ml-7d.html">7d</a> <a href="physics-informed-ml-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-ml-360d.html">360d</a> <a href="physics-informed-ml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02599.html">Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</a></div><div class="paper-tags"><a href="energy-systems-90d.html">energy-systems</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
 <td>Junjie Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02599">2608.02599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22055.html">A physics-informed neural network for improving surface reconstruction of intracranial saccular aneurysms via variational membrane equilibrium</a></div></td>
-<td>Hyomin Ryu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22055">2607.22055</a></td>
 </tr>
 </tbody></table>

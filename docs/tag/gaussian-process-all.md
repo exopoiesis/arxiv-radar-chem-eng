@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gaussian-process — all</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <a href="gaussian-process-90d.html">90d</a> <a href="gaussian-process-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
+<td>Bruno S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="crystallization-all.html">crystallization</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a></div></td>

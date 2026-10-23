@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-engineering — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <strong>360d</strong> <a href="chemical-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,11 +362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10136.html">Spectral quantum algorithm for passive scalar transport in shear flows</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Philipp Pfeffer et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10136">2505.10136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26813.html">PyTIE: A Python Program for the Evaluation of Degree-Based Topological Descriptors and Molecular Entropy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Sahaya Vijay Jeyaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26813">2510.26813</a></td>
 </tr>
 </tbody></table>

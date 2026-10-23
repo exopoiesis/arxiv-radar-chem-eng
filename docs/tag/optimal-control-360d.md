@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>optimal-control — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <a href="optimal-control-90d.html">90d</a> <strong>360d</strong> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21510.html">Joint Scheduling of DER under Demand Charges: Structure and Approximation</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Ruixiao Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21510">2506.21510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12160.html">Design and Optimization of EV Charging Infrastructure with Battery in Commercial Buildings</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
-<td>Quan Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12160">2509.12160</a></td>
 </tr>
 </tbody></table>

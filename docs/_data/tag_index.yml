@@ -3,34 +3,34 @@
   count: 7
   total: 99
   group: separations
+- name: bayesian-inference
+  count: 7
+  total: 66
+  group: methods
 - name: catalysis
   count: 7
-  total: 166
+  total: 167
   group: reactions
-- name: large-language-models
-  count: 7
-  total: 128
-  group: architectures
-- name: bayesian-inference
-  count: 6
-  total: 65
-  group: methods
 - name: energy-storage
   count: 6
   total: 163
   group: energy
+- name: gaussian-process
+  count: 6
+  total: 65
+  group: methods
 - name: dft
   count: 5
   total: 134
   group: materials
-- name: gaussian-process
-  count: 5
-  total: 64
-  group: methods
 - name: heat-transfer
   count: 5
   total: 53
   group: transport
+- name: large-language-models
+  count: 5
+  total: 128
+  group: architectures
 - name: molecular-dynamics
   count: 5
   total: 74
@@ -39,14 +39,14 @@
   count: 5
   total: 80
   group: control
-- name: optimal-control
-  count: 5
-  total: 41
-  group: control
 - name: cfd
   count: 4
   total: 97
   group: fluids
+- name: optimal-control
+  count: 4
+  total: 41
+  group: control
 - name: chemical-engineering
   count: 3
   total: 121
@@ -55,10 +55,6 @@
   count: 3
   total: 36
   group: separations
-- name: battery-modeling
-  count: 2
-  total: 34
-  group: energy
 - name: chromatography
   count: 2
   total: 8
@@ -83,6 +79,10 @@
   count: 2
   total: 32
   group: modeling
+- name: uncertainty-quantification
+  count: 2
+  total: 59
+  group: methods
 - name: active-learning
   count: 1
   total: 53
@@ -95,6 +95,10 @@
   count: 1
   total: 4
   group: separations
+- name: battery-modeling
+  count: 1
+  total: 34
+  group: energy
 - name: carbon-capture
   count: 1
   total: 49
@@ -183,14 +187,6 @@
   count: 1
   total: 95
   group: modeling
-- name: uncertainty-quantification
-  count: 1
-  total: 58
-  group: methods
-- name: wastewater-treatment
-  count: 1
-  total: 21
-  group: separations
 - name: active-sites
   count: 0
   total: 13
@@ -367,6 +363,10 @@
   count: 0
   total: 13
   group: fluids
+- name: wastewater-treatment
+  count: 0
+  total: 21
+  group: separations
 - name: zeolites
   count: 0
   total: 6

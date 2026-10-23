@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>large-language-models — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <strong>30d</strong> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03056.html">MOF-VERIFY: A Failure-Aware Agentic Harness for MOF Hypothesis Verification</a></div><div class="paper-tags"><a href="metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
 <td>Donghyun Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03056">2610.03056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25774.html">Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment</a></div><div class="paper-tags"><a href="wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
-<td>Run-Ze Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25774">2609.25774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27050.html">Merging Large Language Models and Battery Physics for User-Aware Electric Vehicle Driving Management</a></div><div class="paper-tags"><a href="battery-modeling-30d.html">battery-modeling</a></div></td>
-<td>Yukta Pareek et al.</td>
-<td><a href="http://arxiv.org/abs/2609.27050">2609.27050</a></td>
 </tr>
 </tbody></table>
