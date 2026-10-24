@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,17 +368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25219.html">A Benchmark Suite for Multi-Objective Optimization in Battery Thermal Management System Design</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Kaichen Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25219">2510.25219</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24135.html">Fixed Point Neural Acceleration and Inverse Surrogate Model for Battery Parameter Identification</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a></div></td>
-<td>Hojin Cheon et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24135">2510.24135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24949.html">SCOUT: A Lightweight Framework for Scenario Coverage Assessment in Autonomous Driving</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a></div></td>
-<td>Anil Yildiz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24949">2510.24949</a></td>
 </tr>
 </tbody></table>

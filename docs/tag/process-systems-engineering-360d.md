@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-systems-engineering — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="process-systems-engineering-7d.html">7d</a> <a href="process-systems-engineering-30d.html">30d</a> <a href="process-systems-engineering-90d.html">90d</a> <strong>360d</strong> <a href="process-systems-engineering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12819.html">Nonlinear Model Order Reduction of Dynamical Systems in Process Engineering: Review and Comparison</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="separations-360d.html">separations</a></div></td>
 <td>Jan C. Schulze et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12819">2506.12819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24272.html">Survey and Tutorial of Reinforcement Learning Methods in Process Systems Engineering</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a> · <a href="process-design-360d.html">process-design</a></div></td>
-<td>Maximilian Bloor et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24272">2510.24272</a></td>
 </tr>
 </tbody></table>

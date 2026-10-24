@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-design — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <a href="process-design-90d.html">90d</a> <strong>360d</strong> <a href="process-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,17 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10273.html">A neural recommender system leveraging transfer learning for property prediction of ionic liquids</a></div><div class="paper-tags"><a href="ionic-liquids-360d.html">ionic-liquids</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Sahil Sethi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10273">2509.10273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21126.html">Multiscale, Techno-economic Evaluation of Isoreticular Series of CALF-20 for Biogas Upgrading using a Pressure/Vacuum Swing Adsorption (PVSA) Process</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="molecular-simulation-360d.html">molecular-simulation</a> · <a href="techno-economic-analysis-360d.html">techno-economic-analysis</a></div></td>
-<td>Changdon Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21126">2507.21126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24272.html">Survey and Tutorial of Reinforcement Learning Methods in Process Systems Engineering</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
-<td>Maximilian Bloor et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24272">2510.24272</a></td>
 </tr>
 </tbody></table>

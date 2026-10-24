@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-control — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="process-control-7d.html">7d</a> <a href="process-control-30d.html">30d</a> <a href="process-control-90d.html">90d</a> <strong>360d</strong> <a href="process-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27000.html">Non-uniform Birefringence in Highly-reflective Substrate-Transferred GaAs/Al$_{0.92}$Ga$_{0.08}$As Coatings at 1064 nm</a></div></td>
 <td>Andri M. Gretarsson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27000">2510.27000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24272.html">Survey and Tutorial of Reinforcement Learning Methods in Process Systems Engineering</a></div><div class="paper-tags"><a href="process-design-360d.html">process-design</a> · <a href="process-systems-engineering-360d.html">process-systems-engineering</a></div></td>
-<td>Maximilian Bloor et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24272">2510.24272</a></td>
 </tr>
 </tbody></table>

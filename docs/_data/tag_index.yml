@@ -11,10 +11,6 @@
   count: 7
   total: 167
   group: reactions
-- name: energy-storage
-  count: 6
-  total: 163
-  group: energy
 - name: gaussian-process
   count: 6
   total: 65
@@ -23,10 +19,10 @@
   count: 5
   total: 134
   group: materials
-- name: heat-transfer
+- name: energy-storage
   count: 5
-  total: 53
-  group: transport
+  total: 163
+  group: energy
 - name: large-language-models
   count: 5
   total: 128
@@ -36,13 +32,9 @@
   total: 74
   group: materials
 - name: mpc
-  count: 5
+  count: 4
   total: 80
   group: control
-- name: cfd
-  count: 4
-  total: 97
-  group: fluids
 - name: optimal-control
   count: 4
   total: 41
@@ -51,10 +43,18 @@
   count: 3
   total: 121
   group: domain
+- name: heat-transfer
+  count: 3
+  total: 53
+  group: transport
 - name: metal-organic-frameworks
   count: 3
   total: 36
   group: separations
+- name: cfd
+  count: 2
+  total: 97
+  group: fluids
 - name: chromatography
   count: 2
   total: 8

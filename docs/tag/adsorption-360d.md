@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,11 +362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04483.html">Unveiling the Adsorption and Electronic Interactions of Drugs on 2D Graphsene: Insights from DFT and Machine Learning Approach</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Chaithanya Purushottam Bhat et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04483">2511.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21126.html">Multiscale, Techno-economic Evaluation of Isoreticular Series of CALF-20 for Biogas Upgrading using a Pressure/Vacuum Swing Adsorption (PVSA) Process</a></div><div class="paper-tags"><a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="molecular-simulation-360d.html">molecular-simulation</a> · <a href="process-design-360d.html">process-design</a> · <a href="techno-economic-analysis-360d.html">techno-economic-analysis</a></div></td>
-<td>Changdon Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21126">2507.21126</a></td>
 </tr>
 </tbody></table>

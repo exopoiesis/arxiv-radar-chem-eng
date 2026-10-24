@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01745.html">An Open-Access Benchmark of Statistical and Machine-Learning Anomaly Detection Methods for Battery Applications</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="energy-systems-360d.html">energy-systems</a></div></td>
 <td>Mei-Chin Pang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01745">2511.01745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24135.html">Fixed Point Neural Acceleration and Inverse Surrogate Model for Battery Parameter Identification</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Hojin Cheon et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24135">2510.24135</a></td>
 </tr>
 </tbody></table>
