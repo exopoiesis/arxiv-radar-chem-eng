@@ -4,11 +4,11 @@
   total: 99
   group: separations
 - name: bayesian-inference
-  count: 7
+  count: 6
   total: 66
   group: methods
 - name: catalysis
-  count: 7
+  count: 6
   total: 167
   group: reactions
 - name: gaussian-process
@@ -59,14 +59,6 @@
   count: 2
   total: 8
   group: separations
-- name: electrochemical-systems
-  count: 2
-  total: 70
-  group: energy
-- name: electrolysis
-  count: 2
-  total: 23
-  group: energy
 - name: fuel-cells
   count: 2
   total: 46
@@ -115,6 +107,14 @@
   count: 1
   total: 21
   group: separations
+- name: electrochemical-systems
+  count: 1
+  total: 70
+  group: energy
+- name: electrolysis
+  count: 1
+  total: 23
+  group: energy
 - name: fault-detection
   count: 1
   total: 21
@@ -159,10 +159,6 @@
   count: 1
   total: 14
   group: fluids
-- name: oxygen-evolution
-  count: 1
-  total: 14
-  group: reactions
 - name: physics-informed-ml
   count: 1
   total: 52
@@ -267,6 +263,10 @@
   count: 0
   total: 5
   group: materials
+- name: oxygen-evolution
+  count: 0
+  total: 14
+  group: reactions
 - name: packed-bed
   count: 0
   total: 4

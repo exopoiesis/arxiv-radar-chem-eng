@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-ml — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="physics-informed-ml-7d.html">7d</a> <a href="physics-informed-ml-30d.html">30d</a> <a href="physics-informed-ml-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-ml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15949.html">PINNs4Drops: Video-conditioned physics-informed neural networks for two-phase flow reconstruction</a></div><div class="paper-tags"><a href="fuel-cells-360d.html">fuel-cells</a> · <a href="multiphase-flow-360d.html">multiphase-flow</a></div></td>
 <td>Maximilian Dreisbach et al.</td>
 <td><a href="http://arxiv.org/abs/2411.15949">2411.15949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25368.html">Position: Biology is the Challenge Physics-Informed ML Needs to Evolve</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Julien Martinelli</td>
-<td><a href="http://arxiv.org/abs/2510.25368">2510.25368</a></td>
 </tr>
 </tbody></table>

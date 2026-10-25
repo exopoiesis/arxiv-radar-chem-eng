@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26198.html">Machine learning-based upscaling of rock permeability from pore scale to core scale: effect of training dataset size and sub-core volumes</a></div><div class="paper-tags"><a href="carbon-capture-360d.html">carbon-capture</a></div></td>
 <td>Yaotian Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26198">2510.26198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25219.html">A Benchmark Suite for Multi-Objective Optimization in Battery Thermal Management System Design</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Kaichen Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25219">2510.25219</a></td>
 </tr>
 </tbody></table>
