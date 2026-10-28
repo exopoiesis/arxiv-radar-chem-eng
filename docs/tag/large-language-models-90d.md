@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>large-language-models — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <strong>90d</strong> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02599.html">Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</a></div><div class="paper-tags"><a href="energy-systems-90d.html">energy-systems</a> · <a href="physics-informed-ml-90d.html">physics-informed-ml</a></div></td>
 <td>Junjie Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02599">2608.02599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26594.html">A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
-<td>Zhoupeng Shou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26594">2607.26594</a></td>
 </tr>
 </tbody></table>

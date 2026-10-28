@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23064.html">LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a> · <a href="transfer-learning-360d.html">transfer-learning</a></div></td>
 <td>Wenwen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23064">2510.23064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04701.html">Influence of carbon nanocone structure on ultra-efficient water flow</a></div><div class="paper-tags"><a href="separations-360d.html">separations</a></div></td>
-<td>Bruno H. S. Mendonça et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04701">2511.04701</a></td>
 </tr>
 </tbody></table>
