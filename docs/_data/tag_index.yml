@@ -7,10 +7,6 @@
   count: 6
   total: 66
   group: methods
-- name: catalysis
-  count: 6
-  total: 167
-  group: reactions
 - name: gaussian-process
   count: 6
   total: 65
@@ -19,16 +15,20 @@
   count: 5
   total: 134
   group: materials
-- name: energy-storage
-  count: 5
-  total: 163
-  group: energy
 - name: large-language-models
   count: 5
   total: 128
   group: architectures
+- name: catalysis
+  count: 4
+  total: 167
+  group: reactions
+- name: energy-storage
+  count: 4
+  total: 163
+  group: energy
 - name: molecular-dynamics
-  count: 5
+  count: 4
   total: 74
   group: materials
 - name: mpc
@@ -39,10 +39,6 @@
   count: 4
   total: 41
   group: control
-- name: chemical-engineering
-  count: 3
-  total: 121
-  group: domain
 - name: heat-transfer
   count: 3
   total: 53
@@ -55,6 +51,10 @@
   count: 2
   total: 97
   group: fluids
+- name: chemical-engineering
+  count: 2
+  total: 121
+  group: domain
 - name: chromatography
   count: 2
   total: 8
@@ -63,10 +63,6 @@
   count: 2
   total: 46
   group: energy
-- name: separations
-  count: 2
-  total: 68
-  group: separations
 - name: system-identification
   count: 2
   total: 32
@@ -95,10 +91,6 @@
   count: 1
   total: 49
   group: energy
-- name: catalyst-design
-  count: 1
-  total: 34
-  group: reactions
 - name: co2-reduction
   count: 1
   total: 6
@@ -110,10 +102,6 @@
 - name: electrochemical-systems
   count: 1
   total: 70
-  group: energy
-- name: electrolysis
-  count: 1
-  total: 23
   group: energy
 - name: fault-detection
   count: 1
@@ -135,10 +123,6 @@
   count: 1
   total: 40
   group: architectures
-- name: heterogeneous-catalysis
-  count: 1
-  total: 18
-  group: reactions
 - name: hydrogen-evolution
   count: 1
   total: 17
@@ -171,18 +155,14 @@
   count: 1
   total: 4
   group: fluids
-- name: process-systems-engineering
-  count: 1
-  total: 17
-  group: domain
 - name: reactor-design
   count: 1
   total: 13
   group: reactions
-- name: surrogate-modeling
+- name: separations
   count: 1
-  total: 95
-  group: modeling
+  total: 68
+  group: separations
 - name: active-sites
   count: 0
   total: 13
@@ -199,6 +179,10 @@
   count: 0
   total: 2
   group: fluids
+- name: catalyst-design
+  count: 0
+  total: 34
+  group: reactions
 - name: co2-electroreduction
   count: 0
   total: 1
@@ -219,6 +203,10 @@
   count: 0
   total: 13
   group: reactions
+- name: electrolysis
+  count: 0
+  total: 23
+  group: energy
 - name: energy-systems
   count: 0
   total: 39
@@ -234,6 +222,10 @@
 - name: fixed-bed-reactors
   count: 0
   total: 2
+  group: reactions
+- name: heterogeneous-catalysis
+  count: 0
+  total: 18
   group: reactions
 - name: hydrogen-production
   count: 0
@@ -307,6 +299,10 @@
   count: 0
   total: 8
   group: control
+- name: process-systems-engineering
+  count: 0
+  total: 17
+  group: domain
 - name: reaction-engineering
   count: 0
   total: 4
@@ -347,6 +343,10 @@
   count: 0
   total: 0
   group: separations
+- name: surrogate-modeling
+  count: 0
+  total: 95
+  group: modeling
 - name: techno-economic-analysis
   count: 0
   total: 3
