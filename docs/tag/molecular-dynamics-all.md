@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,17 +446,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00720.html">Machine Learning Potentials for Heterogeneous Catalysis</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a></div></td>
 <td>Amir Omranpour et al.</td>
 <td><a href="http://arxiv.org/abs/2411.00720">2411.00720</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01439.html">Computing virtual dark-field X-ray microscopy images of complex discrete dislocation structures from large-scale molecular dynamics simulations</a></div><div class="paper-tags"><a href="experimental-design-all.html">experimental-design</a></div></td>
-<td>Yifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01439">2409.01439</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11037.html">A High-Dimensional Neural Network Potential for Co$_3$O$_4$</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11037">2409.11037</a></td>
 </tr>
 </tbody></table>

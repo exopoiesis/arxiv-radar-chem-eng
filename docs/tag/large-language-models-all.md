@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>large-language-models — all</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,11 +776,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00558.html">AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="knowledge-distillation-all.html">knowledge-distillation</a></div></td>
 <td>Ziyang Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00558">2410.00558</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14436.html">Automotive innovation landscaping using LLM</a></div><div class="paper-tags"><a href="fuel-cells-all.html">fuel-cells</a></div></td>
-<td>Raju Gorain et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14436">2409.14436</a></td>
 </tr>
 </tbody></table>

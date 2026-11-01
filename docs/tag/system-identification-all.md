@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>system-identification — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10359.html">Learning Nonlinear Reduced Order Models using State-Space Neural Networks with Ordered State Variance</a></div><div class="paper-tags"><a href="mpc-all.html">mpc</a></div></td>
 <td>Midhun T. Augustine et al.</td>
 <td><a href="http://arxiv.org/abs/2406.10359">2406.10359</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09331.html">Efficient Online Inference and Learning in Partially Known Nonlinear State-Space Models by Learning Expressive Degrees of Freedom Offline</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="gaussian-process-all.html">gaussian-process</a></div></td>
-<td>Jan-Hendrik Ewering et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09331">2409.09331</a></td>
 </tr>
 </tbody></table>

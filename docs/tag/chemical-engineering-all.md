@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-engineering — all</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <a href="chemical-engineering-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,17 +728,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06060.html">Hierarchical Matrix Completion for the Prediction of Properties of Binary Mixtures</a></div><div class="paper-tags"><a href="process-design-all.html">process-design</a></div></td>
 <td>Dominik Gond et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06060">2410.06060</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01528.html">Physics-Informed Neural Networks for Dynamic Process Operations with Limited Physical Knowledge and Data</a></div><div class="paper-tags"><a href="physics-informed-ml-all.html">physics-informed-ml</a></div></td>
-<td>Mehmet Velioglu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01528">2406.01528</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15393.html">Approximated Orthogonal Projection Unit: Stabilizing Regression Network Training Using Natural Gradient</a></div><div class="paper-tags"><a href="soft-sensors-all.html">soft-sensors</a></div></td>
-<td>Shaoqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15393">2409.15393</a></td>
 </tr>
 </tbody></table>

@@ -5,31 +5,31 @@
   group: separations
 - name: bayesian-inference
   count: 6
-  total: 66
+  total: 64
   group: methods
 - name: gaussian-process
   count: 6
-  total: 65
+  total: 64
   group: methods
 - name: dft
   count: 5
-  total: 134
+  total: 132
   group: materials
 - name: large-language-models
   count: 5
-  total: 128
+  total: 127
   group: architectures
 - name: catalysis
   count: 4
-  total: 167
+  total: 165
   group: reactions
 - name: energy-storage
   count: 4
-  total: 163
+  total: 160
   group: energy
 - name: molecular-dynamics
   count: 4
-  total: 74
+  total: 72
   group: materials
 - name: mpc
   count: 4
@@ -37,11 +37,11 @@
   group: control
 - name: optimal-control
   count: 4
-  total: 41
+  total: 40
   group: control
 - name: heat-transfer
   count: 3
-  total: 53
+  total: 51
   group: transport
 - name: metal-organic-frameworks
   count: 3
@@ -49,11 +49,11 @@
   group: separations
 - name: cfd
   count: 2
-  total: 97
+  total: 95
   group: fluids
 - name: chemical-engineering
   count: 2
-  total: 121
+  total: 119
   group: domain
 - name: chromatography
   count: 2
@@ -61,11 +61,11 @@
   group: separations
 - name: fuel-cells
   count: 2
-  total: 46
+  total: 45
   group: energy
 - name: system-identification
   count: 2
-  total: 32
+  total: 31
   group: modeling
 - name: uncertainty-quantification
   count: 2
@@ -85,7 +85,7 @@
   group: separations
 - name: battery-modeling
   count: 1
-  total: 34
+  total: 33
   group: energy
 - name: carbon-capture
   count: 1
@@ -101,7 +101,7 @@
   group: separations
 - name: electrochemical-systems
   count: 1
-  total: 70
+  total: 68
   group: energy
 - name: fault-detection
   count: 1
@@ -121,7 +121,7 @@
   group: architectures
 - name: graph-neural-networks
   count: 1
-  total: 40
+  total: 38
   group: architectures
 - name: hydrogen-evolution
   count: 1
@@ -145,7 +145,7 @@
   group: fluids
 - name: physics-informed-ml
   count: 1
-  total: 52
+  total: 50
   group: methods
 - name: porous-materials
   count: 1
@@ -157,7 +157,7 @@
   group: fluids
 - name: reactor-design
   count: 1
-  total: 13
+  total: 12
   group: reactions
 - name: separations
   count: 1
@@ -189,11 +189,11 @@
   group: energy
 - name: digital-twin
   count: 0
-  total: 49
+  total: 48
   group: monitoring
 - name: distillation
   count: 0
-  total: 48
+  total: 47
   group: separations
 - name: economic-mpc
   count: 0
@@ -205,7 +205,7 @@
   group: reactions
 - name: electrolysis
   count: 0
-  total: 23
+  total: 22
   group: energy
 - name: energy-systems
   count: 0
@@ -213,7 +213,7 @@
   group: energy
 - name: experimental-design
   count: 0
-  total: 21
+  total: 20
   group: methods
 - name: fixed-bed
   count: 0
@@ -233,7 +233,7 @@
   group: energy
 - name: knowledge-distillation
   count: 0
-  total: 60
+  total: 59
   group: architectures
 - name: life-cycle-assessment
   count: 0
@@ -277,7 +277,7 @@
   group: separations
 - name: process-control
   count: 0
-  total: 52
+  total: 51
   group: control
 - name: process-design
   count: 0
@@ -337,7 +337,7 @@
   group: methods
 - name: soft-sensors
   count: 0
-  total: 5
+  total: 4
   group: monitoring
 - name: solvent-extraction
   count: 0
@@ -361,7 +361,7 @@
   group: transport
 - name: turbulence-modeling
   count: 0
-  total: 13
+  total: 12
   group: fluids
 - name: wastewater-treatment
   count: 0

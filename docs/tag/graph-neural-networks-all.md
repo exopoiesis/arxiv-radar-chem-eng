@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>graph-neural-networks — all</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="graph-neural-networks-7d.html">7d</a> <a href="graph-neural-networks-30d.html">30d</a> <a href="graph-neural-networks-90d.html">90d</a> <a href="graph-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,17 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14192.html">Learning Pore-scale Multi-phase Flow from Experimental Data with Graph Neural Network</a></div><div class="paper-tags"><a href="fuel-cells-all.html">fuel-cells</a> · <a href="multiphase-flow-all.html">multiphase-flow</a></div></td>
 <td>Yuxuan Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2411.14192">2411.14192</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07664.html">Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Nicholas Beaver et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07664">2409.07664</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10458.html">Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks</a></div><div class="paper-tags"><a href="electrochemical-systems-all.html">electrochemical-systems</a></div></td>
-<td>Zirui Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10458">2407.10458</a></td>
 </tr>
 </tbody></table>

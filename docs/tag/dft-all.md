@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,17 +806,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06433.html">Generative AI for Discovering Porous Oxide Materials for Next-Generation Energy Storage</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a> · <a href="large-language-models-all.html">large-language-models</a></div></td>
 <td>Joy Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06433">2410.06433</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11037.html">A High-Dimensional Neural Network Potential for Co$_3$O$_4$</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11037">2409.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07664.html">Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling</a></div><div class="paper-tags"><a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
-<td>Nicholas Beaver et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07664">2409.07664</a></td>
 </tr>
 </tbody></table>

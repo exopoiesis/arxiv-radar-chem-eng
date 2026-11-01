@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrochemical-systems — all</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <a href="electrochemical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,17 +422,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18421.html">Atomistic understanding of hydrogen coverage on RuO2(110) surface under electrochemical conditions from ab initio statistical thermodynamics</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Lei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.18421">2410.18421</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09583.html">Machine learning assisted screening of metal binary alloys for anode materials</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
-<td>Xingyue Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09583">2409.09583</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10458.html">Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks</a></div><div class="paper-tags"><a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
-<td>Zirui Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10458">2407.10458</a></td>
 </tr>
 </tbody></table>

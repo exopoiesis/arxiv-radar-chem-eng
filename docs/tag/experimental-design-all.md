@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>experimental-design — all</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="experimental-design-7d.html">7d</a> <a href="experimental-design-30d.html">30d</a> <a href="experimental-design-90d.html">90d</a> <a href="experimental-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13529.html">Duqtools: Dynamic uncertainty quantification for Tokamak reactor simulations modelling</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Victor Azizi et al.</td>
 <td><a href="http://arxiv.org/abs/2409.13529">2409.13529</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01439.html">Computing virtual dark-field X-ray microscopy images of complex discrete dislocation structures from large-scale molecular dynamics simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01439">2409.01439</a></td>
 </tr>
 </tbody></table>

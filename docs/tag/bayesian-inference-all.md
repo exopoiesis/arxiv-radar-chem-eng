@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,17 +398,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09290.html">Ranking over Regression for Bayesian Optimization and Molecule Selection</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
 <td>Gary Tom et al.</td>
 <td><a href="http://arxiv.org/abs/2410.09290">2410.09290</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18000.html">Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel</a></div><div class="paper-tags"><a href="process-control-all.html">process-control</a></div></td>
-<td>Jialin Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18000">2409.18000</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09331.html">Efficient Online Inference and Learning in Partially Known Nonlinear State-Space Models by Learning Expressive Degrees of Freedom Offline</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a> · <a href="gaussian-process-all.html">gaussian-process</a> · <a href="system-identification-all.html">system-identification</a></div></td>
-<td>Jan-Hendrik Ewering et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09331">2409.09331</a></td>
 </tr>
 </tbody></table>

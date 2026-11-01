@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>optimal-control — all</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <a href="optimal-control-90d.html">90d</a> <a href="optimal-control-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.15083.html">Numerical optimal control for distributed delay differential equations: A simultaneous approach based on linearization of the delayed variables</a></div></td>
 <td>Tobias K. S. Ritschel</td>
 <td><a href="http://arxiv.org/abs/2410.15083">2410.15083</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12048.html">Differential dynamic programming with stagewise equality and inequality constraints using interior point method</a></div></td>
-<td>Siddharth Prabhu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12048">2409.12048</a></td>
 </tr>
 </tbody></table>

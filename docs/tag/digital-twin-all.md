@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>digital-twin — all</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="digital-twin-7d.html">7d</a> <a href="digital-twin-30d.html">30d</a> <a href="digital-twin-90d.html">90d</a> <a href="digital-twin-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13762.html">Virtual Sensing-Enabled Digital Twin Framework for Real-Time Monitoring of Nuclear Systems Leveraging Deep Neural Operators</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
 <td>Raisa Bentay Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2410.13762">2410.13762</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12550.html">Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors</a></div></td>
-<td>Stefano Riva et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12550">2409.12550</a></td>
 </tr>
 </tbody></table>

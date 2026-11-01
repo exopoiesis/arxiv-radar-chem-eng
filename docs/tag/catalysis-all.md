@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,17 +1004,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01213.html">A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles</a></div><div class="paper-tags"><a href="heterogeneous-catalysis-all.html">heterogeneous-catalysis</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Arda Genc et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01213">2410.01213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13851.html">Learning Ordering in Crystalline Materials with Symmetry-Aware Graph Neural Networks</a></div><div class="paper-tags"><a href="energy-storage-all.html">energy-storage</a></div></td>
-<td>Jiayu Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13851">2409.13851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11037.html">A High-Dimensional Neural Network Potential for Co$_3$O$_4$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11037">2409.11037</a></td>
 </tr>
 </tbody></table>

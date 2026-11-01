@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>energy-storage — all</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <a href="energy-storage-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,23 +974,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06422.html">Predicting Battery Capacity Fade Using Probabilistic Machine Learning Models With and Without Pre-Trained Priors</a></div><div class="paper-tags"><a href="gaussian-process-all.html">gaussian-process</a></div></td>
 <td>Michael J. Kenney et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06422">2410.06422</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13851.html">Learning Ordering in Crystalline Materials with Symmetry-Aware Graph Neural Networks</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Jiayu Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13851">2409.13851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09583.html">Machine learning assisted screening of metal binary alloys for anode materials</a></div><div class="paper-tags"><a href="electrochemical-systems-all.html">electrochemical-systems</a></div></td>
-<td>Xingyue Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09583">2409.09583</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05086.html">Exploring the Optimal Size of Grid-forming Energy Storage in an Off-grid Renewable P2H System under Multi-timescale Energy Management</a></div><div class="paper-tags"><a href="electrolysis-all.html">electrolysis</a></div></td>
-<td>Jie Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05086">2409.05086</a></td>
 </tr>
 </tbody></table>
