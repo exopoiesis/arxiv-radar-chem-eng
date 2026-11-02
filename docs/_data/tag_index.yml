@@ -15,38 +15,34 @@
   count: 5
   total: 132
   group: materials
-- name: large-language-models
-  count: 5
-  total: 127
-  group: architectures
 - name: catalysis
   count: 4
   total: 165
   group: reactions
-- name: energy-storage
+- name: large-language-models
   count: 4
-  total: 160
-  group: energy
+  total: 127
+  group: architectures
 - name: molecular-dynamics
   count: 4
   total: 72
   group: materials
-- name: mpc
-  count: 4
-  total: 80
-  group: control
-- name: optimal-control
-  count: 4
-  total: 40
-  group: control
+- name: energy-storage
+  count: 3
+  total: 160
+  group: energy
 - name: heat-transfer
   count: 3
   total: 51
   group: transport
-- name: metal-organic-frameworks
+- name: mpc
   count: 3
-  total: 36
-  group: separations
+  total: 80
+  group: control
+- name: optimal-control
+  count: 3
+  total: 40
+  group: control
 - name: cfd
   count: 2
   total: 95
@@ -63,6 +59,10 @@
   count: 2
   total: 45
   group: energy
+- name: metal-organic-frameworks
+  count: 2
+  total: 36
+  group: separations
 - name: system-identification
   count: 2
   total: 31

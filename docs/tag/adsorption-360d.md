@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16263.html">Prediction of atomic H adsorption energies in metalloid doped MSSe (M = Mo/W) Janus layers: A combined DFT and machine learning study</a></div><div class="paper-tags"><a href="active-sites-360d.html">active-sites</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="dft-360d.html">dft</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>G. Tejaswini et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16263">2511.16263</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04483.html">Unveiling the Adsorption and Electronic Interactions of Drugs on 2D Graphsene: Insights from DFT and Machine Learning Approach</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Chaithanya Purushottam Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04483">2511.04483</a></td>
 </tr>
 </tbody></table>

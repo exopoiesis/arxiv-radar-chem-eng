@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fuel-cells — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <a href="fuel-cells-90d.html">90d</a> <strong>360d</strong> <a href="fuel-cells-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11180.html">Prognostics and Health Management in Polymer Electrolyte Fuel Cells: Current Trends, Challenges, and Future Directions</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
 <td>Farideh Abdollahi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11180">2511.11180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04293.html">ComEMS4Build: Comfort-Oriented Energy Management System for Residential Buildings using Hydrogen for Seasonal Storage</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="mpc-360d.html">mpc</a></div></td>
-<td>Jovana Kovačević et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04293">2511.04293</a></td>
 </tr>
 </tbody></table>
