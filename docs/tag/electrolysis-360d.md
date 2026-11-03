@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrolysis — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="electrolysis-7d.html">7d</a> <a href="electrolysis-30d.html">30d</a> <a href="electrolysis-90d.html">90d</a> <strong>360d</strong> <a href="electrolysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02226.html">Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a></div></td>
+<td>Auronno Ovid Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02226">2611.02226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>

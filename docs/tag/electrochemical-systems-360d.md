@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02226.html">Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrolysis-360d.html">electrolysis</a></div></td>
+<td>Auronno Ovid Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02226">2611.02226</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10320.html">LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical Devices</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="reactor-design-360d.html">reactor-design</a></div></td>
 <td>Sebastian Castro et al.</td>
@@ -248,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07249.html">A Fast, Accurate, and Reactive Equivariant Foundation Potential</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="ionic-liquids-360d.html">ionic-liquids</a></div></td>
 <td>Tsz Wai Ko et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07249">2511.07249</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11631.html">Differentiable Electrochemistry: A paradigm for uncovering hidden physical phenomena in electrochemical systems</a></div></td>
-<td>Haotian Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11631">2511.11631</a></td>
 </tr>
 </tbody></table>

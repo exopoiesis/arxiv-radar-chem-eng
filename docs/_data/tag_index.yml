@@ -27,6 +27,10 @@
   count: 4
   total: 72
   group: materials
+- name: cfd
+  count: 3
+  total: 96
+  group: fluids
 - name: energy-storage
   count: 3
   total: 160
@@ -43,10 +47,6 @@
   count: 3
   total: 40
   group: control
-- name: cfd
-  count: 2
-  total: 95
-  group: fluids
 - name: chemical-engineering
   count: 2
   total: 119
@@ -55,6 +55,10 @@
   count: 2
   total: 8
   group: separations
+- name: electrochemical-systems
+  count: 2
+  total: 69
+  group: energy
 - name: fuel-cells
   count: 2
   total: 45
@@ -99,9 +103,13 @@
   count: 1
   total: 21
   group: separations
-- name: electrochemical-systems
+- name: electrocatalysis
   count: 1
-  total: 68
+  total: 14
+  group: reactions
+- name: electrolysis
+  count: 1
+  total: 23
   group: energy
 - name: fault-detection
   count: 1
@@ -199,14 +207,6 @@
   count: 0
   total: 11
   group: control
-- name: electrocatalysis
-  count: 0
-  total: 13
-  group: reactions
-- name: electrolysis
-  count: 0
-  total: 22
-  group: energy
 - name: energy-systems
   count: 0
   total: 39

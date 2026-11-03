@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02226.html">Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="electrolysis-360d.html">electrolysis</a></div></td>
+<td>Auronno Ovid Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02226">2611.02226</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24947.html">On the near-field evolution of a chemically reactive plume behind a ship</a></div></td>
 <td>Ramesh Kolluru et al.</td>
@@ -296,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01082.html">Comparative in-silico study of drug release from intraocular implants for glaucoma treatment</a></div></td>
 <td>Umar Pitafi et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01082">2410.01082</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10136.html">Spectral quantum algorithm for passive scalar transport in shear flows</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
-<td>Philipp Pfeffer et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10136">2505.10136</a></td>
 </tr>
 </tbody></table>

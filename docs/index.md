@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-02._
+_Updated 2026-11-03._
 
-**1259** ChemE-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1260** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02226.html">Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/electrolysis-30d.html">electrolysis</a></div></td>
+<td>Auronno Ovid Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02226">2611.02226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31431.html">Dimension-free regimes for unadjusted Langevin in ridge-separable models: A subspace robust Wasserstein analysis</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-11-02._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11059.html">A Latent Space Optimization Approach for Symbolic Discovery of Dynamical Models</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
 <td>Tongjia Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11059">2610.11059</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11108.html">Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Weizheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11108">2610.11108</a></td>
 </tr>
 </tbody></table>

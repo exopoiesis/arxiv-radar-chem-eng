@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>large-language-models — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <a href="large-language-models-30d.html">30d</a> <a href="large-language-models-90d.html">90d</a> <strong>360d</strong> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16543.html">The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation</a></div><div class="paper-tags"><a href="distillation-360d.html">distillation</a> · <a href="knowledge-distillation-360d.html">knowledge-distillation</a></div></td>
 <td>Jiaheng Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16543">2511.16543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06265.html">Large language models as uncertainty-calibrated optimizers for experimental discovery</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Bojana Ranković et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06265">2504.06265</a></td>
 </tr>
 </tbody></table>
