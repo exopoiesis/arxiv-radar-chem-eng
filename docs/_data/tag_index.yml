@@ -39,10 +39,6 @@
   count: 3
   total: 127
   group: architectures
-- name: mpc
-  count: 3
-  total: 80
-  group: control
 - name: optimal-control
   count: 3
   total: 40
@@ -51,10 +47,6 @@
   count: 2
   total: 119
   group: domain
-- name: chromatography
-  count: 2
-  total: 8
-  group: separations
 - name: electrochemical-systems
   count: 2
   total: 69
@@ -63,6 +55,10 @@
   count: 2
   total: 45
   group: energy
+- name: mpc
+  count: 2
+  total: 80
+  group: control
 - name: system-identification
   count: 2
   total: 31
@@ -91,6 +87,10 @@
   count: 1
   total: 49
   group: energy
+- name: chromatography
+  count: 1
+  total: 8
+  group: separations
 - name: co2-reduction
   count: 1
   total: 6
@@ -163,10 +163,6 @@
   count: 1
   total: 12
   group: reactions
-- name: separations
-  count: 1
-  total: 68
-  group: separations
 - name: active-sites
   count: 0
   total: 13
@@ -335,6 +331,10 @@
   count: 0
   total: 12
   group: methods
+- name: separations
+  count: 0
+  total: 68
+  group: separations
 - name: soft-sensors
   count: 0
   total: 4
