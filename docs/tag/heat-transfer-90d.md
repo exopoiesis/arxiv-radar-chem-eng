@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03210.html">CFD-driven symbolic regression of RANS transition models</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
+<td>Louenas Zemmour et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03210">2611.03210</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26502.html">Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Mary K Chessey et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14445.html">Data-driven modeling of hypersonic flows in chemical non-equilibrium with catalytic surfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Konstantinos Sarras et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14445">2608.14445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
-<td>Haicheng Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06697">2608.06697</a></td>
 </tr>
 </tbody></table>

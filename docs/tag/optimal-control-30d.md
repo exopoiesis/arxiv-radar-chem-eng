@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>optimal-control — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <strong>30d</strong> <a href="optimal-control-90d.html">90d</a> <a href="optimal-control-360d.html">360d</a> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15743.html">Molecular Vibronic Complexity as a Quantum Resource for Optimal Control: Nonadiabatic Mixing Creates Protected Coherence Subspaces in Dissipative Environments</a></div></td>
 <td>Elisa Palacino-González</td>
 <td><a href="http://arxiv.org/abs/2610.15743">2610.15743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08493.html">Learning to Explain Solutions of Optimal Control Problems</a></div><div class="paper-tags"><a href="graph-neural-networks-30d.html">graph-neural-networks</a></div></td>
-<td>Jiyong Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08493">2610.08493</a></td>
 </tr>
 </tbody></table>

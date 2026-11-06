@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>process-simulation — all</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="process-simulation-7d.html">7d</a> <a href="process-simulation-30d.html">30d</a> <a href="process-simulation-90d.html">90d</a> <a href="process-simulation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="life-cycle-assessment-all.html">life-cycle-assessment</a></div></td>
+<td>Artur M. Schweidtmann</td>
+<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04117.html">Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing</a></div><div class="paper-tags"><a href="life-cycle-assessment-all.html">life-cycle-assessment</a></div></td>
+<td>Elizabeth Aigaje-Espinosa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04117">2611.04117</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06360.html">PyOMES: an open-source framework for biochemical process modelling</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="process-modeling-all.html">process-modeling</a></div></td>

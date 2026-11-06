@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03210.html">CFD-driven symbolic regression of RANS transition models</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
+<td>Louenas Zemmour et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03210">2611.03210</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26502.html">Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Mary K Chessey et al.</td>
@@ -152,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13232.html">MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
 <td>Kourosh Darvish et al.</td>
 <td><a href="http://arxiv.org/abs/2601.13232">2601.13232</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07138.html">Mathematical Modeling and Error Estimation for the Thermal Dunking Problem: A Hierarchical Approach</a></div></td>
-<td>Theron Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07138">2511.07138</a></td>
 </tr>
 </tbody></table>

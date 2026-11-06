@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05179.html">OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="distillation-360d.html">distillation</a> · <a href="fault-detection-360d.html">fault-detection</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="process-monitoring-360d.html">process-monitoring</a></div></td>
+<td>Javal Vyas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05179">2611.05179</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05081.html">Nonparametric Estimation under General Nonlinear ODE Constraints: A Comparison with Parametric ODE-Fitting Methods</a></div><div class="paper-tags"><a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Chunlei Ge et al.</td>
@@ -62,11 +68,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03883.html">Multi-Scale Hybrid Modeling to Predict Cell Culture Process with Metabolic Phase Transitions</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="experimental-design-360d.html">experimental-design</a> · <a href="process-control-360d.html">process-control</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
 <td>Keqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03883">2412.03883</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07686.html">Kolmogorov-Arnold Chemical Reaction Neural Networks for learning pressure-dependent kinetic rate laws</a></div></td>
-<td>Benjamin C. Koenig et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07686">2511.07686</a></td>
 </tr>
 </tbody></table>

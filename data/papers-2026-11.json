@@ -22,8 +22,331 @@
   ],
   "title": "Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis",
   "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow",
    "Energy, Sustainability & Electrochemical Systems"
   ],
   "updated": "2026-11-01"
+ },
+ "2611.02340": {
+  "abstract": "Learning to stabilize an unknown continuous-time stochastic linear system is a central problem in control theory and reinforcement learning. This paper numerically studies data-driven identification of such systems with possibly unstable dynamics for the purpose of stabilization. We present a method that learns a stabilizing gain from observed trajectories, and examine how the failure probability, namely the probability that the learned gain does not stabilize the system, depends on the amount of data, dimension, noise intensity, excitation, and controllability. Numerical experiments on an unstable batch-reactor benchmark show that the squared identification error decays inversely with the aggregate observation time, that is, the combined length of all trajectories, while the failure probability decays exponentially in the same quantity. Hence, despite instability, a single long trajectory can achieve similar stabilization performance to that of many short trajectories of the same total length. We also observe \\emph{signal saturation}: stronger excitation improves stabilization only logarithmically with the excitation strength. Finally, we show experimentally that accurate identification of the full dynamics is \\emph{not} necessary for successful stabilization.",
+  "authors": [
+   "Reza Sadeghi Hafshejani",
+   "Mohamad Kazem Shirani Faradonbeh"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Reza Sadeghi Hafshejani",
+  "pdf_url": "http://arxiv.org/pdf/2611.02340",
+  "primary_category": "stat.ML",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "On Stochastic Continuous-Time Linear System Identification for Adaptive Stabilization",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02800": {
+  "abstract": "Convection-diffusion equations are fundamental models for transport phenomena, but their numerical solution becomes challenging in convection-dominated regimes due to steep gradients and sharp boundary layers. This motivates the development of accurate approaches capable of effectively resolving such features while avoiding costly iterative optimization. In this study, a modified ELM framework based on shifted Legendre polynomials is developed for convection-diffusion equations in steady-state, continuous-time, and discrete-time formulations. The proposed approach is evaluated on steady and unsteady benchmark problems with relatively high Peclet numbers, including continuous and discontinuous boundary conditions. Finite element method solutions are used as independent solution references. By exploiting the linearity of the governing equations, MELM determines the output weights through a single least-squares solve, avoiding the iterative gradient-based training required by PINNs. The shifted Legendre polynomial basis provides an effective spectral representation for resolving steep gradients and sharp boundary layers. For the DT-MELM formulation, the coefficient matrix remains unchanged across successive time levels, allowing its LU or QR factorization to be computed once and reused. A systematic comparison with PINNs that incorporate advanced training strategies demonstrates that MELM provides higher accuracy and shorter solution times for steady-state and DT-MELM formulations across the benchmark problems considered. In contrast, CT-MELM exhibits scalability limitations as the size of the space--time basis increases. Overall, the results demonstrate the effectiveness of MELM for steady-state and discrete-time convection--diffusion problems, while also showing that PINNs provide better scalability for large space--time formulations where global CT-MELM becomes computationally demanding.",
+  "authors": [
+   "Gadade Navnath Ankush",
+   "Ram Shiromani",
+   "Tomas Gandara",
+   "Ramon Codina",
+   "Sivaram Ambikasaran"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Gadade Navnath Ankush",
+  "pdf_url": "http://arxiv.org/pdf/2611.02800",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [
+   "physics-informed-ml",
+   "transport-phenomena"
+  ],
+  "title": "A Legendre-Based Modified Extreme Learning Machine for Convection-Diffusion Equations: Steady-State, Continuous-Time, and Discrete-Time Formulations",
+  "topics": [
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03210": {
+  "abstract": "Laminar-turbulent transition governs skin friction, heat transfer and losses in turbomachinery, yet Reynolds-averaged Navier-Stokes (RANS) transition models rely on empirical correlations and hand-calibrated activation functions whose structural deficiencies cannot be resolved by recalibration. We propose a CFD-driven sparse symbolic regression framework to learn interpretable, closed-form corrections to the production and destruction activation functions in the intermittency equation of the local, Galilean-invariant $k$-$ω$-$γ$ model of Ge et al. Each correction combines a polynomial of a local pressure-gradient parameter, controlling amplitude and sign, with a bounded exponential of local flow features, controlling spatial support. This construction bounds the corrections without ad hoc limiters. Coefficients are identified by gradient-free optimization with the RANS solver in the loop, accelerated by POD-Kriging field surrogates, using mean-velocity data from wall-resolved large-eddy simulations (LES) of the ERCOFTAC T3 flat-plate cases. Elastic-net hyperparameters are selected automatically through bi-level optimization with leave-one-case-out cross-validation. The resulting model retains 11 of 21 candidate terms, compared with 20 under conventional grid-search tuning, while achieving comparable or slightly better accuracy on training and unseen cases. Both approaches recover the same leading-order correction. Applied without retraining to the transonic LS89 turbine cascade, far beyond the training envelope, the augmented model remains numerically robust and improves heat-transfer predictions at all four operating points, reducing errors by up to 70% where the baseline predicts premature transition under high freestream turbulence. Residual errors in transition onset and length highlight the limits of training on flat-plate data alone.",
+  "authors": [
+   "Louenas Zemmour",
+   "Xavier Gloerfelt",
+   "Paola Cinnella"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Louenas Zemmour",
+  "pdf_url": "http://arxiv.org/pdf/2611.03210",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-02",
+  "tags": [
+   "cfd",
+   "heat-transfer",
+   "turbulence-modeling"
+  ],
+  "title": "CFD-driven symbolic regression of RANS transition models",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03436": {
+  "abstract": "AI data centers exhibit highly stochastic, volatile power demands from intensive workloads and synchronized GPU training cycles, which can excite grid natural frequencies and threaten system stability. This paper proposes a real-time, forecasting-independent control framework utilizing a Hybrid Energy Storage System (HESS) that coordinates a Battery Energy Storage System (BESS) and a supercapacitor (SC). Employing a parameterized frequency-decoupling and active modal-damping policy, the framework mitigates critical oscillatory load components while smoothing overall power fluctuations. To bypass the heavy computational burden of online receding-horizon optimization, this work introduces an offline Bayesian Optimization (BO) approach to optimally tune real-time control parameters, minimizing a multi-objective cost function that balances grid compliance penalties and storage degradation. Numerical simulations demonstrate that the proposed method ensures grid stability and strong target envelope adherence. Specifically, it reshapes extreme 75-160 MW raw demand fluctuations to largely fit within a tight 10 MW target band, with only brief transient excursions, while attenuating the critical 20 MW oscillatory component below 1 MW to suppress resonant excitation.",
+  "authors": [
+   "Sina Mohammadi",
+   "Quang Manh Hoang",
+   "Marcus Chen I Wada",
+   "Van-Hai Bui",
+   "Wencong Su"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "6 pages, 5 figures, Submitted, 2027 IEEE Texas Power and Energy Conference (TPEC)",
+  "first_author": "Sina Mohammadi",
+  "pdf_url": "http://arxiv.org/pdf/2611.03436",
+  "primary_category": "eess.SY",
+  "published": "2026-11-02",
+  "tags": [
+   "bayesian-inference",
+   "energy-storage"
+  ],
+  "title": "Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.04117": {
+  "abstract": "The transition towards sustainable membrane manufacturing is challenged by its reliance on fossil-based polymers, organic solvents, and generation of large volumes of contaminated water. We combined process simulation, life cycle assessment, and Monte Carlo simulation to identify hotspots in the manufacturing of ultrafiltration hollow-fiber membranes for pharmaceutical applications and evaluate strategies to mitigate impact and reduce waste generation. Process models informed by industry input compared fossil- and bio-based membranes on a cradle-to-gate basis per square meter of membrane produced. Key environmental hotspots include polymer and bore solution preparation, driven by the contribution of polymer and solvent, accounting for 30-80% of total impacts across the categories investigated, and wastewater dilution, driven by the environmental burden of solvent-contaminated wastewater management. Under the modeled conditions, although polymer substitution can reduce environmental burdens, cellulose-based membranes show higher impacts than polysulfone membranes in at least 85% of simulations within each impact category, due to chemical-intensive cellulose modification and regeneration. In contrast, solvent recycling can mitigate solvent- and wastewater-related burdens when combined with reduced water demand, yielding climate change benefits at water demands below approximately 36 L per m2 under the modeled recovery configuration and highlighting its potential to reduce the environmental footprint of membrane manufacturing.",
+  "authors": [
+   "Elizabeth Aigaje-Espinosa",
+   "Christina Carbrello",
+   "Rui Shi"
+  ],
+  "categories": [
+   "physics.soc-ph"
+  ],
+  "comment": "39 pages, 6 figures, and 1 table",
+  "first_author": "Elizabeth Aigaje-Espinosa",
+  "pdf_url": "http://arxiv.org/pdf/2611.04117",
+  "primary_category": "physics.soc-ph",
+  "published": "2026-11-03",
+  "tags": [
+   "life-cycle-assessment",
+   "process-simulation"
+  ],
+  "title": "Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing",
+  "topics": [
+   "Process Control & Optimization",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04640": {
+  "abstract": "Large Language Model (LLM)-based agents can automate complex engineering workflows by interacting with tools, interpreting feedback, and making iterative decisions. This paper introduces TuneBench, a benchmark for evaluating Agentic AI in power system dynamic model calibration, where controller parameters are adjusted to reproduce target dynamic responses. The benchmark reflects a common Transmission System Operator (TSO) practice, in which equivalent models used for Dynamic Security Assessment (DSA) are calibrated against measurements from grid-code compliance tests when proprietary models are unavailable. Two cases of increasing complexity are considered: the governor and Automatic Voltage Regulator (AVR) of a synchronous generator and the control system of a Battery Energy Storage System (BESS), both tuned against active-power and voltage step tests within a budget of 15 simulations. LLM-based agents are compared with random search and Genetic Algorithm (GA) baselines over 10 independent runs. Only the most advanced models, Opus 5.5 and GPT-6, accurately reproduce all target trajectories, with median R2 above 0.995 in every test and tracking errors up to two orders of magnitude lower than the baselines. The agent logs show that these agents autonomously extract dynamic performance indices, such as settling time and damping, and relate them to specific control parameters, decomposing the tuning problem into physically interpretable sub-problems. The benchmark is publicly available at https://github.com/Power-Agent/PowerAgentBench/tree/main/benchmarks/dynamic/level3.",
+  "authors": [
+   "Andrea Pomarico",
+   "Salvatore Tessitore",
+   "Giorgio Giannuzzi",
+   "Alberto Berizzi"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Andrea Pomarico",
+  "pdf_url": "http://arxiv.org/pdf/2611.04640",
+  "primary_category": "eess.SY",
+  "published": "2026-11-03",
+  "tags": [
+   "energy-storage",
+   "large-language-models"
+  ],
+  "title": "TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration",
+  "topics": [
+   "Energy, Sustainability & Electrochemical Systems"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05179": {
+  "abstract": "OperAItor, an open-source framework for developing and evaluating large language model agents for supervisory fault management in chemical processes. The framework is demonstrated on a dynamic reactor-distillation process representing isopropanol dehydrogenation, with physically based thermodynamics and modified reaction kinetics to permit liquid-phase operation. The process is represented by a 113-variable differential-algebraic model and operates at a nominal feed rate of 100kmol/h, producing approximately 4t/h of acetone. The simulated plant includes 8 PI control loops, 22 process alarms, 5 duty-standby pump trains, and 11 independent safety instrumented functions. The agent architecture integrates multivariate statistical process monitoring, fault diagnosis, knowledge-graph retrieval, action planning, and supervisory action generation. Five action-validation configurations are investigated, comprising operation without validation, an LLM-based judge, digital-twin simulation, and deterministic admissibility checks with and without consequence projection. The framework is evaluated using four LLMs across 20 scenarios involving single and multiple simultaneous faults. Without agent intervention, 18 scenarios result in plant stops, corresponding to an economic loss of $399,000 relative to fault-free operation under the assumed benchmark economics. For GPT-5 nano, Qwen3 8B, and Mistral 7B, validated agent configurations reduce the number of stops to 5-8 and recover $265,000 of the loss. The study provides a reproducible benchmark for comparing agent architectures, language models, and action-validation methods for supervisory fault management in chemical processes.",
+  "authors": [
+   "Javal Vyas",
+   "Mehmet Mercang{ö}z"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Javal Vyas",
+  "pdf_url": "http://arxiv.org/pdf/2611.05179",
+  "primary_category": "eess.SY",
+  "published": "2026-11-03",
+  "tags": [
+   "chemical-engineering",
+   "distillation",
+   "fault-detection",
+   "large-language-models",
+   "process-monitoring",
+   "reaction-kinetics"
+  ],
+  "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+  "topics": [
+   "Digital Twins & Process Monitoring",
+   "Reaction Engineering & Kinetics",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05508": {
+  "abstract": "Generalized disjunctive programming (GDP) describes process design alternatives with Boolean variables, disjunctions, and logical propositions, and fixing one configuration leaves a subproblem in the continuous variables. Conventional GDP methods require explicit equations, which a simulator may not expose, and mixed-integer nonlinear programming (MINLP) reformulations can be intractable for nonconvex models. The external-variable reformulation turns configuration choice into an optimization over an integer lattice whose objective is the subproblem value, which derivative-free optimization (DFO) can search while the GDP model continues describing the alternatives. We pair GDP models with surrogate DFO methods and the direct-search method NOMAD and compare them with discrete steepest descent (D-SDA), logic-based and MINLP solvers, and enumeration on nine process models, 21 test functions, a pharmaceutical flowsheet simulated in PharmaPy, and a catalytic distillation column with 100,947 configurations. On the largest reactor network, the surrogate methods MISO and RBFOpt reach the reference in nine or ten of ten runs with about 30 subproblem solves, whereas logic-based methods solve nearly one subproblem for each admissible configuration and most D-SDA descents end at one local minimum. In the flowsheet example, where GDP solvers do not apply, RBFOpt and MISO find the best of 36 simulated configurations in every run with 20 evaluations. For the catalytic column, D-SDA and MISO reach the best known design with 100 evaluations, whereas MINLP solvers find no design within 15% of it and global solvers return contradictory certificates. This search pays off when the configuration space is too large to enumerate, has deceptive local minima, or has MINLP reformulations that fail, and enumeration or a direct reformulation is simpler for small algebraic models.",
+  "authors": [
+   "Albert Joon Lee",
+   "Woosik Kim",
+   "David E. Bernal Neira"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Albert Joon Lee",
+  "pdf_url": "http://arxiv.org/pdf/2611.05508",
+  "primary_category": "math.OC",
+  "published": "2026-11-03",
+  "tags": [
+   "catalysis",
+   "distillation",
+   "process-design"
+  ],
+  "title": "Generalized Disjunctive Programming with Derivative-Free Configuration Search",
+  "topics": [
+   "Process Control & Optimization",
+   "Process Modeling & System Identification",
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05605": {
+  "abstract": "Variational approaches to learning transport maps for multimodal sampling can suffer from mode collapse. One way to mitigate this problem is to learn transport along a prescribed path of intermediate distributions defined by geometric annealing. We show that annealing can take a substantial detour in Wasserstein space: when mass moves between modes, the path can be much longer than the distance between its endpoints. We further link path geometry to transport learning, showing that long annealing paths can slow population optimization, while sufficiently regular paths permit rapid convergence. Motivated by these findings, we propose componentwise annealed transport (CAT) to reduce the need for mass transfer between modes. Starting from a mode-informed mixture reference, CAT constructs an exact mixture decomposition of the target and learns separate transport maps along componentwise annealing paths. We estimate the component weights separately and show that these estimates remain consistent even when the learned flows are inexact. We also develop adaptive annealing schedules guided by transport effort. Experiments on multimodal synthetic distributions and Bayesian inference problems demonstrate improvements in transport learning and sampling efficiency.",
+  "authors": [
+   "Han Chen",
+   "Sifan Liu"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.CO",
+   "stat.ML"
+  ],
+  "comment": "36 pages, 4 figures",
+  "first_author": "Han Chen",
+  "pdf_url": "http://arxiv.org/pdf/2611.05605",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "bayesian-inference",
+   "mass-transfer"
+  ],
+  "title": "Transport along Local Annealing Paths: Wasserstein Geometry and Multimodal Sampling",
+  "topics": [
+   "Separation Processes & Transport Phenomena",
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.06194": {
+  "abstract": "Reliability management of industrial fleets depends on early fault warnings, yet lifecycle data across similar assets are highly imbalanced. A few assets accumulate run-to-failure histories, while newly installed or rarely failing assets provide only normal-condition data. This paper asks how diagnostic knowledge can be transferred from a data-rich source asset to a data-scarce target asset when no fault data have been observed on the target. We formulate cross-asset early fault detection as a zero-shot domain adaptation problem, in which zero-shot refers to the absence of target fault samples, and propose a framework that requires only normal data from the target. The framework comprises (1) a statistical process control step that labels the source asset run-to-failure data with an exponentially weighted moving average chart, reducing manual annotation to verifying flagged segments, (2) an Adapted Domain-Adversarial Neural Network (ADANN) that combines domain-adversarial training and a Maximum Mean Discrepancy penalty with an Adapted Classification-Domain (ACD) loss, which anchors the classifier normal region to the target own normal data, and (3) an ahead-of-time labeling scheme with a prediction horizon that targets incipient faults. Under an exact-classification assumption, a theoretical analysis characterizes the domain-adversarial term for a normal-only target and the alignment state in which source fault features remain separated from target normal features. On a public run-to-failure bearing dataset, ADANN attains the highest mean F1-score among four transfer baselines, with a nominally significant precision gain over the strongest baseline, and its robustness is examined under synthetic noise.",
+  "authors": [
+   "Zekai Wang",
+   "Yuxuan Li",
+   "Zhangyue Shi"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zekai Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.06194",
+  "primary_category": "cs.LG",
+  "published": "2026-11-04",
+  "tags": [
+   "fault-detection",
+   "process-control"
+  ],
+  "title": "Cross-Asset Knowledge Transfer for Early Fault Detection of Data-Scarce Assets Without Target Fault Data",
+  "topics": [
+   "Process Control & Optimization"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07947": {
+  "abstract": "ChemE-as-Code provides an open-source environment in which AI agents built on large language models (LLMs) can carry out chemical engineering work and engineers can check it. Its calculation tools range from catalysis through process simulation to plant layout, HAZOP and life cycle assessment, and skills tell a general-purpose agent how to use them. Engineering files are linked, machine-readable and versioned in Git; calculations run outside the LLM, each value records its origin, and automated checks report inconsistencies and out-of-date results by file and line. In an illustrative ammonia case, agents developed a written task into a preliminary basic-engineering package (simulation files, P&IDs, layout, HAZOP, datasheets, relief) for USD 224 of API cost in the design sessions. Planted faults and engineering changes show that the checks find what their rules cover and miss the rest, so they guide human review rather than replace it. No independent engineer has reviewed the design.",
+  "authors": [
+   "Artur M. Schweidtmann"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "28 pages, 4 figures, 5 tables; Supporting Information (28 pages) appended. Submitted to AIChE Journal. Code and data: https://github.com/ChemE-as-Code",
+  "first_author": "Artur M. Schweidtmann",
+  "pdf_url": "http://arxiv.org/pdf/2611.07947",
+  "primary_category": "cs.AI",
+  "published": "2026-11-05",
+  "tags": [
+   "catalysis",
+   "chemical-engineering",
+   "large-language-models",
+   "life-cycle-assessment",
+   "process-simulation"
+  ],
+  "title": "ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering",
+   "Energy, Sustainability & Electrochemical Systems",
+   "Process Control & Optimization",
+   "Process Modeling & System Identification"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08461": {
+  "abstract": "Knowledge distillation transfers predictions, representations, or other supervisory information between learning models and is increasingly investigated in quantum machine learning. Its applications extend beyond compression to cross-architecture transfer, circuit approximation, distributed learning, and classical deployment of models trained using quantum-derived supervision. This survey reviews these approaches using two complementary classification axes: teacher-student configuration and the role of quantum resources in the distillation process. Quantum-inspired methods are discussed separately from methods that simulate quantum computations classically or execute them on quantum hardware. We explain how measurement probabilities, expectation values, classical readouts, state overlaps, and circuit-level objectives support different transfer mechanisms. We then critically assess the presented results against baseline design, execution conditions, uncertainty, and resource costs. The evidence shows that distillation can improve selected quantum students, but benefits are task- and architecture-dependent, and several studies find negligible gains or even performance degradation. Evaluations on physical quantum hardware remain limited, with some testing individual quantum components rather than complete learning pipelines. Heterogeneous protocols and incomplete resource reporting prevent general conclusions about practical quantum advantage. We identify priorities for controlled benchmarking, noise-aware learning, reproducible evaluation, and efficient transfer between quantum and classical models.",
+  "authors": [
+   "Aldana Al-Sulaiti",
+   "Kuan-Cheng Chen",
+   "Muhammad Bilal Akram Dastagir",
+   "Ahmed Farouk",
+   "Saif Al-Kuwari"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "21 pages, 3 figures, 4 tables",
+  "first_author": "Aldana Al-Sulaiti",
+  "pdf_url": "http://arxiv.org/pdf/2611.08461",
+  "primary_category": "quant-ph",
+  "published": "2026-11-05",
+  "tags": [
+   "distillation",
+   "knowledge-distillation"
+  ],
+  "title": "Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems",
+  "topics": [
+   "Separation Processes & Transport Phenomena"
+  ],
+  "updated": "2026-11-05"
  }
 }

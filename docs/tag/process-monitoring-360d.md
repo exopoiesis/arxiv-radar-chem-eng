@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-monitoring — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="process-monitoring-7d.html">7d</a> <a href="process-monitoring-30d.html">30d</a> <a href="process-monitoring-90d.html">90d</a> <strong>360d</strong> <a href="process-monitoring-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05179.html">OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="distillation-360d.html">distillation</a> · <a href="fault-detection-360d.html">fault-detection</a> · <a href="large-language-models-360d.html">large-language-models</a> · <a href="reaction-kinetics-360d.html">reaction-kinetics</a></div></td>
+<td>Javal Vyas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05179">2611.05179</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09166.html">Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="process-simulation-360d.html">process-simulation</a></div></td>

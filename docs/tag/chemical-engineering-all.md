@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-engineering — all</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <a href="chemical-engineering-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="life-cycle-assessment-all.html">life-cycle-assessment</a> · <a href="process-simulation-all.html">process-simulation</a></div></td>
+<td>Artur M. Schweidtmann</td>
+<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05179.html">OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="fault-detection-all.html">fault-detection</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="process-monitoring-all.html">process-monitoring</a> · <a href="reaction-kinetics-all.html">reaction-kinetics</a></div></td>
+<td>Javal Vyas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05179">2611.05179</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22963.html">Streamwise dispersion with interphase mass transfer through a tube</a></div><div class="paper-tags"><a href="chromatography-all.html">chromatography</a> · <a href="flow-reactors-all.html">flow-reactors</a> · <a href="mass-transfer-all.html">mass-transfer</a></div></td>

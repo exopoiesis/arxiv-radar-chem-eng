@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>energy-storage — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <strong>90d</strong> <a href="energy-storage-360d.html">360d</a> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04640.html">TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a></div></td>
+<td>Andrea Pomarico et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04640">2611.04640</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03436.html">Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Sina Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03436">2611.03436</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05811.html">Public Battery Field Data</a></div><div class="paper-tags"><a href="fault-detection-90d.html">fault-detection</a></div></td>
@@ -98,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14764.html">Real-Time State-of-Health Estimation and Online Degradation Prognosis from Partial Battery Discharge Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="battery-modeling-90d.html">battery-modeling</a></div></td>
 <td>Begoña Ispizua et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14764">2608.14764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07273.html">Grid-Compatible Flexibility from Multi-Energy Systems via Cyclic-Terminal Economic MPC with Hybrid Thermal-Electrical Dynamics</a></div><div class="paper-tags"><a href="economic-mpc-90d.html">economic-mpc</a> · <a href="energy-systems-90d.html">energy-systems</a> · <a href="mpc-90d.html">mpc</a></div></td>
-<td>Azzam Abdul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07273">2608.07273</a></td>
 </tr>
 </tbody></table>

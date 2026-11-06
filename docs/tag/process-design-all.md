@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>process-design — all</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="process-design-7d.html">7d</a> <a href="process-design-30d.html">30d</a> <a href="process-design-90d.html">90d</a> <a href="process-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05508.html">Generalized Disjunctive Programming with Derivative-Free Configuration Search</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="distillation-all.html">distillation</a></div></td>
+<td>Albert Joon Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05508">2611.05508</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04011.html">Differentiable Hybrid Modelling for Learning and Optimising Chemical Transport Processes from Experimental Data</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a></div></td>

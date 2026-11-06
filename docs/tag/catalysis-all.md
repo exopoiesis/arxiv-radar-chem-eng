@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="life-cycle-assessment-all.html">life-cycle-assessment</a> · <a href="process-simulation-all.html">process-simulation</a></div></td>
+<td>Artur M. Schweidtmann</td>
+<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05508.html">Generalized Disjunctive Programming with Derivative-Free Configuration Search</a></div><div class="paper-tags"><a href="distillation-all.html">distillation</a> · <a href="process-design-all.html">process-design</a></div></td>
+<td>Albert Joon Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05508">2611.05508</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="gaussian-process-all.html">gaussian-process</a></div></td>
