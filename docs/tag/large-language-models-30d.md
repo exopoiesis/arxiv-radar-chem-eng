@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>large-language-models — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <strong>30d</strong> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="crystallization-30d.html">crystallization</a> · <a href="gaussian-process-30d.html">gaussian-process</a> · <a href="metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
 <td>Hongrui Sheng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10320.html">LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical Devices</a></div><div class="paper-tags"><a href="co2-reduction-30d.html">co2-reduction</a> · <a href="electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="reactor-design-30d.html">reactor-design</a></div></td>
-<td>Sebastian Castro et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10320">2610.10320</a></td>
 </tr>
 </tbody></table>

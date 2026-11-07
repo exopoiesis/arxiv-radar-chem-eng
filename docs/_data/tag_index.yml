@@ -7,10 +7,6 @@
   count: 6
   total: 64
   group: methods
-- name: large-language-models
-  count: 6
-  total: 130
-  group: architectures
 - name: adsorption
   count: 5
   total: 99
@@ -23,22 +19,22 @@
   count: 5
   total: 132
   group: materials
+- name: large-language-models
+  count: 5
+  total: 130
+  group: architectures
 - name: cfd
   count: 4
   total: 97
   group: fluids
-- name: chemical-engineering
-  count: 4
-  total: 121
-  group: domain
 - name: heat-transfer
   count: 4
   total: 52
   group: transport
-- name: molecular-dynamics
-  count: 4
-  total: 72
-  group: materials
+- name: chemical-engineering
+  count: 3
+  total: 121
+  group: domain
 - name: distillation
   count: 3
   total: 50
@@ -51,10 +47,10 @@
   count: 3
   total: 23
   group: monitoring
-- name: electrochemical-systems
-  count: 2
-  total: 69
-  group: energy
+- name: molecular-dynamics
+  count: 3
+  total: 72
+  group: materials
 - name: fuel-cells
   count: 2
   total: 45
@@ -107,10 +103,6 @@
   count: 1
   total: 8
   group: separations
-- name: co2-reduction
-  count: 1
-  total: 6
-  group: reactions
 - name: crystallization
   count: 1
   total: 21
@@ -119,6 +111,10 @@
   count: 1
   total: 14
   group: reactions
+- name: electrochemical-systems
+  count: 1
+  total: 69
+  group: energy
 - name: electrolysis
   count: 1
   total: 23
@@ -151,18 +147,10 @@
   count: 1
   total: 80
   group: control
-- name: multiphase-flow
-  count: 1
-  total: 14
-  group: fluids
 - name: porous-materials
   count: 1
   total: 8
   group: materials
-- name: porous-media-flow
-  count: 1
-  total: 4
-  group: fluids
 - name: process-control
   count: 1
   total: 52
@@ -178,10 +166,6 @@
 - name: reaction-kinetics
   count: 1
   total: 23
-  group: reactions
-- name: reactor-design
-  count: 1
-  total: 12
   group: reactions
 - name: transport-phenomena
   count: 1
@@ -219,6 +203,10 @@
   count: 0
   total: 1
   group: energy
+- name: co2-reduction
+  count: 0
+  total: 6
+  group: reactions
 - name: digital-twin
   count: 0
   total: 48
@@ -279,6 +267,10 @@
   count: 0
   total: 5
   group: materials
+- name: multiphase-flow
+  count: 0
+  total: 14
+  group: fluids
 - name: oxygen-evolution
   count: 0
   total: 14
@@ -295,6 +287,10 @@
   count: 0
   total: 9
   group: reactions
+- name: porous-media-flow
+  count: 0
+  total: 4
+  group: fluids
 - name: pressure-swing-adsorption
   count: 0
   total: 1
@@ -318,6 +314,10 @@
 - name: reaction-network-modeling
   count: 0
   total: 0
+  group: reactions
+- name: reactor-design
+  count: 0
+  total: 12
   group: reactions
 - name: redox-flow-batteries
   count: 0

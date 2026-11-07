@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <a href="electrochemical-systems-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20969.html">Maximization of Supercapacitor Storage via Topology Optimization of Electrode Structures</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="optimal-control-360d.html">optimal-control</a></div></td>
 <td>Jiajie Li et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20969">2511.20969</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07249.html">A Fast, Accurate, and Reactive Equivariant Foundation Potential</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="energy-storage-360d.html">energy-storage</a> · <a href="ionic-liquids-360d.html">ionic-liquids</a></div></td>
-<td>Tsz Wai Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07249">2511.07249</a></td>
 </tr>
 </tbody></table>
