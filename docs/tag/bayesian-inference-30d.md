@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19098.html">Global Parameter Identification and Uncertainty Quantification of reduced-order ADM1 using Maximum Likelihood Estimation and Bayesian Inference</a></div></td>
 <td>Simon Hellmann et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19098">2610.19098</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11059.html">A Latent Space Optimization Approach for Symbolic Discovery of Dynamical Models</a></div><div class="paper-tags"><a href="system-identification-30d.html">system-identification</a></div></td>
-<td>Tongjia Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11059">2610.11059</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>wastewater-treatment — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="wastewater-treatment-7d.html">7d</a> <a href="wastewater-treatment-30d.html">30d</a> <a href="wastewater-treatment-90d.html">90d</a> <strong>360d</strong> <a href="wastewater-treatment-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01022.html">Periodic Fractional Control in Bioprocesses for Clean Water and Ecosystem Health</a></div></td>
 <td>Kareem T. Elgindy et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01022">2508.01022</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08130.html">Foam Segmentation in Wastewater Treatment Plants: A Federated Learning Approach with Segment Anything Model 2</a></div></td>
-<td>Mehmet Batuhan Duman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08130">2511.08130</a></td>
 </tr>
 </tbody></table>

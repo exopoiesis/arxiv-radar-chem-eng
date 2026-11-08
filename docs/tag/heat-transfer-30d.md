@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>heat-transfer — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <strong>30d</strong> <a href="heat-transfer-90d.html">90d</a> <a href="heat-transfer-360d.html">360d</a> <a href="heat-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20470.html">Reynolds-number-dependent entrance bias in temperature polarization of lab-scale membrane distillation</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
 <td>Soyoung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20470">2610.20470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11108.html">Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries</a></div><div class="paper-tags"><a href="physics-informed-ml-30d.html">physics-informed-ml</a></div></td>
-<td>Weizheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11108">2610.11108</a></td>
 </tr>
 </tbody></table>

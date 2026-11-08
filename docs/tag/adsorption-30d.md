@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>adsorption — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <strong>30d</strong> <a href="adsorption-90d.html">90d</a> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Karsten Walz Jensen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09837.html">Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Hongwei Du et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09837">2610.09837</a></td>
 </tr>
 </tbody></table>

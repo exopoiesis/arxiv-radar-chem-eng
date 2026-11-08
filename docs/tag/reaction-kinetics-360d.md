@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-kinetics — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="reaction-kinetics-7d.html">7d</a> <a href="reaction-kinetics-30d.html">30d</a> <a href="reaction-kinetics-90d.html">90d</a> <strong>360d</strong> <a href="reaction-kinetics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05685.html">An output scaling layer boosts deep neural networks for multiscale ODE systems</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Yuxiao Yi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05685">2512.05685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03883.html">Multi-Scale Hybrid Modeling to Predict Cell Culture Process with Metabolic Phase Transitions</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="experimental-design-360d.html">experimental-design</a> · <a href="process-control-360d.html">process-control</a> · <a href="process-modeling-360d.html">process-modeling</a></div></td>
-<td>Keqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03883">2412.03883</a></td>
 </tr>
 </tbody></table>
