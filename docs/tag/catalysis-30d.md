@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18825.html">Joint Neural Posterior Estimation and Model Selection for Chemical Reaction Networks</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>J. Arturo Esquivel et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18825">2610.18825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="dft-30d.html">dft</a> · <a href="gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Karsten Walz Jensen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
 </tr>
 </tbody></table>

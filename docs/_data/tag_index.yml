@@ -4,33 +4,33 @@
   total: 66
   group: methods
 - name: gaussian-process
-  count: 6
+  count: 5
   total: 64
   group: methods
-- name: catalysis
-  count: 5
-  total: 167
-  group: reactions
 - name: large-language-models
   count: 5
   total: 130
   group: architectures
-- name: adsorption
+- name: catalysis
   count: 4
-  total: 99
-  group: separations
+  total: 167
+  group: reactions
 - name: cfd
   count: 4
   total: 97
   group: fluids
-- name: dft
-  count: 4
-  total: 132
-  group: materials
+- name: adsorption
+  count: 3
+  total: 99
+  group: separations
 - name: chemical-engineering
   count: 3
   total: 121
   group: domain
+- name: dft
+  count: 3
+  total: 132
+  group: materials
 - name: distillation
   count: 3
   total: 50
@@ -67,6 +67,10 @@
   count: 2
   total: 40
   group: control
+- name: process-monitoring
+  count: 2
+  total: 19
+  group: monitoring
 - name: process-simulation
   count: 2
   total: 10
@@ -151,10 +155,6 @@
   count: 1
   total: 39
   group: control
-- name: process-monitoring
-  count: 1
-  total: 18
-  group: monitoring
 - name: reaction-kinetics
   count: 1
   total: 23

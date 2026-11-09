@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-08._
+_Updated 2026-11-09._
 
-**1272** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1273** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09141.html">Circuit Theory-Informed AI for Condition Monitoring in Power Electronics</a></div><div class="paper-tags"><a href="tag/process-monitoring-30d.html">process-monitoring</a></div></td>
+<td>Yubo Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09141">2611.09141</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.06194.html">Cross-Asset Knowledge Transfer for Early Fault Detection of Data-Scarce Assets Without Target Fault Data</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-11-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19374.html">A Critical Review of Grid Integration Challenges and Flexibility Opportunities for Large-Scale Data Centers</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a></div></td>
 <td>Bibek Dhakal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19374">2610.19374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
-<td>Hongrui Sheng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
 </tr>
 </tbody></table>
