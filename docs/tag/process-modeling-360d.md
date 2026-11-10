@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-modeling — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="process-modeling-7d.html">7d</a> <a href="process-modeling-30d.html">30d</a> <a href="process-modeling-90d.html">90d</a> <strong>360d</strong> <a href="process-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01279.html">The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="gaussian-process-360d.html">gaussian-process</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
 <td>Yutong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01279">2512.01279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11180.html">Prognostics and Health Management in Polymer Electrolyte Fuel Cells: Current Trends, Challenges, and Future Directions</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="fuel-cells-360d.html">fuel-cells</a></div></td>
-<td>Farideh Abdollahi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11180">2511.11180</a></td>
 </tr>
 </tbody></table>

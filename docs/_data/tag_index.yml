@@ -3,10 +3,6 @@
   count: 6
   total: 66
   group: methods
-- name: gaussian-process
-  count: 5
-  total: 64
-  group: methods
 - name: large-language-models
   count: 5
   total: 130
@@ -19,6 +15,10 @@
   count: 4
   total: 97
   group: fluids
+- name: gaussian-process
+  count: 4
+  total: 64
+  group: methods
 - name: adsorption
   count: 3
   total: 99
@@ -27,10 +27,6 @@
   count: 3
   total: 121
   group: domain
-- name: dft
-  count: 3
-  total: 132
-  group: materials
 - name: distillation
   count: 3
   total: 50
@@ -50,6 +46,10 @@
 - name: molecular-dynamics
   count: 3
   total: 72
+  group: materials
+- name: dft
+  count: 2
+  total: 132
   group: materials
 - name: fuel-cells
   count: 2
@@ -123,10 +123,6 @@
   count: 1
   total: 9
   group: separations
-- name: generative-models
-  count: 1
-  total: 34
-  group: architectures
 - name: ionic-liquids
   count: 1
   total: 8
@@ -227,6 +223,10 @@
   count: 0
   total: 2
   group: reactions
+- name: generative-models
+  count: 0
+  total: 34
+  group: architectures
 - name: graph-neural-networks
   count: 0
   total: 38
