@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-12._
+_Updated 2026-11-13._
 
-**1273** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1277** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,34 @@ _Updated 2026-11-12._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14374.html">Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics</a></div></td>
+<td>Marco Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14374">2611.14374</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12013.html">Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data</a></div><div class="paper-tags"><a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12013">2611.12013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12958.html">Embodied Science Agents: Making Embodied Experimental Design Learnable</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
+<td>Yihang Che et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12958">2611.12958</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09141.html">Circuit Theory-Informed AI for Condition Monitoring in Power Electronics</a></div><div class="paper-tags"><a href="tag/process-monitoring-30d.html">process-monitoring</a></div></td>
 <td>Yubo Song et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09141">2611.09141</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09143.html">Spectral Characterizations, Harmonic Analysis, and Phase Transitions in 2-Nice and $k$-Nice Recurrence</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
+<td>Dibyendu De</td>
+<td><a href="http://arxiv.org/abs/2611.09143">2611.09143</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-05</td>
@@ -169,29 +193,5 @@ _Updated 2026-11-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.22963.html">Streamwise dispersion with interphase mass transfer through a tube</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/chromatography-30d.html">chromatography</a> · <a href="tag/flow-reactors-30d.html">flow-reactors</a> · <a href="tag/mass-transfer-30d.html">mass-transfer</a></div></td>
 <td>Mingyang Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22963">2610.22963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.23464.html">Reinforcement Learning-Based Pricing and Operation for Hybrid Electric and Hydrogen Vehicle Stations</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a></div></td>
-<td>Lowell Welburn et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23464">2610.23464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21050.html">Large Language Model-Assisted Systematic Study of Anomalous Adsorption Phenomena</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-isotherms-30d.html">adsorption-isotherms</a> · <a href="tag/gas-separation-30d.html">gas-separation</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/porous-materials-30d.html">porous-materials</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21050">2610.21050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21748.html">The Dormant Spiking Neuron: A State-Driven Mechanism for Efficient Spiking Neural Networks</a></div></td>
-<td>Ruichen Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21748">2610.21748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19374.html">A Critical Review of Grid Integration Challenges and Flexibility Opportunities for Large-Scale Data Centers</a></div><div class="paper-tags"><a href="tag/fuel-cells-30d.html">fuel-cells</a></div></td>
-<td>Bibek Dhakal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19374">2610.19374</a></td>
 </tr>
 </tbody></table>

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="chemical-engineering-7d.html">chemical-engineering</a> · <a href="life-cycle-assessment-7d.html">life-cycle-assessment</a> · <a href="process-simulation-7d.html">process-simulation</a></div></td>
-<td>Artur M. Schweidtmann</td>
-<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12013.html">Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data</a></div><div class="paper-tags"><a href="graph-neural-networks-7d.html">graph-neural-networks</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12013">2611.12013</a></td>
 </tr>
 </tbody></table>

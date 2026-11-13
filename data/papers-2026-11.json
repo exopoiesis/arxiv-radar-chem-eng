@@ -376,5 +376,110 @@
    "Digital Twins & Process Monitoring"
   ],
   "updated": "2026-11-06"
+ },
+ "2611.09143": {
+  "abstract": "We investigate the structural mechanisms governing $2$-nice and $k$-nice recurrence in measure-preserving dynamical systems. For weakly mixing systems, we establish a complete spectral characterization of two-sided $2$-nice recurrence via quadratic spectral functionals and Herglotz--Bochner duality, extending the theory to arbitrary integer polynomial configurations $\\{0, p_1(n), p_2(n)\\}$ with zero constant term and to actions of countable abelian groups. Using stationary Gaussian processes and Hermite mode decoupling, we construct explicit weakly mixing counterexamples separating one-sided and two-sided $2$-nice recurrence. Furthermore, we uncover a fundamental structural phase transition at $k=3$: while $k=2$ recurrence is rigidly controlled by a quadratic spectral functional whose two-sided symmetrization eliminates all higher-degree cumulants, at $k=3$ fourth-order centered correlations survive symmetrization and can drive a strict recurrence deficit even when the quadratic spectral functional remains strictly positive. Using lacunary and multi-frequency Riesz products alongside uniform Wiener lemmas, we analyze the upper Banach density obstructions of negative spectral sets, establish partial partition regularity on the spectral cone, resolve an inverse Furstenberg correspondence problem of Rodríguez Martín for countable groups via Bernoulli product extensions, and characterize spectral $2$-nice ultrafilters in the Stone--Čech compactification $β\\N$.",
+  "authors": [
+   "Dibyendu De"
+  ],
+  "categories": [
+   "math.DS"
+  ],
+  "comment": null,
+  "first_author": "Dibyendu De",
+  "pdf_url": "http://arxiv.org/pdf/2611.09143",
+  "primary_category": "math.DS",
+  "published": "2026-11-06",
+  "tags": [
+   "gaussian-process"
+  ],
+  "title": "Spectral Characterizations, Harmonic Analysis, and Phase Transitions in 2-Nice and $k$-Nice Recurrence",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.12013": {
+  "abstract": "Predicting multi-step chemical reaction mechanisms requires identifying plausible intermediates and correctly ordering the elementary reaction steps. Existing computational methods focus on single-step elementary reaction prediction, limiting their ability to generalize to unseen reaction spaces. We introduce a graph-guided framework for multi-step chemical mechanism prediction that leverages a chemical mechanism knowledge graph (ChemMechKG) to guide large language models (LLMs). To improve pathway prediction, we develop a graph-aligned reaction mechanism predictor (GRMP) that uses graph neural networks to generate synthetic candidate pathways for pathway optimization. During inference, we design a relation retrieval (RR) module to extract relevant graph evidence from the KG for pathway refinement. Experiments show that GRMP achieves the highest pathway accuracy among all compared methods on ChemMechQA and oMe-Gold, reaching 48.1% and 57.9%, respectively. On a fixed sample of 110 out-of-distribution reactions from ChemMechQA-Hard, GRMP achieves 36.4% top-1 pathway accuracy. LLM-as-Judge and human assessment further demonstrate its ability to generalize to unseen reactions.",
+  "authors": [
+   "Yu Zhang",
+   "Ruijie Yu",
+   "Xuelin Zhao",
+   "Jinming Yang",
+   "Feng Zhu",
+   "Xiaokang Yang",
+   "Yaohui Jin",
+   "Yanyan Xu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "5 figures, 3tables",
+  "first_author": "Yu Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.12013",
+  "primary_category": "cs.AI",
+  "published": "2026-11-09",
+  "tags": [
+   "graph-neural-networks",
+   "large-language-models"
+  ],
+  "title": "Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12958": {
+  "abstract": "Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning and physical experimentation, positioning self-driving laboratories (SDLs) as critical enablers. However, existing SDLs exhibit a fundamental paradox: foundation model integration has increased linguistic sophistication while severing physical grounding. By treating models as disembodied planners that output symbolic workflows for separate robotic systems, current architectures inherently block the development of embodied experimental intuition. We argue that overcoming this paradox requires embedding \\emph{learnability} along three interdependent axes: cognitive learnability (learning what to investigate), experimental learnability (learning where to search), and embodied learnability (learning how to act). Building on this view, we introduce the Embodied Science Agent (ESA), which unifies digital intelligence with physical embodiment through three synergistic components: a Digital Agent that provides cognitive and experimental learnability via memory-based reasoning and Bayesian optimisation, an Embodied Agent that provides embodied learnability via generalisable instrument control, and an Embodied Unified Interface for seamless coordination. We validated ESA in autonomous wastewater treatment experiments, navigating over 200 million possible conditions. Through 15 continuous rounds, ESA raised the final solution transmittance from 82\\% to 99.7\\%, corresponding to a 98.5\\% reduction in residual dye concentration and near-complete decolourisation, while its learned visuomotor policies generalised across varying instrument placements, a promising step toward next-generation SDLs for autonomous scientific discovery.",
+  "authors": [
+   "Yihang Che",
+   "Zhongwei Yu",
+   "Yang Li",
+   "Xingyu Lu",
+   "Hongxia Yu",
+   "Jun Wang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Accepted by DAI 2026",
+  "first_author": "Yihang Che",
+  "pdf_url": "http://arxiv.org/pdf/2611.12958",
+  "primary_category": "cs.AI",
+  "published": "2026-11-07",
+  "tags": [
+   "bayesian-inference",
+   "wastewater-treatment"
+  ],
+  "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.14374": {
+  "abstract": "Start-ups and grade changes remain largely operator-driven, while developing and maintaining dynamic models for model-based control requires substantial engineering effort. Hybrid Offline Learning and Online Optimisation (HOFLON) uses one-step offline reinforcement learning to select actions from historical transition data. In its original implementation, the online objective combines the predicted return from a tree-ensemble critic with an adversarial-autoencoder (AAE) penalty for unfamiliar state-action pairs. We examine the effect of this penalty and replace the critic and AAE with a sparse variational Gaussian-process (sGP) critic. Actions maximise $μ- κσ$, an uncertainty-adjusted estimate of the return from one action followed by the historical operating practice. On the HOFLON polymerisation-reactor benchmark, removing the AAE from HOFLON led to 4 failed start-ups in 15 runs over five critics. At its published weight, the variation in the AAE penalty is four orders of magnitude smaller than the variation in the tree-ensemble critic. Nevertheless, it changes actions when the predicted returns of competing candidates are nearly equal, and paired runs with and without the penalty diverged from the first move. With a Matérn-5/2 sGP critic, $κ= 0$ led to failure in 13 of 15 runs, whereas with $κ= 3$ none of 15 runs (five critics, three noise realisations) failed. The median and lowest returns were 13,464 and 13,398 (HOFLON: 13,393 and 12,411). A squared-exponential sGP critic with learned inducing inputs needed $κ\\geq 3$ to remain within the empirical data support in steady state, and then settled with a temperature offset of 2.0 K.",
+  "authors": [
+   "Marco Chan",
+   "Christos Evripidou",
+   "Liqiu Dong",
+   "Benoit Chachuat",
+   "Mehmet Mercangöz"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SY"
+  ],
+  "comment": "8 pages, 5 figures, 1 table. Submitted to the 2027 European Control Conference (ECC 2027)",
+  "first_author": "Marco Chan",
+  "pdf_url": "http://arxiv.org/pdf/2611.14374",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
+  "topics": [
+   "Uncertainty Quantification & Bayesian Methods"
+  ],
+  "updated": "2026-11-10"
  }
 }

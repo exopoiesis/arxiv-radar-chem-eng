@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fuel-cells — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="fuel-cells-7d.html">7d</a> <a href="fuel-cells-30d.html">30d</a> <a href="fuel-cells-90d.html">90d</a> <strong>360d</strong> <a href="fuel-cells-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15949.html">PINNs4Drops: Video-conditioned physics-informed neural networks for two-phase flow reconstruction</a></div><div class="paper-tags"><a href="multiphase-flow-360d.html">multiphase-flow</a> · <a href="physics-informed-ml-360d.html">physics-informed-ml</a></div></td>
 <td>Maximilian Dreisbach et al.</td>
 <td><a href="http://arxiv.org/abs/2411.15949">2411.15949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13798.html">KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures</a></div></td>
-<td>Mohammad Reza Shafie et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13798">2511.13798</a></td>
 </tr>
 </tbody></table>

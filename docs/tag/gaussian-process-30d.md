@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09143.html">Spectral Characterizations, Harmonic Analysis, and Phase Transitions in 2-Nice and $k$-Nice Recurrence</a></div></td>
+<td>Dibyendu De</td>
+<td><a href="http://arxiv.org/abs/2611.09143">2611.09143</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
 <td>Bruno S. Lopes et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="crystallization-30d.html">crystallization</a> · <a href="large-language-models-30d.html">large-language-models</a> · <a href="metal-organic-frameworks-30d.html">metal-organic-frameworks</a></div></td>
 <td>Hongrui Sheng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18292.html">Reliable Risk Estimation with Kernel Mean Matching under Dependent Sampling</a></div></td>
-<td>Alexey Zaytsev et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18292">2610.18292</a></td>
 </tr>
 </tbody></table>
