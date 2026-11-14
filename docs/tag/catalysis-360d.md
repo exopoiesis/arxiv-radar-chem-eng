@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,17 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11568.html">Orbital Hybridization-Driven Stabilization and Reactivity on an Asymmetrically Reconstructed Polar CeO2(100) Surface</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a></div></td>
 <td>Songda Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11568">2509.11568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14627.html">Recent advances in stimulus-assisted nanoprecipitation for nanoparticle synthesis</a></div><div class="paper-tags"><a href="microreactors-360d.html">microreactors</a></div></td>
-<td>Mingbo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14627">2511.14627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16701.html">Catalytic Resonance Theory: Kinetics and Frequency Response of Light-Promoted Catalysis</a></div><div class="paper-tags"><a href="microkinetic-modeling-360d.html">microkinetic-modeling</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Paul J Dauenhauer</td>
-<td><a href="http://arxiv.org/abs/2511.16701">2511.16701</a></td>
 </tr>
 </tbody></table>

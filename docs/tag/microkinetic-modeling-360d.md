@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>microkinetic-modeling — 360d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="microkinetic-modeling-7d.html">7d</a> <a href="microkinetic-modeling-30d.html">30d</a> <a href="microkinetic-modeling-90d.html">90d</a> <strong>360d</strong> <a href="microkinetic-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14305.html">Estimating Reaction Rate Constants from Impedance Spectra: Simulating the Multistep Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="electrolysis-360d.html">electrolysis</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Freja Vandeputte et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14305">2512.14305</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16701.html">Catalytic Resonance Theory: Kinetics and Frequency Response of Light-Promoted Catalysis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Paul J Dauenhauer</td>
-<td><a href="http://arxiv.org/abs/2511.16701">2511.16701</a></td>
 </tr>
 </tbody></table>
