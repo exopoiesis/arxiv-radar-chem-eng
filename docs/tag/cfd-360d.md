@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16232.html">From nature to engineering: Bio-inspired spacer solutions for membrane distillation</a></div><div class="paper-tags"><a href="mass-transfer-360d.html">mass-transfer</a></div></td>
 <td>Alaa Adel Ibrahim et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16232">2511.16232</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01082.html">Comparative in-silico study of drug release from intraocular implants for glaucoma treatment</a></div></td>
-<td>Umar Pitafi et al.</td>
-<td><a href="http://arxiv.org/abs/2410.01082">2410.01082</a></td>
 </tr>
 </tbody></table>

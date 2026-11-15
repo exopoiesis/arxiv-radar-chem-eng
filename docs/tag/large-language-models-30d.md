@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>large-language-models — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="large-language-models-7d.html">7d</a> <strong>30d</strong> <a href="large-language-models-90d.html">90d</a> <a href="large-language-models-360d.html">360d</a> <a href="large-language-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05179.html">OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes</a></div><div class="paper-tags"><a href="chemical-engineering-30d.html">chemical-engineering</a> · <a href="distillation-30d.html">distillation</a> · <a href="fault-detection-30d.html">fault-detection</a> · <a href="process-monitoring-30d.html">process-monitoring</a> · <a href="reaction-kinetics-30d.html">reaction-kinetics</a></div></td>
 <td>Javal Vyas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.05179">2611.05179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21050.html">Large Language Model-Assisted Systematic Study of Anomalous Adsorption Phenomena</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-isotherms-30d.html">adsorption-isotherms</a> · <a href="gas-separation-30d.html">gas-separation</a> · <a href="porous-materials-30d.html">porous-materials</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21050">2610.21050</a></td>
 </tr>
 </tbody></table>

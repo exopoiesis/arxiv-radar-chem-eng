@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>separations — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="separations-7d.html">7d</a> <a href="separations-30d.html">30d</a> <a href="separations-90d.html">90d</a> <strong>360d</strong> <a href="separations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17267.html">Numerical study of the effect of the relative mobilities of chemical components on the Non solvent induced phase separation process for membrane elaboration</a></div></td>
 <td>Abderraouf Bounjad et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17267">2511.17267</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15475.html">LCS: A Learnlet-Based Sparse Framework for Blind Source Separation</a></div></td>
-<td>V. Bonjean et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15475">2511.15475</a></td>
 </tr>
 </tbody></table>
