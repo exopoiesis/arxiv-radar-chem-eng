@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrochemical-systems — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="electrochemical-systems-7d.html">7d</a> <a href="electrochemical-systems-30d.html">30d</a> <strong>90d</strong> <a href="electrochemical-systems-360d.html">360d</a> <a href="electrochemical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27162.html">Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer</a></div></td>
 <td>Thorsten Tegetmeyer-Kleine et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27162">2608.27162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16820.html">Battery-Swapping Station Operation Under Forecast Uncertainty: A Scenario-Based Stochastic MPC Framework</a></div><div class="paper-tags"><a href="mpc-90d.html">mpc</a></div></td>
-<td>Zhiyuan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16820">2608.16820</a></td>
 </tr>
 </tbody></table>

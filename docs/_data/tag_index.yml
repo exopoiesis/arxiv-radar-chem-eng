@@ -15,20 +15,20 @@
   count: 3
   total: 97
   group: fluids
-- name: chemical-engineering
-  count: 3
-  total: 121
-  group: domain
 - name: distillation
   count: 3
   total: 50
   group: separations
+- name: chemical-engineering
+  count: 2
+  total: 121
+  group: domain
 - name: energy-storage
-  count: 3
+  count: 2
   total: 162
   group: energy
 - name: fault-detection
-  count: 3
+  count: 2
   total: 23
   group: monitoring
 - name: gaussian-process
@@ -43,10 +43,6 @@
   count: 2
   total: 6
   group: sustainability
-- name: mass-transfer
-  count: 2
-  total: 14
-  group: transport
 - name: molecular-dynamics
   count: 2
   total: 72
@@ -71,10 +67,6 @@
   count: 1
   total: 33
   group: energy
-- name: chromatography
-  count: 1
-  total: 8
-  group: separations
 - name: electrocatalysis
   count: 1
   total: 14
@@ -87,14 +79,6 @@
   count: 1
   total: 23
   group: energy
-- name: flow-reactors
-  count: 1
-  total: 6
-  group: reactions
-- name: fuel-cells
-  count: 1
-  total: 45
-  group: energy
 - name: graph-neural-networks
   count: 1
   total: 39
@@ -103,6 +87,10 @@
   count: 1
   total: 60
   group: architectures
+- name: mass-transfer
+  count: 1
+  total: 14
+  group: transport
 - name: optimal-control
   count: 1
   total: 40
@@ -175,6 +163,10 @@
   count: 0
   total: 34
   group: reactions
+- name: chromatography
+  count: 0
+  total: 8
+  group: separations
 - name: co2-electroreduction
   count: 0
   total: 1
@@ -215,6 +207,14 @@
   count: 0
   total: 2
   group: reactions
+- name: flow-reactors
+  count: 0
+  total: 6
+  group: reactions
+- name: fuel-cells
+  count: 0
+  total: 45
+  group: energy
 - name: gas-separation
   count: 0
   total: 9
