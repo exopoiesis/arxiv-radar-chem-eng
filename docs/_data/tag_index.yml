@@ -43,10 +43,6 @@
   count: 2
   total: 6
   group: sustainability
-- name: molecular-dynamics
-  count: 2
-  total: 72
-  group: materials
 - name: process-monitoring
   count: 2
   total: 19
@@ -55,14 +51,6 @@
   count: 2
   total: 10
   group: control
-- name: uncertainty-quantification
-  count: 2
-  total: 59
-  group: methods
-- name: adsorption
-  count: 1
-  total: 99
-  group: separations
 - name: battery-modeling
   count: 1
   total: 33
@@ -91,6 +79,10 @@
   count: 1
   total: 14
   group: transport
+- name: molecular-dynamics
+  count: 1
+  total: 72
+  group: materials
 - name: optimal-control
   count: 1
   total: 40
@@ -123,6 +115,10 @@
   count: 1
   total: 13
   group: fluids
+- name: uncertainty-quantification
+  count: 1
+  total: 59
+  group: methods
 - name: wastewater-treatment
   count: 1
   total: 22
@@ -135,6 +131,10 @@
   count: 0
   total: 13
   group: reactions
+- name: adsorption
+  count: 0
+  total: 99
+  group: separations
 - name: adsorption-energy
   count: 0
   total: 28

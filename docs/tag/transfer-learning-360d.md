@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>transfer-learning — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="transfer-learning-7d.html">7d</a> <a href="transfer-learning-30d.html">30d</a> <a href="transfer-learning-90d.html">90d</a> <strong>360d</strong> <a href="transfer-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16586.html">Nonparametric Kernel Regression for Coordinated Energy Storage Peak Shaving with Stacked Services</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Emily Logan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16586">2602.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10273.html">A neural recommender system leveraging transfer learning for property prediction of ionic liquids</a></div><div class="paper-tags"><a href="ionic-liquids-360d.html">ionic-liquids</a> · <a href="process-design-360d.html">process-design</a></div></td>
-<td>Sahil Sethi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10273">2509.10273</a></td>
 </tr>
 </tbody></table>
