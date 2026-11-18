@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="graph-neural-networks-360d.html">graph-neural-networks</a></div></td>
+<td>Marta Monti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20706">2611.20706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09880.html">ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="metal-organic-frameworks-360d.html">metal-organic-frameworks</a> · <a href="separations-360d.html">separations</a> · <a href="zeolites-360d.html">zeolites</a></div></td>
+<td>Aaron Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09880">2611.09880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24418.html">Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

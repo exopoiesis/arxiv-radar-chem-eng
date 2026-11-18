@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="dft-all.html">dft</a> · <a href="electrochemical-systems-all.html">electrochemical-systems</a> · <a href="graph-neural-networks-all.html">graph-neural-networks</a></div></td>
+<td>Marta Monti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20706">2611.20706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13536.html">Adaptive catalyst discovery emerges from composable scientific intelligence</a></div><div class="paper-tags"><a href="catalyst-design-all.html">catalyst-design</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
+<td>Wentao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13536">2611.13536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09880.html">ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="metal-organic-frameworks-all.html">metal-organic-frameworks</a> · <a href="separations-all.html">separations</a> · <a href="zeolites-all.html">zeolites</a></div></td>
+<td>Aaron Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09880">2611.09880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="chemical-engineering-all.html">chemical-engineering</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="life-cycle-assessment-all.html">life-cycle-assessment</a> · <a href="process-simulation-all.html">process-simulation</a></div></td>

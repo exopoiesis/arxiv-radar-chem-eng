@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-engineering — all</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="chemical-engineering-7d.html">7d</a> <a href="chemical-engineering-30d.html">30d</a> <a href="chemical-engineering-90d.html">90d</a> <a href="chemical-engineering-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13063.html">Numerical Investigations on Bitumen Liberation from Oil Sands Lump</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Mohammadhossein Golchin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13063">2611.13063</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="large-language-models-all.html">large-language-models</a> · <a href="life-cycle-assessment-all.html">life-cycle-assessment</a> · <a href="process-simulation-all.html">process-simulation</a></div></td>

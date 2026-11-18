@@ -399,6 +399,37 @@
   ],
   "updated": "2026-11-06"
  },
+ "2611.09880": {
+  "abstract": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypothetical zeolite structures are known, identifying materials optimized for a target application remains challenging because property labels are expensive to obtain and available only for limited structure-molecule pairs. While prior work has demonstrated that 3D neural representations can predict zeolite properties effectively, it remains unclear which representation-learning strategies are most effective in the low-data regime relevant to materials discovery. We present ZeoBench, a benchmark for self-supervised learning on dense 3D representations of all-silica zeolites, and evaluate the resulting features on six existing downstream adsorption-property prediction tasks, across a range of training set sizes. Our study compares self-supervised 3D pretraining on volumetric zeolite data, adaptations of image-pretrained 2D ConvNets and vision transformers to 3D via multiview and channel-inflation strategies, and 3D ConvNets pretrained on out-of-domain volumetric datasets, alongside hand-crafted descriptors and supervised baselines. Using our pretraining and evaluation framework, we find self-supervised 3D representations outperform existing methods and achieve state-of-the-art performance across both in-domain label regimes and for the unseen domain of metal organic frameworks. Learned representations consistently outperform hand-crafted descriptors, and convolutional architectures are generally more effective than vision transformers in this setting. These results establish ZeoBench as a practical benchmark for 3D representation learning in zeolites and provide guidance for data-limited adsorption property prediction.",
+  "authors": [
+   "Aaron Sun",
+   "Yachan Liu",
+   "Ping Yang",
+   "Peng Bai",
+   "Subhransu Maji"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "NeurIPS 2026 Datasets and Benchmarks Track",
+  "first_author": "Aaron Sun",
+  "pdf_url": "http://arxiv.org/pdf/2611.09880",
+  "primary_category": "cs.CV",
+  "published": "2026-11-06",
+  "tags": [
+   "adsorption",
+   "catalysis",
+   "materials-discovery",
+   "metal-organic-frameworks",
+   "separations",
+   "zeolites"
+  ],
+  "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-11-06"
+ },
  "2611.12013": {
   "abstract": "Predicting multi-step chemical reaction mechanisms requires identifying plausible intermediates and correctly ordering the elementary reaction steps. Existing computational methods focus on single-step elementary reaction prediction, limiting their ability to generalize to unseen reaction spaces. We introduce a graph-guided framework for multi-step chemical mechanism prediction that leverages a chemical mechanism knowledge graph (ChemMechKG) to guide large language models (LLMs). To improve pathway prediction, we develop a graph-aligned reaction mechanism predictor (GRMP) that uses graph neural networks to generate synthetic candidate pathways for pathway optimization. During inference, we design a relation retrieval (RR) module to extract relevant graph evidence from the KG for pathway refinement. Experiments show that GRMP achieves the highest pathway accuracy among all compared methods on ChemMechQA and oMe-Gold, reaching 48.1% and 57.9%, respectively. On a fixed sample of 110 out-of-distribution reactions from ChemMechQA-Hard, GRMP achieves 36.4% top-1 pathway accuracy. LLM-as-Judge and human assessment further demonstrate its ability to generalize to unseen reactions.",
   "authors": [
@@ -457,6 +488,80 @@
   ],
   "updated": "2026-11-07"
  },
+ "2611.13063": {
+  "abstract": "The dynamic liberation and digestion of viscous oil-solid aggregates under turbulent flow is a critical transport phenomenon in multiphase chemical processes, including slurry transport, soil remediation, and industrial extraction. A primary industrial application of this phenomenon is oil sands hydrotransport, where pipelines are widely utilized to simultaneously transport and extract bitumen from lump ore. However, optimizing operating conditions requires a fundamental understanding of the localized hydrodynamic mechanisms governing detachment. To address this, a three-dimensional (3D) Eulerian-Eulerian (E-E) CFD approach coupled with k-omega SST turbulence model has been utilized to investigate bitumen detachment dynamics from complex solid matrices. Six numerical cases were analyzed across lump diameters (D) of 4 and 5 cm and particle Reynolds numbers (Re_p) between 2000 and 4000. The simulation results reveal that bitumen liberation is a shear-driven process, occurring only when the shear stresses exerted by the flow on the lump surface exceed a critical threshold value. The bitumen liberation rate increases with higher Re_p and smaller D, due to enhanced local shear forces and reduced particle shielding. Based on these mechanistic insights, a novel semi-empirical shear-driven model was formulated. The proposed model demonstrates excellent predictive accuracy when validated against experimental liberation data, with an error less than 8.3%. Overall, these findings clarify the fluid-particle interactions governing bitumen detachment and offer a robust, physics-based tool for predicting recovery efficiency in industrial hydrotransport operations.",
+  "authors": [
+   "Mohammadhossein Golchin",
+   "Siyu Chen",
+   "Payman Esmaeili",
+   "Petr Nikrityuk",
+   "Xuehua Zhang"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Mohammadhossein Golchin",
+  "pdf_url": "http://arxiv.org/pdf/2611.13063",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-09",
+  "tags": [
+   "cfd",
+   "chemical-engineering"
+  ],
+  "title": "Numerical Investigations on Bitumen Liberation from Oil Sands Lump",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13536": {
+  "abstract": "Catalysis underpins chemical manufacturing, yet knowledge for catalyst design remains dispersed across experimental observations, computational data and catalysis subdisciplines. To overcome this challenge, we present Composable Catalytic Intelligence (CatAI), a physics-grounded modular AI framework that learns 1.8 million structure-property relations and organizes them into 30 physicochemical encoders. This reusable intermediate layer enables task-specific models to guide catalyst discovery for targeted reactions and objectives. Across benchmark tasks, CatAI achieves a 7.8% lower task-averaged prediction error than the next-best models. In experimental validation, CatAI identified a new confined-passable pocket catalyst applicable in industrial homogeneous polymer synthesis with 9 times the activity of the commercial benchmark. In parallel, it guided autonomous closed-loop optimization of a highly active Cu-based geminal-atom photocatalyst for C-O coupling reactions surpassing the traditional Ni-based systems. This approach connects property-level data to catalytic objectives, supporting physicochemical knowledge reuse across mechanistically distinct systems through computational screening and iterative model-experiment feedback.",
+  "authors": [
+   "Wentao Li",
+   "Qilong Cai",
+   "Qi Lei",
+   "Jinxing Chen",
+   "Ruixuan Chen",
+   "Jiangjie Qiu",
+   "Botian Wang",
+   "Kai Zhao",
+   "Honghao Chen",
+   "Leyi Zhao",
+   "Zemeng Wang",
+   "Yijun Li",
+   "Jun Yin",
+   "Fangfang Li",
+   "Hongxuan Liu",
+   "Yingdong Lu",
+   "Yawen Ouyang",
+   "Manu Suvarna",
+   "Wei-Ying Ma",
+   "Ya-Qin Zhang",
+   "Kostya S. Novoselov",
+   "Hao Zhou",
+   "Jiong Lu",
+   "Xiaonan Wang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "29 pages, 8 figures",
+  "first_author": "Wentao Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.13536",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [
+   "catalysis",
+   "catalyst-design",
+   "photocatalysis"
+  ],
+  "title": "Adaptive catalyst discovery emerges from composable scientific intelligence",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-11-10"
+ },
  "2611.14374": {
   "abstract": "Start-ups and grade changes remain largely operator-driven, while developing and maintaining dynamic models for model-based control requires substantial engineering effort. Hybrid Offline Learning and Online Optimisation (HOFLON) uses one-step offline reinforcement learning to select actions from historical transition data. In its original implementation, the online objective combines the predicted return from a tree-ensemble critic with an adversarial-autoencoder (AAE) penalty for unfamiliar state-action pairs. We examine the effect of this penalty and replace the critic and AAE with a sparse variational Gaussian-process (sGP) critic. Actions maximise $μ- κσ$, an uncertainty-adjusted estimate of the return from one action followed by the historical operating practice. On the HOFLON polymerisation-reactor benchmark, removing the AAE from HOFLON led to 4 failed start-ups in 15 runs over five critics. At its published weight, the variation in the AAE penalty is four orders of magnitude smaller than the variation in the tree-ensemble critic. Nevertheless, it changes actions when the predicted returns of competing candidates are nearly equal, and paired runs with and without the penalty diverged from the first move. With a Matérn-5/2 sGP critic, $κ= 0$ led to failure in 13 of 15 runs, whereas with $κ= 3$ none of 15 runs (five critics, three noise realisations) failed. The median and lowest returns were 13,464 and 13,398 (HOFLON: 13,393 and 12,411). A squared-exponential sGP critic with learned inducing inputs needed $κ\\geq 3$ to remain within the empirical data support in steady state, and then settled with a temperature offset of 2.0 K.",
   "authors": [
@@ -481,5 +586,92 @@
    "Uncertainty Quantification & Bayesian Methods"
   ],
   "updated": "2026-11-10"
+ },
+ "2611.15939": {
+  "abstract": "Modern machine learning potentials (MLPs) enable large-scale atomistic simulations at unprecedented accuracy. The incorporation of explicit physical interactions such as long-range electrostatics has continuously broadened their applicability to increasingly complex systems in chemistry and materials science. Extending MLPs to electrochemistry and electrocatalysis, however, is still challenging as it requires the consideration of electrode potentials and electric fields in the atomic interactions. Such approaches have emerged only recently, and although the field is evolving rapidly, further conceptual advances are still needed for carrying out reliable simulations at finite temperature under applied potential. In this review, we provide a comprehensive overview about recent progress in the atomistic simulation of electrified interfaces using MLPs. Current developments fall into three different categories. The first comprises linear response models that describe polarisation, polarisability, and Born effective charges, extending conventional MLPs to finite electric fields. The second includes methods that directly learn a field-dependent potential energy surface. The third consists of a series of hybrid approaches combining classical models with machine learning. Although still under active development, these methods represent a major step toward more realistic simulations approaching the quality of electronic structure calculations. Finally, we discuss open challenges and possible future directions for advancing MLP-based simulations aiming for a bottom-up understanding of atomistic processes at electrified interfaces.",
+  "authors": [
+   "Marialore Sulpizi",
+   "Jörg Behler"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 2 figures",
+  "first_author": "Marialore Sulpizi",
+  "pdf_url": "http://arxiv.org/pdf/2611.15939",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-11",
+  "tags": [
+   "electrocatalysis"
+  ],
+  "title": "Atomistic simulations of electrochemical systems with machine learning potentials",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.17067": {
+  "abstract": "System thermal-hydraulics codes such as the System Analysis Module (SAM) close turbulence on coarse meshes with algebraic zero-equation mixing-length models. These models cannot represent the non-equilibrium turbulence, flow separation, and large-scale recirculation of open-cavity advanced reactors. We develop an invariant neural-network eddy-viscosity closure for SAM and apply it to the Molten Salt Fast Reactor (MSFR). The closure predicts the turbulent kinetic energy and timescale of each element from the flow and geometry of its neighbors, without solving turbulence transport equations. The resulting non-negative eddy viscosity enters the implicit diffusive operator, which keeps the momentum equations well conditioned. We prove that the closure is exactly invariant to translation, Galilean boost, rotation, reflection, and neighbor ordering. A network trained on high-order Nek5000 fields sees a different feature distribution on the coarse SAM mesh. We remove this covariate shift by iteratively retraining the network on SAM flow states against fixed Nek5000 targets. For a held-out steady state, the coupled closure reproduces the single recirculation cell and eddy-viscosity plume of the Nek5000 reference. In a 120 s pump-coastdown transient, it halves the velocity error of the mixing-length model, from 37.6% to 17.7%, and matches the Nek5000 eddy viscosity with a time-averaged relative error of 12%. The remaining velocity error comes from the coarse mesh. The coupled transient takes about 0.2 core-hours, compared with about 330 core-hours for Nek5000. The results show that the closure can recover two-equation RANS turbulence behavior in a coarse-mesh system code at a small fraction of the CFD cost.",
+  "authors": [
+   "Zaid Abulawi",
+   "William Oliveira",
+   "Akzhol Almukhametov",
+   "Jun Fang",
+   "Ling Zou",
+   "Rui Hu",
+   "Stefano Lorenzi",
+   "Yang Liu"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.LG"
+  ],
+  "comment": "42 pages, 12 figures",
+  "first_author": "Zaid Abulawi",
+  "pdf_url": "http://arxiv.org/pdf/2611.17067",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-12",
+  "tags": [
+   "cfd",
+   "turbulence-modeling"
+  ],
+  "title": "An Invariant Neural-Network Eddy-Viscosity Closure with Iterative Solver Coupling for Molten Salt Fast Reactor Thermal-Hydraulics",
+  "topics": [
+   "Computational Fluid Dynamics & Multiphase Flow"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.20706": {
+  "abstract": "Dissociative water adsorption is a key step in heterogeneous and electrochemical catalysis, but on finite Ni nanosystems the OH$^*$ and H$^*$ fragments can occupy many combinations of surface sites, making exhaustive density functional theory (DFT) screening impractical. We introduce a graph neural network (GNN) framework with an adsorbate-free representation: candidate O- and H-binding sites are defined by sets of Ni atoms (\\textit{anchors}), and each site pair is encoded as a graph constructed solely from these anchors and their local Ni environment. Using only MACE-relaxed bare Ni geometries as input, separate GNNs predict the DFT-reference adsorption energies of OH$^*$+H$^*$ configurations and whether the proposed binding sites would be retained upon DFT relaxation, eliminating the need to construct or relax adsorbates during screening. Trained across Ni nanoclusters and Ni(111)/Ni(100) surfaces, the energy model achieves a mean absolute error of 0.031 eV on the internal validation set and demonstrates transferability to unseen Ni$_{55}$, Ni$_{91}$, and Ni$_{130}$ clusters and larger surface cells, particularly for relative-energy ranking, although quantitative accuracy varies across systems. These independent tests also support the retention classifier's use as a conservative filter for selecting configurations likely to preserve their proposed binding sites. Application to Ni nanoparticles containing up to $\\sim$3000 atoms identifies favorable co-adsorption motifs and shows that lower O-site coordination generally stabilizes the dissociated state, whereas H-site coordination has a weaker influence. The framework thus offers an efficient route to screening adsorption energetics, with potential extensions to other metals and adsorbate combinations.",
+  "authors": [
+   "Marta Monti",
+   "Alec Noppe",
+   "Olivier Lugier",
+   "Maria B. Brands",
+   "Bernd Ensing"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Marta Monti",
+  "pdf_url": "http://arxiv.org/pdf/2611.20706",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-16",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "catalysis",
+   "dft",
+   "electrochemical-systems",
+   "graph-neural-networks"
+  ],
+  "title": "Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks",
+  "topics": [
+   "Catalysis & Materials for Chemical Engineering"
+  ],
+  "updated": "2026-11-16"
  }
 }

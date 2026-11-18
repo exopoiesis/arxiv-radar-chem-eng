@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02226.html">Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="electrolysis-360d.html">electrolysis</a></div></td>
