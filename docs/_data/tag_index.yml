@@ -51,10 +51,6 @@
   count: 2
   total: 40
   group: architectures
-- name: heat-transfer
-  count: 2
-  total: 52
-  group: transport
 - name: life-cycle-assessment
   count: 2
   total: 6
@@ -75,10 +71,6 @@
   count: 1
   total: 29
   group: reactions
-- name: battery-modeling
-  count: 1
-  total: 33
-  group: energy
 - name: catalyst-design
   count: 1
   total: 35
@@ -91,6 +83,10 @@
   count: 1
   total: 23
   group: energy
+- name: heat-transfer
+  count: 1
+  total: 52
+  group: transport
 - name: knowledge-distillation
   count: 1
   total: 60
@@ -107,10 +103,6 @@
   count: 1
   total: 37
   group: separations
-- name: molecular-dynamics
-  count: 1
-  total: 72
-  group: materials
 - name: photocatalysis
   count: 1
   total: 10
@@ -135,10 +127,6 @@
   count: 1
   total: 69
   group: separations
-- name: system-identification
-  count: 1
-  total: 31
-  group: modeling
 - name: transport-phenomena
   count: 1
   total: 12
@@ -175,6 +163,10 @@
   count: 0
   total: 18
   group: monitoring
+- name: battery-modeling
+  count: 0
+  total: 33
+  group: energy
 - name: bubble-column
   count: 0
   total: 2
@@ -267,6 +259,10 @@
   count: 0
   total: 4
   group: reactions
+- name: molecular-dynamics
+  count: 0
+  total: 72
+  group: materials
 - name: molecular-simulation
   count: 0
   total: 5
@@ -362,6 +358,10 @@
 - name: surrogate-modeling
   count: 0
   total: 95
+  group: modeling
+- name: system-identification
+  count: 0
+  total: 31
   group: modeling
 - name: techno-economic-analysis
   count: 0
