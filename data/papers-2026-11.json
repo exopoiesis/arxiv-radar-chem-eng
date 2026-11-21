@@ -673,5 +673,30 @@
    "Catalysis & Materials for Chemical Engineering"
   ],
   "updated": "2026-11-16"
+ },
+ "2611.22393": {
+  "abstract": "To address the long computation time required by stochastic solvers, which are applied in the coupled neutronics-thermal hydraulics (N-TH) calculations, a faster N-TH coupling framework is developed based on the multiphysics coupling library preCICE, which enables data exchange between OpenMOC and OpenFOAM. As an alternative to commonly used stochastic solvers, like OpenMC, OpenMOC is used as a neutronics solver providing much faster steady-state solution in a Picard iteration. To realize this coupling strategy, OpenMC is used for an initial one-time computation cost for multi-group cross sections data generation that is used throughout OpenMOC calculations. A preCICE library adapter for OpenMOC is also developed, allowing data exchange between neutronic power distributions and thermal hydraulic temperature fields. Our proposed coupling framework is validated through simulations of a simplified 2 times 2 fuel assembly, and a quartered geometry of 17 times 17 fuel assembly. The comparison shows good agreement with established referenced solutions, highlighting our proposed coupling framework for the steady-state N-TH coupling at a fraction of the time required by stochastic solver codes. This advantages could be extended for future applications where fast approximated solutions are required to address the change of N-TH coupling due to small parametric changes like in digital twin of nuclear reactor.",
+  "authors": [
+   "Seth S. W. Choo",
+   "L. K. Ang",
+   "Zhe Chuan Tan"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "26 pages",
+  "first_author": "Seth S. W. Choo",
+  "pdf_url": "http://arxiv.org/pdf/2611.22393",
+  "primary_category": "physics.app-ph",
+  "published": "2026-11-17",
+  "tags": [
+   "digital-twin"
+  ],
+  "title": "Development and Validation of a preCICE Based OpenMOC OpenFOAM Coupling Framework for Nuclear Reactor Analysis",
+  "topics": [
+   "Digital Twins & Process Monitoring"
+  ],
+  "updated": "2026-11-17"
  }
 }

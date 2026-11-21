@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gaussian-process — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <strong>30d</strong> <a href="gaussian-process-90d.html">90d</a> <a href="gaussian-process-360d.html">360d</a> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09143.html">Spectral Characterizations, Harmonic Analysis, and Phase Transitions in 2-Nice and $k$-Nice Recurrence</a></div></td>
 <td>Dibyendu De</td>
 <td><a href="http://arxiv.org/abs/2611.09143">2611.09143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
-<td>Bruno S. Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,21 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-20._
+_Updated 2026-11-21._
 
-**1283** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1284** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22393.html">Development and Validation of a preCICE Based OpenMOC OpenFOAM Coupling Framework for Nuclear Reactor Analysis</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a></div></td>
+<td>Seth S. W. Choo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22393">2611.22393</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-11-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26502.html">Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mary K Chessey et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26502">2610.26502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26741.html">System Identification for Nonlinear Stochastic State-Space Models Using Ensemble Kalman Inversion with Application to Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="tag/battery-modeling-30d.html">battery-modeling</a> · <a href="tag/system-identification-30d.html">system-identification</a></div></td>
-<td>Farzaneh Barat et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26741">2610.26741</a></td>
 </tr>
 </tbody></table>

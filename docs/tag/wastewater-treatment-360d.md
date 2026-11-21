@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>wastewater-treatment — 360d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="wastewater-treatment-7d.html">7d</a> <a href="wastewater-treatment-30d.html">30d</a> <a href="wastewater-treatment-90d.html">90d</a> <strong>360d</strong> <a href="wastewater-treatment-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06148.html">AIMNET: An IoT-Empowered Digital Twin for Continuous Gas Emission Monitoring and Early Hazard Detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="digital-twin-360d.html">digital-twin</a></div></td>
 <td>Zifan Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06148">2512.06148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20723.html">Multivariate Functional Data Analysis Uncovers Behavioral Fingerprints in Invertebrate Locomotor Response to Micropollutants</a></div></td>
-<td>George Ruck et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20723">2511.20723</a></td>
 </tr>
 </tbody></table>
