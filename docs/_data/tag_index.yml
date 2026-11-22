@@ -3,10 +3,6 @@
   count: 5
   total: 170
   group: reactions
-- name: bayesian-inference
-  count: 4
-  total: 67
-  group: methods
 - name: cfd
   count: 4
   total: 99
@@ -15,6 +11,10 @@
   count: 4
   total: 131
   group: architectures
+- name: bayesian-inference
+  count: 3
+  total: 67
+  group: methods
 - name: chemical-engineering
   count: 3
   total: 122
@@ -83,6 +83,10 @@
   count: 1
   total: 23
   group: energy
+- name: flow-reactors
+  count: 1
+  total: 7
+  group: reactions
 - name: gaussian-process
   count: 1
   total: 65
@@ -131,10 +135,18 @@
   count: 1
   total: 69
   group: separations
+- name: system-identification
+  count: 1
+  total: 32
+  group: modeling
 - name: transport-phenomena
   count: 1
   total: 12
   group: transport
+- name: uncertainty-quantification
+  count: 1
+  total: 60
+  group: methods
 - name: wastewater-treatment
   count: 1
   total: 22
@@ -210,10 +222,6 @@
 - name: fixed-bed-reactors
   count: 0
   total: 2
-  group: reactions
-- name: flow-reactors
-  count: 0
-  total: 6
   group: reactions
 - name: fuel-cells
   count: 0
@@ -355,10 +363,6 @@
   count: 0
   total: 95
   group: modeling
-- name: system-identification
-  count: 0
-  total: 31
-  group: modeling
 - name: techno-economic-analysis
   count: 0
   total: 3
@@ -367,7 +371,3 @@
   count: 0
   total: 20
   group: architectures
-- name: uncertainty-quantification
-  count: 0
-  total: 59
-  group: methods

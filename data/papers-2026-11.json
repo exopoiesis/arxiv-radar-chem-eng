@@ -642,6 +642,53 @@
   ],
   "updated": "2026-11-13"
  },
+ "2611.17548": {
+  "abstract": "Modeling chemical reaction mechanisms is central to understanding and predicting chemical reactivity. We present Electron Bookkeeping Transformer (Bookkeeper), a data-driven model that simulates chemical reactions at mechanistic resolution by generating electron movement trajectories. Following the symbolic arrow-pushing formalism in chemistry, Bookkeeper explicitly models each electron as a token and predicts its movement sequentially, ensuring mass and charge conservation during both elementary step and reaction pathway predictions by construction. On reaction-size-balanced test sets, Bookkeeper improves top-1 elementary-step accuracy, top-1 pathway rank accuracy, and top-1 to top-5 product prediction accuracy over FlowER. On the entire test set, it achieves higher elementary-step top-1 accuracy but lower pathway accuracy than FlowER. Bookkeeper also samples elementary steps substantially faster, adapts to several unseen reaction types with minimal fine-tuning, and generates candidate chemical transformations for further screening. These results suggest that explicit electron bookkeeping is a useful framework for virtually screening chemical reactions across diverse reagents, validating computer-assisted synthesis planning predictions, and providing mechanistic interpretations of reactivity.",
+  "authors": [
+   "Sarah Cao",
+   "Shitong Luo",
+   "Connor W. Coley"
+  ],
+  "categories": [
+   "cs.CE",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Sarah Cao",
+  "pdf_url": "http://arxiv.org/pdf/2611.17548",
+  "primary_category": "cs.CE",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.19445": {
+  "abstract": "Population balance models (PBMs) are used to describe a diverse range of processes that have a distribution over one or more intrinsic properties. However, implementing PBMs for a new application often requires developing and verifying application-specific code for numerical solution and analysis. In this work, we present PopulationBalanceModels.jl, an open-source Julia package designed to make PBMs easy to implement. Users construct models from individual physical terms and select the numerical methods separately. Common solver and observation interfaces allow the same model to be used for simulation, Bayesian parameter estimation, and uncertainty quantification. The package currently supports various model types such as coupled and/or multi-dimensional PBMs, coupling of a PBM to a bulk mass/energy balance, and transport in an axially-dispersed plug flow reactor. While a broad range of physical terms and corresponding numerical methods are already implemented, the package is designed to support extensibility in both aspects, enabling users to incorporate new mechanisms and numerical methods into existing workflows.",
+  "authors": [
+   "Pavan K. Inguva"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "26 pages, 4 figures",
+  "first_author": "Pavan K. Inguva",
+  "pdf_url": "http://arxiv.org/pdf/2611.19445",
+  "primary_category": "cs.CE",
+  "published": "2026-11-14",
+  "tags": [
+   "flow-reactors",
+   "system-identification",
+   "uncertainty-quantification"
+  ],
+  "title": "PopulationBalanceModels.jl: An Extensible Framework for Deploying Population Balance Models",
+  "topics": [
+   "Reaction Engineering & Kinetics"
+  ],
+  "updated": "2026-11-14"
+ },
  "2611.20706": {
   "abstract": "Dissociative water adsorption is a key step in heterogeneous and electrochemical catalysis, but on finite Ni nanosystems the OH$^*$ and H$^*$ fragments can occupy many combinations of surface sites, making exhaustive density functional theory (DFT) screening impractical. We introduce a graph neural network (GNN) framework with an adsorbate-free representation: candidate O- and H-binding sites are defined by sets of Ni atoms (\\textit{anchors}), and each site pair is encoded as a graph constructed solely from these anchors and their local Ni environment. Using only MACE-relaxed bare Ni geometries as input, separate GNNs predict the DFT-reference adsorption energies of OH$^*$+H$^*$ configurations and whether the proposed binding sites would be retained upon DFT relaxation, eliminating the need to construct or relax adsorbates during screening. Trained across Ni nanoclusters and Ni(111)/Ni(100) surfaces, the energy model achieves a mean absolute error of 0.031 eV on the internal validation set and demonstrates transferability to unseen Ni$_{55}$, Ni$_{91}$, and Ni$_{130}$ clusters and larger surface cells, particularly for relative-energy ranking, although quantitative accuracy varies across systems. These independent tests also support the retention classifier's use as a conservative filter for selecting configurations likely to preserve their proposed binding sites. Application to Ni nanoparticles containing up to $\\sim$3000 atoms identifies favorable co-adsorption motifs and shows that lower O-site coordination generally stabilizes the dissociated state, whereas H-site coordination has a weaker influence. The framework thus offers an efficient route to screening adsorption energetics, with potential extensions to other metals and adsorbate combinations.",
   "authors": [

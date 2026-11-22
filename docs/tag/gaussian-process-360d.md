@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gaussian-process — 360d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <a href="gaussian-process-90d.html">90d</a> <strong>360d</strong> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01668.html">Dynamic Log-Gaussian Process Control Barrier Function for Safe Robotic Navigation in Dynamic Environments</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
 <td>Xin Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01668">2512.01668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21566.html">A decoupled alignment kernel for peptide membrane permeability predictions</a></div></td>
-<td>Ali Amirahmadi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21566">2511.21566</a></td>
 </tr>
 </tbody></table>

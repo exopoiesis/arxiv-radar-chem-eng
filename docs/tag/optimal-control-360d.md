@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>optimal-control — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="optimal-control-7d.html">7d</a> <a href="optimal-control-30d.html">30d</a> <a href="optimal-control-90d.html">90d</a> <strong>360d</strong> <a href="optimal-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03679.html">Accounting for Optimal Control in the Sizing of Isolated Hybrid Renewable Energy Systems Using Imitation Learning</a></div><div class="paper-tags"><a href="energy-storage-360d.html">energy-storage</a> · <a href="energy-systems-360d.html">energy-systems</a> · <a href="mpc-360d.html">mpc</a></div></td>
 <td>Simon Halvdansson et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03679">2601.03679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20969.html">Maximization of Supercapacitor Storage via Topology Optimization of Electrode Structures</a></div><div class="paper-tags"><a href="electrochemical-systems-360d.html">electrochemical-systems</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
-<td>Jiajie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20969">2511.20969</a></td>
 </tr>
 </tbody></table>

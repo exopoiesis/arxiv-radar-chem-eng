@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,11 +428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22938.html">AQCat25: Unlocking spin-aware, high-fidelity machine learning potentials for heterogeneous catalysis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="heterogeneous-catalysis-360d.html">heterogeneous-catalysis</a></div></td>
 <td>Omar Allam et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22938">2510.22938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25798.html">Scalable Reactive Atomistic Dynamics with GAIA</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="chemical-engineering-360d.html">chemical-engineering</a></div></td>
-<td>Suhwan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25798">2509.25798</a></td>
 </tr>
 </tbody></table>

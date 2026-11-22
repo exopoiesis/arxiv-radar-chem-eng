@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04711.html">Robust pore-resolved CFD through porous monoliths reconstructed by micro-computed tomography: From digitization to flow prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="digital-twin-360d.html">digital-twin</a> · <a href="energy-storage-360d.html">energy-storage</a></div></td>
 <td>Olivier Guévremont et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04711">2408.04711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25798.html">Scalable Reactive Atomistic Dynamics with GAIA</a></div><div class="paper-tags"><a href="chemical-engineering-360d.html">chemical-engineering</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Suhwan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25798">2509.25798</a></td>
 </tr>
 </tbody></table>

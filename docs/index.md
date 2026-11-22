@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-21._
+_Updated 2026-11-22._
 
-**1284** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1286** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -27,10 +27,22 @@ _Updated 2026-11-21._
 <td><a href="http://arxiv.org/abs/2611.20706">2611.20706</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.19445.html">PopulationBalanceModels.jl: An Extensible Framework for Deploying Population Balance Models</a></div><div class="paper-tags"><a href="tag/flow-reactors-30d.html">flow-reactors</a> · <a href="tag/system-identification-30d.html">system-identification</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Pavan K. Inguva</td>
+<td><a href="http://arxiv.org/abs/2611.19445">2611.19445</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17067.html">An Invariant Neural-Network Eddy-Viscosity Closure with Iterative Solver Coupling for Molten Salt Fast Reactor Thermal-Hydraulics</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
 <td>Zaid Abulawi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17067">2611.17067</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17548.html">Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer</a></div></td>
+<td>Sarah Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17548">2611.17548</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -181,17 +193,5 @@ _Updated 2026-11-21._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
 <td>Bruno S. Lopes et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Pablo Luna Falcon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26502.html">Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten</a></div><div class="paper-tags"><a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Mary K Chessey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26502">2610.26502</a></td>
 </tr>
 </tbody></table>

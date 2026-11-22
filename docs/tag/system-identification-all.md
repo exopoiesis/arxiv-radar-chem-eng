@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>system-identification — all</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="system-identification-7d.html">7d</a> <a href="system-identification-30d.html">30d</a> <a href="system-identification-90d.html">90d</a> <a href="system-identification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19445.html">PopulationBalanceModels.jl: An Extensible Framework for Deploying Population Balance Models</a></div><div class="paper-tags"><a href="flow-reactors-all.html">flow-reactors</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Pavan K. Inguva</td>
+<td><a href="http://arxiv.org/abs/2611.19445">2611.19445</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26741.html">System Identification for Nonlinear Stochastic State-Space Models Using Ensemble Kalman Inversion with Application to Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-modeling-all.html">battery-modeling</a></div></td>
