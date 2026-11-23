@@ -5,15 +5,27 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-22._
+_Updated 2026-11-23._
 
-**1286** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1288** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a></div></td>
+<td>Changzhi Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td>Daiki Shintani et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23873">2611.23873</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22393.html">Development and Validation of a preCICE Based OpenMOC OpenFOAM Coupling Framework for Nuclear Reactor Analysis</a></div><div class="paper-tags"><a href="tag/digital-twin-30d.html">digital-twin</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-11-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31431.html">Dimension-free regimes for unadjusted Langevin in ridge-separable models: A subspace robust Wasserstein analysis</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Yuansi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31431">2610.31431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29953.html">A Plantwide Simulation Library for Control-Oriented Design: Analytical and Data-driven Use Cases</a></div></td>
-<td>Kyle Territo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29953">2610.29953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Bruno S. Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
 </tr>
 </tbody></table>

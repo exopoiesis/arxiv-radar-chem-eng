@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="dft-90d.html">dft</a> · <a href="graph-neural-networks-90d.html">graph-neural-networks</a></div></td>
+<td>Changzhi Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="dft-90d.html">dft</a> · <a href="electrochemical-systems-90d.html">electrochemical-systems</a> · <a href="graph-neural-networks-90d.html">graph-neural-networks</a></div></td>
 <td>Marta Monti et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Yuki K. Wakabayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23420.html">Systematic Bias in Green Patent Classification: Silent Green and False Green</a></div><div class="paper-tags"><a href="large-language-models-90d.html">large-language-models</a> · <a href="separations-90d.html">separations</a></div></td>
-<td>Hamid Bekamiri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23420">2608.23420</a></td>
 </tr>
 </tbody></table>
