@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28125.html">Using potential derivatives to reduce the cost of rectangular collocation: a general and versatile approach for computational vibrational spectroscopy without a potential energy surface</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Moksh Bhateja et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28125">2611.28125</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="electrolysis-90d.html">electrolysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Diptendu Roy et al.</td>
@@ -26,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22585.html">TWIG: A Time-Causal Wavelet Operator for Autoregressive Forecasting on Irregular Graphs</a></div></td>
 <td>Subashree Venkatasubramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22585">2609.22585</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="large-language-models-90d.html">large-language-models</a></div></td>
-<td>Yuki K. Wakabayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
 </tr>
 </tbody></table>

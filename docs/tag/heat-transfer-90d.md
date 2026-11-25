@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>heat-transfer — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="heat-transfer-7d.html">7d</a> <a href="heat-transfer-30d.html">30d</a> <strong>90d</strong> <a href="heat-transfer-360d.html">360d</a> <a href="heat-transfer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28658.html">General model for shear stress and surface pressure distributions for flow over spheres</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Bryce Daniels et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28658">2609.28658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06203.html">Beyond Electrons: A Theoretical Framework for Near-Field Radiative Thermal Computing and Neural-Network-Inspired Processing</a></div></td>
-<td>Hexiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06203">2608.06203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Kaku E. Eduku et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26064">2608.26064</a></td>
 </tr>
 </tbody></table>

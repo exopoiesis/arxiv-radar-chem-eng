@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>energy-storage — 360d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="energy-storage-7d.html">7d</a> <a href="energy-storage-30d.html">30d</a> <a href="energy-storage-90d.html">90d</a> <strong>360d</strong> <a href="energy-storage-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17612.html">Battery Energy Storage Sizing in PV Ramp-Rate Smoothing using Constraint-Aware Reinforcement Learning-Based Controller</a></div></td>
+<td>Arash Omidi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17612">2611.17612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12621.html">Reshaping Checkpoint-Induced Power Variations Through Inference Workload Scheduling</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>
+<td>Yu Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12621">2611.12621</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04640.html">TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration</a></div><div class="paper-tags"><a href="large-language-models-360d.html">large-language-models</a></div></td>

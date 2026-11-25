@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gaussian-process — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <a href="gaussian-process-90d.html">90d</a> <strong>360d</strong> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22013.html">Weight-Space Programming for Materials Science</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Sk Md Ahnaf Akif Alvi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22013">2611.22013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22038.html">GP--RL--MPC: Uncertainty-Aware Reinforcement Learning-Augmented Model Predictive Control with Gaussian Process Postdecision State-Value Functions</a></div><div class="paper-tags"><a href="mpc-360d.html">mpc</a></div></td>
+<td>Jon Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22038">2611.22038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21249.html">Heteroscedastic Gaussian Process Q-learning for Sample Efficient Experimentation</a></div></td>
+<td>Maximilian Bloor et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21249">2611.21249</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09143.html">Spectral Characterizations, Harmonic Analysis, and Phase Transitions in 2-Nice and $k$-Nice Recurrence</a></div></td>

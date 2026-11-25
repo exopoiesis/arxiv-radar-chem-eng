@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-24._
+_Updated 2026-11-25._
 
-**1288** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1308** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,16 +15,82 @@ _Updated 2026-11-24._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32261.html">A quantum-inspired spiking variational autoencoder for robust anomaly detection at the LHC</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Dean Brand et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32261">2611.32261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.30828.html">Real-time optimization with online learning for pressure swing adsorption</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/optimal-control-30d.html">optimal-control</a> · <a href="tag/pressure-swing-adsorption-30d.html">pressure-swing-adsorption</a></div></td>
+<td>Carine de Menezes Rebello et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30828">2611.30828</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25607.html">PSTO: A PDE-structured transport operator with shared implicit updates for multiscale CDR systems</a></div><div class="paper-tags"><a href="tag/reaction-kinetics-30d.html">reaction-kinetics</a></div></td>
+<td>Kaiwen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25607">2611.25607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.26966.html">Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents</a></div><div class="paper-tags"><a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Deepak Waghmare et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26966">2611.26966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27696.html">Comparative Performance of Machine Learning Architectures for Fault Detection and Diagnosis in Chemical Processes</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/fault-detection-30d.html">fault-detection</a></div></td>
+<td>Rayane Ammar Khodja et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27696">2611.27696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25465.html">DeoPC: Data-Enabled Output-Feedback Predictive Control for State Regulation</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Jingyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25465">2611.25465</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25494.html">Koopman Lifting for Linear Encrypted Control of Nonlinear Systems: Applications to LQR and MPC</a></div><div class="paper-tags"><a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Uta Kawakami et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25494">2611.25494</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a></div></td>
 <td>Changzhi Ai et al.</td>
 <td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25969.html">PWLNet: A Framework for Linearized Neural Surrogates in Nonlinear Process Optimization</a></div></td>
+<td>Sunoy Sanyal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25969">2611.25969</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/dft-30d.html">dft</a></div></td>
 <td>Daiki Shintani et al.</td>
 <td><a href="http://arxiv.org/abs/2611.23873">2611.23873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.28125.html">Using potential derivatives to reduce the cost of rectangular collocation: a general and versatile approach for computational vibrational spectroscopy without a potential energy surface</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Moksh Bhateja et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28125">2611.28125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22013.html">Weight-Space Programming for Materials Science</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Sk Md Ahnaf Akif Alvi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22013">2611.22013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22038.html">GP--RL--MPC: Uncertainty-Aware Reinforcement Learning-Augmented Model Predictive Control with Gaussian Process Postdecision State-Value Functions</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Jon Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22038">2611.22038</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-17</td>
@@ -39,6 +105,12 @@ _Updated 2026-11-24._
 <td><a href="http://arxiv.org/abs/2611.20706">2611.20706</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21249.html">Heteroscedastic Gaussian Process Q-learning for Sample Efficient Experimentation</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
+<td>Maximilian Bloor et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21249">2611.21249</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.19445.html">PopulationBalanceModels.jl: An Extensible Framework for Deploying Population Balance Models</a></div><div class="paper-tags"><a href="tag/flow-reactors-30d.html">flow-reactors</a> · <a href="tag/system-identification-30d.html">system-identification</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Pavan K. Inguva</td>
@@ -49,6 +121,36 @@ _Updated 2026-11-24._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17067.html">An Invariant Neural-Network Eddy-Viscosity Closure with Iterative Solver Coupling for Molten Salt Fast Reactor Thermal-Hydraulics</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
 <td>Zaid Abulawi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17067">2611.17067</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17612.html">Battery Energy Storage Sizing in PV Ramp-Rate Smoothing using Constraint-Aware Reinforcement Learning-Based Controller</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
+<td>Arash Omidi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17612">2611.17612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.18140.html">Large Language Model-Empowered Intelligent Agent for Adaptive Fast-Charging Control of Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/energy-systems-30d.html">energy-systems</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Joey Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18140">2611.18140</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16535.html">Bulk CMSX-4 Single-Crystal Builds via Laser-Directed Energy Deposition: Epitaxial Stability and Microstructure Evolution</a></div><div class="paper-tags"><a href="tag/crystallization-30d.html">crystallization</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Divya Nalajala et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16535">2611.16535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16587.html">Small-angle scattering reveals heterogeneous nanoparticle size distributions through Bayesian inference</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Songhao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16587">2611.16587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16699.html">Energy system device sizing under closed-loop operation with imperfect forecasts</a></div><div class="paper-tags"><a href="tag/energy-systems-30d.html">energy-systems</a> · <a href="tag/mpc-30d.html">mpc</a></div></td>
+<td>Cara Koepele et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16699">2611.16699</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -82,116 +184,14 @@ _Updated 2026-11-24._
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12621.html">Reshaping Checkpoint-Induced Power Variations Through Inference Workload Scheduling</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
+<td>Yu Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12621">2611.12621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13063.html">Numerical Investigations on Bitumen Liberation from Oil Sands Lump</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
 <td>Mohammadhossein Golchin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13063">2611.13063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12958.html">Embodied Science Agents: Making Embodied Experimental Design Learnable</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/wastewater-treatment-30d.html">wastewater-treatment</a></div></td>
-<td>Yihang Che et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12958">2611.12958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09141.html">Circuit Theory-Informed AI for Condition Monitoring in Power Electronics</a></div><div class="paper-tags"><a href="tag/process-monitoring-30d.html">process-monitoring</a></div></td>
-<td>Yubo Song et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09141">2611.09141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09143.html">Spectral Characterizations, Harmonic Analysis, and Phase Transitions in 2-Nice and $k$-Nice Recurrence</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a></div></td>
-<td>Dibyendu De</td>
-<td><a href="http://arxiv.org/abs/2611.09143">2611.09143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09880.html">ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/metal-organic-frameworks-30d.html">metal-organic-frameworks</a> · <a href="tag/separations-30d.html">separations</a> · <a href="tag/zeolites-30d.html">zeolites</a></div></td>
-<td>Aaron Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09880">2611.09880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.06194.html">Cross-Asset Knowledge Transfer for Early Fault Detection of Data-Scarce Assets Without Target Fault Data</a></div><div class="paper-tags"><a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
-<td>Zekai Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06194">2611.06194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="tag/process-simulation-30d.html">process-simulation</a></div></td>
-<td>Artur M. Schweidtmann</td>
-<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08461.html">Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems</a></div><div class="paper-tags"><a href="tag/distillation-30d.html">distillation</a> · <a href="tag/knowledge-distillation-30d.html">knowledge-distillation</a></div></td>
-<td>Aldana Al-Sulaiti et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08461">2611.08461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04117.html">Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing</a></div><div class="paper-tags"><a href="tag/life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="tag/process-simulation-30d.html">process-simulation</a></div></td>
-<td>Elizabeth Aigaje-Espinosa et al.</td>
-<td><a href="http://arxiv.org/abs/2611.04117">2611.04117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04640.html">TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Andrea Pomarico et al.</td>
-<td><a href="http://arxiv.org/abs/2611.04640">2611.04640</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05179.html">OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes</a></div><div class="paper-tags"><a href="tag/chemical-engineering-30d.html">chemical-engineering</a> · <a href="tag/distillation-30d.html">distillation</a> · <a href="tag/fault-detection-30d.html">fault-detection</a> · <a href="tag/large-language-models-30d.html">large-language-models</a> · <a href="tag/process-monitoring-30d.html">process-monitoring</a> · <a href="tag/reaction-kinetics-30d.html">reaction-kinetics</a></div></td>
-<td>Javal Vyas et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05179">2611.05179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05508.html">Generalized Disjunctive Programming with Derivative-Free Configuration Search</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/distillation-30d.html">distillation</a> · <a href="tag/process-design-30d.html">process-design</a></div></td>
-<td>Albert Joon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05508">2611.05508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05605.html">Transport along Local Annealing Paths: Wasserstein Geometry and Multimodal Sampling</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/mass-transfer-30d.html">mass-transfer</a></div></td>
-<td>Han Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05605">2611.05605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02340.html">On Stochastic Continuous-Time Linear System Identification for Adaptive Stabilization</a></div></td>
-<td>Reza Sadeghi Hafshejani et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02340">2611.02340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02800.html">A Legendre-Based Modified Extreme Learning Machine for Convection-Diffusion Equations: Steady-State, Continuous-Time, and Discrete-Time Formulations</a></div><div class="paper-tags"><a href="tag/physics-informed-ml-30d.html">physics-informed-ml</a> · <a href="tag/transport-phenomena-30d.html">transport-phenomena</a></div></td>
-<td>Gadade Navnath Ankush et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02800">2611.02800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.03210.html">CFD-driven symbolic regression of RANS transition models</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/heat-transfer-30d.html">heat-transfer</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
-<td>Louenas Zemmour et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03210">2611.03210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.03436.html">Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/energy-storage-30d.html">energy-storage</a></div></td>
-<td>Sina Mohammadi et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03436">2611.03436</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02226.html">Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/electrochemical-systems-30d.html">electrochemical-systems</a> · <a href="tag/electrolysis-30d.html">electrolysis</a></div></td>
-<td>Auronno Ovid Hussain et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02226">2611.02226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31431.html">Dimension-free regimes for unadjusted Langevin in ridge-separable models: A subspace robust Wasserstein analysis</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Yuansi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31431">2610.31431</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystallization — 90d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="crystallization-7d.html">7d</a> <a href="crystallization-30d.html">30d</a> <strong>90d</strong> <a href="crystallization-360d.html">360d</a> <a href="crystallization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16535.html">Bulk CMSX-4 Single-Crystal Builds via Laser-Directed Energy Deposition: Epitaxial Stability and Microstructure Evolution</a></div><div class="paper-tags"><a href="process-control-90d.html">process-control</a></div></td>
+<td>Divya Nalajala et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16535">2611.16535</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="gaussian-process-90d.html">gaussian-process</a> · <a href="large-language-models-90d.html">large-language-models</a> · <a href="metal-organic-frameworks-90d.html">metal-organic-frameworks</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>fault-detection — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="fault-detection-7d.html">7d</a> <a href="fault-detection-30d.html">30d</a> <strong>90d</strong> <a href="fault-detection-360d.html">360d</a> <a href="fault-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27696.html">Comparative Performance of Machine Learning Architectures for Fault Detection and Diagnosis in Chemical Processes</a></div><div class="paper-tags"><a href="chemical-engineering-90d.html">chemical-engineering</a></div></td>
+<td>Rayane Ammar Khodja et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27696">2611.27696</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06194.html">Cross-Asset Knowledge Transfer for Early Fault Detection of Data-Scarce Assets Without Target Fault Data</a></div><div class="paper-tags"><a href="process-control-90d.html">process-control</a></div></td>
