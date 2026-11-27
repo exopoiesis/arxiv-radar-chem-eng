@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>process-modeling — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="process-modeling-7d.html">7d</a> <a href="process-modeling-30d.html">30d</a> <a href="process-modeling-90d.html">90d</a> <strong>360d</strong> <a href="process-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12200.html">Integrating Macrostate Probability Distributions with Swing Adsorption Modeling for Binary/Ternary Gas Separation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="carbon-capture-360d.html">carbon-capture</a> · <a href="process-design-360d.html">process-design</a> · <a href="separations-360d.html">separations</a></div></td>
 <td>Sunghyun Yoon et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12200">2508.12200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01279.html">The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="gaussian-process-360d.html">gaussian-process</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
-<td>Yutong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01279">2512.01279</a></td>
 </tr>
 </tbody></table>

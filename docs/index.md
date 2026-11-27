@@ -5,9 +5,9 @@ title: "Chemical Engineering arxiv-radar"
 
 # Chemical Engineering arxiv-radar
 
-_Updated 2026-11-26._
+_Updated 2026-11-27._
 
-**1308** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**1311** ChemE-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -19,6 +19,12 @@ _Updated 2026-11-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32261.html">A quantum-inspired spiking variational autoencoder for robust anomaly detection at the LHC</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
 <td>Dean Brand et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32261">2611.32261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.33097.html">From dispersal to patrol: the extracellular matrix shapes an annealing-like search by Drosophila embryonic macrophages</a></div></td>
+<td>Nickolay Korabel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33097">2611.33097</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -76,9 +82,21 @@ _Updated 2026-11-26._
 </tr>
 <tr class="paper">
 <td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.24718.html">Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning</a></div><div class="paper-tags"><a href="tag/gaussian-process-30d.html">gaussian-process</a> · <a href="tag/process-control-30d.html">process-control</a></div></td>
+<td>Antonin Sulc</td>
+<td><a href="http://arxiv.org/abs/2611.24718">2611.24718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.28125.html">Using potential derivatives to reduce the cost of rectangular collocation: a general and versatile approach for computational vibrational spectroscopy without a potential energy surface</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Moksh Bhateja et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28125">2611.28125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.15584.html">AI4Plasma II: Geometry-Aware Surrogate Modeling for Variable Electrode Gap GEC Plasmas</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Hao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15584">2611.15584</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-17</td>
@@ -175,23 +193,5 @@ _Updated 2026-11-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14374.html">Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics</a></div></td>
 <td>Marco Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14374">2611.14374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12013.html">Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data</a></div><div class="paper-tags"><a href="tag/graph-neural-networks-30d.html">graph-neural-networks</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Yu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12013">2611.12013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12621.html">Reshaping Checkpoint-Induced Power Variations Through Inference Workload Scheduling</a></div><div class="paper-tags"><a href="tag/energy-storage-30d.html">energy-storage</a> · <a href="tag/large-language-models-30d.html">large-language-models</a></div></td>
-<td>Yu Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12621">2611.12621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13063.html">Numerical Investigations on Bitumen Liberation from Oil Sands Lump</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/chemical-engineering-30d.html">chemical-engineering</a></div></td>
-<td>Mohammadhossein Golchin et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13063">2611.13063</a></td>
 </tr>
 </tbody></table>

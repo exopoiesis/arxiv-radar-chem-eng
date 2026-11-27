@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gaussian-process — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="gaussian-process-7d.html">7d</a> <a href="gaussian-process-30d.html">30d</a> <a href="gaussian-process-90d.html">90d</a> <strong>360d</strong> <a href="gaussian-process-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24718.html">Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
+<td>Antonin Sulc</td>
+<td><a href="http://arxiv.org/abs/2611.24718">2611.24718</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22013.html">Weight-Space Programming for Materials Science</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -278,17 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10457.html">Hybrid Physics-ML Model for Forward Osmosis Flux with Complete Uncertainty Quantification</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="mass-transfer-360d.html">mass-transfer</a> · <a href="membrane-separation-360d.html">membrane-separation</a> · <a href="process-design-360d.html">process-design</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Shiv Ratn et al.</td>
 <td><a href="http://arxiv.org/abs/2512.10457">2512.10457</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01279.html">The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="process-modeling-360d.html">process-modeling</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
-<td>Yutong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01279">2512.01279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01668.html">Dynamic Log-Gaussian Process Control Barrier Function for Safe Robotic Navigation in Dynamic Environments</a></div><div class="paper-tags"><a href="process-control-360d.html">process-control</a></div></td>
-<td>Xin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01668">2512.01668</a></td>
 </tr>
 </tbody></table>

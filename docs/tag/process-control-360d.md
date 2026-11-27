@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.26966">2611.26966</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24718.html">Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning</a></div><div class="paper-tags"><a href="gaussian-process-360d.html">gaussian-process</a></div></td>
+<td>Antonin Sulc</td>
+<td><a href="http://arxiv.org/abs/2611.24718">2611.24718</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16535.html">Bulk CMSX-4 Single-Crystal Builds via Laser-Directed Energy Deposition: Epitaxial Stability and Microstructure Evolution</a></div><div class="paper-tags"><a href="crystallization-360d.html">crystallization</a></div></td>
 <td>Divya Nalajala et al.</td>
@@ -182,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03460.html">Learning From Limited Data and Feedback for Cell Culture Process Monitoring: A Comparative Study</a></div><div class="paper-tags"><a href="process-monitoring-360d.html">process-monitoring</a> · <a href="soft-sensors-360d.html">soft-sensors</a></div></td>
 <td>Johnny Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03460">2512.03460</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01668.html">Dynamic Log-Gaussian Process Control Barrier Function for Safe Robotic Navigation in Dynamic Environments</a></div><div class="paper-tags"><a href="gaussian-process-360d.html">gaussian-process</a></div></td>
-<td>Xin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01668">2512.01668</a></td>
 </tr>
 </tbody></table>

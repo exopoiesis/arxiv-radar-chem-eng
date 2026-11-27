@@ -15,6 +15,10 @@
   count: 5
   total: 69
   group: methods
+- name: gaussian-process
+  count: 5
+  total: 69
+  group: methods
 - name: cfd
   count: 4
   total: 99
@@ -31,13 +35,13 @@
   count: 4
   total: 164
   group: energy
-- name: gaussian-process
-  count: 4
-  total: 68
-  group: methods
 - name: mpc
   count: 4
   total: 84
+  group: control
+- name: process-control
+  count: 4
+  total: 55
   group: control
 - name: adsorption-energy
   count: 3
@@ -59,10 +63,6 @@
   count: 3
   total: 41
   group: architectures
-- name: process-control
-  count: 3
-  total: 54
-  group: control
 - name: separations
   count: 3
   total: 71
@@ -95,6 +95,10 @@
   count: 2
   total: 24
   group: reactions
+- name: surrogate-modeling
+  count: 2
+  total: 97
+  group: modeling
 - name: turbulence-modeling
   count: 2
   total: 14
@@ -163,10 +167,6 @@
   count: 1
   total: 39
   group: control
-- name: surrogate-modeling
-  count: 1
-  total: 96
-  group: modeling
 - name: system-identification
   count: 1
   total: 32

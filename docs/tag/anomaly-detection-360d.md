@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06148.html">AIMNET: An IoT-Empowered Digital Twin for Continuous Gas Emission Monitoring and Early Hazard Detection</a></div><div class="paper-tags"><a href="digital-twin-360d.html">digital-twin</a> · <a href="wastewater-treatment-360d.html">wastewater-treatment</a></div></td>
 <td>Zifan Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06148">2512.06148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01279.html">The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications</a></div><div class="paper-tags"><a href="gaussian-process-360d.html">gaussian-process</a> · <a href="process-modeling-360d.html">process-modeling</a> · <a href="system-identification-360d.html">system-identification</a></div></td>
-<td>Yutong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01279">2512.01279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01727.html">AI-Driven Cybersecurity Testbed for Nuclear Infrastructure: Comprehensive Evaluation Using METL Operational Data</a></div></td>
-<td>Benjamin Blakely et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01727">2512.01727</a></td>
 </tr>
 </tbody></table>

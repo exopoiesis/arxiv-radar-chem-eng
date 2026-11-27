@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>process-control — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="process-control-7d.html">7d</a> <a href="process-control-30d.html">30d</a> <strong>90d</strong> <a href="process-control-360d.html">360d</a> <a href="process-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26966.html">Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents</a></div></td>
 <td>Deepak Waghmare et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26966">2611.26966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24718.html">Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning</a></div><div class="paper-tags"><a href="gaussian-process-90d.html">gaussian-process</a></div></td>
+<td>Antonin Sulc</td>
+<td><a href="http://arxiv.org/abs/2611.24718">2611.24718</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
